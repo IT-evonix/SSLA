@@ -244,7 +244,7 @@
                                                     <div class="mega_menu_heading">
                                                         <h4>Admissions</h4>
                                                         <div class="mega_menu_listing_box">
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="{{url('/programme-details')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -261,7 +261,7 @@
                                                                     <div class="mega_menu_name_box">Programme Details
                                                                     </div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="megamenu_listing">
                                                                 <a href="{{url('/admissionsprocess')}}">
                                                                     <div class="mega_menu_icon_box">
@@ -276,8 +276,7 @@
                                                                             </g>
                                                                         </svg>
                                                                     </div>
-                                                                    <div class="mega_menu_name_box">SET Registration
-                                                                        Process</div>
+                                                                    <div class="mega_menu_name_box">Symbiosis Entrance Test (SET)</div>
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
@@ -294,8 +293,7 @@
                                                                             </g>
                                                                         </svg>
                                                                     </div>
-                                                                    <div class="mega_menu_name_box">RAP Admission
-                                                                    </div>
+                                                                    <div class="mega_menu_name_box">Rolling Admission Process (RAP)</div>
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
@@ -399,7 +397,7 @@
                                                                             </g>
                                                                         </svg>
                                                                     </div>
-                                                                    <div class="mega_menu_name_box">Career Options</div>
+                                                                    <div class="mega_menu_name_box">Life After SSLA</div>
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
@@ -527,7 +525,7 @@
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
-                                                                <a href="#">
+                                                                <a href="{{ asset('assets/pdf/SSLA-Student-Handbook-2025-26.pdf') }}" target="_blank">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
                                                                             viewBox="0 0 24 24">

@@ -26,6 +26,18 @@
                 <div class="rap-admission-section">
                     <div class="set-registration">
                         <div class="set-container">
+                            <div class="info-box mb-5">
+                                <p>
+                                    The SSLA UG Admissions follow two entry pathways - the <strong>Symbiosis Entrance Test (SET)</strong> and the <strong>Non-SET Rolling Admissions Process (RAP)</strong>. Candidates have the choice to opt for either of the above processes to seek admission to SSLA.
+                                </p>
+                                <ul class="sub-list">
+                                    <li>Both the processes follow independent timelines.</li>
+                                    <li>Seats for each of the processes are earmarked separately and evenly divided.</li>
+                                    <li>RAP will commence in September and close in December.</li>
+                                    <li>SET will commence in December and close in April.</li>
+                                    <li>The eligibility criteria mentioned is applicable to both SET and RAP.</li>
+                                </ul>
+                            </div>
                             <h2>Online Registration Process</h2>
                             <div class="info-box">
                                 <p>
@@ -349,10 +361,11 @@
                                         <div id="rapThree" class="accordion-collapse collapse"
                                             data-bs-parent="#rapAccordion">
                                             <div class="accordion-body">
-                                                <ul>
-                                                    <li>4–5 October 2025</li>
-                                                    <li>8–9 November 2025</li>
-                                                    <li>6–7 December 2025</li>
+                                                <ul class="rap-note-list">
+                                                    <li>Saturday - 6th June 2026</li>
+                                                    <li>Monday - 8th June 2026</li>
+                                                    <li>Tuesday - 9th June 2026</li>
+                                                    <li>Wednesday - 10th June 2026</li>
                                                 </ul>
                                                 <p class="note">
                                                     Personal Interaction (PI) is mandatory for final selection.

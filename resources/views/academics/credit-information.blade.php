@@ -28,14 +28,7 @@
                     <div class="life_after_ssla_mainbox">
                         <div class="life_after_ssla_contentbox">
                             <p>
-                                At SSLA, students receive credits based on the number of "contact hours" they spend
-                                studying per semester in class. 1 credit is equivalent to 15 contact hours and 30
-                                non-contact hours of work.
-                            </p>
-                            <p>
-                                To graduate from SSLA, the minimum credit requirement is 176. Every semester a required
-                                number of credits are allotted as per the contact hours for each of the courses. The
-                                credit distribution per semester is as below:
+                                At SSLA, students receive credits based on the number of classroom contact hours. One (1) credit is equivalent to 15 contact hours and 30 non-contact hours (in field/laboratory/experiential learning). To graduate from SSLA, the minimum credit requirement is 176. The credit distribution per semester is as below:
                             </p>
                             <div class="table-responsive mt-4">
                                 <table class="table">

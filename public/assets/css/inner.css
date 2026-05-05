@@ -1501,6 +1501,7 @@
     color: #000;
     font-size: 16px;
     margin-bottom: 15px;
+    text-align: justify;
 }
 
 .main-sec-admission-process .highlight {
@@ -1516,6 +1517,7 @@
 .main-sec-admission-process .info-box ul li {
     margin-bottom: 12px;
     line-height: 1.6;
+    text-align: justify;
 }
 
 .main-sec-admission-process .sub-list {

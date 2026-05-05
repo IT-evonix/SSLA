@@ -180,19 +180,11 @@
                             <div class="home_about_parabox">
                                 <p>
                                     <strong>
-                                        Symbiosis School for Liberal Arts (SSLA) is India’s first liberal arts college
-                                        to offer a four-year full time degree: Bachelor of Arts / Bachelor of Science
-                                        (Liberal Arts) Honours with Research and Bachelor of Arts / Bachelor of Science
-                                        (Liberal Arts) Honours.
+                                        Symbiosis School for Liberal Arts (SSLA) is India’s first liberal arts college to offer a four-year full time degree: Bachelor of Arts / Bachelor of Science (Liberal Arts) Honours with Research and Bachelor of Arts / Bachelor of Science (Liberal Arts) Honours.
                                     </strong>
                                 </p>
                                 <p>
-                                    Established 15 years ago, SSLA offers a wide spectrum of 24 specialisations from
-                                    diverse fields such as Social Sciences, Humanities, Natural Sciences, Media Studies,
-                                    Business Studies and Performing Arts, giving the students the freedom to tailor
-                                    their degree their own way. Centrally located in Pune, the Oxford of East, SSLA is
-                                    anchored in the excellence and legacy of Symbiosis International (Deemed
-                                    University).
+                                    Established 15 years ago, SSLA offers a wide spectrum of 24 specialisations from diverse fields such as Social Sciences, Humanities, Natural Sciences, Media Studies, Business Studies and Performing Arts, giving the students the freedom to tailor their degree their own way. Centrally located in Pune, the Oxford of East, SSLA is anchored in the excellence and legacy of Symbiosis International (Deemed University).
                                 </p>
                             </div>
                             <div class="my_btnbox">
@@ -264,9 +256,9 @@
                                             <div class="why_choose_heading">
                                                 <h3>India's first Comprehensive Liberal Arts Programme</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">mobility and academic collaboration</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -289,9 +281,9 @@
                                             <div class="why_choose_heading">
                                                 <h3>Inter, multi and transdisciplinary academic engagement</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">academic engagement</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -299,7 +291,7 @@
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
-                                                <p class="m-0">To foster holistic development and inculcate core transferable skills.</p>
+                                                <p class="m-0">Fosters holistic development and inculcates core transferable skills.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -314,9 +306,9 @@
                                             <div class="why_choose_heading">
                                                 <h3><span>1:20</span> Faculty to Student ratio</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">pedagogies</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -324,7 +316,7 @@
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
-                                                <p class="m-0">Smaller class sizes encourage active participation to make learning more engaging.</p>
+                                                <p class="m-0">Small class sizes that encourage active participation to make learning more engaging.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -339,9 +331,9 @@
                                             <div class="why_choose_heading">
                                                 <h3>Innovative pedagogies</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">across 25 disciplines</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -349,7 +341,7 @@
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
-                                                <p class="m-0">To make the classroom learner-centric and promote critical thinking.</p>
+                                                <p class="m-0">Learner-centric classrooms that promote critical thinking.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -362,12 +354,11 @@
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
-                                                <h3>Over <span>370</span> courses across <span>24</span> disciplines
-                                                </h3>
+                                                <h3>Over <span>370</span> courses across <span>24</span> disciplines</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">collaborative environment</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -375,7 +366,7 @@
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
-                                                <p class="m-0">Choose across Humanities, Natural and Social Sciences, Business Studies, Media, Performing Arts.</p>
+                                                <p class="m-0">Options to choose across Humanities, Natural and Social Sciences, Business Studies, Media, Performing Arts.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -390,9 +381,9 @@
                                             <div class="why_choose_heading">
                                                 <h3>Co-constructed and collaborative environment</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">Faculty-to-Student Ratio</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -415,10 +406,10 @@
                                             <div class="why_choose_heading">
                                                 <h3>Internationalisation</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">with faculty and student exchange and international
                                                     conferences</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -441,10 +432,10 @@
                                             <div class="why_choose_heading">
                                                 <h3><span>21st</span> century skills- World Economic Forum and NEP</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">4-year B.A/B.Sc. (Liberal Arts) Honours & Honours with
                                                     Research Degree Programme</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -467,9 +458,9 @@
                                             <div class="why_choose_heading">
                                                 <h3>Strong focus on research</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">National Education Policy</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -477,7 +468,7 @@
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
-                                                <p class="m-0">Research projects, Seminar Papers, Research Methodology courses enable students to think critically.</p>
+                                                <p class="m-0">Research projects,  Seminar Papers, Research Methodology courses enable students to think critically.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -492,9 +483,9 @@
                                             <div class="why_choose_heading">
                                                 <h3>Experiential learning</h3>
                                             </div>
-                                            <div class="why_choose_text d-none">
+                                            <!-- <div class="why_choose_text">
                                                 <p class="m-0">final year seminar and research project</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
@@ -530,8 +521,9 @@
                                     <!-- <img src="{{ asset('/assets/images/home/new-gif-home.gif') }}" alt="Curve image"
                                         class="img-fluid boy_imgbox"> -->
                                     <video autoplay muted loop playsinline class="img-fluid boy_imgbox">
-                                        <source src="{{ asset('/assets/images/home/new-gif-home.webm') }}" type="video/webm">
-                                    </video>    
+                                        <source src="{{ asset('/assets/images/home/new-gif-home.webm') }}"
+                                            type="video/webm">
+                                    </video>
                                 </div>
                             </div>
                             <div class="our_courses_rightbox">
@@ -2067,7 +2059,9 @@
                                 <div class="col-lg-10">
                                     <div class="testi_carousal_mainbox">
                                         <div class="testi_carousal_listing">
-                                            The college always supported anything a student wanted to do and all that was needed was enough interest, enough research and as long as it was pitched well, they would support to get it done.
+                                            The college always supported anything a student wanted to do and all that
+                                            was needed was enough interest, enough research and as long as it was
+                                            pitched well, they would support to get it done.
                                         </div>
                                     </div>
                                 </div>
@@ -2112,7 +2106,10 @@
                                 <div class="col-lg-10">
                                     <div class="testi_carousal_mainbox">
                                         <div class="testi_carousal_listing">
-                                            SSLA has definitely provided a space with ample opportunities – both academic and extra-curricular for students to develop skills that can be used across the board and will cater to whatever interests you may have, regardless of your major.
+                                            SSLA has definitely provided a space with ample opportunities – both
+                                            academic and extra-curricular for students to develop skills that can be
+                                            used across the board and will cater to whatever interests you may have,
+                                            regardless of your major.
                                         </div>
                                     </div>
                                 </div>
@@ -2157,7 +2154,10 @@
                                 <div class="col-lg-10">
                                     <div class="testi_carousal_mainbox">
                                         <div class="testi_carousal_listing">
-                                            SSLA really trains its students to thrive in the atmosphere of multi-tasking… by the end of those four years, everyone learns to manage SSLA’s academic rigour while pursuing their talents and their skills outside of the classroom… which prepares you for life.
+                                            SSLA really trains its students to thrive in the atmosphere of
+                                            multi-tasking… by the end of those four years, everyone learns to manage
+                                            SSLA’s academic rigour while pursuing their talents and their skills outside
+                                            of the classroom… which prepares you for life.
                                         </div>
                                     </div>
                                 </div>
@@ -2392,7 +2392,10 @@
                                 <div class="our_blog_parabox">
                                     <p>
                                         <strong>
-                                            SSLA Speaks is a space where our community pauses to think about what we do and why we do it. Anchored in an environment of  interdisciplinary learning, it offers a peek into SSLA’s evolving process of learning, innovative pedagogies, research, and community building to think, evolve, and excel.
+                                            SSLA Speaks is a space where our community pauses to think about what we do
+                                            and why we do it. Anchored in an environment of interdisciplinary learning,
+                                            it offers a peek into SSLA’s evolving process of learning, innovative
+                                            pedagogies, research, and community building to think, evolve, and excel.
                                         </strong>
                                     </p>
                                 </div>
@@ -2468,7 +2471,7 @@
                 </div>
             </div>
             <div class="home_team owl-carousel">
-                <div class="our_team_listing">
+                <!-- <div class="our_team_listing">
                     <div class="our_team_img_box">
                         <img src="{{ asset('assets/images/home/team-ssla-image-01.webp') }}" alt="Team images"
                             class="img-fluid">
@@ -2482,38 +2485,258 @@
                                 architecto beatae vitae dicta sunt explicabo.
                             </p>
                         </div>
+                    </div>
+                </div> -->
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Admissions-cell.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Admissions cell</div>
                     </div>
                 </div>
                 <div class="our_team_listing">
                     <div class="our_team_img_box">
-                        <img src="{{ asset('assets/images/home/team-ssla-image-01.webp') }}" alt="Team images"
+                        <img src="{{ asset('assets/images/home/ssla-team/Art-club.webp') }}" alt="Team images"
                             class="img-fluid">
                     </div>
                     <div class="our_team_conent_box">
-                        <div class="our_team_heading">Sed ut perspiciatis unde omnis iste natus</div>
-                        <div class="our_team_para">
-                            <p class="m-0">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                                architecto beatae vitae dicta sunt explicabo.
-                            </p>
-                        </div>
+                        <div class="our_team_heading">Art club</div>
                     </div>
                 </div>
                 <div class="our_team_listing">
                     <div class="our_team_img_box">
-                        <img src="{{ asset('assets/images/home/team-ssla-image-01.webp') }}" alt="Team images"
+                        <img src="{{ asset('assets/images/home/ssla-team/Bandemonium.webp') }}" alt="Team images"
                             class="img-fluid">
                     </div>
                     <div class="our_team_conent_box">
-                        <div class="our_team_heading">Sed ut perspiciatis unde omnis iste natus</div>
-                        <div class="our_team_para">
-                            <p class="m-0">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                                architecto beatae vitae dicta sunt explicabo.
-                            </p>
-                        </div>
+                        <div class="our_team_heading">Bandemonium</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Business-Development-Cell.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Business Development Cell</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Campus-team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Campus team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Career-cell.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Career cell</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Chess-team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Chess team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Collaborative-of-Anthropology.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Collaborative of Anthropology</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Comedy-Club.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Comedy Club</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Community-Outreach.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Community Outreach</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Cultural-Team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Cultural Team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Dance-Club.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Dance Club</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Events-team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Events Team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Evergreen-Club.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Evergreen Club</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Historia.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Historia</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/International-Cell.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">International Cell</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/International-Gender-Conference-Team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">International Gender Conference Team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Legal-Awareness-Society.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Legal Awareness Society</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Music-Club.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Music Club</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Natak-Society.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Natak Society</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Photography-Club.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Photography Club</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Queer-Crew.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Queer Crew</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Research-Cell.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Research Cell</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Reverb-Radio.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Reverb Radio</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/The-Economics-and-Public-Policy-Cell.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">The Economics and Public Policy Cell</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Women_s-Basketball-Team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Women's Basketball Team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Women_s-Tennis-Team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Women's Tennis Team</div>
+                    </div>
+                </div>
+                <div class="our_team_listing">
+                    <div class="our_team_img_box">
+                        <img src="{{ asset('assets/images/home/ssla-team/Women_s-Volleyball-Team.webp') }}" alt="Team images"
+                            class="img-fluid">
+                    </div>
+                    <div class="our_team_conent_box">
+                        <div class="our_team_heading">Women's Volleyball Team</div>
                     </div>
                 </div>
             </div>

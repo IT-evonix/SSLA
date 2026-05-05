@@ -43,55 +43,22 @@
                     <div class="inner_section_mainbox">
                         <div class="inner_section_left_box">
                             <div class="row">
-                                <div class="col-lg-7 p-4">
-                                    <div style="background-color: #fdfbf0; border-radius: 20px; padding:30px">
-                                        <div class="row">
-                                            <div class="col-lg-12 mb-2"><b>SSLA endeavours to</b> </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-lg-12" style="line-height: normal;">
-                                                1. establish SSLA as a centre for interdisciplinary studies to encourage
-                                                comprehensive understanding and skill development<br><br>
-
-                                                2. engage in research to enhance community growth at the local and the
-                                                global level<br><br>
-
-                                                3. encourage and appreciate the diversity of ideas, free expression of
-                                                opinions, critical and scientific temper<br><br>
-
-                                                4. establish a community of socially responsible citizens and
-                                                leaders<br><br>
-
-                                                5. strengthen international and national partnerships to develop global
-                                                and intercultural competencies<br><br>
-
-                                                6. link curriculum with needs of the global ecosystem to foster
-                                                professional growth
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-5 p-4 pb-5">
-                                    <div style="background-color: #ecfafc; border-radius: 20px; padding:30px">
-                                        <div class="row">
-                                            <div class="col-lg-12 mb-2"><b>SSLA’s Programme Educational Objectives
-                                                    (PEOs)</b> </div>
-                                        </div>
+                                <div class="col-lg-12">
+                                    <div style="background-color: #ecfafc; border-radius: 20px; padding:30px; text-align:justify">
                                         <div class="row">
                                             <div class="col-lg-12">
-                                                Symbiosis School for Liberal Arts (SSLA) aims to enhance a student’s
-                                                personal, professional and civic life.<br><br>
-                                                SSLA aspires to provide a programme that assists young students to grow
-                                                into critically conscious citizens who are able to find a healthy
-                                                balance between professional and personal growth with focus on strong
-                                                academic foundation, sound ethical norms, civic mindedness, problem
-                                                solving capabilities and transferable skills.
+                                                <p>
+                                                    Symbiosis School for Liberal Arts offers faculty and students the opportunity to engage with, understand, and reconcile a wide range of ideas, viewpoints, and perspectives across several disciplines within a flexible learning environment. It seeks to provide a cultural orientation to the world in which we live and equip students with ideas, analytical and communication skills, global perspectives, as well as the ability to synthesize knowledge and make informed and flexible value judgments.
+                                                </p>
+                                                <p class="m-0">
+                                                    SSLA endeavours to position itself as the preferred destination for students, faculty, larger academic fraternity, and industry to engage in interdisciplinary studies, rigorous research, community engagement, personal development growth and sustainable employability.  It aspires to provide a programme that assists young students to grow into critically conscious citizens who are able to find a healthy balance between personal, professional and civic life with a focus on strong academic foundation, sound ethical norms, civic mindedness, problem solving capabilities and transferable skills.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row d-none">
                                 <div class="col-lg-12 mb-5">
                                     We live in a world that seems to be forever changing...a new world with dynamic
                                     challenges that requires young enthusiastic adults capable of playing positive and
@@ -138,7 +105,7 @@
                                     and Bachelor of Science (Liberal Arts) degree since 2012.
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row d-none">
                                 <div class="col-lg-4 mb-3">
                                     <div
                                         style="background-color: #fdebcb;text-align: center;padding: 30px;border-radius: 20px;line-height: normal;">
@@ -625,6 +592,61 @@
                             </div>
                         </div> -->
                     </div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-lg-12">
+                    <div class="new__what_ssla_offers_contentbox">
+                        <h2 class="inner__subheading">SSLA</h2>
+                        <div class="student_research_databox_data">
+                            <ul>
+                                <li>
+                                    Offers a vibrant space for multi-inter-and-transdisciplinary studies that encourages expansive understanding and the cultivation of critical and transferable skills.
+                                </li>
+                                <li>
+                                    Encourages holistic learning by bringing together, rigorous disciplinary expertise and 21st century generalist skills
+                                </li>
+                                <li>
+                                    Promotes research that supports community growth and development at local, global, and glocal levels, while fostering a community of socially responsible citizens and leaders.
+                                </li>
+                                <li>
+                                    Encourages and values a diversity of ideas and the free expression of opinions in order to cultivate a diverse community of knowledge seekers who appreciate critical thought and scientific temper.
+                                </li>
+                                <li>
+                                    Strengthens  national and international partnerships to foster internationalisation@home and develop global and intercultural competencies.
+                                </li>
+                                <li>
+                                    Continues to bridge the gap between the curriculum and the evolving needs of the employment sector by linking academic learning with the demands of the global ecosystem to foster professional growth.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-lg-12">
+                    <p>
+                        At SSLA, flexibility is not about confusion. It is about choice with guidance and structure. The SSLA programmes offers students the opportunity to
+                    </p>
+                    <div class="student_research_databox_data">
+                        <ul>
+                            <li>
+                                Explore multiple subjects before declaring a focus
+                            </li>
+                            <li>
+                                Combine disciplines that interest them
+                            </li>
+                            <li>
+                                Change direction as interests evolve
+                            </li>
+                            <li>
+                                Build a learning path that feels personal
+                            </li>
+                        </ul>
+                    </div>
+                    <p class="m-0 mt-4">
+                        This flexibility is especially valuable for students who are curious, reflective, and unsure about fitting into a single predefined box.
+                    </p>
                 </div>
             </div>
         </div>

@@ -28,6 +28,54 @@
                     <div class="assessment_assignment_mainbox">
                         <div class="assessment_assignment_firstbox">
                             <p>
+                                SSLA aims at offering a inter-multi-trans-disciplinary and holistic educational
+                                programme that assesses and evaluates students on the ability to think critically and
+                                develop innovative solutions to problems rather than just focusing on facts and figures
+                                or theoretical concepts.
+                            </p>
+                            <p>
+                                The programme structure at SSLA follows a semester pattern with Continuous Assessments
+                                (CAs) and a Semester End Evaluation/Term End Evaluation (SEE/TE). Both components are
+                                designed and conducted by the faculty to suit the needs and learning outcomes of the
+                                course.
+                            </p>
+                            <p>
+                                The minimum number of assessments/evaluations is determined as n+1, where n refers to
+                                the total number of credits for a course.
+                                Faculty responsible for the courses devise their own assessment types, which may vary
+                                from course to course and may include thought papers and assignments, projects and field
+                                study, individual and group presentations, case studies, practicals among many others.
+                                While creativity is encouraged, students also engage with conventional patterns of
+                                assessment that ensure familiarity with a disciplinary language integral for deep
+                                learning.
+
+                            </p>
+                            <p class="m-0">
+                                SSLA primarily employs a Relative Grading system for the assessments based on the
+                                comparative performance of students within a particular cohort. Absolute Grading is
+                                applied only in cases where the number of students enrolled in a course is fifteen (15)
+                                or fewer. Absolute Grading is also applied to Internships, Research Project and Final
+                                Year Seminar Paper.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="assessment_assignment_section d-none">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="inner__red_heading">Assessments and Assignments</h1>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="assessment_assignment_mainbox">
+                        <div class="assessment_assignment_firstbox">
+                            <p>
                                 SSLA aims at offering a multi-disciplinary and holistic educational program that
                                 assesses
                                 and evaluates students on the ability to think critically and develop innovative
@@ -101,7 +149,7 @@
             </div>
         </div>
     </section>
-    <section class="assessment_assignment_second_section" data-aos="fade-up">
+    <section class="assessment_assignment_second_section d-none" data-aos="fade-up">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -199,7 +247,9 @@
                             Calculation of Grade Points:
                         </p>
                         <p>
-                            Relative grading: For most courses, the grading of students will be done based on the relative performance of the students compared to the others in the class. The grade points corresponding to nine grades will be as follows
+                            Relative grading: For most courses, the grading of students will be done based on the
+                            relative performance of the students compared to the others in the class. The grade points
+                            corresponding to nine grades will be as follows
                         </p>
                         <div class="table-responsive">
                             <table class="table">
