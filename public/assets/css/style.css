@@ -5104,6 +5104,70 @@
   }
 
   /* -------NEW COURSES PAGE END----------- */
+  /* -------COURSES LIST PAGE START----------- */
+
+  .courses_list_section {
+      padding: 60px 0 0 0;
+  }
+
+  .new_course_listing_para p {
+      text-align: center;
+      margin: 0px 0 40px 0;
+  }
+
+  .subject_listing_mainbox {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      row-gap: 20px;
+      column-gap: 80px;
+  }
+
+  .subject_listing {
+      border: 1px solid #D8EBEE;
+      border-radius: 20px;
+  }
+
+  .subject_listing_heading {
+      padding: 10px 20px;
+      background-color: #F0FDFF;
+      border-radius: 20px 20px 0 0;
+      font-family: 'Roboto-Medium';
+      color: var(--color-black);
+  }
+
+  .subject_listing_content {
+      padding: 20px 40px 20px 20px;
+      display: grid;
+  }
+
+  .subject_listing_content_box {
+      display: grid;
+  }
+
+  .subject_listing_content_box>* {
+      grid-area: 1/1;
+  }
+
+  .subject_listing_content p {
+      font-size: 14px;
+      /* text-align: justify; */
+  }
+
+  .subject_listing_icon {
+      width: 80px;
+      height: 80px;
+      background-color: #EDEDED;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      align-self: center;
+      justify-self: end;
+      margin: 0 -40px 0 0;
+  }
+
+  /* -------COURSES LIST PAGE END----------- */
 
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
@@ -5577,6 +5641,21 @@
 
       .new_tab_courses_listing_mainbox {
           grid-template-columns: repeat(4, 1fr);
+      }
+
+      .subject_listing_icon {
+          width: 60px;
+          height: 60px;
+          padding: 12px;
+          margin: 0 -30px 0 0;
+      }
+
+      .subject_listing_mainbox {
+          column-gap: 60px;
+      }
+
+      .subject_listing {
+          max-width: 96%;
       }
   }
 
@@ -6173,6 +6252,12 @@
 
       .new_tab_courses_listing_mainbox {
           grid-template-columns: repeat(3, 1fr);
+      }
+
+      .subject_listing_mainbox {
+          grid-template-columns: 1fr;
+          row-gap: 20px;
+          column-gap: 20px;
       }
 
   }
@@ -6878,6 +6963,35 @@
       /* body:has(.menu_open) {
           overflow: hidden;
       } */
+
+      .new_tab_courses_listing_mainbox {
+          gap: 15px;
+      }
+
+      .new_tab_courses_listing_content {
+          transition-duration: 0.5s;
+      }
+
+      .new_tab_courses_listing:hover .new_tab_courses_listing_content {
+          transform: translateY(-20px);
+          padding: 10px 10px 0 10px;
+      }
+
+      .new_tab_courses_listing:hover .new_tab_courses_listing_icon {
+          bottom: -40px;
+      }
+
+      .subject_listing_icon {
+          width: 40px;
+          height: 40px;
+          padding: 8px;
+          margin: 10px -20px 0 0;
+          align-self: start;
+      }
+
+      .subject_listing_content {
+          padding: 20px 28px 20px 20px;
+      }
 
   }
 

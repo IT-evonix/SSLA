@@ -74,7 +74,7 @@ body{
                                             </p>
                                         </div>
                                         <div class="new_tab_courses_listing_mainbox">
-                                            <a href="" class="new_tab_courses_listing">
+                                            <a href="{{url('/course-anthropology')}}" class="new_tab_courses_listing">
                                                 <div class="new_tab_courses_listing_img">
                                                     <img src="{{ asset('assets/images/course-demo-image.webp') }}" alt="Courses image" class="img-fluid">
                                                 </div>

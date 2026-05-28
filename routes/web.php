@@ -272,6 +272,15 @@ Route::get('courses', function () {
     return view('/academics/courses', ['data_arr' => $data_arr]);
 });
 
+Route::get('course-anthropology', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/course-anthropology', ['data_arr' => $data_arr]);
+});
+
 ///////// ACADEMICS Routes Ends //////////
 
 ///////// Community Routes Start //////////
