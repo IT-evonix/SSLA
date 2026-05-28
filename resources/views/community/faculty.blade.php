@@ -29,15 +29,15 @@
                         </div>
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Shweta Deshpande</div>
-                            <div class="faculty_position">(Director)</div>
-                            <a class="faculty_mail" href="mailto: demo@ssla.edu.in">
+                            <div class="faculty_position">(Director & Associate Professor)</div>
+                            <a class="faculty_mail" href="mailto:shwetasdeshpande@yahoo.com">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                                demo@ssla.edu.in
+                                shwetasdeshpande@yahoo.com
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/shweta-deshpande">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -99,9 +99,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/gaytri.png" alt="Ms. Gayatri Mendanha"
+                            <img src="/assets/images/faculty/Gayatri-Mendahna_photo-modified_black-white.webp" alt="Ms. Gayatri Mendanha"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-9.webp" alt="Ms. Gayatri Mendanha"
+                            <img src="/assets/images/faculty/Gayatri-Mendahna_photo.webp" alt="Ms. Gayatri Mendanha"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -114,7 +114,7 @@
                                 </svg>
                                 gayatri@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/gayatri-mendanha">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                                 </svg>
                                 nikhil.thorat@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/nikhil-thorat">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                                 </svg>
                                 Ananya.dutta@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/ananya-dutta">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -540,7 +540,35 @@
                         </div>
                     </div>
                 </div>
+              
+                <!-- -Dr Anurupa Ghatge -->
+                <div class="col-lg-3 col-md-4 col-sm-12">
+                    <div class="faculty_box_inner">
+                        <div class="faculty_profile">
+                            <img src="/assets/images/faculty/dummy-avatar.jpg" alt="Dr.Debapriya Ganguly"
+                                class="img-fluid normal-img">
+                            <img src="/assets/images/faculty/dummy-avatar.jpg" alt="Dr. Debapriya Ganguly"
+                                class="img-fluid hover-img">
+                        </div>
 
+                        <div class="faculty_content_box">
+                            <div class="faculty_name">-Dr Anurupa Ghatge</div>
+                            <div class="faculty_position">(Assistant Professor)</div>
+
+                            <a class="faculty_mail" href="mailto:Demo@ssla.edu.in">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                                </svg>
+                               anurupaghatge583@gmail.com 
+                            </a>
+
+                            <div class="know_more_btn">
+                                <a href="/anurupa-ghatge">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <!-- Ms. Atiya Fatima -->
                 <div class="col-lg-3 col-md-4 col-sm-12">

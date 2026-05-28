@@ -263,6 +263,15 @@ Route::get('additional-requirement', function () {
     return view('/academics/additional-requirement', ['data_arr' => $data_arr]);
 });
 
+Route::get('courses', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses', ['data_arr' => $data_arr]);
+});
+
 ///////// ACADEMICS Routes Ends //////////
 
 ///////// Community Routes Start //////////
@@ -359,6 +368,47 @@ Route::get('student', function () {
     $data_arr['description'] = "Student life at SSLA Pune within a liberal arts programme offering BA Hons Humanities and Social Sciences and Bachelor of Arts Honours degrees in Pune.";
     $data_arr['canonical'] = "https://www.ssla.edu.in/student";
     return view('/community/student', ['data_arr' => $data_arr]);
+});
+
+Route::get('anurupa-ghatge', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/anurupa-ghatge', ['data_arr' => $data_arr]);
+});
+Route::get('shweta-deshpande', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/shweta-deshpande', ['data_arr' => $data_arr]);
+});
+Route::get('gayatri-mendanha', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/gayatri-mendanha', ['data_arr' => $data_arr]);
+});
+Route::get('nikhil-thorat', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/nikhil-thorat', ['data_arr' => $data_arr]);
+});
+Route::get('ananya-dutta', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/ananya-dutta', ['data_arr' => $data_arr]);
 });
 
 ///////// Community Routes Ends //////////
