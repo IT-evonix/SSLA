@@ -579,7 +579,7 @@
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
-                                                                <a href="#">
+                                                                <a href="{{url('/courses')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
                                                                             viewBox="0 0 24 24">

@@ -128,7 +128,7 @@ Route::get('admissionsprocess', function () {
     $data_arr = array();
     $data_arr['title'] = "Admissions Process | Liberal Arts and Science College Pune";
     $data_arr['keywords'] = "bachelor in liberal arts and science, BA in Liberal Arts, bsc liberal arts";
-    $data_arr['description'] =  "Learn about SSLA Pune’s admissions process for the Bachelor in Liberal Arts and Science, including application steps, evaluation stages, and selection criteria.";
+    $data_arr['description'] = "Learn about SSLA Pune’s admissions process for the Bachelor in Liberal Arts and Science, including application steps, evaluation stages, and selection criteria.";
     $data_arr['canonical'] = "https://www.ssla.edu.in/admissionsprocess";
     return view('/admissions/admission_process', ['data_arr' => $data_arr]);
 });
@@ -137,7 +137,7 @@ Route::get('financials3', function () {
     $data_arr = array();
     $data_arr['title'] = "Media Management Course | Liberal Arts Colleges in Pune";
     $data_arr['keywords'] = "";
-    $data_arr['description'] =  "Master media management at premier liberal arts colleges in Pune. Elevate your skills in communication, strategy, and digital media.";
+    $data_arr['description'] = "Master media management at premier liberal arts colleges in Pune. Elevate your skills in communication, strategy, and digital media.";
     $data_arr['canonical'] = "https://www.ssla.edu.in/financials3";
     return view('/admissions/financials3', ['data_arr' => $data_arr]);
 });
@@ -146,7 +146,7 @@ Route::get('admissions-webinar', function () {
     $data_arr = array();
     $data_arr['title'] = "Bachelor of Liberal Studies | Degree in Liberal Arts Webinar";
     $data_arr['keywords'] = "bachelor of liberal studies, degree in liberal arts";
-    $data_arr['description'] =  "Join our admissions webinar to learn about the Bachelor of Liberal Studies and Degree in Liberal Arts, curriculum details, career options, and admissions process.";
+    $data_arr['description'] = "Join our admissions webinar to learn about the Bachelor of Liberal Studies and Degree in Liberal Arts, curriculum details, career options, and admissions process.";
     $data_arr['canonical'] = "https://www.ssla.edu.in/admissions-webinar";
     return view('/admissions/admissions-webinar', ['data_arr' => $data_arr]);
 });
@@ -155,7 +155,7 @@ Route::get('international-student', function () {
     $data_arr = array();
     $data_arr['title'] = "Best Colleges for BSc in Pune | Top Liberal Arts India";
     $data_arr['keywords'] = "best colleges for bsc in pune, top liberal arts colleges in india";
-    $data_arr['description'] =  "Discover one of the best colleges for BSc in Pune and among the top liberal arts colleges in India for international students.";
+    $data_arr['description'] = "Discover one of the best colleges for BSc in Pune and among the top liberal arts colleges in India for international students.";
     $data_arr['canonical'] = "https://www.ssla.edu.in/international-student";
     return view('/admissions/international-student', ['data_arr' => $data_arr]);
 });
@@ -164,7 +164,7 @@ Route::get('programme-details', function () {
     $data_arr = array();
     $data_arr['title'] = "BA in Liberal Studies | Bachelor of Arts Honours Program";
     $data_arr['keywords'] = "ba in liberal studies, bachelor of arts honours";
-    $data_arr['description'] =  "Explore BA in Liberal Studies and Bachelor of Arts Honours program offering interdisciplinary learning, global exposure, and career-focused education.";
+    $data_arr['description'] = "Explore BA in Liberal Studies and Bachelor of Arts Honours program offering interdisciplinary learning, global exposure, and career-focused education.";
     $data_arr['canonical'] = "https://www.ssla.edu.in/programme-details";
     return view('/admissions/programme-details', ['data_arr' => $data_arr]);
 });
@@ -280,7 +280,170 @@ Route::get('course-anthropology', function () {
     $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
     return view('/academics/courses/course-anthropology', ['data_arr' => $data_arr]);
 });
+Route::get('course-appliedenviroment', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/course-appliedenviroment', ['data_arr' => $data_arr]);
+});
+Route::get('course-business-studies', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/course-business-studies', ['data_arr' => $data_arr]);
+});
+Route::get('courese-media-studies', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/courese-media-studies', ['data_arr' => $data_arr]);
+});
+Route::get('course-philoshpy', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/course-philoshpy', ['data_arr' => $data_arr]);
+});
+Route::get('course-psychology', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/course-psychology', ['data_arr' => $data_arr]);
+});
+Route::get('course-sociology', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+    return view('/academics/courses/course-sociology', ['data_arr' => $data_arr]);
+});
+Route::get('course-education', function () {
 
+    $data_arr = array();
+
+    $data_arr['title'] = "Best Colleges for B.sc in Pune | BA in Arts and Science";
+
+    $data_arr['keywords'] = "";
+  
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+  
+    $data_arr['canonical'] = "https://www.ssla.edu.in/additional-requirement";
+  
+    return view('/academics/courses/course-education', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-english', function () {
+
+    $data_arr = array();
+
+    $data_arr['title'] = "Best Colleges for B.Sc in Pune | BA in Arts and Science";
+
+    $data_arr['keywords'] = "";
+
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-english";
+
+    return view('/academics/courses/course-english', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-history', function () {
+
+    $data_arr = array();
+
+    $data_arr['title'] = "Best Colleges for B.Sc in Pune | BA in Arts and Science";
+
+    $data_arr['keywords'] = "";
+
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-history";
+
+    return view('/academics/courses/course-history', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-mathematics-statistics', function () {
+
+    $data_arr = array();
+
+    $data_arr['title'] = "Best Colleges for B.Sc in Pune | BA in Arts and Science";
+
+    $data_arr['keywords'] = "";
+
+    $data_arr['description'] = "Explore the best colleges for B.Sc in Pune and pursue a BA in Arts and Science. Gain a comprehensive education focused on critical thinking, creativity, and interdisciplinary learning.";
+
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-mathematics-statistics";
+
+    return view('/academics/courses/course-mathematics-statistics', ['data_arr' => $data_arr]);
+});
+Route::get('course-economics', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for Economics in Pune | Economics Course";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Economics courses at SSLA Pune. Develop analytical, research, and problem-solving skills while gaining a strong understanding of economic principles and their real-world applications.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-economics";
+
+    return view('/academics/courses/course-economics', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-computer-studies', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Computer Studies Course in Pune | Computer Studies Program";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Discover Computer Studies courses at SSLA Pune. Build expertise in programming, technology, data analysis, and digital innovation through a comprehensive curriculum.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-computer-studies";
+
+    return view('/academics/courses/course-computer-studies', ['data_arr' => $data_arr]);
+});
+Route::get('course-political-science-public-policy', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Political Science & Public Policy Course in Pune | SSLA";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Political Science and Public Policy courses at SSLA Pune. Develop a deep understanding of governance, public administration, policymaking, political systems, and contemporary global issues.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-political-science-public-policy";
+
+    return view('/academics/courses/political-science-public-policy', ['data_arr' => $data_arr]);
+});
+Route::get('courses-law', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Law Course in Pune | SSLA";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Law courses at SSLA Pune. Gain knowledge of legal systems, jurisprudence, constitutional principles, and contemporary legal issues.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/courses-law";
+
+    return view('/academics/courses/courses-law', ['data_arr' => $data_arr]);
+});
+
+Route::get('film-studies', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Film Studies Course in Pune | SSLA";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Film Studies courses at SSLA Pune. Learn about cinema, film theory, visual storytelling, film history, and contemporary media practices.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/film-studies";
+
+    return view('/academics/courses/film-studies', ['data_arr' => $data_arr]);
+});
+
+Route::get('performing-arts-dance', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Performing Arts and Dance Course in Pune | SSLA";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Performing Arts and Dance courses at SSLA Pune. Develop artistic expression, choreography, movement skills, and performance techniques.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/performing-arts-dance";
+
+    return view('/academics/courses/performing-arts-dance', ['data_arr' => $data_arr]);
+});
 ///////// ACADEMICS Routes Ends //////////
 
 ///////// Community Routes Start //////////
@@ -316,7 +479,7 @@ Route::get('alumni', function () {
     $data_arr = array();
     $data_arr['title'] = "SSLA Pune Alumni | Liberal Arts Colleges in India";
     $data_arr['keywords'] = "liberal arts colleges in india, BA in Liberal Arts, bsc liberal arts and sciences";
-    $data_arr['description'] =  "SSLA Pune alumni represent success in BA in Liberal Arts and BSc Liberal Arts and Sciences from one of the leading liberal arts colleges in India today!";
+    $data_arr['description'] = "SSLA Pune alumni represent success in BA in Liberal Arts and BSc Liberal Arts and Sciences from one of the leading liberal arts colleges in India today!";
     $data_arr['canonical'] = "https://www.ssla.edu.in/alumni";
     return view('/community/alumni', ['data_arr' => $data_arr]);
 });
@@ -419,6 +582,113 @@ Route::get('ananya-dutta', function () {
     $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
     return view('/community/ananya-dutta', ['data_arr' => $data_arr]);
 });
+
+Route::get('richa-minocha', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/richa-minocha', ['data_arr' => $data_arr]);
+});
+Route::get('suchetana-banerjee', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/suchetana-banerjee', ['data_arr' => $data_arr]);
+});
+Route::get('vasudev-menon', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/vasudev-menon', ['data_arr' => $data_arr]);
+});
+Route::get('kishori-kasat', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/kishori-kasat', ['data_arr' => $data_arr]);
+});
+Route::get('uday-sinha', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/uday-sinha', ['data_arr' => $data_arr]);
+});
+Route::get('atiya-fatima', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/atiya-fatima', ['data_arr' => $data_arr]);
+});
+Route::get('debapriya-ganguly', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/debapriya-ganguly', ['data_arr' => $data_arr]);
+});
+Route::get('damini-kulkarni', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/damini-kulkarni', ['data_arr' => $data_arr]);
+});
+Route::get('afshan-majid', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/afshan-majid', ['data_arr' => $data_arr]);
+});
+Route::get('sakshi-juneja', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/sakshi-juneja', ['data_arr' => $data_arr]);
+});
+Route::get('sumithra-surendralal', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/sumithra-surendralal', ['data_arr' => $data_arr]);
+});
+Route::get('sulakshna-sen', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+    return view('/community/sulakshna-sen', ['data_arr' => $data_arr]);
+});
+Route::get('esha-prasad', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Bachelor of Arts Honours | Best Colleges for B.sc in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a Bachelor of Arts Honours at one of the best colleges for B.Sc in Pune. Enjoy a well-rounded education with a focus on critical thinking and interdisciplinary skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
+
+    return view('/community/esha-prasad', ['data_arr' => $data_arr]);
+});
+
 
 ///////// Community Routes Ends //////////
 

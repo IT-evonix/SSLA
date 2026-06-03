@@ -50,7 +50,7 @@
                                             <span>gitanjali.roy@ssla.edu.in</span>
                                         </p>
                                         <div class="action-btns mt-3">
-                                            <a href="{{ asset('/assets/pdf/Dr_Gitanjali_Roy_CV.pdf') }}"
+                                            <a href="{{ asset('/assets/pdf/cv/Dr_Gitanjali_Roy_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
                                                     alt="Download icon" class="icon-img me-2">

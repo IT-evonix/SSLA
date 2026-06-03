@@ -61,7 +61,7 @@
                                 </svg>
                                 afshan.majid@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/afshan-majid">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -205,16 +205,16 @@
                             <div class="faculty_name">Ms. Sakshi Juneja</div>
                             <div class="faculty_position">(Assistant Professor)</div>
 
-                            <a class="faculty_mail" href="mailto:anurupa.ghatge@ssla.edu.in">
+                            <!-- <a class="faculty_mail" href="mailto:anurupa.ghatge@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
                                 anurupa.ghatge@ssla.edu.in
-                            </a>
+                            </a> -->
 
                             <div class="know_more_btn">
-                                <a href="/facultydetails">Read More</a>
+                                <a href="/sakshi-juneja">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -243,7 +243,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/facultydetails">Read More</a>
+                                <a href="/sumithra-surendralal">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -253,9 +253,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/richa.png" alt="Dr. Richa Minocha"
+                            <img src="/assets/images/faculty/Richa_photo-modified.webp" alt="Dr. Richa Minocha"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-17.webp" alt="Dr. Richa Minocha"
+                            <img src="/assets/images/faculty/Richa_photo.webp" alt="Dr. Richa Minocha"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -268,7 +268,7 @@
                                 </svg>
                                 richa.minocha@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/renu-vinod">Read More</a></div>
+                            <div class="know_more_btn"><a href="/richa-minocha">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -293,7 +293,7 @@
                                 </svg>
                                 suchetana.banerjee@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/suchetana-banerjee">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -317,7 +317,7 @@
                                 </svg>
                                 sulakshana@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/sulakshna-sen">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -326,9 +326,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/vasudev.png" alt="Dr. Vasudev Menon"
+                            <img src="/assets/images/faculty/Vasudev-Menon_Photo-modified.webp" alt="Dr. Vasudev Menon"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-23.webp" alt="Dr. Vasudev Menon"
+                            <img src="/assets/images/faculty/Vasudev-Menon_Photo.webp" alt="Dr. Vasudev Menon"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -341,7 +341,7 @@
                                 </svg>
                                 vasudev.menon@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/vasudev-menon">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
                                 </svg>
                                 kishori.kasat@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/kishori-kasat">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -374,9 +374,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Uday Sinhab.webp" alt="Prof. Uday Sinha"
+                            <img src="/assets/images/faculty/Uday_Sinha_photo.webp" alt="Prof. Uday Sinha"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Uday Sinha.webp" alt="Prof. Uday Sinha"
+                            <img src="/assets/images/faculty/Uday_Sinha_photo-modified.webp" alt="Prof. Uday Sinha"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -393,7 +393,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/facultydetails">Read More</a>
+                                <a href="/uday-sinha">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -446,7 +446,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/gitanjali-roy">Read More</a>
+                                <a href="/damini-kulkarni">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -487,9 +487,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/esha.png" alt="Dr. Esha Prasad"
+                            <img src="/assets/images/faculty/Esha_Prasad_photo-modified.webp" alt="Dr. Esha Prasad"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-7.webp" alt="Dr. Esha Prasad"
+                            <img src="/assets/images/faculty/Esha_Prasad_photo.webp" alt="Dr. Esha Prasad"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -506,7 +506,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/gitanjali-roy">Read More</a>
+                                <a href="/esha-prasad">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -516,9 +516,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/dummy-avatar.jpg" alt="Dr.Debapriya Ganguly"
+                            <img src="/assets/images/faculty/Debapriya_photo-modified.webp" alt="Dr.Debapriya Ganguly"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/dummy-avatar.jpg" alt="Dr. Debapriya Ganguly"
+                            <img src="/assets/images/faculty/Debapriya_photo.webp" alt="Dr. Debapriya Ganguly"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -531,11 +531,11 @@
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                                Demo@ssla.edu.in
+                               debapriyaganguly@gmail.com 
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/gitanjali-roy">Read More</a>
+                                <a href="/debapriya-ganguly">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -552,7 +552,7 @@
                         </div>
 
                         <div class="faculty_content_box">
-                            <div class="faculty_name">-Dr Anurupa Ghatge</div>
+                            <div class="faculty_name">Dr Anurupa Ghatge</div>
                             <div class="faculty_position">(Assistant Professor)</div>
 
                             <a class="faculty_mail" href="mailto:Demo@ssla.edu.in">
@@ -589,7 +589,7 @@
                                 </svg>
                                 atiya.fathima@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="/atiya-fatima">Read More</a></div>
                         </div>
                     </div>
                 </div>

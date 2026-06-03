@@ -19,10 +19,11 @@
     <!-- Details section start -->
     <section class="faculty_details_section">
         <div class="container">
+             <h2 class="inner__red_heading mb-5">Academic Profile</h2>
             <!-- PROFILE HEADER -->
             <div class="profile-header" data-aos="fade-up">
                 <div class="row align-items-center gy-4">
-                    <h2 class="inner__red_heading mb-5">Academic Profile</h2>
+                   
                     <!-- IMAGE COLUMN -->
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
@@ -48,7 +49,7 @@
                                             <span>renu.vinod@ssla.edu.in</span>
                                         </p>
                                         <div class="action-btns mt-3">
-                                            <a href="{{ asset('/assets/pdf/Renu Vinod CV 2025.docx.pdf') }}"
+                                            <a href="{{ asset('/assets/pdf/cv/Renu_Vinod _CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
                                                     alt="Download icon" class="icon-img me-2">

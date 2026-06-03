@@ -39,7 +39,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                        <h2 class="faculty-name">Gayatri Mendanha</h2>
+                                        <h2 class="faculty-name">Mr. Nikhil Thorat</h2>
                                         <p class="faculty-designation">Assistant Professor </p>
                                         <p class="faculty-institute">
                                             Symbiosis School for Liberal Arts, Pune, India <br>
