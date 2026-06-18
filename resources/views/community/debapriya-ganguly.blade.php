@@ -40,9 +40,9 @@
                                 <div class="col-md-6">
                                     <div>
                                         <h2 class="faculty-name">Dr. Debapriya Ganguly</h2>
-                                        <p class="faculty-designation">Adjunct Faculty</p>
+                                        <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
+                                         Sociology
                                         </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
@@ -135,35 +135,8 @@
                 and urban rivers, pedagogical changes in higher education, and horror and sexual violence.
             </p>
 
-            <p>
-                Her recent publications include:
-            </p>
-
-            <p>
-                1. Ganguly, D., and Chaudhari, V. (2026). <em>Vulnerabilities of Private Healthcare Workers during
-                    COVID19 Pandemic</em>. South Asia Research, 45(3).
-            </p>
-
-            <p>
-                2. Ganguly, D. and Reudenbach, A. (2025). <em>Spa Tourism and Urban Transformation: The (re)imagination
-                    of Montecatini Terme</em>. Urbanities- Journal of Urban Ethnography, 15(2).
-            </p>
-
-            <p>
-                3. Ganguly, D. (2025). <em>The right to sustainable urban life? Contextualising the Chipko March in
-                    Pune</em>. Urban Now, International Journal of Urban and Regional Research.
-            </p>
-
-            <p>
-                4. Ganguly, D. (2024). <em>‘Internet Activism and the Populist Agenda’</em>. In Joseph Chacko
-                Chennattuserry, Madhumati Deshpande and Paul Hong (Eds.), Encyclopaedia of New Populism and Responses in
-                the 21st Century, Springer (Singapore).
-            </p>
-
-            <p>
-                5. Ganguly, D. (2023). <em>‘Death’ of a teacher? Pandemic, pedagogy and virtual classrooms</em>.
-                Globalisation, Societies and Education, 23(5).
-            </p>
+           
+           
         </div>
         <!-- achievement -->
         <!-- <div class="section-card" data-aos="fade-up">
@@ -203,49 +176,11 @@
                         <h4 class="section-title">Publications</h4>
                     </div>
                     <ol class="ps-3">
-                        <li>
-                            (Co-edited with Steffen F. Johannesson, Kjersti Røsvik, Ellen Schrumpf, Shruti Tambe, and
-                            Hemantkumar Chouhan). <em>Making Social Justice</em>. 2026. Peter Lang. (Forthcoming)
-                        </li>
-
-                        <li>
-                            “Higher Education and Social Justice: Insights from a State University in India.” <em>The
-                                Pedagogy of Hope: Navigating Resilience and Social Justice in Indian Higher
-                                Education</em>. 2026, Routledge. (Forthcoming)
-                        </li>
-
-                        <li>
-                            “Revisiting Social Justice and the City: Exploring the Politics of Housing in India.”
-                            <em>Making Social Justice</em>. 2026, Peter Lang. (Forthcoming)
-                        </li>
-
-                        <li>
-                            “Remembering Rokeya: Mapping Questions on Gender and Religion in Colonial India.” <em>Women
-                                in Indian Thought</em>, 2026, Springer. (Forthcoming)
-                        </li>
-
-                        <li>
-                            “Rise of the 'City of Destiny': Mapping the Urban Past of Visakhapatnam.” <em>Visakhapatnam:
-                                The City that Was</em>. March 2026, Bloomsbury.
-                        </li>
-
-                        <li>
-                            “Internet Activism and the Populist Agenda", in Joseph Chacko Chennattuserry, Madhumati
-                            Deshpande, Paul Hong (ed.) <em>Encyclopaedia of New Populism and Responses in the 21st
-                                Century</em>, Springer (Singapore), 2024.
-                        </li>
-
-                        <li>
-                            [Co-Authored with Rakesh M Krishnan] "Class, Consumption and Culture: High Streets and the
-                            Neoliberal Imagination of the Indian Cities”, in Sadan Jha and Gauri Bharat (eds.),
-                            <em>Social Life of Streets in India</em>, Bloomsbury (New Delhi), 2023.
-                        </li>
-
-                        <li>
-                            "State, Governance and Urban Poor: Insights from Visakhapatnam City", in Jenia Mukherjee
-                            (ed.) <em>Sustainable Urbanisation in India: Challenges and Opportunities</em>, Springer
-                            (Singapore), 2018.
-                        </li>
+                      <li>Ganguly, D., and Chaudhari, V. (2026). Vulnerabilities of Private Healthcare Workers during COVID19 Pandemic. South Asia Research, 45(3).</li>
+<li>Ganguly, D. and Reudenbach, A. (2025). Spa Tourism and Urban Transformation: The (re)imagination of Montecatini Terme. Urbanities- Journal of Urban Ethnography, 15 (2).</li>
+<li>Ganguly, D. (2025). The right to sustainable urban life? Contextualising the Chipko March in Pune. Urban Now, International Journal of Urban and Regional Research.</li>
+<li>Ganguly, D. (2024). ‘Internet Activism and the Populist Agenda’. In Joseph Chacko Chennattuserry, Madhumati Deshpande and Paul Hong (Eds.), Encyclopaedia of New Populism and Responses in the 21st Century, Springer (Singapore),</li>
+<li>Ganguly, D. (2023). ‘Death’ of a teacher? Pandemic, pedagogy and virtual classrooms. Globalisation, Societies and Education, 23(5).</li>
                     </ol>
                 </div>
             </div>
@@ -258,25 +193,10 @@
                         <h4 class="section-title">Education</h4>
                     </div>
                     <ul>
-                        <li>
-                            2019 – PhD awarded by the Department of Sociology, University of Hyderabad, for the thesis,
-                            <em>Development, Local State and Labouring Poor: A Study of Urban Processes in
-                                Visakhapatnam</em>.
-                        </li>
-
-                        <li>
-                            2013 – M.Phil. awarded by the Centre for Regional Studies, University of Hyderabad, for the
-                            dissertation, <em>'Free Nagas' and the Paradox of Development</em>.
-                        </li>
-
-                        <li>
-                            2011 – M.A. in Sociology from the University of Hyderabad.
-                        </li>
-
-                        <li>
-                            2009 – B.A. (with Honours) in Sociology from St. Xavier's College (Autonomous under the
-                            University of Calcutta).
-                        </li>
+                       <li>2019 – PhD awarded by the Department of Sociology, University of Hyderabad, for the thesis, Development, Local State and Labouring Poor: A Study of Urban Processes in Visakhapatnam.</li>
+<li>2013 – M.Phil. awarded by the Centre for Regional Studies, University of Hyderabad, for the dissertation, 'Free Nagas' and the Paradox of Development.</li>
+<li>2011 – M. A. in Sociology from the University of Hyderabad.</li>
+<li>2009 - B. A. (with Honours) in Sociology from St. Xavier's College (Autonomous under the University of Calcutta).</li>
                     </ul>
                 </div>
             </div>
@@ -289,16 +209,16 @@
                 <h4 class="section-title">Research Interests</h4>
             </div>
             <ul class="research-list">
-                <li>Urban Studies</li>
-                <li>Social Theory</li>
-                <li>Sociology of Education</li>
-                <li>Popular Culture</li>
-                <li>Digital Populism</li>
+              <li>Urban Studies</li>
+<li>Social Theory</li>
+<li>Sociology of Education</li>
+<li>Popular Culture</li>
+<li>Digital Populism</li>
 
             </ul>
         </div>
         <!-- AWARDS -->
-        <div class="section-card" data-aos="fade-up">
+        <!-- <div class="section-card" data-aos="fade-up">
             <div class="section-header">
                 <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
                     class="header-icon">
@@ -320,7 +240,7 @@
                     Indian Council of Social Science Research Doctoral Fellowship (2015)
                 </li>
             </ul>
-        </div>
+        </div> -->
         <!-- COURSES -->
         <!-- <div class="section-card" data-aos="fade-up">
             <div class="section-header">

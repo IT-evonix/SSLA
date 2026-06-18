@@ -42,7 +42,7 @@
                                         <h2 class="faculty-name">Dr. Manoranjan Ghosh</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
+                                            Climate Change and Sustainability Studies
                                         </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
@@ -121,19 +121,38 @@
                         class="header-icon">
                     <h4 class="section-title">Bio</h4>
                 </div>
-                <p>
-                    Dr. Manoranjan Ghosh is currently serving as an Assistant
-                    Professor at the Symbiosis School for Liberal Arts (SSLA), SIU,
-                    Pune. At SSLA Pune, Dr. Ghosh is spearheading the development
-                    of a full-fledged B.Sc. program in Applied Environmental and
-                    Sustainability Sciences, an initiative that reflects his commitment
-                    to fostering interdisciplinary environmental education.
-                </p>
-                <p>
-                    Some of Dr Ghosh's recent academic achievements include leading a collaborative project with Greenpeace India titled “HeatHavoc: Investigating the Impact on Street Vendors”, examining the effects of extreme heat on street vendors in Delhi. He is a recipient of the India Health Policy & Systems Research (HPSR) Fellowship 2024.  He also served as a resource person at the Central University of Kashmir, delivering a lecture on methodological and scientific pluralism during a week-long workshop in October 2025.
+                <p>Dr. Manoranjan Ghosh is currently serving as an Assistant Professor at the Symbiosis School for
+                    Liberal Arts (SSLA), SIU, Pune. With a strong interdisciplinary background, his research interests
+                    lie at the intersection of climate vulnerability, risks, adaptation strategies, natural resource
+                    management (Forest Resources specifically), environmental economics, green urban planning,
+                    human-environmental relations, environmental justice, history of ecological thought, critical
+                    developmental projects and their impact on the environment, energy and just transitions, behavioural
+                    nudge to air pollution mitigation, Dalit environmental philosophy, and Himalayan environment. Dr.
+                    Ghosh earned his post-graduation in Geography from the University of Burdwan and a Ph.D. in Climate
+                    and Development from the Indian Institute of Technology (IIT) Kharagpur, where he developed a novel
+                    vulnerability assessment methodology. His postdoctoral research at the National Institute of Urban
+                    Affairs (NIUA) in New Delhi, along with his tenure at the Council on Energy, Environment and Water
+                    (CEEW), New Delhi, he developed a data-driven tool for urban climate adaptation. He has expertise in
+                    spatial data analytics, advanced econometrics, and participatory appraisal methods, and he has
+                    published sixteen journal papers, five book chapters, and six popular newspaper columns. His
+                    research on the climate vulnerability of rural households in the Himalayan foothills and heat-wave
+                    stress provides key insights into resilience-building strategies in the local context. Manoranjan
+                    has been awarded several reputed academic and institutional fellowships during his educational and
+                    research journey. These included JRF-SRF by UGC (2017-21), India Smart Cities Fellowship (ISCF-2022)
+                    by Ministry of Housing and Urban Affairs, Govt. of India, YECAP fellowship, and the Merit
+                    Scholarship by the Government of West Bengal (2013–15).
+                    At SSLA Pune, Dr. Ghosh is spearheading the development of a full-fledged B.Sc. program in Applied
+                    Environmental and Sustainability Sciences, an initiative that reflects his commitment to fostering
+                    interdisciplinary environmental education. His pedagogical philosophy is deeply rooted in
+                    experiential and problem-solving approaches, where he integrates field-based learning and
+                    cross-disciplinary analytical frameworks to engage students in real-world sustainability challenges.
+                    Beyond research, Dr. Ghosh is passionate about mentoring students and building an academic
+                    environment that fosters innovation, solving problems, and critical thinking. He envisions
+                    classrooms as dynamic spaces where knowledge creation is a shared endeavour between students and
+                    educators.
                 </p>
             </div>
-              <!-- achievement -->
+            <!-- achievement -->
             <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/achievement.png') }}" alt="Introduction icon"
@@ -172,26 +191,26 @@
                         </div>
                         <ol class="ps-3">
                             <li>Kumar, H., Ghosh, M. & Ghosal, S. (2025). Unravelling the
-                            impact of land use transformation on thermal environment across
-                            seasons: A comprehensive study of rapidly urbanising Patna
-                            Planning Area, India. Environmental Science and Pollution
-                            Research. Springer.</li>
-                                                        <li>Ghosh, M. and Garnaik, S. (2025). Death and Degree:
-                            Establishing a Relationship of Death and Heat in Scorched Delhi.
-                            Greenpeace India.</li>
-                                                        <li>Ghosh, M. (2024). Heat Havoc: Investigating the Impact on
-                            Street Vendors. Greenpeace India and the National Hawker
-                            Federation.</li>
-                                                        <li>Ghosh M. and Ghosal S. (2022). Geographies of Socio-
-                            Economic Vulnerability to Climate Change: Empirical Evidence
+                                impact of land use transformation on thermal environment across
+                                seasons: A comprehensive study of rapidly urbanising Patna
+                                Planning Area, India. Environmental Science and Pollution
+                                Research. Springer.</li>
+                            <li>Ghosh, M. and Garnaik, S. (2025). Death and Degree:
+                                Establishing a Relationship of Death and Heat in Scorched Delhi.
+                                Greenpeace India.</li>
+                            <li>Ghosh, M. (2024). Heat Havoc: Investigating the Impact on
+                                Street Vendors. Greenpeace India and the National Hawker
+                                Federation.</li>
+                            <li>Ghosh M. and Ghosal S. (2022). Geographies of Socio-
+                                Economic Vulnerability to Climate Change: Empirical Evidence
 
-                            from the Indian Himalayan Foothills; Asia-Pacific Journal of
-                            Regional Science; Springer.</li>
+                                from the Indian Himalayan Foothills; Asia-Pacific Journal of
+                                Regional Science; Springer.</li>
                             <li>Saha A., Ghosh M., Pal S C, (2022). Estimation of rainfall-
-                            runoff using SCS‐CN method and GIS techniques in
+                                runoff using SCS‐CN method and GIS techniques in
 
-                            drought‐prone area of Upper Kangsabati Watershed, India,
-                            Journal of Sustainable Water Resources Management, Springer.</li>
+                                drought‐prone area of Upper Kangsabati Watershed, India,
+                                Journal of Sustainable Water Resources Management, Springer.</li>
                         </ol>
                     </div>
                 </div>
@@ -208,14 +227,14 @@
                                 Development, Indian
                                 Institute of Technology,
                                 Kharagpur, 2017-2021.</li>
-                                                            <li>M.A. in Geography
+                            <li>M.A. in Geography
                                 (Climate
                                 Change), University of
                                 Burdwan, 2013-2015.</li>
-                                                            <li>B.Ed. in Educational
+                            <li>B.Ed. in Educational
                                 Psychology, Himachal
                                 Pradesh University, 2013.</li>
-                                <li>B.A. in Geography
+                            <li>B.A. in Geography
                                 (Honours), Birpara
                                 College, University of
                                 North Bengal, 2009-2012.</li>

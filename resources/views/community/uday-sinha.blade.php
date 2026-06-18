@@ -42,7 +42,7 @@
                                         <h2 class="faculty-name">Dr. Uday Sinha</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                            Economics at Symbiosis School for Liberal Arts
+                                           Economics & Business Studies
                                         </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
@@ -186,31 +186,31 @@
                         </div>
                         <ol class="ps-3">
                             <li>
-                                Ghoshal, I., Ghosh, I., Sinha, U., &amp; Jog, S. (2023). FDI Inflows into Select
-                                Emerging Market Economies – A Macroeconomic Investigation Using Panel Techniques.
-                                <em>Economic and Political Weekly</em>, 58(41), 41–48.
+                               Ghoshal, I., Ghosh, I., Sinha, U., & Jog, S. (2023). FDI Inflows into Select Emerging 
+Market Economies- A Macroeconomic Investigation Using Panel Techniques. Economic 
+and Political Weekly, 58(41), 41–48. 
                             </li>
 
                             <li>
-                                Ghoshal, I., Jog, S., Sinha, U., &amp; Ghosh, I. (2021). Macroeconomic Factors Affecting
-                                FDI Inflows into Emerging Economies—A Panel Study. In P. Lakhanpal, J. Mukherjee, B.
-                                Nag, &amp; D. Tuteja (Eds.), <em>Trade, Investment and Economic Growth: Issues for India
-                                    and Emerging Economies</em> (pp. 109–119). Springer.
-                                <a href="https://doi.org/10.1007/978-981-33-6973-3_7" target="_blank"
+                               Ghoshal, I., Jog, S., Sinha, U., & Ghosh, I. (2021). Macroeconomic Factors Affecting FDI 
+Inflows into Emerging Economies—A Panel Study. In P. Lakhanpal, J. Mukherjee, B. 
+Nag, & D. Tuteja (Eds.), Trade, Investment and Economic Growth: Issues for India and 
+Emerging Economies (pp. 109–119). Springer. 
+                                <a href="https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7" target="_blank"
                                     class="text-danger">
-                                    https://doi.org/10.1007/978-981-33-6973-3_7
+                                   https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7
                                 </a>
                             </li>
 
                             <li>
-                                Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., &amp; Shaikh, N. (2025).
-                                Artificial Intelligence in Education: A Comprehensive Examination of Integration,
-                                Impact, and Future Implications. In A. Mirzazadeh, Z. Molamohamadi, E. Babaee Tirkolaee,
-                                G.-W. Weber, &amp; J. Leung (Eds), <em>Optimization and Data Science in Industrial
-                                    Engineering</em> (pp. 182–198). Springer Nature Switzerland.
-                                <a href="https://doi.org/10.1007/978-3-031-81458-7_11" target="_blank"
+                               Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., & Shaikh, N. (2025). Artificial 
+Intelligence in Education: A Comprehensive Examination of Integration, Impact, and 
+Future Implications. In A. Mirzazadeh, Z. Molamohamadi, E. Babaee Tirkolaee, G.-W. 
+Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering (pp. 
+182–198). Springer Nature Switzerland.
+                                <a href="https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11" target="_blank"
                                     class="text-danger">
-                                    https://doi.org/10.1007/978-3-031-81458-7_11
+                                   https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11
                                 </a>
                             </li>
                         </ol>
@@ -225,6 +225,10 @@
                             <h4 class="section-title">Education</h4>
                         </div>
                         <ul>
+                            <li>
+                                UGC-NET Qualified in Economics since June 2019 <br>
+Member of Institute of Actuaries of India since 2013 
+                            </li>
                             <li>
                                 Master of Arts (Economics) – 75.00% <br>
                                 Fergusson College, Pune – April 2015
@@ -249,7 +253,7 @@
                 </div>
             </div>
             <!-- RESEARCH INTERESTS -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -258,11 +262,10 @@
                 <ul class="research-list">
                     <li>Languages known – English and Hindi.</li>
                     <li>Aptitude for Statistics, Mathematics,<br> and Econometrics.</li>
-                    <li>Knowledge of word processing and statistical <br>analysis software including MS Excel, R Studio, and
-                        STATA.</li>
+                   <li>Knowledge of word processing <br>and statistical analysis software, <br> including MS Excel, R Studio, and STATA.</li>
                     <li>Basic knowledge in Python.</li>
                 </ul>
-            </div>
+            </div> -->
             <!-- AWARDS -->
             <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">

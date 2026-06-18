@@ -41,9 +41,9 @@
                                     <div>
                                         <h2 class="faculty-name">Dr. Vasudev Menon</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
-                                        <!-- <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
-                                        </p> -->
+                                        <p class="faculty-institute">
+                                            Biology and Theatre
+                                        </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
@@ -121,21 +121,40 @@
                         class="header-icon">
                     <h4 class="section-title">Bio</h4>
                 </div>
-                <p>
-                    Dr. Manoranjan Ghosh is currently serving as an Assistant
-                    Professor at the Symbiosis School for Liberal Arts (SSLA), SIU,
-                    Pune. At SSLA Pune, Dr. Ghosh is spearheading the development
-                    of a full-fledged B.Sc. program in Applied Environmental and
-                    Sustainability Sciences, an initiative that reflects his commitment
-                    to fostering interdisciplinary environmental education.
+                <p>I completed my doctoral degree in Molecular Medicine at the University of Glasgow, UK and a Research
+                    Assistantship at the MRC Centre for Inflammation Research, University of Edinburgh, UK. My training
+                    and work there were broadly in the area of immunology/infection, and specifically in the role of
+                    macrophages in the pathogenesis and resolution in acute and chronic renal inflammation models.
+
+                    My present focus lies in the development of thought concerning immunity and immune response to
+                    diseases. I am building an argument that the twin ontologies of host and pathogen are co-constructed
+                    and are processual in nature. I expect that this will have a significant bearing not only on how
+                    biological individuality is explained but in a pragmatic sense, on how both prophylactic and
+                    therapeutic interventions to infectious diseases are imagined both at the level of the individual
+                    and populations. Meanwhile, I am keen on investigating the motivations behind why the language of
+                    discourse of immunology is seasoned with metaphors and other linguistic devices that otherwise
+                    describe violence, conflict and war.
+
+                    In addition to this, I hold a subsidiary interest in undergraduate Biology education, particularly
+                    in developing and delivering curricula that integrate teaching-learning modalities across the Life
+                    Science and humanitarian pursuits of History, Philosophy, Literature, Theatre and Film.
+
+                    At SSLA, I oversee the minor program in Biology and teach courses within the Biology and Performing
+                    Arts (Theatre) Minors and co-teach the minor core - Explorations in Natural Sciences. Time and
+                    workload permitting, I offer the electives that integrate biology with philosophy, history,
+                    political science among others.
+
+                    Outside of work, you may find me plying my trade in writing, directing or performing in theatre and
+                    film, having trained (albeit not as much as one would have liked) as an actor at The Royal
+                    Conservatoire of Scotland and a cinematographer at the L.V.Prasad Film and TV Institute, Chennai.
+
                 </p>
-                <p>
-                    Some of Dr Ghosh's recent academic achievements include leading a collaborative project with
-                    Greenpeace India titled “HeatHavoc: Investigating the Impact on Street Vendors”, examining the
-                    effects of extreme heat on street vendors in Delhi. He is a recipient of the India Health Policy &
-                    Systems Research (HPSR) Fellowship 2024. He also served as a resource person at the Central
-                    University of Kashmir, delivering a lecture on methodological and scientific pluralism during a
-                    week-long workshop in October 2025.
+                <p class="new_faculty_link">
+                    If you enjoy conversations in process metaphysics, public understanding of immunity or infectious
+                    diseases, teaching-learning biology, performing Shakespeare or south Indian cinema feel free to
+                    shoot line or two to <a href="mailto:vasudev.menon@ssla.edu.in">vasudev.menon@ssla.edu.in</a> or
+                    meet me (prior appointment would help immensely) in the faculty office on the first floor of the
+                    Symbiosis School for Liberal Arts campus, Viman Nagar, Pune.
                 </p>
             </div>
             <!-- achievement -->
@@ -167,7 +186,7 @@
                     </ul>
             </div> -->
             <div class="row mb-4">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <!-- PUBLICATIONS -->
                     <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
@@ -176,15 +195,10 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ol class="ps-3">
-                            <li>Surendralal S and Menon VR, <em>Modelling the Unfamiliar: Structuring Simulation-Based
-                                    Activities to Support Liberal Arts Undergraduate Students’ Understanding of Complex
-                                    Systems</em> (submitted - Conference Proceedings; International Tech4Education
-                                Conference 2025)</li>
+                            <li>Surendralal S and Menon VR, Modelling the Unfamiliar: Structuring Simulation-Based Activities to Support Liberal Arts Undergraduate Students’ Understanding of Complex Systems (submitted - Conference Proceedings; International Tech4Education Conference 2025)</li>
 
                             <li>
-                                Menon VR, <em>On the ontology of biological entities – II : Conceptual or ‘mind
-                                    dependent’ constituents of the biosphere</em>, Resonance: Journal of Science
-                                Education, Vol.29, No.9, September 2024
+                               Menon VR,  On the ontology of biological entities – II : Conceptual or ‘mind dependent’ constituents of the biosphere, Resonance: Journal of Science Education, Vol.29, No.9, September 2024 
                                 <a href="https://www.ias.ac.in/article/fulltext/reso/029/09/1231-1253" target="_blank"
                                     class="text-danger">
                                     https://www.ias.ac.in/article/fulltext/reso/029/09/1231-1253
@@ -192,34 +206,24 @@
                             </li>
 
                             <li>
-                                Menon VR, <em>On the ontology of biological entities – I : Material or ‘mind
-                                    independent’ constituents of the biosphere</em>, Journal of Science Education,
-                                Vol.29, No.8, August 2024
+                               Menon VR,  On the ontology of biological entities – I : Material or ‘mind independent’ constituents of the biosphere,Journal of Science Education, Vol.29, No.8, August 2024 
                                 <a href="https://www.ias.ac.in/article/fulltext/reso/029/08/1111-1126" target="_blank"
                                     class="text-danger">
                                     https://www.ias.ac.in/article/fulltext/reso/029/08/1111-1126
                                 </a>
                             </li>
 
-                            <li>Menon VR, <em>Analysis of the role and regulation of disintegrin metalloproteases in
-                                    renal fibrosis</em>. PhD thesis (2012), University of Glasgow</li>
+                            <li>Menon, VR, Analysis of the role and regulation of disintegrin metalloproteases in renal fibrosis. PhD thesis (2012) University of Glasgow</li>
 
-                            <li>Menon VR, Denby L, Baker AH, <em>Canonical TGF-β regulated microRNA signature expression
-                                    in experimental renal fibrosis</em>, Kidney Int. 2014 Sept</li>
+                            <li>Menon VR, Denby L, Baker AH Canonical TGF-β regulated microRNA signature expression in experimental renal fibrosis, Kidney Int. 2014 Sept </li>
 
-                            <li>Menon VR, Denby L, Baker AH, <em>MicroRNA-214 antagonism protects against renal
-                                    fibrois</em>, J Am Soc Nephrol. 2014 Jan;25(1):65-80</li>
+                            <li>Menon VR, Denby L, Baker AH MicroRNA-214 antagonism protects against renal fibrois, J Am Soc Nephrol. 2014 Jan;25 (1):65-80 </li>
 
-                            <li>Menon VR, Denby L, Baker AH, <em>Canonical transforming growth factor-β signaling
-                                    regulates disintegrin metalloprotease expression in experimental renal fibrosis via
-                                    miR-29</em>, Am J Pathol. 2013 Dec;183(6):1885-96</li>
+                            <li>Menon VR, Denby L, Baker AH Canonical transforming growth factor-β signaling regulates disintegrin metalloprotease expression in experimental renal fibrosis via miR-29. Am J Pathol. 2013 Dec;183(6):1885-96 </li>
 
-                            <li>Denby L, Menon VR, Baker AH, <em>miR-21 and miR-214 are consistently modulated in renal
-                                    disease in rodent models</em>, Am J Pathol. 2011 Aug;179(2):661-72</li>
+                            <li>Denby L, Menon VR, Baker AH miR-21 and miR-214 are consistently modulated in renal disease in rodent models, Am J Pathol. 2011 Aug;179(2):661-72 </li>
 
-                            <li>Ferenbach DA, Menon VR, Kluth DC, <em>Macrophages expressing Hemoxyenase-1 improve renal
-                                    function in ischemia-reperfusion injury</em>, Molecular Therapy. 2010
-                                Sep;18(9):1706-13</li>
+                            <li>Ferenbach DA, Menon VR, Kluth DC Macrophages expressing Hemoxyenase-1 improve renal function in ischemia-reperfusion injury Molecular Therapy. 2010 Sep;18(9):1706-13 </li>
                         </ol>
                     </div>
                 </div>

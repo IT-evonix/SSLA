@@ -5169,6 +5169,26 @@
 
   /* -------COURSES LIST PAGE END----------- */
 
+  .new_faculty_link a {
+      font-size: unset !important;
+      font-style: normal !important;
+      border-bottom: 0 !important;
+      color:var(--color-green) !important;
+    }
+    
+    .new_faculty_link a:hover {
+      color:var(--color-red) !important;
+  }
+
+  .research-main-sec .new_academic_fee_tab_content_content p {
+    text-align: center;
+    margin: 0 0 16px 0;
+  }
+
+  .new_academic_fee_tab_content_box .table-responsive {
+    border-radius: 12px;
+  }
+
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {

@@ -444,6 +444,146 @@ Route::get('performing-arts-dance', function () {
 
     return view('/academics/courses/performing-arts-dance', ['data_arr' => $data_arr]);
 });
+Route::get('semester-one', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester One | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester One subjects in the Performing Arts and Dance program at SSLA Pune. Build a strong foundation in dance techniques, movement, performance, and artistic expression.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-one";
+
+    return view('/academics/courses/semester-one', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-two', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Two | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Two subjects in the Performing Arts and Dance program at SSLA Pune. Advance your understanding of dance techniques, choreography, and performance skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-two";
+
+    return view('/academics/courses/semester-two', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-three', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Three | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Three subjects in the Performing Arts and Dance program at SSLA Pune. Develop artistic expression, performance techniques, and creative practice.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-three";
+
+    return view('/academics/courses/semester-three', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-four', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Four | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Four subjects in the Performing Arts and Dance program at SSLA Pune. Strengthen your choreography, performance, and movement skills.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-four";
+
+    return view('/academics/courses/semester-four', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-five', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Five | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Five subjects in the Performing Arts and Dance program at SSLA Pune. Enhance creative performance and advanced dance practices.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-five";
+
+    return view('/academics/courses/semester-five', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-six', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Six | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Six subjects in the Performing Arts and Dance program at SSLA Pune. Gain expertise in performance, choreography, and artistic development.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-six";
+
+    return view('/academics/courses/semester-six', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-seven', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Seven | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Seven subjects in the Performing Arts and Dance program at SSLA Pune. Focus on advanced performance practices, research, and creative projects.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-seven";
+
+    return view('/academics/courses/semester-seven', ['data_arr' => $data_arr]);
+});
+
+Route::get('semester-eight', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Performing Arts and Dance Semester Eight | SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Semester Eight subjects in the Performing Arts and Dance program at SSLA Pune. Complete your academic journey with advanced performance and capstone projects.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/semester-eight";
+
+    return view('/academics/courses/semester-eight', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-performing-arts-theatre', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Theatre Studies Course in Pune | Performing Arts";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Study Theatre at SSLA Pune. Learn acting, stagecraft, dramatic literature, performance theory, and production techniques.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-performing-arts-theatre";
+
+    return view('/academics/courses/course-performing-arts-theatre', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-physics', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Physics Course in Pune | Physics Program at SSLA";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Physics at SSLA Pune. Study mechanics, electromagnetism, quantum physics, thermodynamics, and modern scientific concepts.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-physics";
+
+    return view('/academics/courses/course-physics', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-women-gender-studies', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Women and Gender Studies Course in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Women and Gender Studies at SSLA Pune. Examine gender, identity, equality, social justice, and feminist perspectives.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-women-gender-studies";
+
+    return view('/academics/courses/course-women-gender-studies', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-integrated-biology', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Integrated Biology Course in Pune | Biology Program";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Study Integrated Biology at SSLA Pune. Explore genetics, ecology, evolution, molecular biology, and interdisciplinary life sciences.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-integrated-biology";
+
+    return view('/academics/courses/course-integrated-biology', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-performing-arts-music', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Performing Arts and Music Course in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Music studies at SSLA Pune. Develop musical knowledge, performance skills, creativity, and cultural understanding.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-performing-arts-music";
+
+    return view('/academics/courses/course-performing-arts-music', ['data_arr' => $data_arr]);
+});
+
+Route::get('course-peace-conflict-studies', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Peace and Conflict Studies Course in Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore Peace and Conflict Studies at SSLA Pune. Understand conflict resolution, peacebuilding, diplomacy, and global challenges.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-peace-conflict-studies";
+
+    return view('/academics/courses/course-peace-conflict-studies', ['data_arr' => $data_arr]);
+});
+
 ///////// ACADEMICS Routes Ends //////////
 
 ///////// Community Routes Start //////////
@@ -687,6 +827,36 @@ Route::get('esha-prasad', function () {
     $data_arr['canonical'] = "https://www.ssla.edu.in/faculty";
 
     return view('/community/esha-prasad', ['data_arr' => $data_arr]);
+});
+
+Route::get('aditi-athreya', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Aditi Athreya | Faculty Profile | Symbiosis School for Liberal Arts";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Learn more about Aditi Athreya, faculty member at Symbiosis School for Liberal Arts, including academic background, research interests, publications, and teaching experience.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/aditi-athreya";
+
+    return view('/community/aditi-athreya', ['data_arr' => $data_arr]);
+});
+
+Route::get('silvia-fernandes', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Dr. Silvia Fernandes | Faculty Profile | Symbiosis School for Liberal Arts";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Learn more about Dr. Silvia Fernandes, faculty member at Symbiosis School for Liberal Arts, including academic background, research interests, publications, and teaching experience.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/silvia-fernandes";
+
+    return view('/community/silvia-fernandes', ['data_arr' => $data_arr]);
+});
+
+Route::get('abhik-bhattacharya', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Dr. Abhik Bhattacharya | Faculty Profile | Symbiosis School for Liberal Arts";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Learn more about Dr. Abhik Bhattacharya, faculty member at Symbiosis School for Liberal Arts, including academic background, research interests, publications, and teaching experience.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/abhik-bhattacharya";
+
+    return view('/community/abhik-bhattacharya', ['data_arr' => $data_arr]);
 });
 
 

@@ -29,18 +29,16 @@
                     <div class="new_course_listing_mainbox">
                         <div class="new_course_listing_para">
                             <p>
-                                Applied Environmental and Sustainability Science is a multidisciplinary field that
-                                examines interactions between natural systems, human societies, technology, and
-                                development. The curriculum equips students with conceptual, analytical, and technical
-                                skills to understand environmental change, sustainability challenges, and resource
-                                governance at multiple scales. Students will study ten major papers covering earth
-                                systems, climate and water systems, sustainable development, emerging green technology
-                                and planning, environmental justice, and environmental law and policy alongside hands-on
-                                training in data analytics, laboratory measurements, GIS, remote sensing. Emphasis is
-                                placed on resource management, environmental impact assessment, ESG frameworks, urban
-                                planning, and business sustainability. Integrating science with social and economic
-                                perspectives, the programme prepares graduates for real-world environmental
-                                problem-solving.
+                                Business Studies provide a comprehensive foundation in the legal, financial, human,
+                                operational, and strategic dimensions of organizations. Drawing from business law,
+                                management principles, finance, marketing, human resource management, and operations,
+                                the curriculum equips students with analytical, decision-making, and problem-solving
+                                skills essential for contemporary business environments. Students gain an understanding
+                                of legal frameworks governing business, financial decision-making, market analysis,
+                                production systems, and workforce management. Emphasis is placed on practical
+                                application through case studies, simulations, projects, and industry exposure. The
+                                programme integrates theoretical knowledge with real-world business practices, preparing
+                                students for managerial roles, entrepreneurship, and further professional studies
                             </p>
                         </div>
                         <div class="subject_listing_mainbox">
@@ -49,20 +47,22 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course provides students with a comprehensive foundation in core
-                                            management concepts and business entities. It explores the nature and
-                                            purpose of business, different forms of business organizations, and the role
-                                            of management in modern enterprises.
-                                   
-                                            Students learn key management functions such as planning, organizing,
-                                            staffing, directing, and controlling, along with leadership, motivation,
-                                            communication, and ethical decision-making. Through lectures, discussions,
-                                            projects, and experiential learning, students gain practical insights into
-                                            contemporary management challenges.
+                                            Management Essentials provides students with a comprehensive foundation in
+                                            core management concepts and business practices. The course introduces the
+                                            nature and purpose of business, types of business entities, and the
+                                            classification of business activities within industry and commerce. It
+                                            explores key management functions such as planning, organizing, staffing,
+                                            directing, and controlling, while highlighting contributions of classical
+                                            and contemporary management thinkers. Special emphasis is placed on
+                                            leadership, motivation, communication, and ethical decision-making in a
+                                            dynamic business environment. Through lectures, discussions, projects, and
+                                            experiential activities, students develop practical insights into trade,
+                                            commerce, and emerging managerial perspectives relevant to present and
+                                            future organizational challenges.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/management-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-1.svg') }}"
                                             alt="Management Essentials icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -73,20 +73,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course provides a comprehensive understanding of the legal framework
-                                            governing business and commercial activities. Students are introduced to
-                                            fundamental legal concepts, sources of law, the structure of courts, and
-                                            major commercial statutes.
-                                       
-                                            Topics include Contract Law, Sale of Goods Act, Partnership Act, Company
-                                            Law, taxation principles, negotiable instruments, consumer protection,
-                                            intellectual property rights, and information technology law. Practical
-                                            learning through case studies and moot courts develops essential legal and
-                                            compliance skills.
+                                            The course Business Laws provides students with a comprehensive
+                                            understanding of the legal framework governing business and commercial
+                                            activities in India. It introduces foundational legal concepts, sources of
+                                            law, and the structure of courts, followed by an in-depth study of core
+                                            commercial statutes such as the Indian Contract Act, Sale of Goods Act,
+                                            Partnership Act, and Company Law. The course also covers taxation
+                                            principles, negotiable instruments, consumer protection, intellectual
+                                            property rights, and information technology law. Emphasizing practical
+                                            application through case studies, simulations, and moot courts, the course
+                                            equips students with essential legal knowledge and skills necessary for
+                                            effective business decision-making and corporate compliance.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/law-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-2.svg') }}"
                                             alt="Business Laws icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -97,18 +98,20 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Financial Management equips students with a strong foundation in corporate
-                                            finance and financial decision-making. The course covers the objectives of
-                                            financial management and the role of finance managers in organizations.
-                                    
-                                            Students learn concepts such as time value of money, capital budgeting, cost
-                                            of capital, leverage, and capital structure decisions. Through case studies
-                                            and problem-solving exercises, learners develop analytical and strategic
-                                            financial skills applicable to business and banking environments.
+                                            The course Financial Management equips students with a strong foundation in
+                                            corporate finance and financial decision-making. It introduces the nature,
+                                            scope, and objectives of financial management, emphasizing the roles and
+                                            responsibilities of financial managers. The course covers key concepts such
+                                            as time value of money, capital budgeting techniques, cost of capital,
+                                            leverage, and capital structure decisions. Special focus is given to working
+                                            capital management and sources of finance essential for business operations.
+                                            Through discussions, numerical problem-solving, and case studies, students
+                                            develop analytical and strategic skills required to apply financial theories
+                                            and techniques to real-world corporate and banking decisions.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/finance-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-3.svg') }}"
                                             alt="Financial Management icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -119,18 +122,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course introduces students to the principles, functions, and evolving
-                                            role of Human Resource Management in organizations. It emphasizes the
-                                            competencies required of HR professionals in today’s workplace.
-                                       
-                                            Key areas include recruitment and selection, manpower planning, job
-                                            analysis, training and development, performance appraisal, and compensation
-                                            management. Through case studies and role plays, students gain practical
-                                            insights into workforce management and HR strategies.
+                                            The Human Resource Management course introduces students to the principles,
+                                            functions, and evolving role of HRM in organizations. It differentiates HRM
+                                            from traditional personnel management and emphasizes the competencies
+                                            required of HR professionals. Key areas include manpower planning,
+                                            recruitment and selection, job analysis, evaluation, and design, along with
+                                            training, development, performance appraisal, and compensation management.
+                                            Through case studies, role plays, presentations, and project work, students
+                                            gain practical insights into workforce management, performance optimization,
+                                            and strategic HR practices. The course equips learners with the skills to
+                                            assess organizational needs, implement HR strategies, and contribute
+                                            effectively to human capital development.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/hr-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-4.svg') }}"
                                             alt="Human Resource Management icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -142,17 +148,19 @@
                                     <div class="subject_listing_content">
                                         <p class="m-0">
                                             Fundamentals of Marketing introduces students to core marketing concepts,
-                                            strategies, and consumer behavior. The course examines market segmentation,
-                                            product development, pricing, distribution, and promotion.
-                                      
-                                            Through case studies, field visits, projects, and assignments, students gain
-                                            practical exposure to sales management, integrated marketing communications,
-                                            and contemporary marketing trends while developing skills to implement
-                                            effective marketing practices.
+                                            processes, and strategies, including consumer behavior, market segmentation,
+                                            product development, pricing, distribution, and promotion. The course uses
+                                            case studies, field visits, assignments, and projects to provide practical
+                                            exposure. Students gain insights into sales management, contemporary
+                                            marketing trends, and integrated marketing communications. Recommended
+                                            textbooks by Kotler, Armstrong, and others offer a strong foundation, while
+                                            evaluation through projects ensures application of concepts in real-world
+                                            scenarios. This course equips students with the knowledge and skills needed
+                                            to understand, analyze, and implement effective marketing practices.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/marketing-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-5.svg') }}"
                                             alt="Fundamentals of Marketing icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -163,19 +171,22 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course provides a comprehensive understanding of the principles and
-                                            practices that drive operational efficiency in organizations. Students learn
-                                            production systems, process design, facility planning, and inventory
-                                            management.
-                                      
-                                            Special emphasis is placed on quality control, maintenance, supply chain
-                                            management, and work-study techniques. Through practical assignments and
-                                            industry-oriented learning, students gain hands-on exposure to operational
-                                            challenges and process improvement strategies.
+                                            The Production/Operations Management course provides students with a
+                                            comprehensive understanding of the principles, processes, and practices that
+                                            drive operational efficiency in organizations. Covering topics from product
+                                            design, process selection, and facilities planning to capacity planning,
+                                            inventory management, quality control, and maintenance, the course equips
+                                            students with both theoretical knowledge and practical skills. Emphasis is
+                                            placed on analyzing real-world production systems, planning and controlling
+                                            operations, and applying work-study techniques. Through lectures, case
+                                            studies, presentations, practical assignments, and organizational visits,
+                                            students gain hands-on exposure to operational challenges, preparing them to
+                                            effectively evaluate and improve production processes in diverse industrial
+                                            and service settings.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/operations-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-6.svg') }}"
                                             alt="Production Operations Management icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -186,18 +197,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course helps non-technical and undergraduate students understand the
-                                            strategic role of information technology in organizations. It examines how
-                                            IT enables business growth, innovation, and competitive advantage.
-                                     
-                                            Students explore IT-enabled business models, analytics, collaboration tools,
-                                            process innovation, and outsourcing. The course also addresses ethical,
-                                            legal, privacy, and security concerns associated with technology use in
-                                            modern business environments.
+                                            Information Technology for Management is designed to help non-technical
+                                            undergraduate students understand the strategic role of IT in contemporary
+                                            organizations. The course examines how information technology acts as a key
+                                            enabler of business strategy, innovation, and competitive advantage. Through
+                                            an integrative approach drawing from strategy, marketing, and operations,
+                                            students explore IT-enabled business models, process innovation, analytics,
+                                            collaboration tools, and outsourcing. The course also addresses ethical,
+                                            legal, privacy, and security concerns associated with technology use. Using
+                                            case studies, discussions, and presentations, students develop managerial
+                                            perspectives on leveraging IT effectively in dynamic and digital business
+                                            environments.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/it-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-7.svg') }}"
                                             alt="Information Technology for Management icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -208,18 +222,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            The Data Analytics course develops analytical skills to support data-driven
-                                            managerial decision-making. It introduces data collection, cleaning,
-                                            visualization, and statistical foundations used in modern analytics.
-                                     
-                                            Students learn descriptive, predictive, and exploratory analytics
-                                            techniques, including regression, clustering, simulation, and machine
-                                            learning concepts. Practical applications across finance, marketing,
-                                            healthcare, and supply chains help build real-world analytical competence.
+                                            The Data Analytics course equips students with analytical skills to support
+                                            data-driven managerial decision making across industries. It introduces the
+                                            fundamentals of data analytics, including data types, collection, cleaning,
+                                            visualization, and statistical foundations. Students learn descriptive and
+                                            predictive analytics, exploratory data analysis, and a range of analytical
+                                            techniques such as regression, clustering, simulation, and machine learning
+                                            models. The course emphasizes translating data insights into business value
+                                            through applications in healthcare, finance, supply chain, and e-commerce.
+                                            Through lectures, case studies, and projects, students develop practical
+                                            competence in applying analytics tools ethically and effectively to solve
+                                            real-world business problems.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/analytics-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-8.svg') }}"
                                             alt="Data Analytics icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -230,19 +247,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Organizational Behaviour helps students understand how individual, group,
-                                            and organizational factors influence workplace performance and
-                                            effectiveness. The course introduces foundational concepts of human behavior
-                                            in organizations.
-                                    
-                                            Topics include personality, attitudes, motivation, leadership,
-                                            communication, team dynamics, and organizational culture. Through case
-                                            studies and experiential learning, students develop insights into managing
-                                            people, teams, and organizational change effectively.
+                                            Organizational Behaviour is designed to help undergraduate students
+                                            understand how individual, group, and organizational factors influence
+                                            performance and effectiveness at the workplace. The course introduces
+                                            foundational concepts of organizational behaviour, individual differences,
+                                            attitudes, values, personality, and motivation. It emphasizes group
+                                            dynamics, team effectiveness, and leadership in contemporary organizations.
+                                            Students explore organizational culture, leadership theories, and the
+                                            distinction between managers and leaders. Through lectures, discussions,
+                                            caselets, and experiential exercises, the course enables students to apply
+                                            behavioural concepts to real organizational contexts and develop insights
+                                            into managing people, teams, and organizational change effectively.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/ob-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-9.svg') }}"
                                             alt="Organizational Behaviour icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -253,18 +272,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course introduces students to the principles, frameworks, and practices
-                                            that support responsible corporate conduct. It examines governance models,
-                                            regulatory mechanisms, and accountability systems in organizations.
-                                      
-                                            Students explore the roles of boards, auditors, regulators, and
-                                            stakeholders, while addressing ethical dilemmas and corporate social
-                                            responsibility. Case studies and projects help learners develop sound
-                                            ethical judgment and governance perspectives.
+                                            Corporate Governance and Ethics introduces undergraduate students to the
+                                            principles, frameworks, and practices that guide responsible corporate
+                                            conduct. The course examines key governance models, theoretical approaches,
+                                            and regulatory mechanisms, with specific reference to the Indian and global
+                                            contexts. It emphasizes the role of boards, auditors, regulatory
+                                            institutions, and corporate social responsibility in ensuring transparency
+                                            and accountability. The course also explores business ethics, ethical
+                                            dilemmas, stakeholder perspectives, and ethical practices across functional
+                                            areas such as marketing, finance, and human resources. Through lectures,
+                                            case studies, and projects, students develop a grounded understanding of
+                                            ethical decision making and sound governance in organizations.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/governance-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-10.svg') }}"
                                             alt="Corporate Governance and Ethics icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -275,19 +297,22 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Business Ethics introduces students to the philosophical foundations and
-                                            practical relevance of ethical behavior in business and society. The course
-                                            explores moral theories, justice, responsibility, and ethical
-                                            decision-making.
-                                       
-                                            Topics include consumer protection, environmental responsibility,
-                                            whistleblowing, social audits, and contemporary ethical challenges in
-                                            finance, employment, and technology. Students develop the ability to
-                                            institutionalize ethical practices within organizations.
+                                            Business Ethics introduces undergraduate students to the philosophical
+                                            foundations and practical relevance of ethical behaviour in business and
+                                            society. The course explores key ethical theories, moral responsibilities,
+                                            justice, and social cooperation, while examining moral issues in business
+                                            such as consumer protection, environmental responsibility, whistleblowing,
+                                            and social audits. It provides an overview of major socio-ethical
+                                            traditions, including Gandhian, Jain, Islamic, and Marxist perspectives.
+                                            Students also study ethical challenges across functional areas like
+                                            marketing, finance, employment, and technology. Through lectures, case
+                                            studies, and assignments, the course fosters ethical awareness, responsible
+                                            decision making, and the ability to institutionalize ethics within
+                                            organizations.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/ethics-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-11.svg') }}"
                                             alt="Business Ethics icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -298,19 +323,21 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            The Accounting course provides students with a comprehensive understanding
-                                            of financial and managerial accounting concepts essential for effective
-                                            business decision-making. It covers accounting principles and the accounting
-                                            cycle.
-                                       
-                                            Students learn the preparation and interpretation of financial statements,
-                                            analysis of assets, liabilities, and cash flows, and the application of
-                                            accounting standards. Practical exercises develop analytical skills for
-                                            management and control purposes.
+                                            The Accounting course provides undergraduate students with a comprehensive
+                                            understanding of financial and managerial accounting concepts essential for
+                                            managerial decision making. It introduces the role of accounting in the
+                                            business environment, the accounting cycle, and the preparation and
+                                            interpretation of financial statements. Students learn to analyze assets,
+                                            liabilities, shareholders’ equity, income, and cash flows while
+                                            understanding the application of accounting principles such as GAAP and
+                                            IFRS. The course emphasizes linking financial statements, evaluating
+                                            business performance, and assessing financial health. Through lectures, case
+                                            studies, and practical assignments, students develop analytical skills to
+                                            interpret accounting information for effective management and control.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/accounting-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/business-studies-12.svg') }}"
                                             alt="Accounting icon" class="img-fluid">
                                     </div>
                                 </div>

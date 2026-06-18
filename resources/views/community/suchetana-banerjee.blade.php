@@ -28,7 +28,7 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('/assets/images/faculty/suchetana.png') }}" alt="Dr. Manoranjan Ghosh"
+                            <img src="{{ asset('/assets/images/faculty/Suchetana Banerjee_photo.webp') }}" alt="Dr. Manoranjan Ghosh"
                                 class="profile-img img-fluid">
                         </div>
                     </div>
@@ -41,9 +41,9 @@
                                     <div>
                                         <h2 class="faculty-name">Dr. Suchetana Banerjee</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
-                                        <!-- <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
-                                        </p> -->
+                                        <p class="faculty-institute">
+                                         English
+                                        </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">

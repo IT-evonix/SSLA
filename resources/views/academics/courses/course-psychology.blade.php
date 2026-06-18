@@ -60,7 +60,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/introduction-psychology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-1.svg') }}"
                                             alt="Introduction to Psychology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -85,7 +85,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/lifespan-development-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-2.svg') }}"
                                             alt="Lifespan Development icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -110,7 +110,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/major-theories-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-3.svg') }}"
                                             alt="Major Theories in Psychology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -136,7 +136,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/social-psychology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-4.svg') }}"
                                             alt="Advance Social Psychology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -162,7 +162,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/cognitive-psychology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-5.svg') }}"
                                             alt="Cognitive Psychology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -187,7 +187,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/organizational-psychology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-6.svg') }}"
                                             alt="Organizational Psychology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -198,14 +198,14 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course provides a foundational understanding of the biological bases of
-                                            human behavioral patterns and emotions, along with an understanding of how
-                                            these can be changed or affected. A laboratory component is included as per
-                                            course requirements.
+                                            This course will provide a basic and foundational understanding of
+                                            biological bases of human behavioral patterns and emotions as well as an
+                                            understanding of how these can be changed or affected. Laboratory component
+                                            will be included as per course requirements.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/biological-psychology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-7.svg') }}"
                                             alt="Biological Psychology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -225,7 +225,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/psychopathology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-8.svg') }}"
                                             alt="Psychopathology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -250,7 +250,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/counselling-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-9.svg') }}"
                                             alt="Counselling and Psychotherapy icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -272,7 +272,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-psychology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/psychology-course-10.svg') }}"
                                             alt="Contemporary Studies in Psychology icon" class="img-fluid">
                                     </div>
                                 </div>

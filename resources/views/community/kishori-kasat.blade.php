@@ -28,8 +28,8 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('/assets/images/faculty/kishori.png') }}" alt="Dr. Manoranjan Ghosh"
-                                class="profile-img img-fluid">
+                            <img src="{{ asset('/assets/images/faculty/faculty-11-modified.webp') }}"
+                                alt="Dr. Manoranjan Ghosh" class="profile-img img-fluid">
                         </div>
                     </div>
 
@@ -40,27 +40,25 @@
                                 <div class="col-md-6">
                                     <div>
                                         <h2 class="faculty-name">Dr. Kishori Kasat</h2>
-                                        <p class="faculty-designation">Assistant Professor</p>
-                                        <!-- <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
-                                        </p> -->
+                                        <p class="faculty-designation">Associate Professor</p>
+                                        <p class="faculty-institute">
+                                            Computer Studies
+                                        </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
                                             <span>kishori.kasat@ssla.edu.in </span>
                                         </p>
-                                       <div class="action-btns mt-3">
-                                        <a href="{{ asset('assets/pdf/cv/KishoriKasat_CV.pdf') }}"
-                                        class="btn btn-outline-light d-inline-flex align-items-center"
-                                        download>
-                                            
-                                            <img src="{{ asset('assets/images/icon/downloads.png') }}"
-                                                alt="Download Icon"
-                                                class="icon-img me-2">
+                                        <div class="action-btns mt-3">
+                                            <a href="{{ asset('assets/pdf/cv/KishoriKasat_CV.pdf') }}"
+                                                class="btn btn-outline-light d-inline-flex align-items-center" download>
 
-                                            <span>Download CV</span>
-                                        </a>
-                                    </div>
+                                                <img src="{{ asset('assets/images/icon/downloads.png') }}"
+                                                    alt="Download Icon" class="icon-img me-2">
+
+                                                <span>Download CV</span>
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -122,7 +120,7 @@
                 </div>
             </div>
             <!-- BIO -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/introduction.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -143,7 +141,7 @@
                     PhD Supervisor under the faculty of Computer Studies and Management at
                     Symbiosis International University (SIU)
                 </p>
-            </div>
+            </div> -->
             <!-- achievement -->
             <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
@@ -173,7 +171,7 @@
                     </ul>
             </div> -->
             <div class="row mb-4">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <!-- PUBLICATIONS -->
                     <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
@@ -182,31 +180,98 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ol class="ps-3">
-                            <li>Kumar, H., Ghosh, M. & Ghosal, S. (2025). Unravelling the
-                                impact of land use transformation on thermal environment across
-                                seasons: A comprehensive study of rapidly urbanising Patna
-                                Planning Area, India. Environmental Science and Pollution
-                                Research. Springer.</li>
-                            <li>Ghosh, M. and Garnaik, S. (2025). Death and Degree:
-                                Establishing a Relationship of Death and Heat in Scorched Delhi.
-                                Greenpeace India.</li>
-                            <li>Ghosh, M. (2024). Heat Havoc: Investigating the Impact on
-                                Street Vendors. Greenpeace India and the National Hawker
-                                Federation.</li>
-                            <li>Ghosh M. and Ghosal S. (2022). Geographies of Socio-
-                                Economic Vulnerability to Climate Change: Empirical Evidence
-
-                                from the Indian Himalayan Foothills; Asia-Pacific Journal of
-                                Regional Science; Springer.</li>
-                            <li>Saha A., Ghosh M., Pal S C, (2022). Estimation of rainfall-
-                                runoff using SCS‐CN method and GIS techniques in
-
-                                drought‐prone area of Upper Kangsabati Watershed, India,
-                                Journal of Sustainable Water Resources Management, Springer.</li>
+                            <li>Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., & Shaikh, N. (2023,
+                                November). Artificial Intelligence in Education: A Comprehensive
+                                Examination of Integration, Impact, and Future Implications.
+                                In International Conference on Optimization and Data Science in Industrial
+                                Engineering (pp. 182-198). Cham: Springer Nature Switzerland. </li>
+                            <li>Ritonga, M., Bangare, M. L., Bangare, P. M., Bangare, Vanjire, S. S., Moholkar,
+                                Kasat, K., & Rozak, P. (2025). Optimized convolutional neural network
+                                deep learning for Arabian handwritten text recognition. Bulletin of
+                                Electrical Engineering and Informatics, 14(2), 1497-1506.</li>
+                            <li>Raghunath, M. P., Deshmukh, S., Chaudhari, P., Bangare, S. L., Kasat, K.,
+                                Awasthy, M., ... & Waghulde, R. R. (2025). PCA and PSO based optimized
+                                support vector machine for efficient intrusion detection in internet of
+                                things. Measurement: Sensors, 37, 101806. </li>
+                            <li>Rapaka, A., Dharmadhikari, S. C., Kasat, K., Mohan, C. R., Chouhan, K., &
+                                Gupta, M. (2025). Revolutionizing learning− A journey into educational
+                                games with immersive and AI technologies. Entertainment Computing, 52,
+                                100809.</li>
+                            <li>Pradeepa, M., Kumaraperumal, S., Kasat, K., Maguluri, L. P., Shajahan, U. S.,
+                                & Gaikwad, S. M. (2024). Digital evolution: Investigating the dynamic
+                                interactions of learners with social media. Entertainment Computing, 50,
+                                100668. </li>
+                            <li>Mahesh Babu, A., Jawarneh, M., Arias‐Gonzáles, J. L., Meenakshi, Kasat, K.,
+                                & Yuvaraj, K. P. (2024). Conversational Chatbot With Object Recognition
+                                Using Deep Learning and Machine Learning. Conversational Artificial
+                                Intelligence, 335-352. </li>
+                            <li>Kasat, K., Shaikh, N., & Iyengar, V. (2023, September). Omnichannel
+                                Strategy Adoption Issues in an eCommerce Company: A SAP-LAP Analysis.
+                                In International Conference on Science, Engineering Management and
+                                Information Technology (pp. 245-257). Cham: Springer Nature Switzerland.</li>
+                            <li>Shaikh, N., Kasat, K., Godi, R. K., Krishna, V. R., Chauhan, D. K., & Kharade,
+                                J. (2023). Novel IoT framework for event processing in healthcare
+                                applications. Measurement: Sensors, 27, 100733. </li>
+                            <li> Shinde, M., Shaikh, N., & Kasat, K. (2023, December). Impact of local
+                                cultures on implementation of industry 4.0. In AIP Conference
+                                Proceedings (Vol. 2914, No. 1). AIP Publishing. </li>
+                            <li> Kasat, K., Shaikh, N., Rayabharapu, V. K., Nayak, M., & Liyakat, K. K. S. (2023,
+                                August). Implementation and Recognition of Waste Management System
+                                with Mobility Solution in Smart Cities using Internet of Things. In 2023
+                                Second International Conference on Augmented Intelligence and Sustainable
+                                Systems (ICAISS) (pp. 1661-1665). IEEE. </li>
+                            <li> Pawar, K., Kasat, K., Deshpande, A. P., & Shaikh, N. (2023, November).
+                                Adoption of Industry 4.0 Technologies for Performance Management.
+                                In 2023 1st DMIHER International Conference on Artificial Intelligence in
+                                Education and Industry 4.0 (IDICAIEI) (Vol. 1, pp. 1-5). IEEE.</li>
+                            <li> Ramkumar, G., Kasat, K., PK, N. M., Raghu, T., & Chhabra, S. (2022). Quality
+                                enhanced framework through integration of blockchain with supply chain
+                                management. Measurement: Sensors, 24, 100462. </li>
+                            <li> Kasat, K., Rani, D. L., Khan, B., Kirubakaran, M. K., & Malathi, P. (2022). A
+                                novel security framework for healthcare data through IOT
+                                sensors. Measurement: Sensors, 24, 100535. </li>
+                            <li> Shaikh, N., Kasat, K., & Jadhav, S. (2022, November). Secured
+                                Authentication by Single Sign On (SSO): A Big Picture. In 2022 International
+                                Conference on Computing, Communication, and Intelligent Systems
+                                (ICCCIS) (pp. 951-955). IEEE.</li>
+                            <li> Shaikh, N., Kasat, K., Moyal, V., Kumar, N. D., Ponnusamy, S., & Pavithra, K.
+                                (2022, November). Application of IoT to Monitor the Shipping of Goods in
+                                Maritime Transportation System. In 2022 IEEE North Karnataka Subsection
+                                Flagship International Conference (NKCon) (pp. 1-5). IEEE. </li>
+                            <li> Kasat, K., Sahasrabudhe, S., & Shaikh, N. (2021). Distilling factors
+                                influencing
+                                international
+                                mobility:
+                                international
+                                students'
+                                perspectives. International Journal of Public Sector Performance
+                                Management, 8(1-2), 103-127. </li>
+                            <li> Sahasrabudhe, S., Shaikh, N., & Kasat, K. (2020). Internationalisation of
+                                higher education-Necessity to adapt to new forms of engagement for
+                                ensuring
+                                sustainability? Journal
+                                of
+                                Statistics
+                                and
+                                Management
+                                Systems, 23(2), 431-444. </li>
+                            <li>Kasat, K., Shaikh, N., Chandrachud, M., & Saini, J. R. (2019). Impact of
+                                flipped classroom on engagement of post-graduate students under the
+                                faculty of social sciences. In ICERI2019 Proceedings (pp. 7582-7590). IATED. </li>
+                            <li> Shaikh, N., Kumari, S., & Kasat, K. (2018). Exploring e-governance of faculty
+                                evaluation system: using a total interpretive structural modeling
+                                approach. Journal of Cases on Information Technology (JCIT), 20(3), 36-47. </li>
+                            <li> Kumari, S., Kasat, K., & Patil, Y. (2017). Resource Based View of Innovative
+                                Strategies in Sugar Industry and Their Effects Towards Healthcare. Indian
+                                Journal of Public Health Research & Development, 8(4). </li>
+                            <li> Shaikh, N., & Kasat, K. (2009, December). E-governance in education as an
+                                effective management control tool in developing human resource-faculty
+                                appraisal system. In 2009 Second International Conference on Emerging
+                                Trends in Engineering & Technology (pp. 410-415). IEEE. </li>
                         </ol>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 mt-4">
                     <!-- EDUCATION -->
                     <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
@@ -215,8 +280,8 @@
                             <h4 class="section-title">Education</h4>
                         </div>
                         <ul>
-                           <li>PhD, M Phil, UGC-NET, M Sc in Electronic Sciences</li>
-                          <li>MBA (Computer Management & Finance)</li>
+                            <li>PhD, M Phil, UGC-NET, M Sc in Electronic Sciences</li>
+                            <li>MBA (Computer Management & Finance)</li>
                         </ul>
                     </div>
                 </div>

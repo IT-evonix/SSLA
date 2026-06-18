@@ -28,7 +28,7 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('/assets/images/faculty/faculty-15.webp') }}"
+                            <img src="{{ asset('/assets/images/faculty/Nikhil-Thorat-Photo-for-Website.webp') }}"
                                 alt="Dr. Manoranjan Ghosh" class="profile-img img-fluid">
                         </div>
                     </div>
@@ -42,8 +42,7 @@
                                         <h2 class="faculty-name">Mr. Nikhil Thorat</h2>
                                         <p class="faculty-designation">Assistant Professor </p>
                                         <p class="faculty-institute">
-                                            Symbiosis School for Liberal Arts, Pune, India <br>
-                                            Symbiosis International (Deemed University)
+                                          Economics
                                         </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
@@ -68,18 +67,18 @@
                                         <h4 class="research-title">Research Profiles</h4>
                                         <ul class="profile-links">
                                             <li>
-                                                <a href="https://scholar.google.com/citations?user=tr8PJHQAAAAJ&hl=en"
+                                                <a href="https://scholar.google.com/citations?user=Xt-odtoAAAAJ&hl=en"
                                                     target="_blank" rel="noopener">
                                                     Google Scholar
                                                 </a>
                                             </li>
 
-                                            <li> <a href="https://orcid.org/0000-0003-4510-5618" target="_blank"
+                                            <li> <a href="https://orcid.org/0000-0002-5796-2396" target="_blank"
                                                     rel="noopener">
                                                     ORCID
                                                 </a> </li>
 
-                                            <li> <a href="#" target="_blank" rel="noopener">
+                                            <li> <a href="https://vidwan.inflibnet.ac.in/profile/276683" target="_blank" rel="noopener">
                                                     Vidwan
                                                 </a>
                                             </li>
@@ -116,7 +115,7 @@
                 </div>
             </div>
             <!-- BIO -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/introduction.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -126,7 +125,7 @@
                     provides expertise in economic sciences and also contributes to university governance through
                     curriculum design, student welfare, quality assurance, and regulatory compliance, he plays a role in
                     driving academic excellence and shaping a progressive, student-centric campus culture.</p>
-            </div>
+            </div> -->
 
             <div class="col-md-6">
                 <!-- EDUCATION -->
@@ -150,14 +149,8 @@
                 <h4 class="section-title">Research Interests</h4>
             </div>
             <ul class="research-list">
-                <li>Climate Vulnerability & Adaptation</li>
-                <li>Forest Resource Management</li>
-                <li>Environmental Economics</li>
-                <li>Green Urban Planning</li>
-                <li>Environmental Justice</li>
-                <li>Energy & Just Transitions</li>
-                <li>Air Pollution Mitigation</li>
-                <li>Dalit Environmentalism</li>
+                <li>Nikhil Thorat is engaged in areas such Social & Income Inequality. Growth and Development.</li>
+               
             </ul>
         </div>
         </div>

@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="inner__red_heading">Business Studies</h1>
+                    <h1 class="inner__red_heading">Media Studies</h1>
                 </div>
             </div>
             <div class="row">
@@ -49,7 +49,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/media-theory-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-1.svg') }}"
                                             alt="Media Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/visual-audio-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-2.svg') }}"
                                             alt="Visual and Audio Communication icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/journalism-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-3.svg') }}"
                                             alt="Introduction to Journalism icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/audio-visual-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-4.svg') }}"
                                             alt="Audio Visual Radio and Television icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -147,15 +147,14 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/marketing-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-5.svg') }}"
                                             alt="Marketing Communication icon" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
 
                             <div class="subject_listing">
-                                <div class="subject_listing_heading">Practical: Creation of a Newspaper/Film/Marketing
-                                    Communication</div>
+                                <div class="subject_listing_heading">Practical: Creation of a Newspaper/Film/Marketing/Communication-AD,PR Events with New Media</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
@@ -174,7 +173,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/practical-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-6.svg') }}"
                                             alt="Practical Creation icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -200,7 +199,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/ethics-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-7.svg') }}"
                                             alt="Media Ethics and Laws icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -225,7 +224,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/business-media-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-8.svg') }}"
                                             alt="Economics and Business of Media icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -245,7 +244,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/film-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-9.svg') }}"
                                             alt="Introduction to Films icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -272,7 +271,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/corporate-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-10.svg') }}"
                                             alt="Corporate Communication icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -298,7 +297,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/copywriting-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-11.svg') }}"
                                             alt="Advertising Creative and Copywriting icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -317,7 +316,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/consumer-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-12.svg') }}"
                                             alt="Media and Consumer Behaviour icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -341,7 +340,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/research-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-13.svg') }}"
                                             alt="Media Research and Capstone Project icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -367,7 +366,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/design-thinking-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/media-studies-14.svg') }}"
                                             alt="Design Thinking and Innovation icon" class="img-fluid">
                                     </div>
                                 </div>

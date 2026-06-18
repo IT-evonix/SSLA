@@ -42,13 +42,13 @@
                                         <h2 class="faculty-name">Esha Prasad</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
+                                           Archaeology & Anthropology
                                         </p>
-                                        <!-- <p class="faculty-email-label d-flex align-items-center">
+                                        <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
-                                            <span>manoranjan.ghosh@ssla.edu.in</span>
-                                        </p> -->
+                                            <span>esha.prasad@ssla.edu.in</span>
+                                        </p>
                                         <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/pdf/cv/Esha_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
@@ -59,11 +59,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="col-md-6"> -->
-                                    <!-- <div class="mt-5">
+                                <div class="col-md-6">
+                                    <div class="mt-5">
                                         <h4 class="research-title">Research Profiles</h4>
                                         <ul class="profile-links">
-                                            <li>
+                                            <!-- <li>
                                                 <a href="https://scholar.google.com/citations?user=rtI0HlYAAAAJ&hl=en"
                                                     target="_blank" rel="noopener">
                                                     Google Scholar
@@ -74,22 +74,22 @@
                                                     rel="noopener">
                                                     ResearcherID
                                                 </a>
-                                            </li>
+                                            </li> -->
                                             <li>
-                                                <a href="https://orcid.org/0000-0002-3411-3287" target="_blank"
+                                                <a href="https://orcid.org/0000-0001-7695-7042 " target="_blank"
                                                     rel="noopener">
                                                     ORCID
                                                 </a>
                                             </li>
-                                            <li>
+                                            <!-- <li>
                                                 <a href="https://vidwan.inflibnet.ac.in/profile/427147" target="_blank"
                                                     rel="noopener">
                                                     Vidwan
                                                 </a>
-                                            </li>
+                                            </li> -->
                                         </ul>
 
-                                    </div> -->
+                                    </div> 
                                     <!-- <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/cv/Dr_Manoranjan_Ghosh_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
@@ -98,7 +98,7 @@
                                                 <span>Download CV</span>
                                             </a>
                                         </div> -->
-                                <!-- </div> -->
+                                </div>
                             </div>
                             <!-- Teaching Philosophy -->
                             <div class="teaching-philosophy">
@@ -162,7 +162,7 @@
                             <li>Prasad Esha, Prabodh Shirvalkar, Shashank Babu, Tariq Tamboli 2025. Beyond the mines: Chalcolithic pattern of settlement along the Khetri belt, Rajasthan, India. L'Anthropologie, Volume 129, Issue 4.  
                                 <a href="https://doi.org/10.1016/j.anthro.2025.103405" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.anthro.2025.103405</a></li>
                             <li>Shirvalkar Prabodh, Esha Prasad and Y.S. Rawat 2025. Caravanserai, a lesser-known aspect of Harappan trade mechanism: A case study of Kotada Bhadli, Kachchh, Gujarat, India. L'Anthropologie, Volume 129, Issue 4.  
-                                <a href="https://doi.org/10.1016/j.anthro.2025.103409 " target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.anthro.2025.103409 </a></li>
+                                <a href="https://doi.org/10.1016/j.anthro.2025.103409" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.anthro.2025.103409 </a></li>
                               <li>
                                Prasad Esha and Shweta Sinha Deshpande 2024. Relooking at the Archaeology of Neem ka Thana Tehsil, Rajasthan, India, Archaeological Research in Asia, volume 39.
                                 <a href="https://doi.org/10.1016/j.ara.2024.100538" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.ara.2024.100538</a>
@@ -176,7 +176,7 @@
                             </li>
 
                             <li>
-                              	Prasad Esha and R N Singh 2021. The Chronology of the Ganeshwar Jodhpura Culture: A Reassessment Based on Graffiti and Cross-Cultural Comparisons, Ancient Asia, 12, 10. http://doi.org/10.5334/aa.238 
+                              	Prasad Esha and R N Singh 2021. The Chronology of the Ganeshwar Jodhpura Culture: A Reassessment Based on Graffiti and Cross-Cultural Comparisons, Ancient Asia, 12, 10. <a href="http://doi.org/10.5334/aa.238">http://doi.org/10.5334/aa.238 </a>
                             </li>
                         </ol>
                     </div>

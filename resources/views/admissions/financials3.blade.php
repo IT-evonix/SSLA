@@ -42,32 +42,678 @@
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="contact-fist-tab" role="tabpanel"
                             aria-labelledby="contact-tab-1" tabindex="0">
-                            <section class="research-colloquia-bs py-5">
+                            <div class="research-colloquia-bs">
                                 <div class="container">
                                     <!-- Header -->
-                                    <div class="row mb-5">
-                                        <div class="col-lg-12 text-center">
-                                            <h2 class="rc-title">Academic Fees 2026</h2>
+                                    <div class="row">
+                                        <div class="col-lg-12 text-center new_academic_fee_tab_content_content">
+                                            <h2 class="inner__subheading">Academic Fees</h2>
+                                            <p>
+                                                Approved Fee Structure for Batch 2026-2030 in the Academic Year
+                                                2026-2027- INDIAN STUDENTS
+                                                (Annexure I)
+                                            </p>
+                                            <p>
+                                                The fees mentioned here are only for the First Year of the programme.
+                                                Please note that Academic Fees can be increased up to 10% over the
+                                                duration of the entire programme. Government taxes (if any) would be
+                                                additional as and when applicable.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="new_academic_fee_tab_content_box">
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Program Fees for Bachelor of Arts (Liberal Arts)
+                                                                    Honours with Research / Bachelor of Science (Liberal
+                                                                    Arts) Honours with Research</th>
+                                                                <th>1st Year Academic Year 2026-27 (Amount in ₹)</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Academic Fees (Per Annum)</td>
+                                                                <td>₹ 5,10,000</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Institute Deposit (Refundable)</td>
+                                                                <td>₹ 20,000</td>
+                                                            </tr>
+
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th rowspan="2">
+                                                                    Installments for Bachelor of Arts (Liberal Arts)
+                                                                    Honours with Research / Bachelor of Science (Liberal
+                                                                    Arts) Honours with Research
+                                                                </th>
+                                                                <th colspan="2">
+                                                                    1st Year 2026-27 (Amount in ₹)
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <th class="rounded-0">1st Installment</th>
+                                                                <th class="rounded-0">2nd Installment</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Academic Fees (Per Annum)</td>
+                                                                <td>₹ 2,55,000</td>
+                                                                <td>₹ 2,55,000</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Institute Deposit (Refundable)</td>
+                                                                <td>₹ 20,000</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Installments</td>
+                                                                <td>₹ 2,75,000</td>
+                                                                <td>₹ 2,55,000</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Last date of payment</td>
+                                                                <td>At the time of Admission</td>
+                                                                <td>25-Nov-26</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>
+                                                                    Hostel and Mess Fees
+                                                                </th>
+
+                                                                <th colspan="3">
+                                                                    Amount in ₹ for 1st Year 2026-27
+                                                                </th>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <th class="rounded-0">(Subject to campus
+                                                                    change/allotment and accommodation type wise, e.g.
+                                                                    Single Sharing, Twin Sharing, Triple Sharing, Four
+                                                                    Sharing, Dormitory) (The fees indicated herein are
+                                                                    for Viman Nagar Campus Only)</th>
+                                                                <th>Total Fees</th>
+                                                                <th>1st Installment</th>
+                                                                <th class="rounded-0">2nd Installment</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Mess Fees (Per Annum)</td>
+                                                                <td>₹ 1,19,600</td>
+                                                                <td>₹ 59,800</td>
+                                                                <td>₹ 59,800</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Hostel Deposit (Refundable)</td>
+                                                                <td>₹ 20,000</td>
+                                                                <td>₹ 20,000</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Hostel Fees (Different, Subject to Sharing, Per
+                                                                    Annum)</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Daffodil hostel</td>
+                                                                <td>₹ 1,93,100</td>
+                                                                <td>₹ 1,93,100</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Three Sharing - Daisy hostel</td>
+                                                                <td>₹ 1,61,600</td>
+                                                                <td>₹ 1,61,600</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Orchid hostel</td>
+                                                                <td>₹ 2,13,000</td>
+                                                                <td>₹ 2,13,000</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Orchid hostel</td>
+                                                                <td>₹ 1,79,700</td>
+                                                                <td>₹ 1,79,700</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Tulip hostel</td>
+                                                                <td>₹ 2,13,000</td>
+                                                                <td>₹ 2,13,000</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Tulip hostel</td>
+                                                                <td>₹ 1,90,600</td>
+                                                                <td>₹ 1,90,600</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Kopou hostel</td>
+                                                                <td>₹ 1,90,600</td>
+                                                                <td>₹ 1,90,600</td>
+                                                                <td>-</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Last date of payment</td>
+                                                                <td>At the time of Admission</td>
+                                                                <td>25-Nov-26</td>
+                                                                <td></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <p class="text-center">
+                                                    (Annexure Il)
+                                                </p>
+                                                <p class="text-center mb-3">
+                                                    <strong>(a) Fees Payable by the students taking admission in NRI,
+                                                        PIO, OCI Category.</strong>
+                                                </p>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th rowspan="2">
+                                                                    Program Fees for Bachelor of Arts (Liberal Arts)
+                                                                    Honours with Research / Bachelor of Science (Liberal
+                                                                    Arts) Honours with Research
+                                                                </th>
+                                                                <th>
+                                                                    Student taking Admission in
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <th class="rounded-0">
+                                                                    (a) NRI, PIO, OCI Category <br>
+                                                                    1st Year 2026-27 (Amount in US$)
+                                                                </th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Academic Fees (Per Annum)</td>
+                                                                <td>$9,575</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Academic Fees (per Annum) to be paid (A)</td>
+                                                                <td>$9,575</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Institute Deposit (Refundable) (B)</td>
+                                                                <td>$275</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Administrative Fees (Non-Refundable)</td>
+                                                                <td>$550</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Administrative Fees (Non-Refundable) to be paid (C)
+                                                                </td>
+                                                                <td>$550</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Total Fees to be paid (D) = (A+B+C)</td>
+                                                                <td>$10,400</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th rowspan="2">
+                                                                    (a) Installments for Bachelor of Arts (Liberal Arts)
+                                                                    Honours with Research / Bachelor of Science (Liberal
+                                                                    Arts) Honours with Research students taking
+                                                                    Admission in NRI, PIO, OCI Category
+                                                                </th>
+                                                                <th colspan="3">
+                                                                    1st Year 2026-27 (Amount in US$)
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <th class="rounded-0">1st Installment</th>
+                                                                <th class="rounded-0">2nd Installment</th>
+                                                                <th class="rounded-0">3rd Installment</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Administrative Fees (Non-Refundable)</td>
+                                                                <td>$550</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Academic Fees (Per Annum)</td>
+                                                                <td>$540</td>
+                                                                <td>$4,520</td>
+                                                                <td>$4,515</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Institute Deposit (Refundable)</td>
+                                                                <td>$275</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Installments</td>
+                                                                <td>$1,365</td>
+                                                                <td>$4,520</td>
+                                                                <td>$4,515</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Last date of payment</td>
+                                                                <td>At the time of acceptance of ‘Offer Letter’</td>
+                                                                <td>At the time of Reporting to SCIE</td>
+                                                                <td>25-Nov-26</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>
+                                                                    (a) Hostel and Mess Fees
+                                                                </th>
+
+                                                                <th colspan="3">
+                                                                    Student taking Admission in NRI, PIO, OCI Category
+                                                                    1st Year 2026-27 (Amount in US$)
+                                                                </th>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <th class="rounded-0">
+                                                                    (b) (Subject to campus change/allotment and
+                                                                    accommodation type wise, e.g. Single Sharing, Twin
+                                                                    Sharing, Triple Sharing, Four Sharing, Dormitory)
+                                                                    (The fees indicated herein are for Viman Nagar
+                                                                    Campus Only)
+                                                                </th>
+                                                                <th>Total Fees</th>
+                                                                <th>1st Installment</th>
+                                                                <th class="rounded-0">2nd Installment</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Mess Fees {Per Annum}</td>
+                                                                <td>$1,400</td>
+                                                                <td>$700</td>
+                                                                <td>$700</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Hostel Deposit (Refundable)</td>
+                                                                <td>$250</td>
+                                                                <td>$250</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Hostel Fees (Different, Subject to Sharing, Per
+                                                                    Annum)</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Daffodil hostel</td>
+                                                                <td>$2,240</td>
+                                                                <td>$2,240</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Daisy hostel</td>
+                                                                <td>$1,870</td>
+                                                                <td>$1,870</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Orchid hostel</td>
+                                                                <td>$2,470</td>
+                                                                <td>$2,470</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Orchid hostel</td>
+                                                                <td>$2,080</td>
+                                                                <td>$2,080</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Tulip hostel</td>
+                                                                <td>$2,470</td>
+                                                                <td>$2,470</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Tulip hostel</td>
+                                                                <td>$2,210</td>
+                                                                <td>$2,210</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Kopou hostel</td>
+                                                                <td>$2,210</td>
+                                                                <td>$2,210</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Last date of payment</td>
+                                                                <td></td>
+                                                                <td>At the time of</td>
+                                                                <td>25-Nov-26</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <p class="text-center mb-3">
+                                                    <strong>
+                                                        (b) Fees Payable by the students taking admission in Foreign
+                                                        National Category.
+                                                    </strong>
+                                                </p>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th rowspan="2">
+                                                                    Program Fees for Bachelor of Arts (Liberal Arts)
+                                                                    Honours with Research / Bachelor of Science (Liberal
+                                                                    Arts) Honours with Research
+                                                                </th>
+                                                                <th>
+                                                                    Student taking Admission in
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <th class="rounded-0">(b) Foreign National Category 1st
+                                                                    Year 2026-27 (Amount in US$)</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Academic Fees (Per Annum)</td>
+                                                                <td>$9,575</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Less: Symbiosis Golden Jubilee Scholarship to
+                                                                    Foreign National Students</td>
+                                                                <td>$8,275</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Academic Fees (per Annum) to be paid (A)</td>
+                                                                <td>$1,300</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Institute Deposit (Refundable) (B)</td>
+                                                                <td>$275</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Administrative Fees (Non-Refundable)</td>
+                                                                <td>$550</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Less: 50% Fee Concession on Administrative Fees</td>
+                                                                <td>$275</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Administrative Fees (Non-Refundable) to be paid (C)
+                                                                </td>
+                                                                <td>$275</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Total Fees to be paid (D)= (A+B+C)</td>
+                                                                <td>$1,850</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive mb-2">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th rowspan="2">
+                                                                    (b) Installments for Bachelor of Arts (Liberal Arts)
+                                                                    Honours with Research / Bachelor of Science (Liberal
+                                                                    Arts) Honours with Research students taking
+                                                                    Admission in Foreign National Category
+                                                                </th>
+                                                                <th colspan="3">
+                                                                    1st Year 2026-27 (Amount in $)
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <th class="rounded-0">1st Installment</th>
+                                                                <th class="rounded-0">2nd Installment</th>
+                                                                <th class="rounded-0">3rd Installment</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Administrative Fees (Non-Refundable)</td>
+                                                                <td>$275</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Academic Fees (Per Annum)</td>
+                                                                <td>$815</td>
+                                                                <td>$240</td>
+                                                                <td>$245</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Institute Deposit (Refundable)</td>
+                                                                <td>$275</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Installments</td>
+                                                                <td>$1,365</td>
+                                                                <td>$240</td>
+                                                                <td>$245</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Last date of payment</td>
+                                                                <td>At the time of acceptance of ‘Offer Letter’</td>
+                                                                <td>At the time of Reporting to SCIE</td>
+                                                                <td>25-Nov-26</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive">
+                                                    <table class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th rowspan="2">
+                                                                    (b) Hostel and Mess Fees <br>
+                                                                    (b) (Subject to campus change/allotment and
+                                                                    accommodation type wise, e.g. Single Sharing, Twin
+                                                                    Sharing, Triple Sharing, Four Sharing, Dormitory)
+                                                                    (The fees indicated herein are for Viman Nagar
+                                                                    Campus Only)
+                                                                </th>
+                                                                <th colspan="3">
+                                                                    Student taking Admission in Foreign National
+                                                                    Category 1st Year 2026-27 (Amount in US$)
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <th class="rounded-0">Total Fees</th>
+                                                                <th class="rounded-0">1st Installment</th>
+                                                                <th class="rounded-0">2nd Installment</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Mess Fees {Per Annum}</td>
+                                                                <td>$560</td>
+                                                                <td>$280</td>
+                                                                <td>$280</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Hostel Deposit (Refundable)</td>
+                                                                <td>$250</td>
+                                                                <td>$250</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Hostel Fees (Different, Subject to Sharing, Per
+                                                                    Annum)</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Daffodil hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Daisy hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Orchid hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Orchid hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Twin Sharing - Tulip hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Tulip hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>Three Sharing - Kopou hostel</td>
+                                                                <td>$650</td>
+                                                                <td>$650</td>
+                                                                <td></td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td colspan="2">Last date of payment</td>
+                                                                <td>At the time of Reporting to SCIE</td>
+                                                                <td>25-Nov-26</td>
+
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </section>
+                            </div>
                         </div>
                         <div class="tab-pane fade" id="contact-second-tab" role="tabpanel"
                             aria-labelledby="contact-tab-2" tabindex="0">
-                            <div class="rw-academic-modern py-5">
+                            <div class="rw-academic-modern">
                                 <div class="container">
                                     <!-- Header -->
                                     <div class="row">
                                         <div class="col-lg-12 text-center">
-                                            <h2 class="rc-title" data-aos="fade-up">Rules for Refund Policy</h2>
+                                            <h2 class="inner__subheading" data-aos="fade-up">Rules for Refund Policy
+                                            </h2>
                                         </div>
                                     </div>
                                     <!-- Content -->
                                     <div class="text-center">
                                         <div data-aos="fade-up">
-                                            <div class="main-class-download">
-                                                <a href="https://www.siu.edu.in/siteassets/pdf/refund-policy-pdf.pdf" target="_blank" class="download-btn">
+                                            <div class="main-class-download m-0">
+                                                <a href="https://www.siu.edu.in/siteassets/pdf/refund-policy-pdf.pdf"
+                                                    target="_blank" class="download-btn">
                                                     <span id="lottie-container" class="download-lottie"></span>
                                                     <span class="btn-text">Download Refund Policy PDF</span>
                                                 </a>
@@ -79,12 +725,13 @@
                         </div>
                         <div class="tab-pane fade" id="hostel-third-tab" role="tabpanel" aria-labelledby="hostel-tab-2"
                             tabindex="0">
-                            <div class="rw-academic-modern py-5">
+                            <div class="rw-academic-modern">
                                 <div class="container">
                                     <!-- Header -->
                                     <div class="row">
                                         <div class="col-lg-12 text-center">
-                                            <h2 class="rc-title" data-aos="fade-up">Symbiosis Vimannagar New & Ishanya
+                                            <h2 class="inner__subheading" data-aos="fade-up">Symbiosis Vimannagar New &
+                                                Ishanya
                                                 Campus</h2>
                                         </div>
                                     </div>
@@ -92,7 +739,7 @@
                                     <div data-aos="fade-up">
                                         <div class="set-registration">
                                             <h3 class="table-heading">
-                                               HOSTEL AND MESS FEES FOR FRESHERS: NEW VIMAN NAGAR CAMPUS – AY 2023–24
+                                                HOSTEL AND MESS FEES FOR FRESHERS: NEW VIMAN NAGAR CAMPUS – AY 2023–24
                                             </h3>
                                             <div class="table-responsive">
                                                 <table class="table table-bordered align-middle admission-table">

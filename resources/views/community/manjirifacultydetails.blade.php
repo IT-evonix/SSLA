@@ -28,7 +28,7 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('/assets/images/faculty/Dr. Manjari Jonnalagadda.png') }}"
+                            <img src="{{ asset('/assets/images/faculty/Dr-Manjari Jonnalagadda.webp') }}"
                                 alt="Dr. Manjari Jonnalagadda" class="profile-img img-fluid">
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                                 <div class="col-md-7">
                                     <div>
                                         <h2 class="faculty-name">Dr. Manjari Jonnalagadda</h2>
-                                        <p class="faculty-designation">(Assistant Professor)</p>
+                                        <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
                                             Anthropology
                                         </p>
@@ -49,17 +49,17 @@
                                                 class="icon-img me-2">
                                             <span>manjari.jonnalagadda@ssla.edu.in</span>
                                         </p>
-                                        <div class="action-btns mt-3">
+                                        <!-- <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/pdf/Manjari Jonnalagadda_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
                                                     alt="Download icon" class="icon-img me-2">
                                                 <span>Download CV</span>
                                             </a>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
-                                <div class="col-md-5">
+                                <!-- <div class="col-md-5">
                                     <div class="">
                                         <h4 class="research-title">Research Profiles</h4>
                                         <ul class="profile-links">
@@ -88,8 +88,8 @@
                                             </li>
                                         </ul>
 
-                                    </div>
-                                    <!-- <div class="action-btns mt-3">
+                                    </div> -->
+                                <!-- <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/cv/Dr_Manoranjan_Ghosh_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
@@ -97,10 +97,10 @@
                                                 <span>Download CV</span>
                                             </a>
                                         </div> -->
-                                </div>
                             </div>
-                            <!-- Teaching Philosophy -->
-                            <div class="teaching-philosophy">
+                        </div>
+                        <!-- Teaching Philosophy -->
+                        <!-- <div class="teaching-philosophy">
                                 <h5>Teaching Philosophy</h5>
                                 <p>
                                     Her teaching philosophy emphasizes experiential and problem-solving approaches to
@@ -110,11 +110,11 @@
                                     participation, and real-world application of concepts.
 
                                 </p>
-                            </div>
-                        </div>
+                            </div> -->
                     </div>
                 </div>
             </div>
+            <!-- </div> -->
             <!-- BIO -->
             <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
@@ -123,15 +123,38 @@
                     <h4 class="section-title">Bio</h4>
                 </div>
                 <p>
-                    Dr. Manjari Jonnalagadda is a molecular anthropologist specializing in the evolution of complex
-                    traits in Indian populations. Her research integrates phenotypic, genetic, and evolutionary
-                    approaches, with a primary focus on skin pigmentation, population structure, and health-related
-                    genetic variation. Her work highlights the role of endogamy and genetic variants over natural
-                    selection in shaping pigmentation diversity across Indian populations.
+                    Dr. Manjari Jonnalagadda is a molecular anthropologist who is interested in understanding the
+                    evolution of complex traits among Indian populations using phenotypic, genetic and evolutionary
+                    perspectives.
+                    Her doctoral work was supported by the Women Scientist-A grant from DST wherein she characterized
+                    the phenotypic and genotypic variation in skin pigmentation among diverse social groups of West
+                    Maharashtra and has found significant skin pigmentation differences among caste and tribal
+                    populations, along with a weak correlation between melanin levels and UVR across the subcontinental
+                    region indicating that natural selection may not be the dominant factor in shaping this variation,
+                    and factors such as endogamy may have led to the development of population structure thereby
+                    contributing to pigmentation diversity in West Maharashtra and across the Indian subcontinent. An
+                    association analysis shows the rs1426654 - SLC24A5 variant explains a majority of the observed
+                    variation in skin pigmentation in West Maharashtra.
+                    Her post-doctoral work at the University of Toronto, Canada focused on exploring the genetic
+                    architecture of skin pigmentation in Indians using a whole genome approach by performing a genome
+                    wide association analysis (GWAS).
+                    Through the award of an Early Career Research Award (ECRA) grant from SERB, GoI she studied the role
+                    of candidate pigmentation gene MC1R in shaping pigmentation diversity in Maharashtra. This project
+                    analyzed MC1R sequence diversity in populations with diverse pigmentary profiles to see if MC1R is
+                    constrained in dark skinned tribal as compared to lighter skinned caste populations in West
+                    Maharashtra. Analysis revealed no evidence of a selective constraint on MC1R suggesting that these
+                    polymorphisms may not be influencing pigmentation variation among populations in this region.
+                    Her future projects involve understanding the correlations between skin pigmentation and vitamin D
+                    levels in Indian populations with diverse pigmentary profiles. She is also working towards
+                    understating the genetic variants involved in the skin mediated vitamin D biosynthesis pathway to be
+                    able to comment on genetic factors that contribute to vitamin D deficiency in Indian populations.
+                    Through her doctoral students she is interested in exploring the domain of personalized medicine
+                    through the analysis of genes and genetic variations involved in drug metabolism.
+
                 </p>
             </div>
-                    <!-- achievement -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- achievement -->
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/achievement.png') }}" alt="Introduction icon"
                         class="header-icon">
@@ -157,11 +180,11 @@
                 to Indian contexts.
             </li>
             </ul>
-            </div>
+            </div> -->
             <div class="row mb-4">
                 <div class="col-md-6">
                     <!-- PUBLICATIONS -->
-                    <div class="section-card" data-aos="fade-up">
+                    <!-- <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
                             <img src="{{ asset('/assets/images/faculty/inner/publication.svg') }}"
                                 alt="Introduction icon" class="header-icon">
@@ -184,11 +207,11 @@
 
 
                         </ol>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-md-6">
                     <!-- EDUCATION -->
-                    <div class="section-card" data-aos="fade-up">
+                    <!-- <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
                             <img src="{{ asset('/assets/images/faculty/inner/education.svg') }}" alt="Introduction icon"
                                 class="header-icon">
@@ -204,11 +227,11 @@
                                 Focused on whole-genome approaches to study the genetic architecture of skin
                                 pigmentation in Indian populations using GWAS</li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <!-- RESEARCH INTERESTS -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -218,17 +241,17 @@
                     <li>Evolution of complex traits in Indian populations</li>
                     <li>Evolution of complex traits in Indian populations</li>
                     <li>Skin pigmentation diversity and population structure</li>
-                    <li>Genetic and phenotypic variation across caste and tribal groups</li>
+                    <li>Genetic and phenotypic variation across caste and <br>tribal groups</li>
                     <li>Genome-wide association studies (GWAS)</li>
                     <li>Role of pigmentation genes (e.g., SLC24A5, MC1R)</li>
                     <li>Skin pigmentation and vitamin D metabolism</li>
-                    <li>Genetic basis of vitamin D deficiency in Indian populations</li>
+                    <li>Genetic basis of vitamin D deficiency in Indian<br> populations</li>
                     <li>Personalized medicine and pharmacogenomics</li>
                     <li>Genes involved in drug metabolism</li>
                 </ul>
-            </div>
+            </div> -->
             <!-- AWARDS -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -238,9 +261,9 @@
                     <li><strong>Women Scientist-A Grant,</strong> Department of Science and Technology (DST), Government
                         of India</li>
                     <li><strong>Early Career Research Award (ECRA),</strong> SERB, Government of India
-            </div>
+            </div> -->
             <!-- COURSES -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -251,7 +274,7 @@
                     <li>Make it shorter for a website</li>
                     <li>Convert it into third-person bio / CV format</li>
                 </ul>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- Details section End -->

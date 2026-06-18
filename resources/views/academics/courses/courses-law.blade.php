@@ -42,7 +42,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/media-theory-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/law-1.svg') }}"
                                             alt="Media Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -57,7 +57,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/visual-audio-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/law-2.svg') }}"
                                             alt="Visual and Audio Communication icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/journalism-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/law-3.svg') }}"
                                             alt="Introduction to Journalism icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -88,7 +88,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/audio-visual-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/law-4.svg') }}"
                                             alt="Audio Visual Radio and Television icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -104,7 +104,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/marketing-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/law-5.svg') }}"
                                             alt="Marketing Communication icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -112,7 +112,7 @@
 
                             <div class="subject_listing">
                                 <div class="subject_listing_heading">Human Rights and Related Laws
-                                    Communication</div>
+                                    </div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
@@ -120,7 +120,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/practical-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/law-6.svg') }}"
                                             alt="Practical Creation icon" class="img-fluid">
                                     </div>
                                 </div>

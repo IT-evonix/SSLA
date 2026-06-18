@@ -48,17 +48,19 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Principles of Sociology introduces students to the study of society,
-                                            social structures, and human interactions. Covering the origins of
-                                            sociology, major theoretical perspectives, and key concepts, the course
-                                            explores socialization, control, change, and the dynamics of stability
-                                            and transformation. Students learn qualitative research methods and
-                                            engage with global and contemporary examples through discussions,
-                                            case studies, and multimedia resources.
+                                            Principles of Sociology introduces students to the study of society, social
+                                            structures, and human interactions. Covering the origins of sociology, major
+                                            theoretical perspectives, and key concepts, the course explores
+                                            socialization, control, change, and the dynamics of stability and
+                                            transformation. Students learn qualitative research methods and engage with
+                                            global and contemporary examples. Through discussions, case studies, and
+                                            multimedia resources, the course develops analytical, observational, and
+                                            critical thinking skills, enabling students to understand, evaluate, and
+                                            interpret societal structures and social processes.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/principles-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-1.svg') }}"
                                             alt="Principles of Sociology icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -84,7 +86,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/classical-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-2.svg') }}"
                                             alt="Classical Sociological Theory icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -108,7 +110,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/sociology-india-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-3.svg') }}"
                                             alt="Sociology of India: Themes and Perspectives icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -131,7 +133,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/gender-sexuality-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-4.svg') }}"
                                             alt="Sociology of Gender and Sexuality icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -155,7 +157,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/popular-culture-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-5.svg') }}"
                                             alt="Popular Culture, Media and Everyday Life icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -180,7 +182,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/environment-ecology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-6.svg') }}"
                                             alt="Environment, Ecology and Society icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -203,7 +205,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-7.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -228,7 +230,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-8.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -253,7 +255,7 @@
                                             policy-oriented research initiatives. </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-9.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -270,9 +272,9 @@
                                             To classify different types of democracies and capitalisms, as well as the
                                             socialist
                                             criticism of classical free-market liberalism.
-                                            To explain the role of civil society, as a space for people?"s action, with
+                                            To explain the role of civil society, as a space for people's action, with
                                             specific
-                                            reference to the women?"s movements and Marxist and Socialist feminist
+                                            reference to the women's movements and Marxist and Socialist feminist
                                             criticism of
                                             capitalism.
                                             To classify civil society organisations as belonging to people-based
@@ -280,10 +282,11 @@
                                             co-opted within the broader capitalist democratic power structure.
                                             To explain and outline sociologically the strategic choices that individuals
                                             make as both
-                                            political and economic agents for their upward mobility. </p>
+                                            political and economic agents for their upward mobility.
+                                        </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-10.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -307,7 +310,7 @@
                                             understand how scientific knowledge shapes society and everyday life.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-11.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -332,7 +335,7 @@
                                             responsibility, and appreciation for diverse ways of knowing.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-12.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -356,7 +359,7 @@
                                             alternative social and political possibilities.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-13.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -380,7 +383,7 @@
                                             political development.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-14.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -404,7 +407,7 @@
                                             contemporary urban life.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-15.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -430,7 +433,7 @@
                                             religion and society.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-16.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -456,7 +459,7 @@
                                             sustainable and equitable approaches to environmental management.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-17.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -481,7 +484,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-18.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -506,7 +509,7 @@
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-19.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -528,7 +531,7 @@
                                             exclusion, and the creation of a more just and democratic society. </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-20.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -562,7 +565,7 @@
                                             conflicts involved." </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-21.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -586,7 +589,7 @@
                                             political and cultural processes.</p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/contemporary-sociology-icon.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/sociology-course-22.svg') }}"
                                             alt="Contemporary Sociological Theories icon" class="img-fluid">
                                     </div>
                                 </div>

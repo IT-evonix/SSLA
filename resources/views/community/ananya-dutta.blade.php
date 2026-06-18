@@ -42,7 +42,7 @@
                                         <h2 class="faculty-name">Ms. Ananya Dutta</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
+                                            English & Media Studies
                                         </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
@@ -167,20 +167,19 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ol class="ps-3">
-                            <li>Banerjee, S., Mendanha, G., and Dutta, A., “Pandharpur Wari: Pilgrim Sojourn in the City
-                                of Pune: A Multimodal Essay”, <i>Dastavezi - The Audio-Visual South Asia</i>, 6(1),
-                                (2024).</li>
+                            <li>Banerjee, S., Mendanha, G., and Dutta, A., ‘Pandharpur Wari: Pilgrim Sojourn in the City
+                                of Pune: A Multimodal Essay’, Dastavezi - the Audio-Visual South Asia 6 (1) (2024)</li>
 
-                            <li>Banerjee, S., Mendanha, G., &amp; Dutta, A. (2023). “A Pilgrimage to Poetry: Reading
-                                Jejuri as a Case of Inter-systemic Literary Reception.” <i>The World of the Orient</i>,
-                                (4), 178-191.</li>
+                            <li>Banerjee, S., Mendanha, G., & Dutta, A. (2023). ‘A Pilgrimage to Poetry: Reading Jejuri
+                                as a Case of Inter-systemic Literary Reception.’ The World of the Orient, (4), 178-191.
+                            </li>
 
-                            <li>Dutta, A., Mendanha, G., “The New Pope: Analysing the Shift in the Indian Media's
-                                Coverage of the Papacy”, in <i>Pope Francis: His Impact on and Relevance for the Church
-                                    &amp; Society</i>, Ed. Kuruvilla Pandikattu, 2018.</li>
+                            <li>Dutta A., Mendanha G., 'The New Pope: Analysing the Shift in the Indian Media's Coverage
+                                of the Papacy', Pope Francis: His Impact on and Relevance for the Church & Society, Ed.
+                                Kuruvilla Pandikattu, 2018</li>
 
-                            <li>Mendanha, G., Dutta, A., “Alternative Interpretations of the Ramayana”, in <i>Indian
-                                    Hermeneutics of Suspicion</i>, Ed. Francis Arackal, 2018.</li>
+                            <li>Mendanha G., Dutta A., 'Alternative Interpretations of the Ramayana', Indian
+                                Hermeneutics of Suspicion, Ed. Francis Arackal, 2018</li>
                         </ol>
                     </div>
                 </div>
@@ -220,19 +219,12 @@
                     <h4 class="section-title">Research Interests</h4>
                 </div>
                 <ul class="research-list">
-                    <li>Short Stories from around the World</li>
-
-                    <li>English Romanticism</li>
-
-                    <li>Victorian Literature</li>
-
-                    <li>Indian Writing in English</li>
-
-                    <li>The Novel</li>
-
-                    <li>Evolution of Media, Media Ethics and Laws</li>
-
-                    <li>Politics and Media in India</li>
+                    <li>Along with two colleagues here at SSLA, she has worked on a Research Project titled 'Traditions
+                        of Devotion' that has been documenting the lived experiences and narrative traditions at sites
+                        associated with the Bhakti-Sufi syncretic tradition in Maharashtra.
+                        With a training in both English and Media Studies, she is keen to explore intersections between
+                        the disciplines and is currently working on Narrative Journalism.
+                    </li>
                 </ul>
             </div>
 

@@ -260,14 +260,14 @@
                                         <p class="m-0">
                                             This course introduces key themes in modern political thought and the
                                             emergence of international organizations, with a focused study of global
-                                            justice in an era of intensified transnational interaction and conflict.
-                                            It critically examines the power and influence of the United Nations,
-                                            international courts, and transnational advocacy networks in promoting
+                                            justice in an era of intensified transnational interaction and conflict. It
+                                            critically examines the power and influence of the United Nations,
+                                            international courts, and transnational actors in shaping global norms of
                                             justice. Core debates include global citizenship, international equality,
                                             world poverty, limits of sovereignty, cosmopolitanism, and the human
                                             capabilities approach. Drawing on thinkers such as Rawls, Sen, Nussbaum,
-                                            Pogge, and Singer, students engage through essays, presentations, and
-                                            an in-depth theoretical analysis.
+                                            Pogge, and Singer, students engage through essays, presentations, and an
+                                            in-depth theoretical analysis.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -281,17 +281,16 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            This course examines the critical role of women in conflict,
-                                            peacebuilding, and post-conflict reconstruction across diverse
-                                            global and regional contexts. Moving beyond the depiction of
-                                            women solely as victims, it highlights their agency as
-                                            negotiators, activists, and peacebuilders. Through case studies
-                                            from Rwanda, North-East India, Jammu and Kashmir, the Middle East,
-                                            and Sri Lanka, students analyze women's participation in conflict
-                                            resolution and peacebuilding. Using interdisciplinary readings,
-                                            discussions, and visual media, the course develops an informed
-                                            understanding of gender perspectives in conflict and long-term
-                                            peace processes.
+                                            This course examines the critical role of women in conflict, peacebuilding,
+                                            and post-conflict reconstruction across diverse global and regional
+                                            contexts. Moving beyond the depiction of women solely as victims, it
+                                            highlights their agency as negotiators, activists, and peacebuilders.
+                                            Through case studies from Rwanda, North-East India, Jammu and Kashmir, the
+                                            Middle East, and Sri Lanka, students analyze women’s participation in
+                                            conflict resolution and its impact on sustainable peace. Using
+                                            interdisciplinary readings, discussions, and visual media, the course
+                                            develops an informed understanding of gendered perspectives in conflict and
+                                            long-term peace processes.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -334,15 +333,15 @@
                                             approaches to urban studies and the complications that lie within them. The
                                             objective of the course is to trace the deployment of The City in the
                                             understanding of modern life in varied historical contexts. In doing this,
-                                            the course unfolds in four modules—two dedicated to discussing key classical
-                                            and contemporary theorists on the city and two to gaining familiarity with
-                                            urban experiences across the world. One of the latter modules focuses on
-                                            exploring cities in India in their historical and political contexts.
-                                            Students are expected to engage with and bring to the discussion diverse
-                                            positions on urban life. The course is also intended as an exercise in
-                                            exploring methodological and disciplinary diversity in urban studies, as
-                                            both the texts and the discussion seek to transcend conventional boundaries
-                                            of disciplines and techniques.
+                                            the course unfolds in four modules- two dedicated to discussing key
+                                            classical and contemporary theorists on the city and two to gaining
+                                            familiarity with urban experiences across the world. One of the latter
+                                            modules focuses on exploring cities in India in their historical and
+                                            political contexts. Students are expected to engage with and bring to the
+                                            discussion diverse positions on urban life. The course is also intended as
+                                            an exercise in exploring methodological and disciplinary diversity in urban
+                                            studies, as both the texts and the discussion seek to transcend conventional
+                                            boundaries of disciplines and techniques.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -355,23 +354,23 @@
                                 <div class="subject_listing_heading">Human Biological Variation</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            People are biologically very diverse, and often these differences are
+                                        <p> People are biologically very diverse, and often these differences are
                                             thought of in terms of race or ethnic groups. Human variation can be visible
-                                            (e.g. differences in skin color, hair form and nose shape) or invisible
-                                            (bio-chemical differences, e.g. blood group antigens, serum proteins, and
+                                            (e.g. Differences in skin color, hair form and nose shape) or invisible
+                                            (bio-chemical differences, e.g. Blood group antigens, serum proteins, and
                                             molecular traits). Anthropologists have studied these variations for years
                                             and have attempted to understand why populations have different traits or
                                             same traits with different frequencies.
-                                        </p>
-                                        <p class="m-0 mt-2">
                                             A major goal in studying human diversity is to determine the genetic
                                             similarity or dissimilarity between populations. The unique approach that
                                             anthropology takes in the study of human diversity is to focus on
                                             understanding, studying and explaining variation between human populations
                                             by applying evolutionary theory. We try to understand how these differences
-                                            help humans adapt to varying environments rather than simply document
-                                            differences in human populations.
+                                            help humans adapt to varying environments rather than to simply document
+                                            differences in order to create racial groups.
+                                            The course provides the basics of population genetics, genetic polymorphism,
+                                            and the important genetic markers in human populations, and biological
+                                            consequences and consanguinity.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -385,20 +384,25 @@
                                     Studies</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course is designed for students who want to understand the world and
-                                            contribute to positive change. The primary focus is on recognizing different
-                                            levels of violence and conflict—from interpersonal and community-level
-                                            conflicts to intrastate, interstate, and global conflicts. Students explore
-                                            direct violence (physical and observable violence/aggression) as well as
-                                            structural violence in the form of institutional oppression.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            The course examines peacebuilding as a broad concept that includes conflict
-                                            resolution, traditional peace movements, dispute resolution, human rights,
-                                            development, security, social justice, and advocacy. Through discussions,
-                                            readings, and structured assignments, students gain practical and
-                                            theoretical insights into peacemaking and peacebuilding processes.
+                                        <p>
+                                            This is the class for people who want to understand the world and make a
+                                            difference (and have a life, too!). The primary focus will be on recognizing
+                                            levels of violence and conflict – from interpersonal, community-level to
+                                            intrastate, interstate, and global. Within these levels, there is direct
+                                            violence (physical, observable violence/aggression) and structural violence
+                                            (in the form of institutional oppression). Many of the insights gained
+                                            through the course are subject for discussions and possible applications for
+                                            peacemaking and peacebuilding. My interpretation of peacebuilding is as
+                                            broad as conflict resolution, to traditional peace movements to a full range
+                                            of dispute resolution and peacebuilding roles. Also included in this idea
+                                            are closely related fields like human rights, development, security, social
+                                            justice and advocacy. I will not use tests. Instead, I will ask you to
+                                            complete a number of fairly structured assignments that demonstrate that you
+                                            have mastered key insights from the class. These assignments incorporate a
+                                            fair amount of flexibility, allowing you to focus on those aspects of the
+                                            course that you find most valuable. The focus of the course, therefore, is
+                                            practical theory which provides a basis for adapting to unforeseen
+                                            circumstances.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -411,19 +415,25 @@
                                 <div class="subject_listing_heading">Advertising and Contemporary Culture</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            Almost all media is commercially driven today. This course examines the
-                                            relationship between media, advertising, industry, and democracy. It
-                                            explores how mass communication technologies shape public discourse and how
-                                            profit-driven media influence public opinion, cultural values, and
-                                            democratic participation.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Advertising is studied as a powerful system of corporate communication
-                                            embedded within contemporary culture. The course investigates how
-                                            advertising shapes ideas of normality, desirability, identity, consumption,
-                                            and social behavior, while also examining its broader social, political, and
-                                            cultural implications.
+                                        <p> Almost all media is commercially driven today. John Dewey suggested, in the
+                                            1920s, that we have a paradoxical relationship with media. Large-scale
+                                            democracy is impossible without modern technologies that facilitate mass
+                                            communication (and transportation). But what will happen to our democracy
+                                            when the role of media becomes an unapologetically profit driven one? How
+                                            will the democracy work if the media looks at citizens as potential target
+                                            customers for their industry partners, their advertising clients? What is
+                                            the nexus between media, industry and government?
+                                            Advertising is part of an extremely sophisticated system of corporate
+                                            communications that is embedded within and acted upon by contemporary
+                                            culture. It has the power to shape consciousness and makes firm and
+                                            definitive statements about culturally ‘normal’ and desirable relationships
+                                            and behaviour. Advertising thus plays an important role in helping people
+                                            form ideas about themselves and their social relationships.
+                                            This course aims at helping students study the phenomenon of corporate
+                                            communications in general and advertising in specific. It will expose them
+                                            to different schools of thought related to culture and the specific culture
+                                            of consumption. It will also explore the power we believe advertising
+                                            possesses and it’s positive and negative implications on the life we lead.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -436,20 +446,16 @@
                                 <div class="subject_listing_heading">Independent Study</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This Independent Study course enables students in Peace and Conflict Studies
+                                        <p>This Independent Study course enables students in Peace and Conflict Studies
                                             to pursue an in-depth exploration of a specialized topic aligned with their
                                             academic interests. Designed as a self-directed learning experience, the
                                             course emphasizes independent research, critical inquiry, and sustained
-                                            intellectual engagement under faculty supervision.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Students design and implement a semester-long research or field-based
-                                            project, developing advanced analytical, evaluative, and reflective skills.
-                                            Through regular consultation with a faculty advisor, learners produce
-                                            substantial scholarly or applied work while fostering academic independence,
-                                            methodological rigor, and interdisciplinary thinking in peace and conflict
-                                            studies.
+                                            intellectual engagement under faculty supervision. Students design and
+                                            implement a semester-long research or field-based project, developing
+                                            advanced analytical, evaluative, and reflective skills. Through regular
+                                            consultation with a faculty advisor, learners produce a substantial
+                                            scholarly or applied work, fostering academic independence, methodological
+                                            rigor, and interdisciplinary thinking in peace and conflict studies.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -462,24 +468,25 @@
                                 <div class="subject_listing_heading">Culture in Making</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course explores the intersections between Culture and Power and
-                                            develops interdisciplinary approaches to analyzing them in post-colonial
-                                            India. It focuses on cultural practices ranging from cinema and literature
-                                            to painting, drama, and sculpture, engaging with the politics of culture in
-                                            post-independence India.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Students examine culture as both a way of life and a site of struggle over
-                                            meaning, representation, and identity. Themes include nation, class, gender,
-                                            sexuality, caste, communalism, secularism, and globalization. The course
-                                            also introduces the history of Cultural Studies and explores diverse
-                                            cultural movements and practices in modern India through multiple
-                                            theoretical perspectives.
+                                        <p>In this course we will explore intersections between Culture and Power and
+                                            develop interdisciplinary approaches to analyse them in the post-colonial
+                                            India. We will focus on cultural practices ranging from cinema and
+                                            literature to paintings, drama and sculptures to engage with “cultural
+                                            politics” in post independence India.
+                                            At a more specific level, we will think of culture as: 1) a whole way of
+                                            life, and 2) a site of struggle over meaning, representation and identities.
+                                            We will view cultural practices through the prism of ideas of nation, class,
+                                            gender and sexuality, caste, communalism and secularism, and globalization
+                                            in a society like ours.
+                                            The course will introduce students to the history of Cultural Studies, a
+                                            range of cultural practices and movements in the post-independence India and
+                                            their historical socio-political determinants, approaches and concepts in
+                                            structuralist, post-structuralist, Marxist, Post-Colonial, Feminist theories
+                                            of culture.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/scroll-document-story.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/landmark-alt.svg') }}"
                                             alt="Courses icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -489,19 +496,15 @@
                                 <div class="subject_listing_heading">Popular Culture, Media and Everyday Life</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course examines popular culture and media as key sites through which
+                                        <p>This course examines popular culture and media as key sites through which
                                             everyday life, power, and politics are produced and contested. It introduces
                                             students to sociological and cultural approaches to understanding media,
-                                            representation, and identity in Indian and global contexts.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Through the study of visual media, cinema, performance traditions, sports,
-                                            and beauty cultures, the course analyzes constructions of gender, class,
-                                            sexuality, and nationalism. Using interactive discussions, multimedia
-                                            resources, and continuous assessment, students develop critical skills to
-                                            interpret popular culture as a dynamic force shaping social meanings and
-                                            identities.
+                                            representation, and identity in Indian and global contexts. Through the
+                                            study of visual media, cinema, performance traditions, sports, and beauty
+                                            cultures, the course analyzes constructions of gender, class, sexuality, and
+                                            nationalism. Using interactive discussions, multimedia resources, and
+                                            continuous assessment, students develop critical skills to interpret popular
+                                            culture as a dynamic force shaping social meanings and identities.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -517,18 +520,25 @@
                                     Ethnography</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course explores the historical development of anthropological theory
-                                            and ethnographic practice. Beginning with early writings on the ‘other’ from
-                                            Herodotus and Ibn Khaldun to modern thinkers such as Arjun Appadurai,
-                                            students examine how anthropology has evolved through changing paradigms and
-                                            approaches.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Rather than focusing solely on the cultures studied, the course emphasizes
-                                            understanding the theoretical orientations of major anthropological texts
-                                            and the historical shifts that have shaped the discipline from the
-                                            nineteenth century to the present.
+                                        <p>A need to comprehend or engage in writings about the ‘other’ has been a
+                                            pre-occupation of civilized societies. Beginning with Herodotus ‘the father
+                                            of History’ during the classical Greek era to the Islamic world with Ibn
+                                            Khaldun’s The Muqaddimah and some of the most recent works like, Modernity
+                                            at Large by Arjun Appadurai, Anthropology as a discipline has journeyed
+                                            through contrasting paradigms with the ‘other’ to ‘ones own community’ or
+                                            the ‘global culture’. This course will engage in analyzing the original
+                                            works that have contributed to Anthropological Theory and History from the
+                                            mid 19th century onwards. The course is not an attempt to look at the people
+                                            and cultures studied in these texts but the emphasis will be on
+                                            comprehending the textual data that will reveal the theoretical orientations
+                                            of the authors who worked on these texts and the emerging history and
+                                            paradigm shifts in Anthropology.
+                                            Through anthropologies changing and emerging history, the course will also
+                                            study the changing trends in the writing of Anthropology through
+                                            contemporary studies of issues that emerge out of the changing global
+                                            structure. There is increasing need for the discipline to engage itself with
+                                            changing times in developed and developing countries for its new identity
+                                            free of the colonial baggage.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -543,18 +553,17 @@
                                 <div class="subject_listing_heading">The Emerging Global Order</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course examines how and why political systems develop in different ways
-                                            across the world. It investigates why some societies establish democratic
-                                            institutions while others experience authoritarian rule, and how factors
-                                            such as class conflict, industrialization, political culture, and elite
-                                            influence shape political outcomes.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Drawing on comparative politics, political economy, and sociology, the
-                                            course analyzes both advanced industrial states and developing regions.
-                                            Students gain a broader understanding of political development and
-                                            contemporary global political transformations.
+                                        <p>One of the principal concerns of this course to understand how and why
+                                            political systems develop the way they do. Why do some countries develop
+                                            into democracies, while others experience various forms of authoritarian
+                                            rule? How do factors such as class conflict, timing of industrialization,
+                                            the nature of the elite, and the influence of political culture affect the
+                                            development of political institutions? This course reviews the literature in
+                                            various cross-disciplinary fields which includes comparative politics,
+                                            political economy and sociology focusing on these concerns. While most of
+                                            the cases are drawn from the histories of the advanced industrial states as
+                                            well as developing regions some attention is also accorded to countries
+                                            which are currently deemed "underdeveloped".
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -569,18 +578,16 @@
                                 <div class="subject_listing_heading">Conflict, Diplomacy and War</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course explores conflict, diplomacy, and war as central processes
+                                        <p>This course explores conflict, diplomacy, and war as central processes
                                             shaping the international system. It introduces key theories of
                                             international relations and examines how internal socio-economic and
-                                            ideological factors influence external relations.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Through historical and contemporary case studies, students analyze the
-                                            causes, forms, and resolution of conflicts, the role of diplomacy, and the
-                                            dynamics of war. Interactive discussions, assessments, and research
-                                            activities help develop analytical skills essential for understanding global
-                                            politics.
+                                            ideological factors influence external relations. Using historical and
+                                            contemporary case studies, students analyze the causes, types, and
+                                            resolution of conflicts, the role of diplomacy, and the dynamics of war.
+                                            Models of conflict resolution and major theoretical perspectives are
+                                            critically assessed. Through interactive discussions, continuous assessment,
+                                            and applied research tasks, the course develops analytical skills essential
+                                            for understanding world politics.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -596,18 +603,15 @@
                                     Identity</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course explores world music as a dynamic intersection of space, place,
+                                        <p>This course explores world music as a dynamic intersection of space, place,
                                             culture, and identity in a globalized world. Drawing on anthropological and
                                             ethnomusicological perspectives, it examines how music reflects and shapes
-                                            social histories, power relations, and cultural politics.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Through diverse case studies—including colonial brass bands, jazz, hip-hop,
-                                            diaspora music, and popular media—the course engages debates on
-                                            globalization, authenticity, appropriation, and identity. Critical
-                                            listening, reading, and reflective writing help students develop informed
-                                            perspectives on music as a cultural practice and a source of social meaning.
+                                            social histories, power relations, and cultural politics. Through diverse
+                                            case studies—including colonial brass bands, jazz, hip-hop, diaspora music,
+                                            and popular media—the course engages debates on globalization, authenticity,
+                                            appropriation, and identity. Using critical listening, readings, and
+                                            reflective writing, students develop informed, independent perspectives on
+                                            music as a cultural practice and a site of social meaning.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -622,18 +626,30 @@
                                     Consequential Urbanization</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course examines globalization, development, and urbanization through an
-                                            anthropological lens. Globalization is explored as a process that reduces
-                                            distances and increases interactions across societies, creating new
-                                            opportunities as well as challenges in an interconnected world.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            The course critically investigates how ideas of development have evolved
-                                            from colonial frameworks to contemporary development agendas. It analyzes
-                                            the roles of governments, development agencies, and communities in shaping
-                                            development outcomes, while exploring the social and cultural consequences
-                                            of rapid urbanization and globalization.
+                                        <p>Globalization was described by Thomas Larson in 2001 as “the process of world
+                                            shrinkage, of distances getting shorter, things moving closer. It pertains
+                                            to the increasing ease with which somebody on one side of the world can
+                                            interact, to mutual benefit, with somebody on the other side of the world.”
+                                            In its colonial tradition, anthropology studied or understood ‘Development’
+                                            as a mechanism through which the differences between the urban, industrial,
+                                            educated, modern (among other features) ‘West’ and the ‘Other’ was to be
+                                            obliterated. Recently [it] has taken on the limited meaning of the practice
+                                            of development agencies, especially in aiming at reducing poverty and the
+                                            Millennium Development Goals (Thomas, 2004: 1, 2).
+                                            Current academia, the government agencies and the population who either
+                                            benefit or struggle with both development and globalization have (each)
+                                            their own underpinnings.
+                                            This course in Anthropology with its interdisciplinary and
+                                            multi-disciplinary perspective with a focus on human society as a
+                                            participant and recipient in / of these processes aims to study and analyze
+                                            the causes, effects and controversies surrounding development and
+                                            globalization. Since the process is too broad to be covered in totality the
+                                            course will focus and evaluated issues including urbanization, migration and
+                                            displacement, individual identity, ethnicity and fundamentalism. This course
+                                            is about the ways that anthropology can contribute to the understanding of
+                                            "development" and “globalization” and the basic human problems that seem to
+                                            have evolved from these processes. The aim is to find solutions and address
+                                            the issues at hand at local and global levels.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -649,18 +665,24 @@
                                     Fundamentalism</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course explores the concepts of identity, ethnicity, nationality, and
-                                            fundamentalism in contemporary societies. It examines how identities are
-                                            formed and transformed through factors such as language, religion, race,
-                                            ethnicity, social class, and culture.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Students analyze the relationship between individual and collective
-                                            identities and how these influence social action, group cohesion, and
-                                            political movements. The course also investigates the role of ethnicity,
-                                            nationalism, and fundamentalism in shaping social relations and public
-                                            discourse within an increasingly globalized world.
+                                        <p>Identity is the individual or group notion and expression of affiliations
+                                            such as language, religion, race, ethnicity, social class and other
+                                            differences that can be used distinguish people and cultures. Identity
+                                            formation and transformation is a psychological and social construct with
+                                            multidisciplinary underpinnings. The individual is the cause or the agent of
+                                            and for social action consequentially leading to a social product of
+                                            identities for individual and group.
+                                            Ethnicity, Nationalism and Fundamentalism all integrate with identities in
+                                            varied relations that need to be understood for the sustenance of the
+                                            individual and group cohesion in the contemporary global culture. The need
+                                            to interact at multiple levels for maximum output in this global economy
+                                            enforces these multiple identities to engage in dialogue. The course will
+                                            enable students to identify this exchange in an effort to realize the
+                                            associated and contentious issues.
+                                            The concepts discussed have been part of the learning process through the
+                                            course, though here they will be clearly outlined with the existent
+                                            controversies that go hand in hand with these established ideas in various
+                                            disciplines.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -675,17 +697,12 @@
                                 <div class="subject_listing_heading">The Living Past: Comprehending India</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course examines contemporary India through the lens of its historical
-                                            past. It introduces students to the interactions between past and present,
-                                            highlighting how historical processes continue to shape modern Indian
-                                            society, culture, and institutions.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            By engaging with diverse academic perspectives, students explore the methods
-                                            used to understand India's past and its continuing influence on the present.
-                                            The course focuses on elements of history that remain relevant and actively
-                                            shape social and cultural realities today.
+                                        <p>The course seeks to look at the present modern day India from the perspective
+                                            of India of the yesteryears. It aims to acquaint the learner with the
+                                            various interactions between the past and the present in the Indian context
+                                            as also with the reasons and methods employed by academics in dealing with
+                                            the same. It seeks to focus on aspects of the Indian past that aren’t dead
+                                            but continue to persist in the present, shape and influence it.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -700,17 +717,14 @@
                                 <div class="subject_listing_heading">Analysis of Current Events</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            Analysis of Current Events is a one-semester course designed to develop
-                                            students' understanding of contemporary issues across a wide range of
-                                            fields, including politics, culture, sports, history, science, economics,
-                                            and finance.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Students critically examine significant cultural, political, and social
-                                            events, moving beyond surface-level observations to develop deeper
-                                            analytical perspectives. The course emphasizes independent research and
-                                            encourages engagement with topics that hold relevance in today's world.
+                                        <p>Current Events is a one-semester course /workshop, structured to give the
+                                            student an understanding of current issues in areas as wide as sports,
+                                            politics, culture, history, science, economics, finance etc.
+                                            In this course a cultural or sporting event could be analyzed along with
+                                            political, financial and other issues. We will make an attempt to look
+                                            beyond the obvious and develop critical understanding.
+                                            The course emphasizes research done by the student covering topics that hold
+                                            meaning in today’s life.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -726,18 +740,15 @@
                                     and Urban Reality</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course offers a sociological exploration of urbanization through the
-                                            lens of Pune city, connecting local experiences with broader global urban
-                                            processes. It examines the historical trajectory of Pune’s growth, changing
-                                            urban aspirations, and the realities of everyday urban life.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Key themes include spatial segregation, social exclusion, migration,
-                                            poverty, consumption, commodification, inequality, and the formation of
-                                            urban identities. Through discussions, visual media, and field-based
-                                            learning, students critically analyze urban transformations and compare
-                                            Pune’s experiences with those of other global cities.
+                                        <p>This course offers a sociological exploration of urbanization through the
+                                            lens of Pune city, linking local experiences to global urban processes. It
+                                            examines the historical trajectory of Pune’s urban growth, diverse urban
+                                            aspirations, and everyday urban realities shaped by consumption,
+                                            commodification, and inequality. Key themes include spatial segregation,
+                                            social exclusion, migration, poverty, and the formation of urban identities.
+                                            Through classroom discussions, visual media, and field research, students
+                                            develop a grounded understanding of urban culture and critically compare
+                                            Pune with global cities to analyze contemporary urban transformations.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -751,18 +762,17 @@
                                 <div class="subject_listing_heading">Introduction to Human Genetics</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course introduces students to the fundamental concepts of genetics with
-                                            a focus on human genetics. It covers essential topics such as DNA,
-                                            inheritance, mutations, and the biological mechanisms that contribute to
-                                            human diversity and uniqueness.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Students explore the prevalence and transmission of genetic disorders, along
-                                            with the social and psychological dimensions of genetic counseling. The
-                                            course also examines how genetics influences everyday life and considers the
-                                            potential impact of genetic knowledge and technologies on future lifestyles
-                                            and healthcare.
+                                        <p>This course in Genetics (minor) attempts to address some of the basic and
+                                            fundamental issues related to field of genetics. It further narrows the
+                                            focus of genetics to deal with concepts in Human Genetics covering areas
+                                            from basics like DNA, inheritance and the occurrence of mutations,
+                                            mechanisms that lead to uniqueness in humans, to understanding the
+                                            prevalence of genetic disease in humans, that modes of passing through
+                                            generations and our understanding of how they need to be tackled on the
+                                            social and psychological front through Genetic Counseling. The course also
+                                            includes a short understanding of where the subject of genetics is applied
+                                            in our everyday lives and how it will affect the way we look at our
+                                            lifestyles in the future.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -778,23 +788,20 @@
                                 </div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course introduces the biological foundations of health, illness, and
-                                            disease for students from humanities and social science backgrounds.
-                                            Beginning with basic anatomy and physiology, it provides an accessible
-                                            understanding of how the human body functions and how various diseases
-                                            affect health.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            The course examines infectious, genetic, immunological, and
-                                            lifestyle-related diseases, along with approaches to prevention and
-                                            treatment through different systems of medicine. It also explores
-                                            contemporary issues such as vaccines, antibiotics, healthcare choices, and
-                                            the growing challenge of antibiotic resistance.
+                                        <p>This course introduces the biological foundations of physical health for
+                                            students from a humanities and social sciences background. It explains
+                                            health, illness, and disease in accessible terms, encouraging informed
+                                            perspectives on the body and healthcare choices. Beginning with basic
+                                            anatomy and physiology, the course examines major categories of disease,
+                                            including infectious, genetic, immunological, and lifestyle-related
+                                            conditions. It also explores prevention and treatment through different
+                                            systems of medical care such as allopathy, homeopathy, and alternative
+                                            medicine. The course concludes with a discussion on vaccines, antibiotics,
+                                            and emerging challenges like antibiotic resistance.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/Anthropology-icon-8.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/people-poll.svg') }}"
                                             alt="Courses icon" class="img-fluid">
                                     </div>
                                 </div>
@@ -806,24 +813,20 @@
                                 </div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
-                                        <p class="m-0">
-                                            This course offers a cross-disciplinary exploration of urbanization, placing
-                                            Indian cities within historical, theoretical, and global frameworks. Drawing
-                                            on insights from history, sociology, anthropology, and geography, it traces
-                                            the origins and evolution of urban processes in India while engaging with
-                                            major theories of the city.
-                                        </p>
-                                        <p class="m-0 mt-2">
-                                            Students examine classical and contemporary perspectives on urbanism,
-                                            planning, and governance, with particular attention to colonial,
-                                            post-independence, and post-liberalization contexts. Through readings,
-                                            discussions, media analysis, and field-based learning, the course develops a
-                                            nuanced understanding of cities as dynamic social, cultural, and political
-                                            spaces.
+                                        <p>This course offers a cross-disciplinary exploration of urbanization,
+                                            situating Indian cities within historical, theoretical, and global
+                                            frameworks. Drawing on history, sociology, anthropology, and geography, it
+                                            traces the origins and evolution of urban processes in India while engaging
+                                            with key Western theories of the city. Students examine classical and
+                                            contemporary perspectives on urbanism, urban planning, and governance, with
+                                            particular attention to colonial, post-independence, and post-liberalization
+                                            contexts. Through readings, discussions, media, and field-based learning,
+                                            the course develops a nuanced understanding of cities as dynamic social,
+                                            cultural, and political spaces.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
-                                        <img src="{{ asset('assets/images/academics/icons/Anthropology-icon-8.svg') }}"
+                                        <img src="{{ asset('assets/images/academics/icons/house-building-2.svg') }}"
                                             alt="Courses icon" class="img-fluid">
                                     </div>
                                 </div>

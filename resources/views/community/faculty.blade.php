@@ -24,18 +24,18 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/sweta.png" alt="shweta" class="img-fluid normal-img">
+                            <img src="/assets/images/faculty/sweta.webp" alt="shweta" class="img-fluid normal-img">
                             <img src="/assets/images/about/Shweta-Sinha.webp" alt="shweta" class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Shweta Deshpande</div>
-                            <div class="faculty_position">(Director & Associate Professor)</div>
+                            <div class="faculty_position">(Associate Professor)</div>
                             <a class="faculty_mail" href="mailto:shwetasdeshpande@yahoo.com">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                                shwetasdeshpande@yahoo.com
+                                director@ssla.edu.in
                             </a>
                             <div class="know_more_btn"><a href="/shweta-deshpande">Read More</a></div>
                         </div>
@@ -53,7 +53,7 @@
                         </div>
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Afshan Majid</div>
-                            <div class="faculty_position">(Deputy Director)</div>
+                            <div class="faculty_position">(Assistant Professor)</div>
                             <a class="faculty_mail" href="mailto:afshan.majid@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
@@ -67,7 +67,7 @@
                 </div>
 
                 <!-- Dr. Barry H. Rodrigue -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <!-- <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="/assets/images/faculty/Dr. Barry H. Rodrigueb.webp" alt="Dr. Barry H. Rodrigue"
@@ -78,7 +78,7 @@
 
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Barry H. Rodrigue</div>
-                            <div class="faculty_position">(Professor)</div>
+                            <div class="faculty_position">(Professor and Scholar-in-Residence)</div>
 
                             <a class="faculty_mail" href="mailto:barry.rodrigue@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
@@ -93,14 +93,14 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Ms. Gayatri Mendanha -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Gayatri-Mendahna_photo-modified_black-white.webp" alt="Ms. Gayatri Mendanha"
-                                class="img-fluid normal-img">
+                            <img src="/assets/images/faculty/Gayatri-Mendahna_photo-modified_black-white.webp"
+                                alt="Ms. Gayatri Mendanha" class="img-fluid normal-img">
                             <img src="/assets/images/faculty/Gayatri-Mendahna_photo.webp" alt="Ms. Gayatri Mendanha"
                                 class="img-fluid hover-img">
                         </div>
@@ -123,9 +123,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/nikhil_thorat.png" alt="Mr. Nikhil Thorat"
+                            <img src="/assets/images/faculty/Nikhil-Thorat-Photo-for-Website-modified.webp" alt="Mr. Nikhil Thorat"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-15.webp" alt="Mr. Nikhil Thorat"
+                            <img src="/assets/images/faculty/Nikhil-Thorat-Photo-for-Website.webp" alt="Mr. Nikhil Thorat"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -147,9 +147,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/manjiri.png" alt="Dr. Manjari Jonnalagadda"
+                            <img src="/assets/images/faculty/Dr-Manjari Jonnalagadda-modified.webp" alt="Dr. Manjari Jonnalagadda"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-13.webp" alt="Dr. Manjari Jonnalagadda"
+                            <img src="/assets/images/faculty/Dr-Manjari Jonnalagadda.webp" alt="Dr. Manjari Jonnalagadda"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -273,14 +273,13 @@
                     </div>
                 </div>
 
-
                 <!-- Dr. Suchetana Banerjee -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/suchetana.png" alt="Dr. Suchetana Banerjee"
+                            <img src="/assets/images/faculty/Suchetana Banerjee_photo-modified.webp" alt="Dr. Suchetana Banerjee"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-19.webp" alt="Dr. Suchetana Banerjee"
+                            <img src="/assets/images/faculty/Suchetana Banerjee_photo.webp" alt="Dr. Suchetana Banerjee"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -350,14 +349,14 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/kishori.png" alt="Dr. Kishori Kasat"
+                            <img src="/assets/images/faculty/faculty-11-modified.webp" alt="Dr. Kishori Kasat"
                                 class="img-fluid normal-img">
                             <img src="/assets/images/faculty/faculty-11.webp" alt="Dr. Kishori Kasat"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Kishori Kasat</div>
-                            <div class="faculty_position">(Assistant Professor)</div>
+                            <div class="faculty_position">(Associate Professor)</div>
                             <a class="faculty_mail" href="mailto:kishori.kasat@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
@@ -374,9 +373,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Uday_Sinha_photo.webp" alt="Prof. Uday Sinha"
-                                class="img-fluid normal-img">
                             <img src="/assets/images/faculty/Uday_Sinha_photo-modified.webp" alt="Prof. Uday Sinha"
+                                class="img-fluid normal-img">
+                            <img src="/assets/images/faculty/Uday_Sinha_photo.webp" alt="Prof. Uday Sinha"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -452,7 +451,6 @@
                     </div>
                 </div>
 
-
                 <!-- Dr. Gitanjali Roy -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
@@ -481,7 +479,6 @@
                         </div>
                     </div>
                 </div>
-
 
                 <!-- Dr. Esha Prasad -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
@@ -531,7 +528,7 @@
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                               debapriyaganguly@gmail.com 
+                                debapriyaganguly@gmail.com
                             </a>
 
                             <div class="know_more_btn">
@@ -540,7 +537,7 @@
                         </div>
                     </div>
                 </div>
-              
+
                 <!-- -Dr Anurupa Ghatge -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
@@ -560,7 +557,7 @@
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                               anurupaghatge583@gmail.com 
+                                anurupaghatge583@gmail.com
                             </a>
 
                             <div class="know_more_btn">
@@ -594,14 +591,13 @@
                     </div>
                 </div>
 
-
                 <!-- Dr. Renu Vinod -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Dr. Renu Vinodb.png" alt="Dr. Renu Vinod"
+                            <img src="/assets/images/faculty/Renu-Vinod_photo-modified.webp" alt="Dr. Renu Vinod"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Dr. Renu Vinod.webp" alt="Dr. Renu Vinod"
+                            <img src="/assets/images/faculty/Renu-Vinod_photo.webp" alt="Dr. Renu Vinod"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -642,6 +638,78 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-12">
+                    <div class="faculty_box_inner">
+                        <div class="faculty_profile">
+                            <img src="/assets/images/faculty/Aditi_Athreya_Photo.webp" alt="Ms. Karishma Modi"
+                                class="img-fluid hover-img">
+                            <img src="/assets/images/faculty/Aditi-Athreya_Photo-modified.webp" alt="Ms. Karishma Modi"
+                                class="img-fluid normal-img">
+
+                        </div>
+                        <div class="faculty_content_box">
+                            <div class="faculty_name">Aditi Athreya</div>
+                            <div class="faculty_position">(Assistant Professor)</div>
+                            <a class="faculty_mail" href="mailto:aditiathreya@gmail.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                                </svg>
+                                aditiathreya@gmail.com
+                            </a>
+                            <div class="know_more_btn"><a href="/aditi-athreya">Read More</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dr. Silvia Fernandes -->
+                <div class="col-lg-3 col-md-4 col-sm-12">
+                    <div class="faculty_box_inner">
+                        <div class="faculty_profile">
+                            <img src="/assets/images/faculty/Silvia-Fernandes-black.webp" alt="Silvia Fernandes"
+                                class="img-fluid normal-img">
+                            <img src="/assets/images/faculty/Silvia-Fernandes-color.webp" alt="Silvia Fernandes"
+                                class="img-fluid hover-img">
+                        </div>
+                        <div class="faculty_content_box">
+                            <div class="faculty_name">Dr. Silvia Fernandes</div>
+                            <div class="faculty_position">(Assistant Professor)</div>
+                            <a class="faculty_mail" href="mailto:silvia.fernandes09@gmail.com">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                                </svg>
+                                silvia.fernandes09@gmail.com
+                            </a>
+                            <div class="know_more_btn"><a href="/silvia-fernandes">Read More</a></div>
+                        </div>
+                    </div>
+                </div>
+                  <div class="col-lg-3 col-md-4 col-sm-12">
+                    <div class="faculty_box_inner">
+                        <div class="faculty_profile">
+                            <img src="/assets/images/faculty/Abhik_photo-modified.webp" alt="Silvia Fernandes"
+                                class="img-fluid normal-img">
+                            <img src="/assets/images/faculty/Abhik_photo.webp" alt="Silvia Fernandes"
+                                class="img-fluid hover-img">
+                        </div>
+                        <div class="faculty_content_box">
+                            <div class="faculty_name">Dr. Abhik Bhattacharya  </div>
+                            <div class="faculty_position">(Assistant Professor)</div>
+                            <a class="faculty_mail" href="mailto:Abhikbhattacharya2002@gmail.com  ">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                                </svg>
+                              Abhikbhattacharya2002@gmail.com  
+                            </a>
+                            <div class="know_more_btn"><a href="/abhik-bhattacharya">Read More</a></div>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section>

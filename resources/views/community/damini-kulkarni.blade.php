@@ -42,13 +42,13 @@
                                         <h2 class="faculty-name">Damini Kulkarni</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                            Applied Environmental & Sustainability Sciences
+                                            Media Studies & Film Studies
                                         </p>
-                                        <!-- <p class="faculty-email-label d-flex align-items-center">
+                                        <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
-                                            <span>manoranjan.ghosh@ssla.edu.in</span>
-                                        </p> -->
+                                            <span>damini.kulkarni@ssla.edu.in</span>
+                                        </p>
                                         <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/pdf/cv/DaminiKulkarni_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
@@ -60,7 +60,7 @@
                                     </div>
                                 </div>
                                 <!-- <div class="col-md-6"> -->
-                                    <!-- <div class="mt-5">
+                                <!-- <div class="mt-5">
                                         <h4 class="research-title">Research Profiles</h4>
                                         <ul class="profile-links">
                                             <li>
@@ -90,7 +90,7 @@
                                         </ul>
 
                                     </div> -->
-                                    <!-- <div class="action-btns mt-3">
+                                <!-- <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/cv/Dr_Manoranjan_Ghosh_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
@@ -103,13 +103,19 @@
                             <!-- Teaching Philosophy -->
                             <div class="teaching-philosophy">
                                 <h5>Teaching Philosophy</h5>
-                                <p>Damini aims to ground her pedagogy in a belief in value-creating education—one that refuses
-                                to treat value as fixed or inherited. She also hopes to encourage students to imagine the “real
-                                world” outside the university not as a pre-given against which they must fortify themselves,
-                                but as one that can be brought into being through their own creativity and labour. She is
-                                guided by the hope that attention itself can be transformative, and that careful reading,
-                                watching, and listening remain among our most powerful tools for imagining just and equal
-                                futures.
+                                <p>Damini aims to ground her pedagogy in a belief in value-creating education—one that
+                                    refuses
+                                    to treat value as fixed or inherited. She also hopes to encourage students to
+                                    imagine the “real
+                                    world” outside the university not as a pre-given against which they must fortify
+                                    themselves,
+                                    but as one that can be brought into being through their own creativity and labour.
+                                    She is
+                                    guided by the hope that attention itself can be transformative, and that careful
+                                    reading,
+                                    watching, and listening remain among our most powerful tools for imagining just and
+                                    equal
+                                    futures.
                                 </p>
                             </div>
                         </div>
@@ -147,9 +153,8 @@
                     extends beyond formal classrooms. She has conducted gender-sensitisation workshops for
                     adolescents, curated visual essays for Google Arts and Culture, contributed to curriculum
                     development, and participated in public conversations around cinema, gender, and digital life. </p>
-            </div>
-              <!-- achievement -->
-            <!-- <div class="section-card" data-aos="fade-up">
+                <!-- achievement -->
+                <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/achievement.png') }}" alt="Introduction icon"
                         class="header-icon">
@@ -174,138 +179,110 @@
                         <em>“Limits of Methods: Problem of Unification and Quest for Methodological and Scientific Pluralism”</em>. 
                         The week-long workshop was held from <strong>7 October to 11 October 2024</strong>.
                     </li>
+                    </ul>-->
+            </div> 
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <!-- PUBLICATIONS -->
+                        <div class="section-card" data-aos="fade-up">
+                            <div class="section-header">
+                                <img src="{{ asset('/assets/images/faculty/inner/publication.svg') }}"
+                                    alt="Introduction icon" class="header-icon">
+                                <h4 class="section-title">Publications</h4>
+                            </div>
+                            <ol class="ps-3">
+                                <li>Kulkarni, D. (2024). Displacing difference, interrupting Indianness: Song sequences
+                                    in
+                                    digitally-released Indian-American films. Journal of Postcolonial Writing, 1–14.
+                                    <a href="https://doi.org/10.1080/17449855.2024.2353088 " class="text-danger">https://doi.org/10.1080/17449855.2024.2353088 </a>
+                                </li>
+                                <li>Kulkarni, D (2023) History into Myth: Popular Hindi cinema and the politics of “True
+                                    Stories”. In Historicising Myths in Contemporary India. Gopinath and Deshmukh
+                                    (Eds.),
+                                    Routledge.</li>
+                                <li>Kulkarni, D (2022) Screening Bodies: Women watching cinema in post-pandemic India.
+                                    Interactive Film and Media Journal, 2 (1).</li>
+                                <li>Kulkarni, D (2020) Appropriation and Articulation: Mapping movements in ‘Gully Boy’,
+                                    Cinergie – Il Cinema e le altre Arti, 9(17), 87-96.
+                                    doi:<a href="https://doi.org/10.6092/issn.2280-9481/10508" class="text-danger">https://doi.org/10.6092/issn.2280- 9481/10508 </a></li>
+                                <li>Kulkarni, D (2019) Beyond the Clouds and the Construction of Indian Slums in Hindi
+                                    Cinema, Film International, 17(1):89-95, DOI: 10.1386/fiin.17.1.89_1</li>
+                                <li>Gajjala R, Kulkarni D, Rahut D (2019) Dialogue Interlude: Extending and Nuancing the
+                                    Framework, in Digital Diasporas: Labor and Affect in Gendered Indian Digital
+                                    Publics,
+                                    Gajjala et al. Rowman & Littlefield.</li>
+                                <li>Kulkarni, D (2019) Mapping political consciousness: Samskara’s journey from novel to
+                                    film,
+                                    Economic and Political Weekly, Vol. 54, Issue 39 pp 77-78 </li>
+                                <li>Kulkarni, D (2018) The Many Forms of Islamophobia, Film Criticism, Vol. 42, Issue 3,
+                                    DOI: <a href="http://dx.doi.org/10.3998/fc.13761232.0042.317 " class="text-danger">http://dx.doi.org/10.3998/fc.13761232.0042.317 </a></li>
+                                <li>Kulkarni, D (2018) The Politics of Food and Sexuality in Lust Stories, Economic and
+                                    Political Weekly, Vol. 53, Issue 45</li>
+                                <li>Kulkarni, D (2017) ‘Strong Female Characters’ in Hindi Cinema, Economic and
+                                    Political
+                                    Weekly, Vol. 52, Issue 14 </li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <!-- EDUCATION -->
+                        <div class="section-card" data-aos="fade-up">
+                            <div class="section-header">
+                                <img src="{{ asset('/assets/images/faculty/inner/education.svg') }}"
+                                    alt="Introduction icon" class="header-icon">
+                                <h4 class="section-title">Education</h4>
+                            </div>
+                            <ul>
+                                <li>PhD in Media and Communication Studies – Department of Media and Communication
+                                    Studies, Savitribai Phule Pune University (2018-2023)</li>
+                                <li>MA in Communication and Journalism – Department of Communication and Journalism,
+                                    Mumbai University (2013-2015)
+                                </li>
+                                <li>Bachelor's in Mass Media – Usha Pravin Gandhi College of Management, University of
+                                    Mumbai (2010-2013) </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- RESEARCH INTERESTS -->
+                <div class="section-card" data-aos="fade-up">
+                    <div class="section-header">
+                        <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
+                            class="header-icon">
+                        <h4 class="section-title">Research Interests</h4>
+                    </div>
+                    <ul class="research-list">
+                        <li>Critical Media Theory, Media Philosophy, Cinema Studies, Film Audiences, Digital Media </li>
+
                     </ul>
-            </div> -->
-            <div class="row mb-4">
-                <div class="col-md-6">
-                    <!-- PUBLICATIONS -->
-                    <div class="section-card" data-aos="fade-up">
-                        <div class="section-header">
-                            <img src="{{ asset('/assets/images/faculty/inner/publication.svg') }}"
-                                alt="Introduction icon" class="header-icon">
-                            <h4 class="section-title">Publications</h4>
-                        </div>
-                        <ol class="ps-3">
-                            <li>Kulkarni, D. (2024). Displacing difference, interrupting Indianness: Song sequences in
-                                digitally-released Indian-American films. Journal of Postcolonial Writing, 1–14.
-                                <a href="https://doi.org/10.1080/17449855.2024.2353088" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/17449855.2024.2353088</a></li>
-                            <li>Kulkarni, D (2023) History into Myth: Popular Hindi cinema and the politics of “True
-                                Stories”. In Historicising Myths in Contemporary India. Gopinath and Deshmukh (Eds.),
-                                Routledge.</li>
-                              <li>
-                                Kulkarni, D (2022) <i>Screening Bodies: Women watching cinema in post-pandemic India</i>. 
-                                Interactive Film and Media Journal, 2(1).
-                            </li>
-
-                            <li>
-                                Kulkarni, D (2020) <i>Appropriation and Articulation: Mapping movements in ‘Gully Boy’</i>, 
-                                Cinergie – Il Cinema e le altre Arti, 9(17), 87-96. 
-                                DOI: 
-                                <a href="https://doi.org/10.6092/issn.2280-9481/10508" target="_blank">
-                                    https://doi.org/10.6092/issn.2280-9481/10508
-                                </a>
-                            </li>
-
-                            <li>
-                                Kulkarni, D (2019) <i>Beyond the Clouds and the Construction of Indian Slums in Hindi Cinema</i>, 
-                                Film International, 17(1): 89-95. 
-                                DOI: 
-                                <a href="https://doi.org/10.1386/fiin.17.1.89_1" target="_blank">
-                                    10.1386/fiin.17.1.89_1
-                                </a>
-                            </li>
-
-                            <li>
-                                Gajjala R, Kulkarni D, Rahut D (2019) <i>Dialogue Interlude: Extending and Nuancing the Framework</i>, 
-                                in <i>Digital Diasporas: Labor and Affect in Gendered Indian Digital Publics</i>, 
-                                Gajjala et al. Rowman & Littlefield.
-                            </li>
-
-                            <li>
-                                Kulkarni, D (2019) <i>Mapping political consciousness: Samskara’s journey from novel to film</i>, 
-                                Economic and Political Weekly, Vol. 54, Issue 39, pp. 77-78.
-                            </li>
-
-                            <li>
-                                Kulkarni, D (2018) <i>The Many Forms of Islamophobia</i>, 
-                                Film Criticism, Vol. 42, Issue 3. 
-                                DOI: 
-                                <a href="http://dx.doi.org/10.3998/fc.13761232.0042.317" target="_blank">
-                                    http://dx.doi.org/10.3998/fc.13761232.0042.317
-                                </a>
-                            </li>
-
-                            <li>
-                                Kulkarni, D (2018) <i>The Politics of Food and Sexuality in Lust Stories</i>, 
-                                Economic and Political Weekly, Vol. 53, Issue 45.
-                            </li>
-
-                            <li>
-                                Kulkarni, D (2017) <i>‘Strong Female Characters’ in Hindi Cinema</i>, 
-                                Economic and Political Weekly, Vol. 52, Issue 14.
-                            </li>
-                        </ol>
+                </div>
+                <!-- AWARDS -->
+                <div class="section-card" data-aos="fade-up">
+                    <div class="section-header">
+                        <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
+                            class="header-icon">
+                        <h4 class="section-title">Awards & Fellowships</h4>
                     </div>
+                    <ul>
+                        <li>UGC-Junior and Senior Research Fellowship (2018-2023) </li>
+                        <li>SAARC Japan Cultural-Exchange Program Awardee (2008)</li>
+                    </ul>
                 </div>
-                <div class="col-md-6">
-                    <!-- EDUCATION -->
-                    <div class="section-card" data-aos="fade-up">
-                        <div class="section-header">
-                            <img src="{{ asset('/assets/images/faculty/inner/education.svg') }}" alt="Introduction icon"
-                                class="header-icon">
-                            <h4 class="section-title">Education</h4>
-                        </div>
-                        <ul>
-                            <li>PhD in Media and Communication Studies – Department of Media and Communication
-                            Studies, Savitribai Phule Pune University (2018-2023)</li>     
-                            <li>MA in Communication and Journalism – Department of Communication and Journalism,
-                            Mumbai University (2013-2015)
-                            </li>                                                   
-                            <li>Bachelor's in Mass Media – Usha Pravin Gandhi College of Management, University of
-                            Mumbai (2010-2013) </li>                                                   
-                        </ul>
+                <!-- COURSES -->
+                <div class="section-card" data-aos="fade-up">
+                    <div class="section-header">
+                        <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
+                            class="header-icon">
+                        <h4 class="section-title">Courses Taught</h4>
                     </div>
+                    <ul>
+                        <li>Introduction to Films, Key Concepts in Indian Cinema, Media Research and Capstone
+                            Project, Rhetoric and Critical Writing, Evolution of Media, Media Ethics and Laws,
+                            Economics and Business of Media, Research Methodology, and Digital Media: Frameworks,
+                            Practices and Methods</li>
+                    </ul>
                 </div>
             </div>
-            <!-- RESEARCH INTERESTS -->
-            <div class="section-card" data-aos="fade-up">
-                <div class="section-header">
-                    <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
-                        class="header-icon">
-                    <h4 class="section-title">Research Interests</h4>
-                </div>
-                <ul class="research-list">
-                    <li>Critical Media Theory, Media Philosophy, Cinema Studies, Film Audiences, Digital Media </li>
-                   
-                </ul>
-            </div>
-            <!-- AWARDS -->
-            <div class="section-card" data-aos="fade-up">
-                <div class="section-header">
-                    <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
-                        class="header-icon">
-                    <h4 class="section-title">Awards & Fellowships</h4>
-                </div>
-                <ul>
-                    <li>UGC-Junior and Senior Research Fellowship (2018-2023) </li>
-                    <li>SAARC Japan Cultural-Exchange Program Awardee (2008)</li>
-                </ul>
-            </div>
-            <!-- COURSES -->
-            <div class="section-card" data-aos="fade-up">
-                <div class="section-header">
-                    <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
-                        class="header-icon">
-                    <h4 class="section-title">Courses Taught</h4>
-                </div>
-                <ul>
-                    <li>Introduction to Films, Key Concepts in Indian Cinema, Media Research and Capstone
-                        Project, Rhetoric and Critical Writing, Evolution of Media, Media Ethics and Laws,
-                        Economics and Business of Media, Research Methodology, and Digital Media: Frameworks,
-                        Practices and Methods</li>                   
-                </ul>
-            </div>
-        </div>
     </section>
     <!-- Details section End -->
     <!-- Inner section ends  -->

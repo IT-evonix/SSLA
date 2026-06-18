@@ -42,7 +42,7 @@
                                         <h2 class="faculty-name">Gayatri Mendanha</h2>
                                         <p class="faculty-designation">Assistant Professor  </p>
                                         <p class="faculty-institute">
-                                          Symbiosis School for Liberal Arts, Pune, India Symbiosis International (Deemed University) 
+                                        Philosophy & Literature
 
                                         </p>
                                        <p class="faculty-email-label d-flex align-items-center">
@@ -182,32 +182,20 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                       <ol class="ps-3 publication-list">
-                      <li>Mendanha, G., ‘Buddhist and Rational Insights: Ethical Reflections for a Polarised World.’ In Pandikattu, K. (Ed), <i>Applied Ethics and Rationality</i>. Studies in Applied Philosophy, Epistemology and Rational Ethics, vol 74. Springer (2025)</li>
-
-                        <li>Mendanha, G., ‘Agentless Agency: Buddhist Perspectives on Ethical World Engagement.’ In Pandikattu, K. (Ed), <i>Ethical Leadership and Sustainable Practices</i>, XLRI-Xavier School of Management and Christian World Imprints (2025)</li>
-
-                        <li>Deshpande, S.S. and Sen, S. and Mendanha, G. et. al, ‘Curriculum and Community with Research, Action and Service (CCBALwRAS), a Pedagogical Shift for Social Change’ <i>Higher Education for the Future</i> (2023)</li>
-
-                        <li>Mendanha, G., ‘Rending the Veil: Representations of Emptiness’, <i>Philosophical Traditions of the World</i> (2023)</li>
-
-                        <li>Banerjee, S., Mendanha, G., and Dutta, A. ‘A Pilgrimage to Poetry: Reading Jejuri as a Case of Inter-systemic Literary Reception’, <i>The World of the Orient</i> (2023)</li>
-
-                        <li>Deshpande, S.S. and Sen, S. and Mendanha, G. et. al, ‘Curriculum and Community – the 2Cs for Community-Based Academic Learning with Research, Action and Service (CBALwRAS): A Case Study from India’ <i>OIDA International Journal of Sustainable Development</i> (2020)</li>
-
-                        <li>Banerjee S., Mendanha G., Dutta A., ‘Satire and Blake: Image, Symbol and Anti-Text’, In Pandikattu, K. (Ed), <i>Fully Human and Fully Alive: Essays on Being Human Today</i> (2020)</li>
-
-                        <li>Mendanha G., Dutta A., ‘Alternative Interpretations of the Ramayana’, In Arackal, Francis (Ed.), <i>Indian Hermeneutics of Suspicion</i> (2018)</li>
-
-                        <li>Dutta A., Mendanha G., ‘The New Pope: Analysing the Shift in the Indian Media's Coverage of the Papacy’, In Pandikattu, K. (Ed), <i>Pope Francis: His Impact on and Relevance for the Church & Society</i> (2018)</li>
-
-                        <li>Mendanha G., ‘Hannah Arendt: The Political Function of Thinking’, In Pereira, Dolreich (Ed), <i>Becoming a Nation: Processes and Prospects</i> (2017)</li>
-
-                        <li>Mendanha G., ‘An Indian Worldview: Secularism in Plurality’, <i>Jnanadeepa Journal of Religious Studies</i>, Vol. 20, No. 1-2 (2016)</li>
-
-                        <li>Mendanha G., ‘In Search of Woman: Re-making Ourselves’, In Irudayadason, Nishant (Ed), <i>Philosophizing the Body</i> (2017)</li>
-
-                        <li>Mendanha G., ‘The Individual and the Collective’, In Pardeshi, R. G., Sreedharan, C., <i>Kaleidoscope</i> (2014)</li>
-                                            </ol>
+                      <li>Mendanha, G., ‘Buddhist and Rational Insights: Ethical Reflections for a Polarised world.’ In Pandikattu, K. (Ed), Applied Ethics and Rationality. Studies in Applied Philosophy, Epistemology and Rational Ethics, vol 74. Springer (2025)</li>
+                      <li>Mendanha, G., ‘Agentless Agency: Buddhist Perspectives on Ethical World Engagement.’ In Pandikattu, K. (Ed), Ethical Leadership and Sustainable Practices, XLRI-Xavier School of Management and Christian World Imprints (2025)</li>
+                      <li>Deshpande, S.S. and Sen, S. and Mendanha, G. et. al, ‘Curriculum and Community with Research, Action and Service (CCBALwRAS), a Pedagogical Shift for Social Change’ Higher Education for the Future (2023)</li>
+                      <li>Mendanha, G., ‘Rending the Veil: Representations of Emptiness’, Philosophical Traditions of the World (2023)</li>
+                      <li>Banerjee, S., Mendanha, G., and Dutta, A. ‘A Pilgrimage to Poetry: Reading Jejuri as a Case of Inter-systemic Literary Reception’, The World of the Orient (2023)</li>
+                      <li>Deshpande, S.S. and Sen, S. and Mendanha, G. et. al, ‘Curriculum and Community – the 2cs for Community-Based Academic Learning with Research, Action and Service (Cbalwras): A Case Study from India’ OIDA International Journal of Sustainable Development (2020)</li>
+                      <li>Banerjee S., Mendanha G., Dutta A., ‘Satire and Blake: Image, Symbol and Anti-Text’, In Pandikattu, K. (Ed), Fully Human and Fully Alive, Essays on Being Human Today  (2020)</li>
+                      <li>Mendanha G., Dutta A., 'Alternative Interpretations of the Ramayana', In Arackal, Francis (Ed.), Indian Hermeneutics of Suspicion (2018)</li>
+                      <li>Dutta A., Mendanha G., 'The New Pope: Analysing the Shift in the Indian Media's Coverage of the Papacy', In Pandikattu, K. (Ed), Pope Francis: His Impact on and Relevance for the Church & Society (2018)</li>
+                      <li>Mendanha G., ‘Hannah Arendt: The Political Function of Thinking’, In Pereira, Dolreich (Ed), Becoming a Nation: Processes and Prospects (2017)</li>
+                      <li>Mendanha G., ‘An Indian Worldview: Secularism in Plurality’, Jnanadeepa Journal of Religious Studies, Vol. 20, No. 1-2 (2016)</li>
+                      <li>Mendanha G., ‘In Search of Woman: Re-making Ourselves’, In Irudayadason, Nishant (Ed), Philosophizing the Body (2017)</li>
+                      <li>Mendanha G., ‘The Individual and the Collective’, In Pardeshi, R. G., Sreedharan, C., Kaleidoscope (2014)</li>
+                    </ol>
                     </div>
                 </div>
                 <div class="col-md-6">
