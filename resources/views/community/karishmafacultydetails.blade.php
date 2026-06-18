@@ -50,7 +50,7 @@
                                             <span>karishma.modi@ssla.edu.in</span>
                                         </p>
                                         <div class="action-btns mt-3">
-                                            <a href="{{ asset('/assets/pdf/Resume 2025 (Karishma Modi).pdf') }}"
+                                            <a href="{{ asset('/assets/pdf/cv/Karishma_Modi_CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
                                                     alt="Download icon" class="icon-img me-2">
@@ -89,7 +89,7 @@
                                 </div>
                             </div>
                             <!-- Teaching Philosophy -->
-                            <div class="teaching-philosophy">
+                            <!-- <div class="teaching-philosophy">
                                 <h5>Teaching Philosophy</h5>
                                 <ul>
                                     <li>Education Specialisation</li>
@@ -97,7 +97,7 @@
                                     <li>Humanity and Big History: Our Challenge for Survival</li>
                                     <li>Research Methods II: Overview of Methods and Analysis</li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -129,13 +129,11 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ol class="ps-3">
-                            <li>Modi, K. (2022). <em>What Can a Caged Bird Sing? A Case for a Place-based Component of
-                                    Curriculum</em>, Language and Language Teaching, 11(2), 37–44.</li>
-                            <li>Modi, K. (2021). <em>Cast Away: A Case for Place-based Education in the Andaman and
-                                    Nicobar Islands</em>, The Bastion.</li>
-                            <li>Modi, K. (2020). <em>Reproducing Silences: Using “purity” of language to maim the
-                                    disenfranchised</em>, in O. Prakash & R. Kumar (Eds.), Apprenticeship in Language
-                                Studies (pp. 148–159), Eastern Book House.</li>
+                          <li><strong>Journal Article</strong><br>Modi, K. (2022) What Can a Caged Bird Sing? A Case for a Place-based Component of Curriculum. Language and Language Teaching: A Peer-reviewed Journal, 11(2), 37-44.</li>
+
+<li><strong>Popular Article</strong><br>Modi, K. (2021, April 17). Cast Away: A Case For Place-based Education in the Andaman and Nicobar Islands. Retrieved from The Bastion: <a href="https://thebastion.co.in/politics-and/cast-away-a-case-for-place-based-education-in-the-andaman-and-nicobar-islands/" class="text-danger">https://thebastion.co.in/politics-and/cast-away-a-case-for-place-based-education-in-the-andaman-and-nicobar-islands/</a></li>
+
+<li><strong>Student Book Chapter</strong><br>Modi, K. (2020) Reproducing Silences: Using “purity” of language to maim the disenfranchised. In O. Prakash, & R. Kumar (Eds.), Apprenticeship in Language Studies (pp. 148-159). Guwahati: Eastern Book House.</li>
 
                         </ol>
                     </div>
@@ -149,17 +147,21 @@
                             <h4 class="section-title">Education</h4>
                         </div>
                         <ul>
-                            <li>Ph.D. (Ongoing) – Symbiosis International (Deemed University)</li>
-                            <li>• Examines curriculum approaches to enhance environmental literacy</li>
-                            <li>Explores links between education, sustainability, and learner engagement with nature
-                            </li>
+                           <li>2017 – 2019<br>
+Master of Arts  <br>
+(Elementary Education)
+Tata Institute of Social Sciences, 
+Mumbai</li>
+                           <li>2008 – 2011<br>
+Bachelor of Arts (Economics)
+University of Pune, Pune</li>
                         </ul>
                     </div>
                 </div>
             </div>
 
             <!-- RESEARCH INTERESTS -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -173,9 +175,9 @@
                     <li>Curriculum Design</li>
                     <li>Learning Experience and Instructional Material Design</li>
                 </ul>
-            </div>
+            </div> -->
             <!-- AWARDS -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -198,9 +200,9 @@
                         Government
                         of India (2017)</li>
                 </ul>
-            </div>
+            </div> -->
             <!-- COURSES -->
-            <div class="section-card" data-aos="fade-up">
+            <!-- <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
                         class="header-icon">
@@ -209,7 +211,7 @@
                 <ul>
                     <li>Research Methodology: Environmental Education, Place-based Education</li>
                 </ul>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- Details section End -->

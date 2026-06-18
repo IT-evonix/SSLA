@@ -252,7 +252,7 @@
                     <li>Global Human Adaptation</li>
                     <li>Development (CRM) Archaeology</li>
                     <li>Indigenous and Tribal Heritage Preservation</li>
-                    <li>Collaborative Research with Koya and Soliga Communities</li>
+                    <li>Collaborative Research with Koya and<br> Soliga Communities</li>
                     <li>Megalithic Studies in the Nilgiri Mountains</li>
                     <li>Community-Based Archaeology and Conservation</li>
                 </ul>

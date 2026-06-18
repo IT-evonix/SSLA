@@ -1,0 +1,20 @@
+[11-Jun-2026 14:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/democheck/public_html/ssla.democheck.in/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/democheck/public_html/ssla.democheck.in/config/database.php on line 18
+[11-Jun-2026 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/democheck/public_html/ssla.democheck.in/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/democheck/public_html/ssla.democheck.in/config/mail.php on line 16
+[11-Jun-2026 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/democheck/public_html/ssla.democheck.in/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/democheck/public_html/ssla.democheck.in/config/services.php on line 18
+[11-Jun-2026 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/democheck/public_html/ssla.democheck.in/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/democheck/public_html/ssla.democheck.in/config/cache.php on line 18
+[11-Jun-2026 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/democheck/public_html/ssla.democheck.in/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/democheck/public_html/ssla.democheck.in/config/app.php on line 19

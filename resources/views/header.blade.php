@@ -506,7 +506,7 @@
                                                                     </div>
                                                                 </a>
                                                             </div>
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="#">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -523,7 +523,7 @@
                                                                     <div class="mega_menu_name_box">Course Outcomes
                                                                     </div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="megamenu_listing">
                                                                 <a href="{{ asset('assets/pdf/SSLA-Student-Handbook-2025-26.pdf') }}" target="_blank">
                                                                     <div class="mega_menu_icon_box">
@@ -542,7 +542,7 @@
                                                                     </div>
                                                                 </a>
                                                             </div>
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="{{url('/stakeholder-feedback')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -559,7 +559,7 @@
                                                                     <div class="mega_menu_name_box">Stakeholder Feedback
                                                                     </div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="megamenu_listing">
                                                                 <a href="{{url('/programme-structure')}}">
                                                                     <div class="mega_menu_icon_box">
@@ -579,7 +579,7 @@
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
-                                                                <a href="#">
+                                                                <a href="{{url('/courses')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
                                                                             viewBox="0 0 24 24">
@@ -736,7 +736,7 @@
                                                                     </div>
                                                                 </a>
                                                             </div>
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="#">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -752,7 +752,7 @@
                                                                     </div>
                                                                     <div class="mega_menu_name_box">Best Practices</div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                         </div>
                                                     </div>
                                                 </div>
