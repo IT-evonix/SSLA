@@ -4888,43 +4888,306 @@
   }
 
   .new__what_ssla_offers_contentbox .inner__subheading {
-    text-align: start;
-    margin-bottom: 20px;
-}
+      text-align: start;
+      margin-bottom: 20px;
+  }
 
-.rap_admission_main .rap-note-list .my_sub_list li {
-    position: relative;
-    padding-left: 20px;
-    margin-bottom: 18px;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #333;
-    text-align: justify;
-}
+  .rap_admission_main .rap-note-list .my_sub_list li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 18px;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+      text-align: justify;
+  }
 
-.rap_admission_main .rap-note-list .my_sub_list li::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    top: 9px;
-    background-color: #333;
-}
+  .rap_admission_main .rap-note-list .my_sub_list li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      top: 9px;
+      background-color: #333;
+  }
 
-.rap_admission_main .rap-note-list .my_sub_list {
-    margin: 10px 0 0 0;
-}
+  .rap_admission_main .rap-note-list .my_sub_list {
+      margin: 10px 0 0 0;
+  }
 
-.table-responsive .rap-note-list .my_sub_list li {
-    font-size: 14px;
-    margin-bottom: 10px;
-}
+  .table-responsive .rap-note-list .my_sub_list li {
+      font-size: 14px;
+      margin-bottom: 10px;
+  }
 
-.career_option_new_main .new_slf_img_mainbox {
-    margin: 40px 0 0 0;
-}
+  .career_option_new_main .new_slf_img_mainbox {
+      margin: 40px 0 0 0;
+  }
+
+
+  /* -------ACADEMICS-COURSES-PAGE-START----------- */
+  .academics_courses_mainbox .offcanvas-backdrop {
+      display: none !important;
+  }
+
+  .inner_course_listing {
+      width: 100%;
+      text-align: left;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      overflow: hidden;
+      padding: 3px;
+      line-height: normal;
+  }
+
+  .our_course_headingbox {
+      background-image: linear-gradient(90deg, #e9f9fc, #fff);
+      padding: 10px 20px;
+      font-family: 'Roboto-Bold', sans-serif;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      position: relative;
+  }
+
+  .our_course_headingbox::after {
+      content: "";
+      background-image: url(../images/home/next-icon-white.svg);
+      position: absolute;
+      right: 5px;
+      top: 10px;
+      width: 20px;
+      height: 20px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      transform: rotate(90deg);
+  }
+
+  .inner_course_listing .inner_courses_content {
+      padding: 0 20px;
+      position: relative;
+      height: 0;
+      overflow: hidden;
+      transition-duration: 0.1s;
+      font-size: 15px;
+  }
+
+  .inner_course_listing .show {
+      height: auto;
+      padding: 10px 20px;
+      overflow: visible;
+  }
+
+  .inner_courses_content .close_btn {
+      position: absolute;
+      right: 0;
+      display: none;
+      top: -40px;
+      margin: 0 3px 0 0;
+      font-size: 18px;
+      background-color: #fae8e8;
+      padding: 0 11px;
+      border-radius: 6px 6px 10px 0px;
+  }
+
+  .course_title_list {
+      width: 100%;
+      /* background-color: #f6f3ec; */
+      background-image: linear-gradient(90deg, #f6f3ec, #fff);
+      margin: 0 0 10px 0;
+      font-size: 14px;
+      border-radius: 8px;
+      border: 1px solid #ede8da;
+  }
+
+  .course_title {
+      width: 100%;
+      font-family: 'Roboto-Medium', sans-serif;
+      cursor: pointer;
+      padding: 8px 20px;
+      position: relative;
+  }
+
+  .course_title::after {
+      content: "";
+      background-image: url(../images/home/next-icon-white.svg);
+      position: absolute;
+      right: 9px;
+      top: 6px;
+      width: 18px;
+      height: 18px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      transform: rotate(90deg);
+  }
+
+  .course_title_text {
+      width: 100%;
+      display: none;
+      padding: 20px 20px;
+      background-color: #fff9f3;
+      border-radius: 0 0 10px 10px;
+  }
+
+  .course_title_list .show {
+      display: block;
+  }
+
+  /* -------ACADEMICS-COURSES-PAGE-END----------- */
+  /* -------NEW COURSES PAGE START----------- */
+
+  .new_tab_courses_listing_mainbox {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      row-gap: 25px;
+      column-gap: 15px;
+
+  }
+
+  .new_tab_courses_listing {
+      display: grid;
+      border-radius: 20px;
+      overflow: hidden;
+      transition-duration: 0.5s;
+      transition: all 0.3s;
+  }
+
+  .new_tab_courses_listing:hover {
+      box-shadow: 4px 4px 12px #00738273;
+  }
+
+  .new_tab_courses_listing>* {
+      grid-area: 1/1;
+  }
+
+  .new_tab_courses_listing_gredient {
+      background-color: #00000087;
+      border-radius: 20px;
+  }
+
+  .new_tab_courses_listing_content {
+      align-self: center;
+      justify-self: center;
+      position: relative;
+      padding: 0 10px;
+  }
+
+  .new_tab_courses_listing_icon {
+      position: absolute;
+      bottom: -100px;
+      left: 50%;
+      transform: translateX(-50%);
+      transition-duration: 0.3s;
+  }
+
+  .new_tab_courses_listing:hover .new_tab_courses_listing_icon {
+      bottom: -40px;
+  }
+
+  .new_tab_courses_listing_heading {
+      text-align: center;
+      color: var(--color-white);
+      font-family: 'Roboto-Medium';
+  }
+
+  .new_tab_courses_listing_img img {
+      border-radius: 20px;
+  }
+
+  .new_tab_courses_parabox p {
+      text-align: center;
+      margin: 20px 0 40px 0;
+  }
+
+  /* -------NEW COURSES PAGE END----------- */
+  /* -------COURSES LIST PAGE START----------- */
+
+  .courses_list_section {
+      padding: 60px 0 0 0;
+  }
+
+  .new_course_listing_para p {
+      text-align: center;
+      margin: 0px 0 40px 0;
+  }
+
+  .subject_listing_mainbox {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      row-gap: 20px;
+      column-gap: 80px;
+  }
+
+  .subject_listing {
+      border: 1px solid #D8EBEE;
+      border-radius: 20px;
+  }
+
+  .subject_listing_heading {
+      padding: 10px 20px;
+      background-color: #F0FDFF;
+      border-radius: 20px 20px 0 0;
+      font-family: 'Roboto-Medium';
+      color: var(--color-black);
+  }
+
+  .subject_listing_content {
+      padding: 20px 40px 20px 20px;
+      display: grid;
+  }
+
+  .subject_listing_content_box {
+      display: grid;
+  }
+
+  .subject_listing_content_box>* {
+      grid-area: 1/1;
+  }
+
+  .subject_listing_content p {
+      font-size: 14px;
+      /* text-align: justify; */
+  }
+
+  .subject_listing_icon {
+      width: 80px;
+      height: 80px;
+      background-color: #EDEDED;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      align-self: center;
+      justify-self: end;
+      margin: 0 -40px 0 0;
+  }
+
+  /* -------COURSES LIST PAGE END----------- */
+
+  .new_faculty_link a {
+      font-size: unset !important;
+      font-style: normal !important;
+      border-bottom: 0 !important;
+      color:var(--color-green) !important;
+    }
+    
+    .new_faculty_link a:hover {
+      color:var(--color-red) !important;
+  }
+
+  .research-main-sec .new_academic_fee_tab_content_content p {
+    text-align: center;
+    margin: 0 0 16px 0;
+  }
+
+  .new_academic_fee_tab_content_box .table-responsive {
+    border-radius: 12px;
+  }
 
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
@@ -5394,6 +5657,25 @@
 
       .degree_offered_subheading {
           font-size: 16px;
+      }
+
+      .new_tab_courses_listing_mainbox {
+          grid-template-columns: repeat(4, 1fr);
+      }
+
+      .subject_listing_icon {
+          width: 60px;
+          height: 60px;
+          padding: 12px;
+          margin: 0 -30px 0 0;
+      }
+
+      .subject_listing_mainbox {
+          column-gap: 60px;
+      }
+
+      .subject_listing {
+          max-width: 96%;
       }
   }
 
@@ -5988,6 +6270,16 @@
           max-height: 90vh;
       }
 
+      .new_tab_courses_listing_mainbox {
+          grid-template-columns: repeat(3, 1fr);
+      }
+
+      .subject_listing_mainbox {
+          grid-template-columns: 1fr;
+          row-gap: 20px;
+          column-gap: 20px;
+      }
+
   }
 
   @media (max-width: 767.98px) {
@@ -6047,6 +6339,23 @@
 
       .deeksha_img_mainbox {
           grid-template-columns: 1fr;
+      }
+
+      .new_tab_courses_listing_heading {
+          font-size: 14px;
+          line-height: normal;
+      }
+
+      .new_tab_courses_listing_mainbox {
+          grid-template-columns: repeat(2, 1fr);
+      }
+
+      .new_tab_courses_listing_icon {
+          bottom: -120px;
+      }
+
+      .new_tab_courses_listing:hover .new_tab_courses_listing_icon {
+          bottom: -50px;
       }
   }
 
@@ -6674,6 +6983,35 @@
       /* body:has(.menu_open) {
           overflow: hidden;
       } */
+
+      .new_tab_courses_listing_mainbox {
+          gap: 15px;
+      }
+
+      .new_tab_courses_listing_content {
+          transition-duration: 0.5s;
+      }
+
+      .new_tab_courses_listing:hover .new_tab_courses_listing_content {
+          transform: translateY(-20px);
+          padding: 10px 10px 0 10px;
+      }
+
+      .new_tab_courses_listing:hover .new_tab_courses_listing_icon {
+          bottom: -40px;
+      }
+
+      .subject_listing_icon {
+          width: 40px;
+          height: 40px;
+          padding: 8px;
+          margin: 10px -20px 0 0;
+          align-self: start;
+      }
+
+      .subject_listing_content {
+          padding: 20px 28px 20px 20px;
+      }
 
   }
 
