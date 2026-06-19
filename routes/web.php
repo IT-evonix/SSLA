@@ -584,6 +584,16 @@ Route::get('course-peace-conflict-studies', function () {
     return view('/academics/courses/course-peace-conflict-studies', ['data_arr' => $data_arr]);
 });
 
+Route::get('course-international', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Best Colleges for Economics in Pune | course-international";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Explore course-international at SSLA Pune. Develop analytical, research, and problem-solving skills while gaining a strong understanding of economic principles and their real-world applications.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/course-international";
+
+    return view('/academics/courses/course-international', ['data_arr' => $data_arr]);
+});
+
 ///////// ACADEMICS Routes Ends //////////
 
 ///////// Community Routes Start //////////

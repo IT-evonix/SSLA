@@ -28,7 +28,7 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('/assets/images/faculty/') }}" alt="Dr. Manoranjan Ghosh"
+                            <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr. Manoranjan Ghosh"
                                 class="profile-img img-fluid">
                         </div>
                     </div>
@@ -226,7 +226,7 @@
         </div> -->
             <div class="section-card aos-init aos-animate" data-aos="fade-up">
                 <div class="section-header">
-                    <img src="http://127.0.0.1:8000/assets/images/faculty/inner/cource.svg" alt="Introduction icon"
+                    <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Courses Taught</h4>
                 </div>

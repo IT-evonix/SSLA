@@ -24,8 +24,8 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/sweta.webp" alt="shweta" class="img-fluid normal-img">
-                            <img src="/assets/images/about/Shweta-Sinha.webp" alt="shweta" class="img-fluid hover-img">
+                            <img src="{{ asset('assets/images/faculty/sweta.webp') }}" alt="shweta" class="img-fluid normal-img">
+                            <img src="{{ asset('assets/images/about/Shweta-Sinha.webp') }}" alt="shweta" class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Shweta Deshpande</div>
@@ -37,7 +37,7 @@
                                 </svg>
                                 director@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/shweta-deshpande">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/shweta-deshpande')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -46,9 +46,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/afshan.png" alt="Dr. Afshan Majid"
+                            <img src="{{ asset('assets/images/faculty/afshan.png') }}" alt="Dr. Afshan Majid"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-3.webp" alt="Dr. Afshan Majid"
+                            <img src="{{ asset('assets/images/faculty/faculty-3.webp') }}" alt="Dr. Afshan Majid"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -61,7 +61,7 @@
                                 </svg>
                                 afshan.majid@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/afshan-majid">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/afshan-majid')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -70,9 +70,9 @@
                 <!-- <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Dr. Barry H. Rodrigueb.webp" alt="Dr. Barry H. Rodrigue"
+                            <img src="{{ asset('assets/images/about/about-banner-image.webp') }}/assets/images/faculty/Dr. Barry H. Rodrigueb.webp" alt="Dr. Barry H. Rodrigue"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Dr. Barry H. Rodrigue.jpg" alt="Dr. Barry H. Rodrigue"
+                            <img src="{{ asset('assets/images/about/about-banner-image.webp') }}/assets/images/faculty/Dr. Barry H. Rodrigue.jpg" alt="Dr. Barry H. Rodrigue"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -99,9 +99,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Gayatri-Mendahna_photo-modified_black-white.webp"
+                            <img src="{{ asset('assets/images/faculty/Gayatri-Mendahna_photo-modified_black-white.webp') }}"
                                 alt="Ms. Gayatri Mendanha" class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Gayatri-Mendahna_photo.webp" alt="Ms. Gayatri Mendanha"
+                            <img src="{{ asset('assets/images/faculty/Gayatri-Mendahna_photo.webp') }}" alt="Ms. Gayatri Mendanha"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -114,7 +114,7 @@
                                 </svg>
                                 gayatri@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/gayatri-mendanha">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/gayatri-mendanha')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -123,9 +123,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Nikhil-Thorat-Photo-for-Website-modified.webp" alt="Mr. Nikhil Thorat"
+                            <img src="{{ asset('assets/images/faculty/Nikhil-Thorat-Photo-for-Website-modified.webp') }}" alt="Mr. Nikhil Thorat"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Nikhil-Thorat-Photo-for-Website.webp" alt="Mr. Nikhil Thorat"
+                            <img src="{{ asset('assets/images/faculty/Nikhil-Thorat-Photo-for-Website.webp') }}" alt="Mr. Nikhil Thorat"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -138,7 +138,7 @@
                                 </svg>
                                 nikhil.thorat@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/nikhil-thorat">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/nikhil-thorat')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -147,9 +147,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Dr-Manjari Jonnalagadda-modified.webp" alt="Dr. Manjari Jonnalagadda"
+                            <img src="{{ asset('assets/images/faculty/Dr-Manjari Jonnalagadda-modified.webp') }}" alt="Dr. Manjari Jonnalagadda"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Dr-Manjari Jonnalagadda.webp" alt="Dr. Manjari Jonnalagadda"
+                            <img src="{{ asset('assets/images/faculty/Dr-Manjari Jonnalagadda.webp') }}" alt="Dr. Manjari Jonnalagadda"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -162,7 +162,7 @@
                                 </svg>
                                 manjari.jonnalagadda@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/manjari-jonnalagadda">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/manjari-jonnalagadda')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -171,9 +171,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/anaya.png" alt="Ms. Ananya Dutta"
+                            <img src="{{ asset('assets/images/faculty/anaya.png') }}" alt="Ms. Ananya Dutta"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-1.webp" alt="Ms. Ananya Dutta"
+                            <img src="{{ asset('assets/images/faculty/faculty-1.webp') }}" alt="Ms. Ananya Dutta"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -186,7 +186,7 @@
                                 </svg>
                                 Ananya.dutta@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/ananya-dutta">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/ananya-dutta')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -195,9 +195,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/sakshi_juneja.png" alt="Ms. Sakshi Juneja"
+                            <img src="{{ asset('assets/images/faculty/sakshi_juneja.png') }}" alt="Ms. Sakshi Juneja"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-18.webp" alt="Ms. Sakshi Juneja"
+                            <img src="{{ asset('assets/images/faculty/faculty-18.webp') }}" alt="Ms. Sakshi Juneja"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -214,7 +214,7 @@
                             </a> -->
 
                             <div class="know_more_btn">
-                                <a href="/sakshi-juneja">Read More</a>
+                                <a href="{{url('/sakshi-juneja')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -224,9 +224,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/sumitra.png" alt="Sumithra Surendralal"
+                            <img src="{{ asset('assets/images/faculty/sumitra.png') }}" alt="Sumithra Surendralal"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-21.webp" alt="Sumithra Surendralal"
+                            <img src="{{ asset('assets/images/faculty/faculty-21.webp') }}" alt="Sumithra Surendralal"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -243,7 +243,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/sumithra-surendralal">Read More</a>
+                                <a href="{{url('/sumithra-surendralal')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -253,9 +253,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Richa_photo-modified.webp" alt="Dr. Richa Minocha"
+                            <img src="{{ asset('assets/images/faculty/Richa_photo-modified.webp') }}" alt="Dr. Richa Minocha"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Richa_photo.webp" alt="Dr. Richa Minocha"
+                            <img src="{{ asset('assets/images/faculty/Richa_photo.webp') }}" alt="Dr. Richa Minocha"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -268,7 +268,7 @@
                                 </svg>
                                 richa.minocha@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/richa-minocha">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/richa-minocha')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -277,9 +277,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Suchetana Banerjee_photo-modified.webp" alt="Dr. Suchetana Banerjee"
+                            <img src="{{ asset('assets/images/faculty/Suchetana Banerjee_photo-modified.webp') }}" alt="Dr. Suchetana Banerjee"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Suchetana Banerjee_photo.webp" alt="Dr. Suchetana Banerjee"
+                            <img src="{{ asset('assets/images/faculty/Suchetana Banerjee_photo.webp') }}" alt="Dr. Suchetana Banerjee"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -292,7 +292,7 @@
                                 </svg>
                                 suchetana.banerjee@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/suchetana-banerjee">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/suchetana-banerjee')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -301,9 +301,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/sulakshna.png" alt="Dr. Sulakshna Sen"
+                            <img src="{{ asset('assets/images/faculty/sulakshna.png') }}" alt="Dr. Sulakshna Sen"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Dr. Sulakshana Sen.png" alt="Dr. Sulakshna Sen"
+                            <img src="{{ asset('assets/images/faculty/Dr. Sulakshana Sen.png') }}" alt="Dr. Sulakshna Sen"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -316,7 +316,7 @@
                                 </svg>
                                 sulakshana@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/sulakshna-sen">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/sulakshna-sen')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -325,9 +325,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Vasudev-Menon_Photo-modified.webp" alt="Dr. Vasudev Menon"
+                            <img src="{{ asset('assets/images/faculty/Vasudev-Menon_Photo-modified.webp') }}" alt="Dr. Vasudev Menon"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Vasudev-Menon_Photo.webp" alt="Dr. Vasudev Menon"
+                            <img src="{{ asset('assets/images/faculty/Vasudev-Menon_Photo.webp') }}" alt="Dr. Vasudev Menon"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -340,7 +340,7 @@
                                 </svg>
                                 vasudev.menon@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/vasudev-menon">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/vasudev-menon')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -349,9 +349,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/faculty-11-modified.webp" alt="Dr. Kishori Kasat"
+                            <img src="{{ asset('assets/images/faculty/faculty-11-modified.webp') }}" alt="Dr. Kishori Kasat"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-11.webp" alt="Dr. Kishori Kasat"
+                            <img src="{{ asset('assets/images/faculty/faculty-11.webp') }}" alt="Dr. Kishori Kasat"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -364,7 +364,7 @@
                                 </svg>
                                 kishori.kasat@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/kishori-kasat">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/kishori-kasat')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -373,9 +373,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Uday_Sinha_photo-modified.webp" alt="Prof. Uday Sinha"
+                            <img src="{{ asset('assets/images/faculty/Uday_Sinha_photo-modified.webp') }}" alt="Prof. Uday Sinha"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Uday_Sinha_photo.webp" alt="Prof. Uday Sinha"
+                            <img src="{{ asset('assets/images/faculty/Uday_Sinha_photo.webp') }}" alt="Prof. Uday Sinha"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -392,7 +392,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/uday-sinha">Read More</a>
+                                <a href="{{url('/uday-sinha')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -402,9 +402,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/manoranjanbw.png" alt="Dr. Manoranjan Ghosh"
+                            <img src="{{ asset('assets/images/faculty/manoranjanbw.png') }}" alt="Dr. Manoranjan Ghosh"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/manoranjan.png" alt="Dr. Manoranjan Ghosh"
+                            <img src="{{ asset('assets/images/faculty/manoranjan.png') }}" alt="Dr. Manoranjan Ghosh"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -417,7 +417,7 @@
                                 </svg>
                                 manoranjan.ghosh@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/facultydetails">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/facultydetails')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -426,9 +426,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/damini.png" alt=" Dr. Damini Kulkarni"
+                            <img src="{{ asset('assets/images/faculty/damini.png') }}" alt=" Dr. Damini Kulkarni"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/faculty-6.webp" alt=" Dr. Damini Kulkarni"
+                            <img src="{{ asset('assets/images/faculty/faculty-6.webp') }}" alt=" Dr. Damini Kulkarni"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -445,7 +445,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/damini-kulkarni">Read More</a>
+                                <a href="{{url('/damini-kulkarni')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -455,9 +455,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Dr. Gitanjali Royb.webp" alt="Dr. Gitanjali Roy"
+                            <img src="{{ asset('assets/images/faculty/Dr. Gitanjali Royb.webp') }}" alt="Dr. Gitanjali Roy"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Dr. Gitanjali Roy.webp" alt="Dr. Gitanjali Roy"
+                            <img src="{{ asset('assets/images/faculty/Dr. Gitanjali Roy.webp') }}" alt="Dr. Gitanjali Roy"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -474,7 +474,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/gitanjali-roy">Read More</a>
+                                <a href="{{url('/gitanjali-roy')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -484,9 +484,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Esha_Prasad_photo-modified.webp" alt="Dr. Esha Prasad"
+                            <img src="{{ asset('assets/images/faculty/Esha_Prasad_photo-modified.webp') }}" alt="Dr. Esha Prasad"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Esha_Prasad_photo.webp" alt="Dr. Esha Prasad"
+                            <img src="{{ asset('assets/images/faculty/Esha_Prasad_photo.webp') }}" alt="Dr. Esha Prasad"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -503,7 +503,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/esha-prasad">Read More</a>
+                                <a href="{{url('/esha-prasad')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -513,9 +513,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Debapriya_photo-modified.webp" alt="Dr.Debapriya Ganguly"
+                            <img src="{{ asset('assets/images/faculty/Debapriya_photo-modified.webp') }}" alt="Dr.Debapriya Ganguly"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Debapriya_photo.webp" alt="Dr. Debapriya Ganguly"
+                            <img src="{{ asset('assets/images/faculty/Debapriya_photo.webp') }}" alt="Dr. Debapriya Ganguly"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -532,7 +532,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/debapriya-ganguly">Read More</a>
+                                <a href="{{url('/debapriya-ganguly')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -542,9 +542,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/dummy-avatar.jpg" alt="Dr.Debapriya Ganguly"
+                            <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr.Debapriya Ganguly"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/dummy-avatar.jpg" alt="Dr. Debapriya Ganguly"
+                            <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr. Debapriya Ganguly"
                                 class="img-fluid hover-img">
                         </div>
 
@@ -561,7 +561,7 @@
                             </a>
 
                             <div class="know_more_btn">
-                                <a href="/anurupa-ghatge">Read More</a>
+                                <a href="{{url('/anurupa-ghatge')}}">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -571,9 +571,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/atiya_fatima.png" alt="Ms. Atiya Fatima "
+                            <img src="{{ asset('assets/images/faculty/atiya_fatima.png') }}" alt="Ms. Atiya Fatima "
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Atiya Fathima.png" alt="Ms. Atiya Fatima "
+                            <img src="{{ asset('assets/images/faculty/Atiya Fathima.png') }}" alt="Ms. Atiya Fatima "
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -586,7 +586,7 @@
                                 </svg>
                                 atiya.fathima@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/atiya-fatima">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/atiya-fatima')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -595,9 +595,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Renu-Vinod_photo-modified.webp" alt="Dr. Renu Vinod"
+                            <img src="{{ asset('assets/images/faculty/Renu-Vinod_photo-modified.webp') }}" alt="Dr. Renu Vinod"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Renu-Vinod_photo.webp" alt="Dr. Renu Vinod"
+                            <img src="{{ asset('assets/images/faculty/Renu-Vinod_photo.webp') }}" alt="Dr. Renu Vinod"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -610,7 +610,7 @@
                                 </svg>
                                 renu.vinod@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/renu-vinod">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/renu-vinod')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -619,9 +619,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Karishma-Modib.png" alt="Ms. Karishma Modi"
+                            <img src="{{ asset('assets/images/faculty/Karishma-Modib.png') }}" alt="Ms. Karishma Modi"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Karishma-Modi.webp" alt="Ms. Karishma Modi"
+                            <img src="{{ asset('assets/images/faculty/Karishma-Modi.webp') }}" alt="Ms. Karishma Modi"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -634,7 +634,7 @@
                                 </svg>
                                 karishma.modi@ssla.edu.in
                             </a>
-                            <div class="know_more_btn"><a href="/karishma-modi">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/karishma-modi')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -642,9 +642,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Aditi_Athreya_Photo.webp" alt="Ms. Karishma Modi"
+                            <img src="{{ asset('assets/images/faculty/Aditi_Athreya_Photo.webp') }}" alt="Ms. Karishma Modi"
                                 class="img-fluid hover-img">
-                            <img src="/assets/images/faculty/Aditi-Athreya_Photo-modified.webp" alt="Ms. Karishma Modi"
+                            <img src="{{ asset('assets/images/faculty/Aditi-Athreya_Photo-modified.webp') }}" alt="Ms. Karishma Modi"
                                 class="img-fluid normal-img">
 
                         </div>
@@ -658,7 +658,7 @@
                                 </svg>
                                 aditiathreya@gmail.com
                             </a>
-                            <div class="know_more_btn"><a href="/aditi-athreya">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/aditi-athreya')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -667,9 +667,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Silvia-Fernandes-black.webp" alt="Silvia Fernandes"
+                            <img src="{{ asset('assets/images/faculty/Silvia-Fernandes-black.webp') }}" alt="Silvia Fernandes"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Silvia-Fernandes-color.webp" alt="Silvia Fernandes"
+                            <img src="{{ asset('assets/images/faculty/Silvia-Fernandes-color.webp') }}" alt="Silvia Fernandes"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -682,16 +682,16 @@
                                 </svg>
                                 silvia.fernandes09@gmail.com
                             </a>
-                            <div class="know_more_btn"><a href="/silvia-fernandes">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/silvia-fernandes')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>
                   <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="/assets/images/faculty/Abhik_photo-modified.webp" alt="Silvia Fernandes"
+                            <img src="{{ asset('assets/images/faculty/Abhik_photo-modified.webp') }}" alt="Silvia Fernandes"
                                 class="img-fluid normal-img">
-                            <img src="/assets/images/faculty/Abhik_photo.webp" alt="Silvia Fernandes"
+                            <img src="{{ asset('assets/images/faculty/Abhik_photo.webp') }}" alt="Silvia Fernandes"
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
@@ -704,7 +704,7 @@
                                 </svg>
                               Abhikbhattacharya2002@gmail.com  
                             </a>
-                            <div class="know_more_btn"><a href="/abhik-bhattacharya">Read More</a></div>
+                            <div class="know_more_btn"><a href="{{url('/abhik-bhattacharya')}}">Read More</a></div>
                         </div>
                     </div>
                 </div>

@@ -234,7 +234,7 @@ body{
                                                     </div>
                                                 </div>
                                             </a>
-                                            <a href="" class="new_tab_courses_listing">
+                                            <a href="{{url('/course-international')}}" class="new_tab_courses_listing">
                                                 <div class="new_tab_courses_listing_img">
                                                     <img src="{{ asset('assets/images/academics/International-Relations.webp') }}"
                                                         alt="Courses image" class="img-fluid">
@@ -461,7 +461,7 @@ body{
                                                     </div>
                                                 </div>
                                             </a>
-                                            <a href="{{url('/')}}" class="new_tab_courses_listing">
+                                            <!-- <a href="{{url('/')}}" class="new_tab_courses_listing">
                                                 <div class="new_tab_courses_listing_img">
                                                     <img src="{{ asset('assets/images/academics/Performing-Arts-Dance-Theatre-and-Music.webp') }}"
                                                         alt="Courses image" class="img-fluid">
@@ -480,7 +480,7 @@ body{
                                                         </svg>
                                                     </div>
                                                 </div>
-                                            </a>
+                                            </a> -->
                                             <a href="{{url('/course-performing-arts-theatre')}}"
                                                 class="new_tab_courses_listing">
                                                 <div class="new_tab_courses_listing_img">

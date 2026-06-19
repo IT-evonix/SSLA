@@ -29,7 +29,16 @@
                     <div class="new_course_listing_mainbox">
                         <div class="new_course_listing_para">
                             <p>
-                                The Performing Arts curriculum offers an intensive, practice-led engagement with theatre as a creative, analytical, and collaborative art form. Students develop core skills in voice, speech, movement, improvisation, text analysis, and playwriting while exploring acting techniques across Western and Indian dramatic traditions. The programme emphasizes the actor as creator, integrating devising processes, ensemble work, and performance-making through solo and group projects. Courses examine dramatic theory, narrative structures, character development, and stagecraft, including design and aesthetics. Through studio-based learning, research, and performance, students gain artistic discipline, creative confidence, and a holistic understanding of contemporary theatre-making. </p>
+                                The Performing Arts curriculum offers an intensive, practice-led engagement with theatre
+                                as a creative, analytical, and collaborative art form. Students develop core skills in
+                                voice, speech, movement, improvisation, text analysis, and playwriting while exploring
+                                acting techniques across Western and Indian dramatic traditions. The programme
+                                emphasizes the actor as creator, integrating devising processes, ensemble work, and
+                                performance-making through solo and group projects. Courses examine dramatic theory,
+                                narrative structures, character development, and stagecraft, including design and
+                                aesthetics. Through studio-based learning, research, and performance, students gain
+                                artistic discipline, creative confidence, and a holistic understanding of contemporary
+                                theatre-making. </p>
                         </div>
                         <div class="subject_listing_mainbox">
                             <div class="subject_listing">
@@ -37,7 +46,17 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            
+                                            Introduction to Theatre Making is an experiential course that introduces
+                                            students to the creative and collaborative processes involved in theatre
+                                            production. Through improvisation, mime, clowning, mask work, and physical
+                                            theatre techniques, students explore the role of the performer as both actor
+                                            and creator. The course emphasizes imagination, playfulness, dramatic
+                                            construction, and devising practices, enabling students to create original
+                                            theatrical work individually and collectively. Combining practical
+                                            exercises, group projects, research, critical reflection, and performance
+                                            labs, the course fosters creativity, communication, collaboration, and
+                                            artistic expression while providing a strong foundation in contemporary
+                                            theatre-making practices.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -52,7 +71,13 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Voice and Speech teaches students techniques for clear, strong, and expressive speech. It focuses on voice projection, articulation, pitch, tone, rhythm, and storytelling. Students practice monologues, dialogues, and oral performances, using methods like Kristin Linklater and Alexander Technique. Through practical exercises, group projects, and mentoring, they develop confidence and control in connecting with audiences, enhancing both technical skill and expressive delivery for live performance.
+                                            Voice and Speech teaches students techniques for clear, strong, and
+                                            expressive speech. It focuses on voice projection, articulation, pitch,
+                                            tone, rhythm, and storytelling. Students practice monologues, dialogues, and
+                                            oral performances, using methods like Kristin Linklater and Alexander
+                                            Technique. Through practical exercises, group projects, and mentoring, they
+                                            develop confidence and control in connecting with audiences, enhancing both
+                                            technical skill and expressive delivery for live performance.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -67,7 +92,13 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                             Text Analysis and Playwriting Lab teaches students the basics of dramatic writing, including plot, theme, and character. Through text analysis, improvisation, and writing exercises, students create and refine their own scripts. The course emphasizes understanding subtext, character motives, and story structure. Practical sessions, group discussions, and mentoring help develop creative and analytical skills. It concludes with a final reading performance, allowing students to apply their learning in practice.
+                                            Text Analysis and Playwriting Lab teaches students the basics of dramatic
+                                            writing, including plot, theme, and character. Through text analysis,
+                                            improvisation, and writing exercises, students create and refine their own
+                                            scripts. The course emphasizes understanding subtext, character motives, and
+                                            story structure. Practical sessions, group discussions, and mentoring help
+                                            develop creative and analytical skills. It concludes with a final reading
+                                            performance, allowing students to apply their learning in practice.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -82,7 +113,12 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Improvisation & Devising Theatre teaches students storytelling through improvisation and devised theatre. They develop characters, scenes, and performance confidence while exploring comedy, tragedy, and drama. Practical exercises and group projects enhance creativity, collaboration, and expression. The course concludes with devised performances, applying learned skills to engage an audience effectively. </p>
+                                            Improvisation & Devising Theatre teaches students storytelling through
+                                            improvisation and devised theatre. They develop characters, scenes, and
+                                            performance confidence while exploring comedy, tragedy, and drama. Practical
+                                            exercises and group projects enhance creativity, collaboration, and
+                                            expression. The course concludes with devised performances, applying learned
+                                            skills to engage an audience effectively. </p>
                                     </div>
                                     <div class="subject_listing_icon">
                                         <img src="{{ asset('assets/images/academics/icons/performing-arts-theatre-4.svg') }}"
@@ -97,7 +133,12 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Improvisation & Devising Theatre teaches students storytelling through improvisation and devised theatre. They develop characters, scenes, and performance confidence while exploring comedy, tragedy, and drama. Practical exercises and group projects enhance creativity, collaboration, and expression. The course concludes with devised performances, applying learned skills to engage an audience effectively. </p>
+                                            Improvisation & Devising Theatre teaches students storytelling through
+                                            improvisation and devised theatre. They develop characters, scenes, and
+                                            performance confidence while exploring comedy, tragedy, and drama. Practical
+                                            exercises and group projects enhance creativity, collaboration, and
+                                            expression. The course concludes with devised performances, applying learned
+                                            skills to engage an audience effectively. </p>
                                     </div>
                                     <div class="subject_listing_icon">
                                         <img src="{{ asset('assets/images/academics/icons/performing-arts-theatre-5.svg') }}"
@@ -112,7 +153,14 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Performance and Creation Lab introduces students to the technical and creative aspects of theatre-making. They engage in solo and group projects, exploring research, design, stagecraft, and performance. The course emphasizes collaboration, creative ownership, and practical application of lighting, sound, costumes, and makeup. Students learn to develop and present original theatre pieces while understanding the role of the actor as a creator. It combines lectures, practical exercises, and critical analysis to build professional theatre skills.
+                                            Performance and Creation Lab introduces students to the technical and
+                                            creative aspects of theatre-making. They engage in solo and group projects,
+                                            exploring research, design, stagecraft, and performance. The course
+                                            emphasizes collaboration, creative ownership, and practical application of
+                                            lighting, sound, costumes, and makeup. Students learn to develop and present
+                                            original theatre pieces while understanding the role of the actor as a
+                                            creator. It combines lectures, practical exercises, and critical analysis to
+                                            build professional theatre skills.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">

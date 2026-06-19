@@ -23,7 +23,15 @@
                     <div class="new_course_listing_mainbox">
                         <div class="new_course_listing_para">
                             <p>
-                                he Women and Gender Studies curriculum offers a critical, interdisciplinary exploration of gender, power, and social justice across historical, cultural, political, and economic contexts. Students engage with feminist theories, women’s movements, and key debates on patriarchy, caste, class, sexuality, labour, and representation, with a strong focus on India within global frameworks. Courses examine institutions such as family, work, law, media, and culture, analyzing how gendered identities are constructed, contested, and transformed. Through theory, case studies, visual media, fieldwork, and discussion-based pedagogy, the programme fosters intersectional thinking, critical analysis, and socially engaged scholarship.
+                                he Women and Gender Studies curriculum offers a critical, interdisciplinary exploration
+                                of gender, power, and social justice across historical, cultural, political, and
+                                economic contexts. Students engage with feminist theories, women’s movements, and key
+                                debates on patriarchy, caste, class, sexuality, labour, and representation, with a
+                                strong focus on India within global frameworks. Courses examine institutions such as
+                                family, work, law, media, and culture, analyzing how gendered identities are
+                                constructed, contested, and transformed. Through theory, case studies, visual media,
+                                fieldwork, and discussion-based pedagogy, the programme fosters intersectional thinking,
+                                critical analysis, and socially engaged scholarship.
                             </p>
                         </div>
                         <div class="subject_listing_mainbox">
@@ -32,7 +40,16 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Introduction to Women and Gender Studies provides a foundational understanding of women’s movements, feminist thought, and gender as a critical category of analysis. The course traces the history of women’s struggles across regions, including Europe, the Americas, Africa, West Asia, and South Asia, with special focus on India. It examines the relationship between feminist movements and academia, highlighting the emergence of Women and Gender Studies as a discipline. Through discussions, readings, and visual materials, students explore concepts such as patriarchy, identity, caste, class, sexuality, and power, emphasizing the diversity and complexity of women’s lived experiences. </p>
+                                            Introduction to Women and Gender Studies provides a foundational
+                                            understanding of women’s movements, feminist thought, and gender as a
+                                            critical category of analysis. The course traces the history of women’s
+                                            struggles across regions, including Europe, the Americas, Africa, West Asia,
+                                            and South Asia, with special focus on India. It examines the relationship
+                                            between feminist movements and academia, highlighting the emergence of Women
+                                            and Gender Studies as a discipline. Through discussions, readings, and
+                                            visual materials, students explore concepts such as patriarchy, identity,
+                                            caste, class, sexuality, and power, emphasizing the diversity and complexity
+                                            of women’s lived experiences. </p>
                                     </div>
                                     <div class="subject_listing_icon">
                                         <img src="{{ asset('assets/images/academics/icons/women-gender-studies-1.svg') }}"
@@ -46,7 +63,16 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                           Women in India examines the historical and contemporary status of women within Indian society. The course situates women’s lives within social, economic, and political contexts to explain the emergence and focus of women’s movements in India. It analyzes how development, policy, and social change have shaped women’s opportunities and constraints, while highlighting struggles for rights and equality. Through discussions, readings, and film screenings, students engage with data, lived experiences, and feminist perspectives to understand continuity and change in women’s status, and to appreciate the contributions of earlier movements that inform present-day freedoms.
+                                            Women in India examines the historical and contemporary status of women
+                                            within Indian society. The course situates women’s lives within social,
+                                            economic, and political contexts to explain the emergence and focus of
+                                            women’s movements in India. It analyzes how development, policy, and social
+                                            change have shaped women’s opportunities and constraints, while highlighting
+                                            struggles for rights and equality. Through discussions, readings, and film
+                                            screenings, students engage with data, lived experiences, and feminist
+                                            perspectives to understand continuity and change in women’s status, and to
+                                            appreciate the contributions of earlier movements that inform present-day
+                                            freedoms.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -57,12 +83,23 @@
                             </div>
 
                             <div class="subject_listing">
-                                <div class="subject_listing_heading">Representation of Gender in Image and Word (Film / TV / Literature / Advertising / Music)</div>
+                                <div class="subject_listing_heading">Representation of Gender in Image and Word (Film /
+                                    TV / Literature / Advertising / Music)</div>
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Representation of Gender in Image and Word explores how gender and sexuality are constructed and communicated through films, television, literature, advertising, music, and performance. The course examines stereotypes, archetypes, and sub-texts, linking representation to broader socio-economic and historical processes that shape gender politics. Students analyze themes of sexuality, violence, censorship, and voice, including women’s and LGBTQ+ expressions in poetry, theatre, and classical texts. Through discussions, readings, and film screenings, the course develops critical skills to assess, compare, and reinterpret cultural representations, fostering a nuanced understanding of how images and narratives influence identities and social attitudes.
-                                           </p>
+                                            Representation of Gender in Image and Word explores how gender and sexuality
+                                            are constructed and communicated through films, television, literature,
+                                            advertising, music, and performance. The course examines stereotypes,
+                                            archetypes, and sub-texts, linking representation to broader socio-economic
+                                            and historical processes that shape gender politics. Students analyze themes
+                                            of sexuality, violence, censorship, and voice, including women’s and LGBTQ+
+                                            expressions in poetry, theatre, and classical texts. Through discussions,
+                                            readings, and film screenings, the course develops critical skills to
+                                            assess, compare, and reinterpret cultural representations, fostering a
+                                            nuanced understanding of how images and narratives influence identities and
+                                            social attitudes.
+                                        </p>
                                     </div>
                                     <div class="subject_listing_icon">
                                         <img src="{{ asset('assets/images/academics/icons/women-gender-studies-3.svg') }}"
@@ -76,7 +113,17 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                           </p>
+                                            Gender, Labour and Work examines the relationship between gender and the
+                                            world of work, with a particular focus on women’s experiences across formal
+                                            and informal sectors. The course explores concepts such as paid and unpaid
+                                            work, productive and reproductive labour, domestic work, and employment in
+                                            agricultural, industrial, and manufacturing sectors. It critically analyzes
+                                            the feminization of labour, the invisibilization of women’s work, and the
+                                            impact of legal frameworks on women workers. Through interdisciplinary
+                                            perspectives, classroom discussions, readings, and visual media, students
+                                            develop a deeper understanding of the gendered nature of labour and
+                                            contemporary challenges related to work, rights, and equity.
+                                        </p>
                                     </div>
                                     <div class="subject_listing_icon">
                                         <img src="{{ asset('assets/images/academics/icons/women-gender-studies-4.svg') }}"
@@ -90,7 +137,18 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Socialization and Sexuality examines how social institutions, everyday assumptions, and seemingly “natural” processes shape understandings of gender and sexuality. The course encourages critical reflection on family, marriage, gender roles, masculinity, femininity, reproduction, and sexualization, integrating key debates and theoretical perspectives. Through classroom discussions, readings, and visual materials including film screenings, students develop self-reflexive analytical skills to assess social norms and cultural practices. The course fosters a nuanced understanding of how sexuality is socially constructed, and how power, politics, and culture influence personal and collective experiences, promoting critical thinking about identity and socialization in contemporary society.
+                                            Socialization and Sexuality examines how social institutions, everyday
+                                            assumptions, and seemingly “natural” processes shape understandings of
+                                            gender and sexuality. The course encourages critical reflection on family,
+                                            marriage, gender roles, masculinity, femininity, reproduction, and
+                                            sexualization, integrating key debates and theoretical perspectives. Through
+                                            classroom discussions, readings, and visual materials including film
+                                            screenings, students develop self-reflexive analytical skills to assess
+                                            social norms and cultural practices. The course fosters a nuanced
+                                            understanding of how sexuality is socially constructed, and how power,
+                                            politics, and culture influence personal and collective experiences,
+                                            promoting critical thinking about identity and socialization in contemporary
+                                            society.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
@@ -105,7 +163,16 @@
                                 <div class="subject_listing_content_box">
                                     <div class="subject_listing_content">
                                         <p class="m-0">
-                                            Understanding Feminisms introduces students to the historical roots and theoretical diversity of feminist thought. The course examines explanations of women’s subordination and compares major feminist perspectives, focusing on issues of sexuality, the body, and material conditions of exploitation. It contextualizes feminist theory within the Indian experience through the ideas of thinkers such as Savitribai and Mahatma Phule, Dr. B. R. Ambedkar, and Periyar. Through discussions, readings, and visual materials, students develop the ability to critically analyze, compare, and relate different feminist discourses, gaining a nuanced understanding of feminism as both theory and social movement.
+                                            Understanding Feminisms introduces students to the historical roots and
+                                            theoretical diversity of feminist thought. The course examines explanations
+                                            of women’s subordination and compares major feminist perspectives, focusing
+                                            on issues of sexuality, the body, and material conditions of exploitation.
+                                            It contextualizes feminist theory within the Indian experience through the
+                                            ideas of thinkers such as Savitribai and Mahatma Phule, Dr. B. R. Ambedkar,
+                                            and Periyar. Through discussions, readings, and visual materials, students
+                                            develop the ability to critically analyze, compare, and relate different
+                                            feminist discourses, gaining a nuanced understanding of feminism as both
+                                            theory and social movement.
                                         </p>
                                     </div>
                                     <div class="subject_listing_icon">
