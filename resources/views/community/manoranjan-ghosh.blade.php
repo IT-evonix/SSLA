@@ -69,12 +69,12 @@
                                                     Google Scholar
                                                 </a>
                                             </li>
-                                            <li>
+                                            <!-- <li>
                                                 <a href="https://www.ssla.edu.in/faculty" target="_blank"
                                                     rel="noopener">
                                                     ResearcherID
                                                 </a>
-                                            </li>
+                                            </li> -->
                                             <li>
                                                 <a href="https://orcid.org/0000-0002-3411-3287" target="_blank"
                                                     rel="noopener">

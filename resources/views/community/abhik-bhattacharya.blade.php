@@ -47,7 +47,7 @@
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
-                                            <span>Abhikbhattacharya2002@gmail.com
+                                            <span>abhik.bhattacharya@ssla.edu.in 
                                                 <div class="action-btns mt-3">
                                                     <a href="{{ asset('/assets/pdf/cv/Abhik-Bhattacharya-CV.pdf') }}"
                                                         class="btn btn-outline-light d-inline-flex align-items-center"

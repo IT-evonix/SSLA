@@ -39,7 +39,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                        <h2 class="faculty-name">Aditi Athreya</h2>
+                                        <h2 class="faculty-name">Dr. Aditi Athreya</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
                                             Anthropology
@@ -47,7 +47,7 @@
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
-                                            <span>aditiathreya@gmail.com</span>
+                                            <span>aditi.athreya@ssla.edu.in</span>
                                         </p>
                                         <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/pdf/cv/ADITI_ATHREYA_CV.pdf') }}"

@@ -28,8 +28,8 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('/assets/images/faculty/Uday_Sinha_photo.webp') }}" alt="Dr. Manoranjan Ghosh"
-                                class="profile-img img-fluid">
+                            <img src="{{ asset('/assets/images/faculty/Uday_Sinha_photo.webp') }}"
+                                alt="Dr. Manoranjan Ghosh" class="profile-img img-fluid">
                         </div>
                     </div>
 
@@ -39,10 +39,10 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                        <h2 class="faculty-name">Dr. Uday Sinha</h2>
+                                        <h2 class="faculty-name">Mr. Uday Sinha</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
-                                           Economics & Business Studies
+                                            Economics & Business Studies
                                         </p>
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
@@ -186,31 +186,32 @@
                         </div>
                         <ol class="ps-3">
                             <li>
-                               Ghoshal, I., Ghosh, I., Sinha, U., & Jog, S. (2023). FDI Inflows into Select Emerging 
-Market Economies- A Macroeconomic Investigation Using Panel Techniques. Economic 
-and Political Weekly, 58(41), 41–48. 
+                                Ghoshal, I., Ghosh, I., Sinha, U., & Jog, S. (2023). FDI Inflows into Select Emerging
+                                Market Economies- A Macroeconomic Investigation Using Panel Techniques. Economic
+                                and Political Weekly, 58(41), 41–48.
                             </li>
 
                             <li>
-                               Ghoshal, I., Jog, S., Sinha, U., & Ghosh, I. (2021). Macroeconomic Factors Affecting FDI 
-Inflows into Emerging Economies—A Panel Study. In P. Lakhanpal, J. Mukherjee, B. 
-Nag, & D. Tuteja (Eds.), Trade, Investment and Economic Growth: Issues for India and 
-Emerging Economies (pp. 109–119). Springer. 
+                                Ghoshal, I., Jog, S., Sinha, U., & Ghosh, I. (2021). Macroeconomic Factors Affecting FDI
+                                Inflows into Emerging Economies—A Panel Study. In P. Lakhanpal, J. Mukherjee, B.
+                                Nag, & D. Tuteja (Eds.), Trade, Investment and Economic Growth: Issues for India and
+                                Emerging Economies (pp. 109–119). Springer.
                                 <a href="https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7" target="_blank"
                                     class="text-danger">
-                                   https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7
+                                    https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7
                                 </a>
                             </li>
 
                             <li>
-                               Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., & Shaikh, N. (2025). Artificial 
-Intelligence in Education: A Comprehensive Examination of Integration, Impact, and 
-Future Implications. In A. Mirzazadeh, Z. Molamohamadi, E. Babaee Tirkolaee, G.-W. 
-Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering (pp. 
-182–198). Springer Nature Switzerland.
+                                Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., & Shaikh, N. (2025).
+                                Artificial
+                                Intelligence in Education: A Comprehensive Examination of Integration, Impact, and
+                                Future Implications. In A. Mirzazadeh, Z. Molamohamadi, E. Babaee Tirkolaee, G.-W.
+                                Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering (pp.
+                                182–198). Springer Nature Switzerland.
                                 <a href="https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11" target="_blank"
                                     class="text-danger">
-                                   https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11
+                                    https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11
                                 </a>
                             </li>
                         </ol>
@@ -227,7 +228,7 @@ Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering
                         <ul>
                             <li>
                                 UGC-NET Qualified in Economics since June 2019 <br>
-Member of Institute of Actuaries of India since 2013 
+                                Member of Institute of Actuaries of India since 2013
                             </li>
                             <li>
                                 Master of Arts (Economics) – 75.00% <br>

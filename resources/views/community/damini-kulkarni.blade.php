@@ -194,7 +194,7 @@
                                 <li>Kulkarni, D. (2024). Displacing difference, interrupting Indianness: Song sequences
                                     in
                                     digitally-released Indian-American films. Journal of Postcolonial Writing, 1–14.
-                                    <a href="https://doi.org/10.1080/17449855.2024.2353088 " class="text-danger">https://doi.org/10.1080/17449855.2024.2353088 </a>
+                                    <a href="https://doi.org/10.1080/17449855.2024.2353088 " target="_blank" class="text-danger">https://doi.org/10.1080/17449855.2024.2353088 </a>
                                 </li>
                                 <li>Kulkarni, D (2023) History into Myth: Popular Hindi cinema and the politics of “True
                                     Stories”. In Historicising Myths in Contemporary India. Gopinath and Deshmukh
@@ -204,7 +204,7 @@
                                     Interactive Film and Media Journal, 2 (1).</li>
                                 <li>Kulkarni, D (2020) Appropriation and Articulation: Mapping movements in ‘Gully Boy’,
                                     Cinergie – Il Cinema e le altre Arti, 9(17), 87-96.
-                                    doi:<a href="https://doi.org/10.6092/issn.2280-9481/10508" class="text-danger">https://doi.org/10.6092/issn.2280- 9481/10508 </a></li>
+                                    doi:<a href="https://doi.org/10.6092/issn.2280-9481/10508" target="_blank" class="text-danger">https://doi.org/10.6092/issn.2280- 9481/10508 </a></li>
                                 <li>Kulkarni, D (2019) Beyond the Clouds and the Construction of Indian Slums in Hindi
                                     Cinema, Film International, 17(1):89-95, DOI: 10.1386/fiin.17.1.89_1</li>
                                 <li>Gajjala R, Kulkarni D, Rahut D (2019) Dialogue Interlude: Extending and Nuancing the
@@ -215,7 +215,7 @@
                                     film,
                                     Economic and Political Weekly, Vol. 54, Issue 39 pp 77-78 </li>
                                 <li>Kulkarni, D (2018) The Many Forms of Islamophobia, Film Criticism, Vol. 42, Issue 3,
-                                    DOI: <a href="http://dx.doi.org/10.3998/fc.13761232.0042.317 " class="text-danger">http://dx.doi.org/10.3998/fc.13761232.0042.317 </a></li>
+                                    DOI: <a href="http://dx.doi.org/10.3998/fc.13761232.0042.317 " target="_blank" class="text-danger">http://dx.doi.org/10.3998/fc.13761232.0042.317 </a></li>
                                 <li>Kulkarni, D (2018) The Politics of Food and Sexuality in Lust Stories, Economic and
                                     Political Weekly, Vol. 53, Issue 45</li>
                                 <li>Kulkarni, D (2017) ‘Strong Female Characters’ in Hindi Cinema, Economic and
