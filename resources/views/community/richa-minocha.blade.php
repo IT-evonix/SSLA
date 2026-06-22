@@ -49,14 +49,14 @@
                                                 class="icon-img me-2">
                                             <span> richa.minocha@ssla.edu.in</span>
                                         </p>
-                                        <!-- <div class="action-btns mt-3">
-                                            <a href="{{ asset('/assets/cv/Dr_Manoranjan_Ghosh_CV.pdf') }}"
+                                        <div class="action-btns mt-3">
+                                            <a href="{{ asset('/assets/pdf/cv/Dr-Richa-Minocha-CV.pdf') }}"
                                                 class="btn btn-outline-light d-inline-flex align-items-center" download>
                                                 <img src="{{ asset('/assets/images/icon/downloads.png') }}"
                                                     alt="Download icon" class="icon-img me-2">
                                                 <span>Download CV</span>
                                             </a>
-                                        </div> -->
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- <div class="col-md-6"> -->

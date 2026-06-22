@@ -47,7 +47,7 @@
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
-                                            <span>debapriyaganguly@gmail.com </span>
+                                            <span>debapriya.ganguly@ssla.edu.in</span>
                                         </p>
                                         <div class="action-btns mt-3">
                                             <a href="{{ asset('/assets/pdf/cv/Dr_Debapriya_Ganguly_CV.pdf') }}"

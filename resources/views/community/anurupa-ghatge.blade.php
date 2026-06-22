@@ -28,7 +28,7 @@
                     <div class="col-lg-4 text-center">
                         <div class="profile-img-wrapper">
                             <span class="img-bg"></span>
-                            <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr. Manoranjan Ghosh"
+                            <img src="{{ asset('/assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr. Manoranjan Ghosh"
                                 class="profile-img img-fluid">
                         </div>
                     </div>

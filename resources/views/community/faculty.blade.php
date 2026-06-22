@@ -29,7 +29,7 @@
                         </div>
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Shweta Deshpande</div>
-                            <div class="faculty_position">(Associate Professor)</div>
+                            <div class="faculty_position">(Director & Associate Professor)</div>
                             <a class="faculty_mail" href="mailto:shwetasdeshpande@yahoo.com">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
@@ -380,7 +380,7 @@
                         </div>
 
                         <div class="faculty_content_box">
-                            <div class="faculty_name">Prof. Uday Sinha</div>
+                            <div class="faculty_name">Mr. Uday Sinha</div>
                             <div class="faculty_position">(Assistant Professor)</div>
 
                             <a class="faculty_mail" href="mailto:uday.sinha@ssla.edu.in">
@@ -523,12 +523,12 @@
                             <div class="faculty_name">Dr. Debapriya Ganguly</div>
                             <div class="faculty_position">(Assistant Professor)</div>
 
-                            <a class="faculty_mail" href="mailto:Demo@ssla.edu.in">
+                            <a class="faculty_mail" href="mailto:debapriya.ganguly@ssla.edu.in ">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                                debapriyaganguly@gmail.com
+                                debapriya.ganguly@ssla.edu.in
                             </a>
 
                             <div class="know_more_btn">
@@ -549,7 +549,7 @@
                         </div>
 
                         <div class="faculty_content_box">
-                            <div class="faculty_name">Dr Anurupa Ghatge</div>
+                            <div class="faculty_name">Dr. Anurupa Ghatge</div>
                             <div class="faculty_position">(Assistant Professor)</div>
 
                             <a class="faculty_mail" href="mailto:Demo@ssla.edu.in">
@@ -649,14 +649,14 @@
 
                         </div>
                         <div class="faculty_content_box">
-                            <div class="faculty_name">Aditi Athreya</div>
+                            <div class="faculty_name">Dr. Aditi Athreya</div>
                             <div class="faculty_position">(Assistant Professor)</div>
-                            <a class="faculty_mail" href="mailto:aditiathreya@gmail.com">
+                            <a class="faculty_mail" href="mailto:aditi.athreya@ssla.edu.in ">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                                aditiathreya@gmail.com
+                              aditi.athreya@ssla.edu.in 
                             </a>
                             <div class="know_more_btn"><a href="{{url('/aditi-athreya')}}">Read More</a></div>
                         </div>
@@ -697,12 +697,12 @@
                         <div class="faculty_content_box">
                             <div class="faculty_name">Dr. Abhik Bhattacharya  </div>
                             <div class="faculty_position">(Assistant Professor)</div>
-                            <a class="faculty_mail" href="mailto:Abhikbhattacharya2002@gmail.com  ">
+                            <a class="faculty_mail" href="mailto:abhik.bhattacharya@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                                     <path
                                         d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
                                 </svg>
-                              Abhikbhattacharya2002@gmail.com  
+                              abhik.bhattacharya@ssla.edu.in  
                             </a>
                             <div class="know_more_btn"><a href="{{url('/abhik-bhattacharya')}}">Read More</a></div>
                         </div>

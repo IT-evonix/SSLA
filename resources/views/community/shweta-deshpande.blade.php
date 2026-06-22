@@ -40,7 +40,7 @@
                                 <div class="col-md-6">
                                     <div>
                                         <h2 class="faculty-name">Dr. Shweta Sinha Deshpande</h2>
-                                        <p class="faculty-designation">Associate Professor</p>
+                                        <p class="faculty-designation">Director & Associate Professor</p>
                                         <p class="faculty-institute">
                                             Anthropology
 
@@ -255,11 +255,9 @@
                             <li>
                                 2025 An Exploratory Study on Bonding and Bridging Social Capital Among the Non-Displaced
                                 Kashmiri Pandits in Kashmir, India. Journal of Population and Social Studies [JPSS], 33,
-                                596–610. (with Avinash Kaul).
-                                DOI: <a href="http://dx.doi.org/10.25133/JPSSv332025.032" target="_blank"
-                                    class="text-danger">
-                                    10.25133/JPSSv332025.032
-                                </a>
+                                596–610. (with Avinash Kaul). DOI: <a href="http://dx.doi.org/10.25133/JPSSv332025.032" target="_blank"
+                                    class="text-danger"> 10.25133/JPSSv332025.032
+                                </a><br>
                                 <a href="https://so03.tci-thaijo.org/index.php/jpss/article/view/277074" target="_blank"
                                     class="text-danger">
                                     (https://so03.tci-thaijo.org/index.php/jpss/article/view/277074)
@@ -270,7 +268,7 @@
                                 2024 Relooking at the Archaeology of Neem ka Thana Tehsil, Rajasthan, India in
                                 Archaeological Research in Asia. Volume 39, September 2024, 100538, ISSN 2352-2267.
                                 (with Dr. Esha Prasad).
-                                DOI:
+                               
                                 <a href="https://doi.org/10.1016/j.ara.2024.100538" target="_blank" class="text-danger">
                                     https://doi.org/10.1016/j.ara.2024.100538
                                 </a>
@@ -292,7 +290,7 @@
                             <li>
                                 2023 A Reappraisal of the Chalcolithic of Central and Deccan India, Oxford Research
                                 Encyclopedia of Anthropology (with Dr. Esha Prasad).
-                                DOI:
+                                doi:
                                 <a href="https://doi.org/10.1093/acrefore/9780190854584.013.567.7" target="_blank"
                                     class="text-danger">
                                     https://doi.org/10.1093/acrefore/9780190854584.013.567.7
@@ -328,7 +326,7 @@
                             </li>
 
                             <li>
-                                NET, 1999.
+                                NET 1999
                             </li>
 
                             <li>
@@ -392,7 +390,7 @@
                     <li>What is Anthropology?; Introduction to Archaeology: Theory and Techniques; Socio-Cultural
                         Anthropology; Anthropology Today: Its applications; Shifting Homelands: Ideology, Migration and
                         Conflict; From Ape to Alexander and Beyond: A Study in World Cultures; The Idea of Art;
-                        Understanding India; Religion: Their Greater Similarities and Finer Differences </li>
+                        Understanding India; Religion: Their Greater Similarities and Finer Differences</li>
 
                 </ul>
             </div>
