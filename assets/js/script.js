@@ -295,4 +295,12 @@ document.addEventListener('hidden.bs.offcanvas', () => {
   window.lenis.start();
 });
 
+// header height calculation for mobile header responsive start
+function setHeaderHeight() {
+  const header = document.getElementById('myHeader');
+  document.documentElement.style.setProperty('--header-height', header.offsetHeight + 'px');
+}
 
+window.addEventListener('load', setHeaderHeight);
+window.addEventListener('resize', setHeaderHeight);
+// header height calculation for mobile header responsive ends

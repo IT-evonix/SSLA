@@ -11,6 +11,7 @@
 </div>
 </section>
 <main class="courses_list_mainbox">
+    @include('layout.back-button')
     <section class="courses_list_section">
         <div class="container">
             <div class="row">

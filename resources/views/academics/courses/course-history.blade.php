@@ -11,6 +11,7 @@
 </div>
 </section>
 <main class="courses_list_mainbox">
+    @include('layout.back-button')
     <section class="courses_list_section">
         <div class="container">
             <div class="row">
@@ -21,11 +22,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="new_course_listing_mainbox">
-                        <div class="new_course_listing_para">
-                            <p>
-                               
-                            </p>
-                        </div>
                         <div class="subject_listing_mainbox">
                             <div class="subject_listing">
                                 <div class="subject_listing_heading">Histories and Historiographies</div>

@@ -16,6 +16,7 @@
 </section>
 <!-- Responsive Header ends  -->
 <main class="courses_list_mainbox">
+    @include('layout.back-button')
     <!-- Inner section start -->
     <section class="courses_list_section">
         <div class="container">

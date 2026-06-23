@@ -20,15 +20,16 @@
         <div class="container">
             <h1 class="inner__red_heading">Faculty</h1>
             <div class="row" data-aos="fade-up" data-aos-duration="3000">
+
                 <!-- shweta Deshpande -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/sweta.webp') }}" alt="shweta" class="img-fluid normal-img">
                             <img src="{{ asset('assets/images/about/Shweta-Sinha.webp') }}" alt="shweta" class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
-                            <div class="faculty_name">Dr. Shweta Deshpande</div>
+                            <div class="faculty_name">Dr. Shweta Sinha Deshpande</div>
                             <div class="faculty_position">(Director & Associate Professor)</div>
                             <a class="faculty_mail" href="mailto:shwetasdeshpande@yahoo.com">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
@@ -43,7 +44,7 @@
                 </div>
 
                 <!-- Dr. Afshan Majid -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/afshan.png') }}" alt="Dr. Afshan Majid"
@@ -67,7 +68,7 @@
                 </div>
 
                 <!-- Dr. Barry H. Rodrigue -->
-                <!-- <div class="col-lg-3 col-md-4 col-sm-12">
+                <!-- <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/about/about-banner-image.webp') }}/assets/images/faculty/Dr. Barry H. Rodrigueb.webp" alt="Dr. Barry H. Rodrigue"
@@ -96,7 +97,7 @@
                 </div> -->
 
                 <!-- Ms. Gayatri Mendanha -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Gayatri-Mendahna_photo-modified_black-white.webp') }}"
@@ -120,7 +121,7 @@
                 </div>
 
                 <!--Mr. Nikhil Thorat -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Nikhil-Thorat-Photo-for-Website-modified.webp') }}" alt="Mr. Nikhil Thorat"
@@ -144,7 +145,7 @@
                 </div>
 
                 <!-- Dr. Manjari Jonnalagadda -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Dr-Manjari Jonnalagadda-modified.webp') }}" alt="Dr. Manjari Jonnalagadda"
@@ -168,7 +169,7 @@
                 </div>
 
                 <!-- Ms. Ananya Dutta -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/anaya.png') }}" alt="Ms. Ananya Dutta"
@@ -192,7 +193,7 @@
                 </div>
 
                 <!-- Ms. Sakshi Juneja -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/sakshi_juneja.png') }}" alt="Ms. Sakshi Juneja"
@@ -201,9 +202,11 @@
                                 class="img-fluid hover-img">
                         </div>
 
-                        <div class="faculty_content_box">
-                            <div class="faculty_name">Ms. Sakshi Juneja</div>
-                            <div class="faculty_position">(Assistant Professor)</div>
+                        <div class="faculty_content_box new_faculty_content_box">
+                            <div class="new_faculty_namebox">
+                                <div class="faculty_name">Ms. Sakshi Juneja</div>
+                                <div class="faculty_position">(Assistant Professor)</div>
+                            </div>
 
                             <!-- <a class="faculty_mail" href="mailto:anurupa.ghatge@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
@@ -221,7 +224,7 @@
                 </div>
 
                 <!-- Sumithra Surendralal -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/sumitra.png') }}" alt="Sumithra Surendralal"
@@ -250,7 +253,7 @@
                 </div>
 
                 <!-- Dr. Richa Minocha -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Richa_photo-modified.webp') }}" alt="Dr. Richa Minocha"
@@ -274,7 +277,7 @@
                 </div>
 
                 <!-- Dr. Suchetana Banerjee -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Suchetana Banerjee_photo-modified.webp') }}" alt="Dr. Suchetana Banerjee"
@@ -298,7 +301,7 @@
                 </div>
 
                 <!-- Dr. Sulakshna Sen -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/sulakshna.png') }}" alt="Dr. Sulakshna Sen"
@@ -322,7 +325,7 @@
                 </div>
 
                 <!-- Dr. Vasudev Menon -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Vasudev-Menon_Photo-modified.webp') }}" alt="Dr. Vasudev Menon"
@@ -346,7 +349,7 @@
                 </div>
 
                 <!-- Dr. Kishori Kasat -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/faculty-11-modified.webp') }}" alt="Dr. Kishori Kasat"
@@ -370,7 +373,7 @@
                 </div>
 
                 <!-- Prof. Uday Sinha -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Uday_Sinha_photo-modified.webp') }}" alt="Prof. Uday Sinha"
@@ -399,7 +402,7 @@
                 </div>
 
                 <!-- Dr. Manoranjan Ghosh -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/manoranjanbw.png') }}" alt="Dr. Manoranjan Ghosh"
@@ -423,7 +426,7 @@
                 </div>
 
                 <!-- Dr. Damini Kulkarni -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/damini.png') }}" alt=" Dr. Damini Kulkarni"
@@ -433,7 +436,7 @@
                         </div>
 
                         <div class="faculty_content_box">
-                            <div class="faculty_name"> Dr. Damini Kulkarni</div>
+                            <div class="faculty_name">Dr. Damini Kulkarni</div>
                             <div class="faculty_position">(Assistant Professor)</div>
 
                             <a class="faculty_mail" href="mailto:damini.kulkarni@ssla.edu.in">
@@ -452,7 +455,7 @@
                 </div>
 
                 <!-- Dr. Gitanjali Roy -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Dr. Gitanjali Royb.webp') }}" alt="Dr. Gitanjali Roy"
@@ -481,7 +484,7 @@
                 </div>
 
                 <!-- Dr. Esha Prasad -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Esha_Prasad_photo-modified.webp') }}" alt="Dr. Esha Prasad"
@@ -510,7 +513,7 @@
                 </div>
 
                 <!-- Dr. Debapriya Ganguly -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Debapriya_photo-modified.webp') }}" alt="Dr.Debapriya Ganguly"
@@ -539,7 +542,7 @@
                 </div>
 
                 <!-- -Dr Anurupa Ghatge -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr.Debapriya Ganguly"
@@ -568,7 +571,7 @@
                 </div>
 
                 <!-- Ms. Atiya Fatima -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/atiya_fatima.png') }}" alt="Ms. Atiya Fatima "
@@ -592,7 +595,7 @@
                 </div>
 
                 <!-- Dr. Renu Vinod -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Renu-Vinod_photo-modified.webp') }}" alt="Dr. Renu Vinod"
@@ -616,7 +619,7 @@
                 </div>
 
                 <!-- Ms. Karishma Modi -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Karishma-Modib.png') }}" alt="Ms. Karishma Modi"
@@ -639,7 +642,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Aditi_Athreya_Photo.webp') }}" alt="Ms. Karishma Modi"
@@ -664,7 +667,7 @@
                 </div>
 
                 <!-- Dr. Silvia Fernandes -->
-                <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
                             <img src="{{ asset('assets/images/faculty/Silvia-Fernandes-black.webp') }}" alt="Silvia Fernandes"
@@ -686,29 +689,29 @@
                         </div>
                     </div>
                 </div>
-                  <div class="col-lg-3 col-md-4 col-sm-12">
-                    <div class="faculty_box_inner">
-                        <div class="faculty_profile">
-                            <img src="{{ asset('assets/images/faculty/Abhik_photo-modified.webp') }}" alt="Silvia Fernandes"
-                                class="img-fluid normal-img">
-                            <img src="{{ asset('assets/images/faculty/Abhik_photo.webp') }}" alt="Silvia Fernandes"
-                                class="img-fluid hover-img">
-                        </div>
-                        <div class="faculty_content_box">
-                            <div class="faculty_name">Dr. Abhik Bhattacharya  </div>
-                            <div class="faculty_position">(Assistant Professor)</div>
-                            <a class="faculty_mail" href="mailto:abhik.bhattacharya@ssla.edu.in">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
-                                    <path
-                                        d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
-                                </svg>
-                              abhik.bhattacharya@ssla.edu.in  
-                            </a>
-                            <div class="know_more_btn"><a href="{{url('/abhik-bhattacharya')}}">Read More</a></div>
-                        </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
+                <div class="faculty_box_inner">
+                    <div class="faculty_profile">
+                        <img src="{{ asset('assets/images/faculty/Abhik_photo-modified.webp') }}" alt="Silvia Fernandes"
+                            class="img-fluid normal-img">
+                        <img src="{{ asset('assets/images/faculty/Abhik_photo.webp') }}" alt="Silvia Fernandes"
+                            class="img-fluid hover-img">
+                    </div>
+                    <div class="faculty_content_box">
+                        <div class="faculty_name">Dr. Abhik Bhattacharya  </div>
+                        <div class="faculty_position">(Assistant Professor)</div>
+                        <a class="faculty_mail" href="mailto:abhik.bhattacharya@ssla.edu.in">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
+                                <path
+                                    d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                            </svg>
+                            abhik.bhattacharya@ssla.edu.in  
+                        </a>
+                        <div class="know_more_btn"><a href="{{url('/abhik-bhattacharya')}}">Read More</a></div>
                     </div>
                 </div>
-
+                </div>
 
             </div>
         </div>
