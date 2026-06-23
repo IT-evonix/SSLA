@@ -15,6 +15,7 @@
 </section>
 <!-- Responsive Header ends  -->
 <main class="staff_main">
+    @include('layout.back-button')
     <!-- Inner section start -->
     <!-- Details section start -->
     <section class="faculty_details_section">

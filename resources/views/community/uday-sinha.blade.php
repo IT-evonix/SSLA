@@ -15,6 +15,7 @@
 </section>
 <!-- Responsive Header ends  -->
 <main class="staff_main">
+    @include('layout.back-button')
     <!-- Inner section start -->
     <!-- Details section start -->
     <section class="faculty_details_section">
@@ -39,7 +40,8 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                        <h2 class="faculty-name">Mr. Uday Sinha</h2>
+                                        <h2 class="faculty-name">Mr
+                                        . Uday Sinha</h2>
                                         <p class="faculty-designation">Assistant Professor</p>
                                         <p class="faculty-institute">
                                             Economics & Business Studies

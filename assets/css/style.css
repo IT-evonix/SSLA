@@ -5173,20 +5173,24 @@
       font-size: unset !important;
       font-style: normal !important;
       border-bottom: 0 !important;
-      color:var(--color-green) !important;
-    }
-    
-    .new_faculty_link a:hover {
-      color:var(--color-red) !important;
+      color: var(--color-green) !important;
+  }
+
+  .new_faculty_link a:hover {
+      color: var(--color-red) !important;
   }
 
   .research-main-sec .new_academic_fee_tab_content_content p {
-    text-align: center;
-    margin: 0 0 16px 0;
+      text-align: center;
+      margin: 0 0 16px 0;
   }
 
   .new_academic_fee_tab_content_box .table-responsive {
-    border-radius: 12px;
+      border-radius: 12px;
+  }
+
+  .back_button_box {
+      display: none;
   }
 
   /*============== Media quiry start   ================*/
@@ -6357,6 +6361,29 @@
       .new_tab_courses_listing:hover .new_tab_courses_listing_icon {
           bottom: -50px;
       }
+
+      main {
+          padding-top: var(--header-height);
+      }
+
+      .back_button_box {
+          background-color: var(--color-red);
+          color: var(--color-white);
+          font-size: 12px;
+          padding: 6px 6px 6px 6px;
+          border-radius: 20px 0 0 20px;
+          display: grid;
+          grid-template-columns: 14px auto;
+          gap: 10px;
+          align-items: center;
+          position: absolute;
+          right: 0;
+          margin: 10px 0 0 0;
+      }
+
+      .back_button_box:hover {
+          color: var(--color-white);
+      }
   }
 
   @media (max-width: 575.98px) {
@@ -7005,12 +7032,37 @@
           width: 40px;
           height: 40px;
           padding: 8px;
-          margin: 10px -20px 0 0;
+          margin: 10px -14px 0 0;
           align-self: start;
       }
 
       .subject_listing_content {
-          padding: 20px 28px 20px 20px;
+          padding: 20px;
+      }
+
+      .subject_listing_content {
+          padding: 10px 20px 20px 20px;
+          grid-row: 2/3;
+      }
+
+      .subject_listing_icon {
+          width: 50px;
+          height: 50px;
+          padding: 12px;
+          margin: 0;
+          align-self: start;
+          justify-self: start;
+          grid-row: 1/2;
+          margin: 10px 0 0 20px;
+      }
+
+      .subject_listing {
+          max-width: unset;
+      }
+
+      .subject_listing_mainbox {
+          display: flex;
+          flex-direction: column;
       }
 
   }
