@@ -168,40 +168,42 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="student_research_databox" data-aos="fade-up">
-                        <div class="student_research_databox_heading">2025</div>
-                        <div class="student_research_databox_data">
-                            <ul>
-                                <li><strong>Sia Pandhare -</strong>
-                                    <span class="new_green_strong">
-                                        A Dual Aesthetic Perspective on Nonprofit Marketing: A Monetary Donation Study.
-                                    </span>
-                                </li>
-                            </ul>
+                    <div class="student_research_grid">
+                        <div class="student_research_databox" data-aos="fade-up">
+                            <div class="student_research_databox_heading">2025</div>
+                            <div class="student_research_databox_data">
+                                <ul>
+                                    <li><strong>Sia Pandhare -</strong>
+                                        <span class="new_green_strong">
+                                            A Dual Aesthetic Perspective on Nonprofit Marketing: A Monetary Donation Study.
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                    <div class="student_research_databox student_research_databox_data_with_margin" data-aos="fade-up">
-                        <div class="student_research_databox_heading">2024</div>
-                        <div class="student_research_databox_data">
-                            <ul>
-                                <li><strong>Jayati Tripathi -</strong>
-                                    <span class="new_green_strong">
-                                        Echoes of Espionage: Unmasking Intelligence Imprints on Cinematic Narratives
-                                    </span>
-                                </li>
-                            </ul>
+                        <div class="student_research_databox" data-aos="fade-up">
+                            <div class="student_research_databox_heading">2024</div>
+                            <div class="student_research_databox_data">
+                                <ul>
+                                    <li><strong>Jayati Tripathi -</strong>
+                                        <span class="new_green_strong">
+                                            Echoes of Espionage: Unmasking Intelligence Imprints on Cinematic Narratives
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                    <div class="student_research_databox student_research_databox_data_with_margin" data-aos="fade-up">
-                        <div class="student_research_databox_heading">2023</div>
-                        <div class="student_research_databox_data">
-                            <ul>
-                                <li><strong>Rhea Khanna -</strong>
-                                    <span class="new_green_strong">
-                                        The Horror of Being Lost – the Psychology of Map-making
-                                    </span>
-                                </li>
-                            </ul>
+                        <div class="student_research_databox" data-aos="fade-up">
+                            <div class="student_research_databox_heading">2023</div>
+                            <div class="student_research_databox_data">
+                                <ul>
+                                    <li><strong>Rhea Khanna -</strong>
+                                        <span class="new_green_strong">
+                                            The Horror of Being Lost – the Psychology of Map-making
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>

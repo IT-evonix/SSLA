@@ -14,7 +14,7 @@
 </div>
 </section>
 <!-- Responsive Header ends  -->
-<main class="life_after_ssla_main">
+<main class="life_after_ssla_main program_structure_main">
     <!-- Inner section start -->
     <section class="life_after_ssla_section" data-aos="fade-up">
         <div class="container">
