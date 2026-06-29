@@ -701,7 +701,7 @@
                                                                     </div>
                                                                 </a>
                                                             </div>
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="https://www.scie.ac.in/" target="_blank">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -717,7 +717,7 @@
                                                                     </div>
                                                                     <div class="mega_menu_name_box">SCIE</div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="megamenu_listing">
                                                                 <a href="{{url('/academic-calender')}}">
                                                                     <div class="mega_menu_icon_box">

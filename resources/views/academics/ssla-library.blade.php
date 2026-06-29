@@ -48,7 +48,7 @@
                                         <div class="nav-link" data-bs-toggle="tab" data-bs-target="#tab5">
                                             Important-links</div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <!-- <div class="swiper-slide">
                                         <div class="nav-link" data-bs-toggle="tab" data-bs-target="#tab6">Library
                                             Feedback</div>
                                     </div>
@@ -70,7 +70,7 @@
                                         <a target="_blank" href="{{ asset('assets/pdf/Revised-Library-Manual.pdf') }}"
                                             class="nav-link">Library
                                             Mannual</a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

@@ -16,7 +16,7 @@
 <!-- Responsive Header ends  -->
 <main class="staff_main research-main-sec">
     <!-- Inner section start -->
-    <section class="inner_section main-financials">
+    <section class="inner_section main-financials new-main-financials">
         <div class="container">
             <div class="inner_tab_mainbox">
                 <div class="inner_tab_box">
