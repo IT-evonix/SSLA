@@ -373,9 +373,9 @@
       border-bottom: 1px solid #dedede;
   }
 
-  tbody tr:first-child td {
-      /* padding: 25px 15px 10px 15px; */
-  }
+  /* tbody tr:first-child td {
+      padding: 25px 15px 10px 15px;
+  } */
 
   .table>tbody {
       background-color: #F0F9FA;
@@ -968,9 +968,9 @@
 
   }
 
-  .boy_imgbox {
-      /* margin: -20px 0 0 0; */
-  }
+  /* .boy_imgbox {
+      margin: -20px 0 0 0;
+  } */
 
   /* Our courses section ends  */
   /* Testimonial section start  */
@@ -1672,9 +1672,9 @@
           padding: 0.938rem 0.938rem;
       }
 
-      .header_searchbox svg path {
-          /* fill: var(--color-black); */
-      }
+      /* .header_searchbox svg path {
+          fill: var(--color-black);
+      } */
 
       .header_mainbox .header_menubox nav ul li:not(:last-child)::after {
           background-color: var(--color-white);
@@ -1898,13 +1898,13 @@
       background-color: #ccc;
   }
 
-  .red_content {
-      /* min-height: 72px;
+  /* .red_content {
+      min-height: 72px;
       display: -webkit-box;
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
-      overflow: hidden; */
-  }
+      overflow: hidden;
+  } */
 
   .red_img {
       width: 30%;
@@ -2241,9 +2241,9 @@
           bottom: 0;
       }
 
-      .vision_mission_mainbox {
-          /* padding: 0 2.5rem 0 0; */
-      }
+      /* .vision_mission_mainbox {
+          padding: 0 2.5rem 0 0;
+      } */
 
       .mission_mainbox {
           padding: 2.5rem 0 0 0;
@@ -5798,6 +5798,11 @@
       margin: 15px 0 0 0;
   }
 
+  .cjis_btnbox {
+      display: flex;
+      gap: 15px;
+  }
+
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {
@@ -6525,6 +6530,7 @@
 
           .header_mainbox .header_menubox {
               padding: 0 20px 0 0;
+              flex-direction: row-reverse;
           }
       }
 
@@ -6926,6 +6932,11 @@
 
       .new_ice_listing:nth-child(1) .new_ice_imgbox {
           grid-row: 1/2;
+      }
+
+      .header_searchbox svg {
+            width: 25px;
+            height: 25px;
       }
 
   }
@@ -7441,7 +7452,7 @@
       }
 
       .admission_floating_box {
-          right: 30px;
+          right: 10px;
           top: -14px;
           transform: unset;
       }
@@ -7728,6 +7739,46 @@
 
       .program_structure_main .student_research_databox_heading {
           margin: -55px 0 0 0;
+      }
+
+      #global-search-input {
+          font-size: 14px !important;
+      }
+
+      .global-search-overlay .search-card {
+          padding: 20px !important;
+      }
+
+      .search-input-icon {
+          margin-right: 10px !important;
+      }
+
+      .search-input-wrapper {
+          border-bottom: 1px solid #e9e5ff !important;
+          margin-top: 10px !important;
+      }
+
+      .search-close-btn {
+          top: 10px !important;
+          right: 10px !important;
+          font-size: 28px !important;
+      }
+
+      .suggestion-item-icon svg {
+          width: 14px !important;
+          height: 14px !important;
+      }
+
+      .suggestion-item-title {
+          font-size: 12px !important;
+      }
+
+      .suggestion-item-path {
+          display: none !important;
+      }
+
+      .suggestion-item {
+          padding: 5px 0px !important;
       }
 
   }

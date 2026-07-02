@@ -125,7 +125,7 @@
                                                 </g>
                                             </svg>
                                         </div>
-                                        <div>Watch Now</div>
+                                        <div>Watch Video Now</div>
                                     </a>
                                     <a href="" class="new_slf_btns_listing">
                                         <div>
@@ -167,7 +167,7 @@
                                                 </g>
                                             </svg>
                                         </div>
-                                        <div>Watch Now</div>
+                                        <div>Watch Video Now</div>
                                     </a>
                                     <a href="" class="new_slf_btns_listing">
                                         <div>
@@ -212,7 +212,7 @@
                                                 </g>
                                             </svg>
                                         </div>
-                                        <div>Watch Now</div>
+                                        <div>Watch Video Now</div>
                                     </a>
                                     <a href="" class="new_slf_btns_listing">
                                         <div>
@@ -248,7 +248,7 @@
                                                 </g>
                                             </svg>
                                         </div>
-                                        <div>Watch Now</div>
+                                        <div>Watch Video Now</div>
                                     </a>
                                     <a href="" class="new_slf_btns_listing">
                                         <div>
@@ -394,7 +394,7 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <div>Watch Now</div>
+                                    <div>Watch Video Now</div>
                                 </a>
                                 <a href="" class="new_slf_btns_listing">
                                     <div>
@@ -439,7 +439,7 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <div>Watch Now</div>
+                                    <div>Watch Video Now</div>
                                 </a>
                                 <a href="" class="new_slf_btns_listing">
                                     <div>
@@ -484,7 +484,7 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <div>Watch Now</div>
+                                    <div>Watch Video Now</div>
                                 </a>
                                 <a href="" class="new_slf_btns_listing">
                                     <div>
@@ -525,7 +525,7 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <div>Watch Now</div>
+                                    <div>Watch Video Now</div>
                                 </a>
                                 <a href="" class="new_slf_btns_listing">
                                     <div>

@@ -18,125 +18,10 @@
     <!-- Inner section start -->
     <section class="inner_section">
         <div class="text-center">
-            <h3 class="inner__red_heading mb-5">SSLA Alumni</h3>
+            <h3 class="inner__red_heading">SSLA Alumni</h3>
         </div>
         <div class="container">
-            <div class="ssla-txt">
-                <p>SSLA alumni are placed across a wide range of sectors globally, from academia and public policy
-                    to development, finance, technology, and the social sector, reflecting the interdisciplinary and
-                    applied nature of the liberal arts curriculum at the institute. Their trajectories highlight how the
-                    programme’s mix of majors, minors, and research training translates into careers that combine
-                    critical thinking, communication, and domain-specific expertise.
-                </p>
-                <p>
-                    Many SSLA graduates pursue advanced degrees at reputed universities abroad and in India,
-                    especially in fields such as counselling psychology, comparative literature, neuroscience, and
-                    society and culture, and then move into academic or research-oriented careers.
-                </p>
-                <p>
-                    A significant number of alumni work as professionals in diverse sectors, including law, banking
-                    and finance, gender and development, and public policy, often after completing specialised
-                    master’s programmes. Several alumni occupy roles in international organisations, NGOs, and
-                    global health and development spaces, where they manage programmes and coordinate
-                    multi-country initiatives.
-                </p>
-                <p>
-                    SSLA alumni are also active as entrepreneurs and in the broader social sector, founding or
-                    contributing to ventures in education technology, social media and content marketing, and
-                    community development. Initiatives such as <strong>The Invisible Paintbrush, Skizaa, The Letter
-                        Alley,
-                        and Happy Triangle Foundation</strong> demonstrate how graduates apply creative, analytical, and
-                    ethical perspectives to build organisations that address real-world needs in communication,
-                    schooling, and community wellbeing.
-                </p>
-            </div>
-        </div>
-        <div class="container">
-            <!-- <div class="alumni-main-section">
-                <div class="row">
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/Kritika Balaji.webp') }}"
-                                    alt="Kritika Balaji" class="img-fluid">
-                            </div>
-                            <h3>Kritika Balaji</h3>
-                            <p class="batch-txtt">Batch of 2015</p>
-                            <p>Assistant Director – Academics</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/Sana Vaidya.webp') }}" alt="Kritika Balaji"
-                                    class="img-fluid">
-                            </div>
-                            <h3>Sana Vaidya</h3>
-                            <p class="batch-txtt">Batch of 2017</p>
-                            <p>Manager - Partnerships and Engagement,</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/Aritra Chattaraj.webp') }}"
-                                    alt="Kritika Balaji" class="img-fluid">
-                            </div>
-                            <h3>Aritra Chattaraj</h3>
-                            <p class="batch-txtt">Batch of 2018</p>
-                            <p>Data Analyst,</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/Ira Deshmukh.webp') }}"
-                                    alt="Kritika Balaji" class="img-fluid">
-                            </div>
-                            <h3>Ira Deshmukh</h3>
-                            <p class="batch-txtt">Batch of 2022</p>
-                            <p>Masters in Public Relations and Advertising,</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="alumni-main-section">
-                <div class="row">
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/Shivani V.webp') }}" alt="Kritika Balaji"
-                                    class="img-fluid">
-                            </div>
-                            <h3>Shivani V</h3>
-                            <p class="batch-txtt">Batch of 2023</p>
-                            <p>Research Associate,</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/alsi3.webp') }}" alt="Kritika Balaji"
-                                    class="img-fluid">
-                            </div>
-                            <h3>Divyali Mehrotra</h3>
-                            <p class="batch-txtt">Batch of 2020</p>
-                            <p>PhD Scholar (Environmental Planning),</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="main-class-alumini-img">
-                            <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/alsi1.webp') }}" alt="Viddhi Thakker"
-                                    class="img-fluid">
-                            </div>
-                            <h3>Viddhi Thakker</h3>
-                            <p class="batch-txtt">Batch of 2022</p>
-                            <p>Incoming Master’s Student</p>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+            
             <!-- Professionals in diverse sectors start -->
             <div class="alumni-main-section">
                 <h3 class="part-seccc-title">Alumni in Higher Education</h3>
@@ -332,6 +217,37 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="ssla-txt">
+                <p>SSLA alumni are placed across a wide range of sectors globally, from academia and public policy
+                    to development, finance, technology, and the social sector, reflecting the interdisciplinary and
+                    applied nature of the liberal arts curriculum at the institute. Their trajectories highlight how the
+                    programme’s mix of majors, minors, and research training translates into careers that combine
+                    critical thinking, communication, and domain-specific expertise.
+                </p>
+                <p>
+                    Many SSLA graduates pursue advanced degrees at reputed universities abroad and in India,
+                    especially in fields such as counselling psychology, comparative literature, neuroscience, and
+                    society and culture, and then move into academic or research-oriented careers.
+                </p>
+                <p>
+                    A significant number of alumni work as professionals in diverse sectors, including law, banking
+                    and finance, gender and development, and public policy, often after completing specialised
+                    master’s programmes. Several alumni occupy roles in international organisations, NGOs, and
+                    global health and development spaces, where they manage programmes and coordinate
+                    multi-country initiatives.
+                </p>
+                <p>
+                    SSLA alumni are also active as entrepreneurs and in the broader social sector, founding or
+                    contributing to ventures in education technology, social media and content marketing, and
+                    community development. Initiatives such as <strong>The Invisible Paintbrush, Skizaa, The Letter
+                        Alley,
+                        and Happy Triangle Foundation</strong> demonstrate how graduates apply creative, analytical, and
+                    ethical perspectives to build organisations that address real-world needs in communication,
+                    schooling, and community wellbeing.
+                </p>
             </div>
         </div>
     </section>

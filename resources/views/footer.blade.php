@@ -303,6 +303,7 @@ document.addEventListener("click", function (e) {
     }
 });
 </script>
-
+<!-- Chatbot -->
+<script src="https://bot247.live/widget.js?tenant=ssla" async></script>
 </body>
 </html>

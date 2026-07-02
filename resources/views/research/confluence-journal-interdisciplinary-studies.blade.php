@@ -34,7 +34,7 @@
                             </div>
                             </a>
                         </div>
-                        <div class="conflunence_contentbox">
+                        <!-- <div class="conflunence_contentbox">
                             <span class="green_strong">Confluence: Journal of Interdisciplinary Studies</span> publishes
                             research work of young
                             scholars across a wide range of academic disciplines. An annual publication, it
@@ -67,6 +67,56 @@
                                         </svg>
                                     </div>
                                 </a>
+                            </div>
+                        </div> -->
+                        <div class="conflunence_contentbox">
+                            <span class="green_strong">Confluence: Journal of Interdisciplinary Studies</span> publishes
+                            research work of young
+                            scholars across a wide range of academic disciplines. An annual publication, it
+                            showcases original research, creative work, and critical discourse on traditional,
+                            contemporary, and popular issues in Liberal Arts. The journal seeks to publish
+                            multidisciplinary and interdisciplinary research and provides a platform for
+                            students to take their ideas to the broader world. With that vision, from Volume
+                                III, the journal was based primarily on the web. The journal has adopted a rigorous
+                            review process wherein every submission is reviewed by two experts in the field.
+                            Volume VII-IX of the journal can be found here.
+
+                            <div class="conflunence_second_contentbox">
+                               To know more about Confluence: Journal of Interdisciplinary Studies (CJIDS) and  submission guidelines, Please CJIDS website.
+                            </div>
+                            <div class="cjis_btnbox">
+                                <div class="my_btnbox">
+                                    <a href="https://cjids.in/call-for-submissions/" target="_blank">
+                                        <div class="my_btn_namebox">Please Visit</div>
+                                        <div class="my_btn_iconbox">
+                                            <svg width="12" height="12" x="0" y="0" viewBox="0 0 24 24">
+                                                <g
+                                                    transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                    <path fill="#007382" fill-rule="evenodd"
+                                                        d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                        clip-rule="evenodd" opacity="1" data-original="#000000" class="">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="my_btnbox">
+                                    <a href="https://cjids.in/archive-2/" target="_blank">
+                                        <div class="my_btn_namebox">Archive</div>
+                                        <div class="my_btn_iconbox">
+                                            <svg width="12" height="12" x="0" y="0" viewBox="0 0 24 24">
+                                                <g
+                                                    transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                    <path fill="#007382" fill-rule="evenodd"
+                                                        d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                        clip-rule="evenodd" opacity="1" data-original="#000000" class="">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
