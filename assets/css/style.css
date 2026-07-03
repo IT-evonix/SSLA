@@ -3753,6 +3753,14 @@
       overflow-wrap: anywhere;
   }
 
+    .faculty_details_section .student_research_databox_data a {
+      text-decoration: underline;
+      color: var(--color-red);
+      font-weight: 100;
+      transition-duration: 0.3s;
+      overflow-wrap: anywhere;
+  }
+
   .student_research_databox_data a:hover {
       color: var(--color-green);
   }
@@ -5801,6 +5809,10 @@
   .cjis_btnbox {
       display: flex;
       gap: 15px;
+  }
+
+  .new_semi_bold {
+    font-weight: 600;
   }
 
   /*============== Media quiry start   ================*/

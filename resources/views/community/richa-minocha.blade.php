@@ -102,15 +102,23 @@
                                 <!-- </div> -->
                             </div>
                             <!-- Teaching Philosophy -->
-                            <!-- <div class="teaching-philosophy">
+                            <div class="teaching-philosophy">
                                 <h5>Teaching Philosophy</h5>
                                 <p>
-                                    His pedagogical philosophy is rooted in experiential and problem-solving
-                                    approaches, integrating field-based learning and cross-disciplinary
-                                    frameworks. Dr. Ghosh envisions classrooms as collaborative spaces where
-                                    knowledge creation is shared between educators and students.
+                                    I believe teaching is as much about learning together as it is about facilitating
+                                    learning in ways that nurture students' academic lives. In a Liberal Arts classroom,
+                                    I engage with Feminist Pedagogies, thereby drawing from frameworks that mainstream
+                                    empathy and justice-related issues in discourse, research and community engagement.
+                                    Such pedagogies require that concepts not be treated as 'given', and that
+                                    vocabularies and expressions be built on unambiguous connections among theory,
+                                    research and experience. It is important to enable a class environment that
+                                    encourages questioning and analysis. Learning does not begin and end in the
+                                    classroom or with textbooks, and it needs connection and informal discussions.
+                                    Hence, it is good if students follow you occasionally to your cabins to discuss
+                                    their thoughts and ideas or engage in informal interactions in the corridors, to
+                                    nourish their learning experience.
                                 </p>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -123,60 +131,26 @@
                     <h4 class="section-title">Bio</h4>
                 </div>
                 <p>
-                    Dr Richa Minocha’s research foregrounds ecological communities and women, emphasising indigenous and
-                    spiritual knowledge as a significant basis for decolonising gender and ecology. Her research
-                    utilises feminist political ecology approaches and borrows from and informs Gender and Development
-                    Studies. Her publications are on the themes of Social Justice, Ecological-Cultural Interlinkages in
-                    Development, Sustainable Tourism, Engendering Food Security, Ecological Livelihoods,
-                    Academic/Community Service Learning, and Ecofeminist frameworks for analysing development and
-                    displacement. In 2021, she published along with her Gender Studies students on the theme- “Social
-                    Singularities in Cosmic Environments: Engendering Big History”. As a researcher in the Institute of
-                    Integrated Himalayan Studies and for her fellowship at the London School of Economics and Political
-                    Science, she conducted intensive village surveys, as well as observed urbanisation trends, looking
-                    at the transformation and its gendered impacts in rural-urban peripheries in Himachal Pradesh.
-                </p>
-                <p>
-                    Currently, her research engages with Feminist Pedagogies in Liberal Arts classrooms, drawing from
-                    frameworks that mainstream empathy and justice-related issues in discourse, research and community
-                    engagement. Hence, she highlights that such pedagogies require that concepts should not be treated
-                    as 'given', and vocabularies and expressions should be built on unambiguous connections between
-                    theory, research and experience. Other than Himachal Pradesh, she has conducted research in Kutch in
-                    Gujarat and in Pune and the suburbs in Maharashtra. She is currently working on a paper titled
-                    Envisioning and Engendering Food and Water Justice: Pedagogical Collaboration between DePaul
-                    University and Symbiosis International University, along with Prof. Howard Rosing, which is being
-                    prepared for the journal Pedagogy, Culture and Society.
+                    Dr richa minocha is an environmental anthropologist, a gender practitioner, a social worker, a
+                    political ecologist, and a teacher and researcher. She works as an Associate Professor with the
+                    Symbiosis School for Liberal Arts (SSLA). Under her collaboration with Prof Howard Rosing, a DePaul
+                    Professor, for her elective course on Politics of Ecology, she engages critically with food, water,
+                    and gender justice concerns. She has been proactively cultivating collaborations and associations
+                    with NGOs such as Karunya Care Centre, Society of Christ Jesus and MaherAshram and Acwadam in Pune;
+                    and YWCA (Young Women’s Christian Association) of Simla. She also collaborates with faculty and
+                    research associates at Savitribai Phule Pune University (SPPU) and Centre for Women’s Development
+                    Studies (CWDS) in Delhi for evolving feminist methodologies and pedagogies and contributing to
+                    gender-sensitive campuses. Richa has been a core in-country faculty for the program Rethinking Food
+                    Security: People, Agriculture and Politics under the International Honors' Program (IHP), a study
+                    abroad program offered to students of American Universities. She is the Member Secretary and a
+                    Founding Member of a grassroots-level organisation called Jan Abhiyan Sanstha (JAS), working on
+                    issues such as food security, livelihoods, gender, and disaster prevention in the Himalayan region.
+                    She has been a post-doctoral fellow at the London School of Economics and Political Science for her
+                    research on ecological, cultural and gendered dimensions in development.
                 </p>
             </div>
-            <!-- achievement -->
-            <!-- <div class="section-card" data-aos="fade-up">
-                <div class="section-header">
-                    <img src="{{ asset('/assets/images/faculty/inner/achievement.png') }}" alt="Introduction icon"
-                        class="header-icon">
-                    <h4 class="section-title">Achievement</h4>
-                </div>
-                <ul>
-                    <li>
-                        Led a collaborative research project with <strong>Greenpeace India</strong> titled 
-                        <em>“HeatHavoc: Investigating the Impact on Street Vendors”</em>, examining the effects of 
-                        heat waves and extreme temperatures on street vendors in Delhi.
-                    </li>
-                    <li>
-                        Recipient of the <strong>India Health Policy & Systems Research (HPSR) Fellowship 2024 
-                        (Cohort 4)</strong>, instituted through a collaboration of Indian and international 
-                        institutions, including the <strong>Sir Ratan Tata Trust</strong> and the 
-                        <strong>Bill & Melinda Gates Foundation</strong>, under the 
-                        <strong>Health Systems Transformation Platform (HSTP)</strong>.
-                    </li>
-                    <li>
-                        Served as a <strong>Resource Person</strong> for a lecture at the 
-                        <strong>Central University of Kashmir</strong> titled 
-                        <em>“Limits of Methods: Problem of Unification and Quest for Methodological and Scientific Pluralism”</em>. 
-                        The week-long workshop was held from <strong>7 October to 11 October 2024</strong>.
-                    </li>
-                    </ul>
-            </div> -->
             <div class="row mb-4">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <!-- PUBLICATIONS -->
                     <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
@@ -184,13 +158,88 @@
                                 alt="Introduction icon" class="header-icon">
                             <h4 class="section-title">Publications</h4>
                         </div>
-                        <ol class="ps-3">
-                            <li>Richa (2008). Environment, Agriculture and Community in Himachal Pradesh, Himalaya
-                                Publishing House, Mumbai. ISBN: 978-81-8488-134-9.</li>
-                        </ol>
+                        <ul class="student_research_databox_data">
+                            <p class="mb-2"><strong>Books</strong></p>
+                            <li>
+                                Richa (2008). Environment, Agriculture and Community in Himachal Pradesh, Himalaya Publishing House, Mumbai. ISBN: 978-81-8488-134-9.
+                            </li>
+                            <hr>
+                            <p class="mb-2"><strong>Book Reviews</strong></p>
+                            <li>
+                                2025: Review of Nitya Rao’s Quest for Identity: Gender, Land and Migration in Contemporary Jharkhand, Minocha, R, June 2025, Indian Journal of Gender Studies 32(2), pp.235-239.
+                            </li>
+                            <li>
+                                2012: Book Review of Moving with the Times: Gender, Status and Migration of Nurses in    India” by Sreelekha Nair, Routledge, New Delhi, 2012; pp. 184-18.6 In Migration and Development, Journal by Routledge, Taylor & Francis Group.
+                            </li>
+                            <li>
+                                2010: Book review of Ronnie Vernooy’s book “Social and gender analysis in Natural Resource Management – Learning Studies and Lessons from Asia”, Sage India, CAP, IDRC January 2006. ISBN: 0-76193-463-4, e-ISBN: 1-55250-218-X 2. In  Indian Journal of Gender Studies, Vol. 17, Issue 2, pp. 307-311.Sage Publications, New Delhi, 2010, ISSN: 0971-5215.
+                            </li>
+                            <li>
+                                2004: “Challenge of Sustainable Development - The Indian Dynamics”. Eds. Ramprasad Sengupta and Anup K. Sinha, published by Centre for Development and Environment Policy, IIM, Calcutta; in The Indian Journal of Labour Economics, Vol. 47, No.2, April-June, 2004:419-421. ISSN: 0019-5308.
+                            </li>
+                            <hr>
+                            <p class="mb-2"><strong>Chapters in Books</strong></p>
+                            <li>
+                                Minocha, Richa (2022). “Women’s Spirituality as a Measure of Deep Time and Social Ecology” in Science, Religion and Deep Time, Routledge India, ISBN 9781032188614. 
+                            </li>
+                            <li>
+                                Minocha, Richa (2021). “Gender, Development, Social Transformation, and Growing Gender Inequality: A Comparative Study of Himachal Pradesh and Gujarat” in Sumita Sarkar (ed.) Gender Inequality and Discrimination in India: Discourse and Dilemmas, Jaipur: Rawat Publications ISBN: 9788131611500.
+                            </li>
+                            <li>
+                                Minocha, Richa (2018). “Development at What Cost? A Study of Migration, Loss of Livelihood Security and Development-induced Displacement in Himachal Pradesh”. In Displacement, Impoverishment and Exclusion: Political Economy of Development in India, eds. Sujit Kumar Mishra and R Siva Prasad, Aakar Publications, ISBN 978-93-5002-531-4. 
+                            </li>
+                            <li>
+                                Minocha, Richa (2007).  “Sustainable Nature Based Tourism: A Case Study of Kerala, Sikkim and Himachal Pradesh” in S.P. Bansal, Sonia Khan & Sushma (eds.), Cutting Edge Research in Tourism- Emerging Issues and Challenges, Vol. I & II, Abhishek Publications, Chandigarh. ISBN: 81-8247-152-4
+                            </li>
+                            <hr>
+                            <p class="mb-2"><strong>Research Papers in Journals</strong></p>
+                            <li>
+                                Minocha, Richa, Aishi Mitra, and Neha Dadke. (2023) Social Singularities in Cosmic Environments: Engendering Big History. Journal of Big History, VI (2):  1–10.DOI | <a href="https://doi.org/10.22339/jbh.v6i2.6201https://jbh.journals.villanova.edu/index.php/JBH/article/view/2902/2733" target="_blank">https://doi.org/10.22339/jbh.v6i2.6201https://jbh.journals.villanova.edu/index.php/JBH/article/view/2902/2733</a>.
+                            </li>
+                            <li>
+                                Minocha, Richa (2020). India’s Unabated Urbanization. Toward Freedom, A Progressive Perspective on World Events since 1952, Vermont, United States of America, July 31st. <a href="https://towardfreedom.org/story/indias-unabated-urbanization/" target="_blank">https://towardfreedom.org/story/indias-unabated-urbanization/</a>
+                            </li>
+                            <li>
+                                Minocha, Richa (2015). Gender, Environment and Social Transformation: A Case of  Selected Villages in Himachal Pradesh. Indian Journal of Gender Studies, 22(3) 335–357, CWDS, New Delhi: Sage Publications. DOI: 10.1177/0971521515594274.  
+                            </li>
+                            <li>
+                                Minocha, Richa (2006). “A Case for Dispersal of Tourism in Himachal Pradesh”, Tourism Development Journal, Vol. No. 4, No. 1, Himachal Pradesh University,  Simla. ISSN No. 09757376.
+                            </li>
+                            <li>
+                                Minocha, Richa (2005). “A Case for Nature-Based Tourism in Himachal Pradesh- The Great Himalayan National Park”, The Green Portal Tourism Journal, Vol.2, No.2, Kerala Institute of Tourism and Travel Studies, Trivandrum. 
+                            </li>
+                            <li>
+                                Minocha, Richa (2003). “Anthropological Reflections on Imaging of Women in Folkart and Folklore - An Analysis of Himachal Pradesh”- in Man in India, 83 (3 & 4), July-December 2003: 419-431. ISSN: 0025-1569.
+                            </li>
+                            <li>
+                                Richa (2002). Sita in Himachal Pradesh in Manushi, A Journal of Women and Society, New Delhi, India, No.133:25-27, 2002. ISSN: 0257-7305.
+                            </li>
+                            <li>
+                                Minocha, Richa (2002). Himachal Pradesh Mein Sita Ke Swaroop, translating to “Images of Sita in Himachal Pradesh”, in Somsi, No.3, July-December 2002:83-92, Journal of the Art, Culture, and Languages Academy, Himachal Pradesh. No. 1117ACD
+                            </li>
+                            <hr>
+                            <p class="mb-2"><strong>Creative Pieces</strong></p>
+                            <li>
+                                Richa (2009). Communities and Diversity in Himachal Pradesh, Himalayan Studies Journal, Vol 2, No.1, June, pp. 81-85, Simla.
+                            </li>
+                            <li>
+                                Richa & Chatopadhyay G.P. (2007). “Malana: Then and Now”, in Himalayan Studies Journal, Vol 1, No.1, June, pp. 83-85, Simla.
+                            </li>
+                            <hr>
+                            <p class="mb-2"><strong>Editorials</strong></p>
+                            <li>
+                                Richa (2009). Editorial note, Himalayan Studies Journal, Vol 2, No.1, June.
+                            </li>
+                            <li>
+                                Richa (2007). Editorial note, Himalayan Studies Journal, Vol 1, No.1, June.
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-md-6">
+            </div>
+            
+             <div class="row mb-4">
+                <div class="col-lg-6">
                     <!-- EDUCATION -->
                     <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
@@ -210,69 +259,117 @@
                             <li>B.A pass course in Economics, Mathematics, English, and Hindi from Saint Bede’s
                                 College, Simla, Himachal Pradesh.</li>
 
-                            <li>Qualified University Grants Commission - National Educational Testing (NET) in Economics.
+                            <li>Qualified University Grants Commission - National Educational Testing (NET) in
+                                Economics.
                             </li>
                         </ul>
                     </div>
                 </div>
-            </div>
-            <!-- RESEARCH INTERESTS -->
-            <!-- <div class="section-card" data-aos="fade-up">
-                <div class="section-header">
-                    <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
-                        class="header-icon">
-                    <h4 class="section-title">Research Interests</h4>
+                <div class="col-lg-6">
+                    <!-- RESEARCH INTERESTS -->
+                    <div class="section-card" data-aos="fade-up">
+                        <div class="section-header">
+                            <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
+                                class="header-icon">
+                            <h4 class="section-title">Research Interests</h4>
+                        </div>
+                        <ul class="research-list">
+                            <li>Engendering Development, Sustainability and Food Security, Decolonising Gender and Ecology,
+                                Community Engaged and Academic Service Learning, Social Impact Assessment of Development
+                                Projects, Feminist Pedagogies in Education – Cultivating Interdisciplinary and Intersectional
+                                perceptions and learning competencies in Social Sciences, Tourism and Travel Trends</li>
+                        </ul>
+                    </div>
                 </div>
-                <ul class="research-list">
-                    <li>Food Security in the Pune Development Area: Implications and Impacts<br> of Commercialisation,
-                        Improper Waste Management, Urbanisation,<br> and Industrialisation, Research Project under
-                        Politics of Ecology<br> Course (2019).</li>
-
-                    <li>ICSSR-sponsored project: “Development at What Cost! A Study of Migration, Loss of Livelihood
-                        Security and Development-Induced Resettlement in Himachal Pradesh”. Analysis based on the
-                        premise that the impacts of development projects are not gender neutral (2011–2012).</li>
-                </ul>
-            </div> -->
+             </div>
             <!-- AWARDS -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Awards & Fellowships</h4>
                 </div>
                 <ul>
-                    <li><strong>India Health Policy and Systems Research Fellowship</strong> (2024–2025)</li>
-                    <li><strong>Climate Co-adaptation Fellowship</strong>, PlanAdapt, Germany (2022–2023)</li>
-                    <li><strong>Youth Empowerment in Climate Action Platform (YECAP) Fellowship</strong> (2021–2022)
+                    <li>
+                        Global Learning Experience (GLE) Project Awarded in June 2026 by DePaul University's
+                        Comprehensive Internationalization Committee (CIC) in collaboration with Professor Margaret
+                        Workman on the theme "Promoting Global Understanding of Climate Justice".
                     </li>
-                    <li><strong>India Smart Cities Fellowship</strong>, Ministry of Housing and Urban Affairs,
-                        Government of India (2022)</li>
-                    <li><strong>Junior Research Fellowship (JRF/SRF)</strong>, UGC, Government of India (2016–2021)
+                    <li>
+                        GLE Project Awarded in March 2019 by DePaul University's Comprehensive Internationalization
+                        Committee (CIC) in collaboration with Professor Howard Rosing on the theme Food Justice and
+                        Engendering Food Security
                     </li>
-                    <li><strong>West Bengal State Eligibility Test (WB SET)</strong>, Government of West Bengal
-                        (2016)
+                    <li>
+                        C.R. Parekh Fellow (2008-2009) at the London School of Economics and Political Science
                     </li>
-                    <li><strong>Monthly Merit-cum-Scholarship</strong>, Government of West Bengal (2013–2015)</li>
-                    <li><strong>Selected as Mentor of Change</strong>, Atal Innovation Mission, NITI Aayog,
-                        Government
-                        of India (2017)</li>
                 </ul>
-            </div> -->
+            </div>
             <!-- COURSES -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Courses Taught</h4>
                 </div>
                 <ul>
-                    <li>Introduction to Research: RM I</li>
-                    <li>Research Methods and Analysis : RM II</li>
-                    <li>Global Environmental Challenges</li>
-                    <li>Revising the city: Urbanisation and Urban Reality</li>
-                    <li>Core Environmental Studies</li>
+                    <p class="mb-2"><strong>Electives</strong></p>
+                    <li>
+                        Politics of Ecology and the Environment in Developing Countries (T6558)
+                    </li>
+                    <li>
+                        Introduction to Social Work (T6669)
+                    </li>
+                    <hr>
+                    <p class="mb-2"><strong>Core Courses</strong></p>
+                    <li>Environment Studies: Our Common Earth (TM2005)</li>
+                    <li>Multi-cultural Worldviews (Shared)</li>
+                    <hr>
+                    <p class="mb-2"><strong>Major/Minor Courses </strong></p>
+                    <p class="mb-2 new_semi_bold">Women & Gender Studies</p>
+                    <li>
+                        Introduction to Women & Gender Studies (T6335)
+                    </li>
+                    <li>
+                        Women in India (THM6180)
+                    </li>
+                    <li>
+                        Gender, Labour, and Work (T6924) (shared with Dr Radhika Seshan)
+                    </li>
+                    <li>
+                        Socialisation and Sexuality (T6339) (shared with Anagha Tambe, SPPU)
+                    </li>
+                    <li>
+                        Understanding Feminisms (THM6235) (cotaught with Ananya Parikh)
+                    </li>
+                    <p class="mb-2 new_semi_bold">Sociology</p>
+                    <li>Environment, Ecology and Society (T6899)</li>
+                    <p class="mb-2 new_semi_bold">Multidisciplinary Courses</p>
+                    <li>Women and Environment Ecofeminism (THM6234)</li>
+                    <p class="mb-2 new_semi_bold">Offered and guided Seminar Papers on the following themes</p>
+                    <li>
+                        2019-2020 - Gender Geographies and Justice 
+                    </li>
+                    <li>
+                        2020-2021 - Gender, Culture, and Development
+                    </li>
+                    <li>
+                        2021-2022 - Gender, Culture and Development
+                    </li>
+                    <li>
+                        2022-2023 - Engendering Narratives, Spaces, Development: Making Sense of Our Present
+                    </li>
+                    <li>
+                        2023-2024 - Engendering Interpretations, Contexts, Singularity
+                    </li>
+                    <li>
+                        2024-2025 - Quests for Identity: Gender in Context
+                    </li>
+                    <li>
+                        2025-2026 - Towards Equality: Foregrounding & Contextualising Gender using a Disciplinary Approach
+                    </li>
                 </ul>
-            </div> -->
+            </div>
         </div>
     </section>
     <!-- Details section End -->
