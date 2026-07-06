@@ -16,7 +16,8 @@
 <!-- Responsive Header ends  -->
 <main class="student_research_main">
     <!-- Inner section start -->
-    <section class="student_research_section">
+    <!-- old -->
+    <section class="student_research_section d-none">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -86,7 +87,16 @@
                         <h2>Courses on Research Methodology</h2>
                         <div class="underline"></div>
                         <p class="m-0">
-                            All students study three Core courses on Research Methodology (RM) that are designed to equip students with the skills required to undertake independent research. Research Methodology I: Introduction to Research, introduces them to the fundamental concepts of research like literature review, identifying a research problem, formulating hypotheses and identifying types of research designs.  In Research Methodology II: Research Methods and Analysis, students study different qualitative and quantitative methods like content analysis, ethnography, textual analysis, discourse analysis, qualitative interviewing, survey research, regression analysis, etc. RM II gives  an opportunity to the students to engage with these methods in practice. Research Methodology III is discipline focussed where students write research proposal for their dissertation.
+                            All students study three Core courses on Research Methodology (RM) that are designed to
+                            equip students with the skills required to undertake independent research. Research
+                            Methodology I: Introduction to Research, introduces them to the fundamental concepts of
+                            research like literature review, identifying a research problem, formulating hypotheses and
+                            identifying types of research designs. In Research Methodology II: Research Methods and
+                            Analysis, students study different qualitative and quantitative methods like content
+                            analysis, ethnography, textual analysis, discourse analysis, qualitative interviewing,
+                            survey research, regression analysis, etc. RM II gives an opportunity to the students to
+                            engage with these methods in practice. Research Methodology III is discipline focussed where
+                            students write research proposal for their dissertation.
                         </p>
                     </div>
 
@@ -95,7 +105,10 @@
                         <h2>Research Project</h2>
                         <div class="underline"></div>
                         <p class="m-0">
-                            Students pursuing the Honours with Research degree are required to complete a Research Project, under the guidance of a two-member committee followed by defense in the 4th year. The Research Project is interdisciplinary in nature anchored in the student’s major discipline (primary major in the case of double majors). 
+                            Students pursuing the Honours with Research degree are required to complete a Research
+                            Project, under the guidance of a two-member committee followed by defense in the 4th year.
+                            The Research Project is interdisciplinary in nature anchored in the student’s major
+                            discipline (primary major in the case of double majors).
                         </p>
                     </div>
 
@@ -104,7 +117,11 @@
                         <h2>Final Year Seminar Paper</h2>
                         <div class="underline"></div>
                         <p class="m-0">
-                            In their final year, students work on the Final Year Seminar Paper, a 4-credit course conceived to encourage students to write methodologically rigorous research papers on interdisciplinary themes. A group of 6-12 students work with a seminar mentor on different subtopics related to a broad research topic chosen by the mentor. This is facilitated through weekly group discussions, writing sessions, and regular feedback from mentors.
+                            In their final year, students work on the Final Year Seminar Paper, a 4-credit course
+                            conceived to encourage students to write methodologically rigorous research papers on
+                            interdisciplinary themes. A group of 6-12 students work with a seminar mentor on different
+                            subtopics related to a broad research topic chosen by the mentor. This is facilitated
+                            through weekly group discussions, writing sessions, and regular feedback from mentors.
                         </p>
                     </div>
 
@@ -113,11 +130,41 @@
                         <h2>Workshops & Lecture Series</h2>
                         <div class="underline"></div>
                         <p class="m-0">
-                            In order to support student research endeavours, workshops on academic writing, research ethics, literature review, indexing techniques, reference management using softwares like Mendeley and Zotero, textual analysis, statistical analysis, content analysis, etc are periodically organised. 
+                            In order to support student research endeavours, workshops on academic writing, research
+                            ethics, literature review, indexing techniques, reference management using softwares like
+                            Mendeley and Zotero, textual analysis, statistical analysis, content analysis, etc are
+                            periodically organised.
                         </p>
                     </div>
 
                 </div>
+            </div>
+        </div>
+    </section>
+    <!-- old -->
+    <section class="student_research_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="inner__red_heading">
+                        Student Research at SSLA
+                    </h1>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-12 col-xl-10">
+                    <div class="new_student_research_parabox" data-aos="fade-up">
+                        <p class="m-0">
+                            Research is one of the pillars of the curriculum at Symbiosis School for Liberal Arts
+                            (SSLA), along with Internship and Community Outreach. Research is one of the pillars of the
+                            curriculum at Symbiosis School for Liberal Arts (SSLA), along with Internship and Community
+                            Outreach.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="new_student_research_imagebox" data-aos="fade-up">
+                <img src="{{ asset('assets/images/research/why-libral-arts.webp') }}" alt="" class="img-fluid">
             </div>
         </div>
     </section>
@@ -135,23 +182,37 @@
                         <div class="student_research_databox_data">
                             <ul>
                                 <li><strong>Business Studies - </strong>Aashi Desai - <span
-                                        class="new_green_strong">Examining The Impact Of Democratic Leadership On Innovation Culture In Fast Fashion Start</span></li>
+                                        class="new_green_strong">Examining The Impact Of Democratic Leadership On
+                                        Innovation Culture In Fast Fashion Start</span></li>
                                 <li><strong>Computer Studies - </strong>Yashwin Jain - <span
-                                        class="new_green_strong">Inside Edge: Developing A More Contextually Enhanced, Integrated Cricket Match Outcome Prediction Model Through Machine Learning And Social Media Sentiment Analysis.Inside Edge: Developing A More Contextually Enhanced, Integrated Cricket Match Outcome Prediction Model Through Machine Learning And Social Media Sentiment Analysis</span></li>
+                                        class="new_green_strong">Inside Edge: Developing A More Contextually Enhanced,
+                                        Integrated Cricket Match Outcome Prediction Model Through Machine Learning And
+                                        Social Media Sentiment Analysis.Inside Edge: Developing A More Contextually
+                                        Enhanced, Integrated Cricket Match Outcome Prediction Model Through Machine
+                                        Learning And Social Media Sentiment Analysis</span></li>
                                 <li><strong>Economics - </strong>Gaurie Rautela - <span
-                                        class="new_green_strong">Assessing the Impact of Basel III Capital Adequacy Ratio on the Performance of Indian Commercial Banks</span></li>
-                                <li><strong>English - </strong>Anvi Goyal - <span
-                                        class="new_green_strong">Fiction As Inquiry: Literature, Scientific Thought, And Postmodern Tendencies In Italo Cavino’s T Zero And Franz Fühmann’s Science Fiktion</span></li>
+                                        class="new_green_strong">Assessing the Impact of Basel III Capital Adequacy
+                                        Ratio on the Performance of Indian Commercial Banks</span></li>
+                                <li><strong>English - </strong>Anvi Goyal - <span class="new_green_strong">Fiction As
+                                        Inquiry: Literature, Scientific Thought, And Postmodern Tendencies In Italo
+                                        Cavino’s T Zero And Franz Fühmann’s Science Fiktion</span></li>
                                 <li><strong>International Relations - </strong>Sanika Kalbhor - <span
-                                        class="new_green_strong">Navigating the Interactions of State and Non-state Actors in Shaping Global Politics: MNCs in World Democracies</span></li>
+                                        class="new_green_strong">Navigating the Interactions of State and Non-state
+                                        Actors in Shaping Global Politics: MNCs in World Democracies</span></li>
                                 <li><strong>Media Studies - </strong>Teesta Karkera - <span
-                                        class="new_green_strong">When War Meets Word Limit : Burden of Brevity and Market-Driven Decline of Insight in Conflict Journalism - A Case Study on the Israel-Palestine Conflict</span></li>
+                                        class="new_green_strong">When War Meets Word Limit : Burden of Brevity and
+                                        Market-Driven Decline of Insight in Conflict Journalism - A Case Study on the
+                                        Israel-Palestine Conflict</span></li>
                                 <li><strong>Mathematics and Statistics - </strong>Pranami Oza - <span
-                                        class="new_green_strong">A Multi-Variable Statistical Study On Consumer Awareness And Sustainable Supply Chain Management In The Fashion Industry</span></li>
+                                        class="new_green_strong">A Multi-Variable Statistical Study On Consumer
+                                        Awareness And Sustainable Supply Chain Management In The Fashion Industry</span>
+                                </li>
                                 <li><strong>Psychology - </strong>Nayana Sajith - <span
-                                        class="new_green_strong">Effectiveness of Music Interventions for Depressive Symptoms: A Meta-Analysis</span></li>
-                                <li><strong>Sociology - </strong>Adithi Bhat - <span
-                                        class="new_green_strong">Mapping The Social Contexts Of Napping In The Lives Of Mid-Life Women In Pune & Mumbai</span></li>
+                                        class="new_green_strong">Effectiveness of Music Interventions for Depressive
+                                        Symptoms: A Meta-Analysis</span></li>
+                                <li><strong>Sociology - </strong>Adithi Bhat - <span class="new_green_strong">Mapping
+                                        The Social Contexts Of Napping In The Lives Of Mid-Life Women In Pune &
+                                        Mumbai</span></li>
                             </ul>
                         </div>
                     </div>
@@ -175,7 +236,8 @@
                                 <ul>
                                     <li><strong>Sia Pandhare -</strong>
                                         <span class="new_green_strong">
-                                            A Dual Aesthetic Perspective on Nonprofit Marketing: A Monetary Donation Study.
+                                            A Dual Aesthetic Perspective on Nonprofit Marketing: A Monetary Donation
+                                            Study.
                                         </span>
                                     </li>
                                 </ul>
@@ -223,59 +285,82 @@
                         <div class="student_research_databox_heading">2019-21</div>
                         <div class="student_research_databox_data">
                             <ul>
-                                <li><b>Bajaj, K. (2021, January 8).</b> 
+                                <li><b>Bajaj, K. (2021, January 8).</b>
                                     <span class="new_green_strong">
-                                        10 promising authors to look out for in 2021 & beyond. Feminism in India. <a href="https://feminisminindia.com/2021/01/08/women-authors-to-read/" target="_blank">https://feminisminindia.com/2021/01/08/women-authors-to-read/</a>
+                                        10 promising authors to look out for in 2021 & beyond. Feminism in India. <a
+                                            href="https://feminisminindia.com/2021/01/08/women-authors-to-read/"
+                                            target="_blank">https://feminisminindia.com/2021/01/08/women-authors-to-read/</a>
                                     </span>
                                 </li>
-                                <li><b>Khosla, A. (2021).</b> 
+                                <li><b>Khosla, A. (2021).</b>
                                     <span class="new_green_strong">
-                                        Psychological impact during COVID-19 among the elderly in India. Indian Journal of Gerontology, April.
+                                        Psychological impact during COVID-19 among the elderly in India. Indian Journal
+                                        of Gerontology, April.
                                     </span>
                                 </li>
-                                <li><b>Mathur, A. (2021).</b> 
+                                <li><b>Mathur, A. (2021).</b>
                                     <span class="new_green_strong">
-                                        Politics of identity formation: Impact of Jean Paul Sartre’s criticism of Négritude philosophy. Iowa Journal of Cultural Studies, 21, 63–82. <a href="https://doi.org/10.17077/2168-569X.1571" target="_blank">https://doi.org/10.17077/2168-569X.1571</a>
+                                        Politics of identity formation: Impact of Jean Paul Sartre’s criticism of
+                                        Négritude philosophy. Iowa Journal of Cultural Studies, 21, 63–82. <a
+                                            href="https://doi.org/10.17077/2168-569X.1571"
+                                            target="_blank">https://doi.org/10.17077/2168-569X.1571</a>
                                     </span>
                                 </li>
-                                <li><b>Panicker, L. P. (2021, October 17).</b> 
+                                <li><b>Panicker, L. P. (2021, October 17).</b>
                                     <span class="new_green_strong">
-                                        Russia’s energy strategy and gas disputes. E- International Relations. <a href="https://www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/" target="_blank">https://www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/</a>
+                                        Russia’s energy strategy and gas disputes. E- International Relations. <a
+                                            href="https://www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/"
+                                            target="_blank">https://www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/</a>
                                     </span>
                                 </li>
-                                <li><b>Mor, M. (in press).</b> 
+                                <li><b>Mor, M. (in press).</b>
                                     <span class="new_green_strong">
-                                        Vampires and violence: Gothic narratives. Vidyankur: Journal of Philosophical and Theological Studies. (Batch 2017–2021)
+                                        Vampires and violence: Gothic narratives. Vidyankur: Journal of Philosophical
+                                        and Theological Studies. (Batch 2017–2021)
                                     </span>
                                 </li>
-                                <li><b>Bajaj, K. (2020, October 20).</b> 
+                                <li><b>Bajaj, K. (2020, October 20).</b>
                                     <span class="new_green_strong">
-                                        How the gendering of toys hamper skill development in children. Feminism in India. <a href="https://feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/" target="_blank">https://feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/</a>
+                                        How the gendering of toys hamper skill development in children. Feminism in
+                                        India. <a
+                                            href="https://feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/"
+                                            target="_blank">https://feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/</a>
                                     </span>
                                 </li>
-                                <li><b>Bajaj, K. (2020, December 25).</b> 
+                                <li><b>Bajaj, K. (2020, December 25).</b>
                                     <span class="new_green_strong">
-                                        Ismat Chughtai’s feminine perspective that subverted patriarchal literature & activism. Feminism in India. <a href="https://feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/" target="_blank">https://feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/</a>
+                                        Ismat Chughtai’s feminine perspective that subverted patriarchal literature &
+                                        activism. Feminism in India. <a
+                                            href="https://feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/"
+                                            target="_blank">https://feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/</a>
                                     </span>
                                 </li>
-                                <li><b>Gandhi, A. (2020).</b> 
+                                <li><b>Gandhi, A. (2020).</b>
                                     <span class="new_green_strong">
-                                        The day after tomorrow: Africa’s battle with Covid‑19 and the road ahead. In The day after tomorrow: Africa’s battle with Covid‑19 and the road ahead [chapter]. Observer Research Foundation & Institute of Economic Affairs.
+                                        The day after tomorrow: Africa’s battle with Covid‑19 and the road ahead. In The
+                                        day after tomorrow: Africa’s battle with Covid‑19 and the road ahead [chapter].
+                                        Observer Research Foundation & Institute of Economic Affairs.
                                     </span>
                                 </li>
-                                <li><b>Gandhi, A. (2020).</b> 
+                                <li><b>Gandhi, A. (2020).</b>
                                     <span class="new_green_strong">
-                                        Building back better: A gender‑responsive strategy to combat Covid‑19. Observer Research Foundation.
+                                        Building back better: A gender‑responsive strategy to combat Covid‑19. Observer
+                                        Research Foundation.
                                     </span>
                                 </li>
-                                <li><b>Raheja, R. (2020).</b> 
+                                <li><b>Raheja, R. (2020).</b>
                                     <span class="new_green_strong">
-                                        Social evaluations of accented Englishes: An Indian perspective. In Conference on Asian Linguistic Anthropology 2020: Conference proceedings. Global Council for Anthropological Linguistics.
+                                        Social evaluations of accented Englishes: An Indian perspective. In Conference
+                                        on Asian Linguistic Anthropology 2020: Conference proceedings. Global Council
+                                        for Anthropological Linguistics.
                                     </span>
                                 </li>
-                                <li><b>Sudan, M. (2019, April).</b> 
+                                <li><b>Sudan, M. (2019, April).</b>
                                     <span class="new_green_strong">
-                                        Starting early: Analysing the impact of literacy rates on financial literacy rates in India. International Journal of Financial Management, 9(2). <a href="https://ssrn.com/abstract=3438588" target="_blank">https://ssrn.com/abstract=3438588</a>
+                                        Starting early: Analysing the impact of literacy rates on financial literacy
+                                        rates in India. International Journal of Financial Management, 9(2). <a
+                                            href="https://ssrn.com/abstract=3438588"
+                                            target="_blank">https://ssrn.com/abstract=3438588</a>
                                     </span>
                                 </li>
                             </ul>
