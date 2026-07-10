@@ -166,6 +166,15 @@
             <div class="new_student_research_imagebox" data-aos="fade-up">
                 <img src="{{ asset('assets/images/research/why-libral-arts.webp') }}" alt="" class="img-fluid">
             </div>
+            <div class="new_student_research_imagebox_second" data-aos="fade-up">
+                <img src="{{ asset('assets/images/research/ssla-student-research-img-1.webp') }}" alt="" class="img-fluid">
+            </div>
+            <div class="new_student_research_imagebox_second" data-aos="fade-up">
+                <img src="{{ asset('assets/images/research/ssla-student-research-img-2.webp') }}" alt="" class="img-fluid">
+            </div>
+            <div class="new_student_research_imagebox_second" data-aos="fade-up">
+                <img src="{{ asset('assets/images/research/ssla-student-research-img-3.webp') }}" alt="" class="img-fluid">
+            </div>
         </div>
     </section>
     <section class="publication_section">
