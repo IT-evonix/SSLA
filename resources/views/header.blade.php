@@ -837,8 +837,7 @@
                                                                             </g>
                                                                         </svg>
                                                                     </div>
-                                                                    <div class="mega_menu_name_box">Research Colloquia,
-                                                                        Workshops and Cafes</div>
+                                                                    <div class="mega_menu_name_box">Research Colloquia and Workshops</div>
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">

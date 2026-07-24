@@ -15,8 +15,8 @@
 </section>
 <!-- Responsive Header ends  -->
 <main class="staff_main research-main-sec thinking_research_main">
-    <!-- Inner section start -->
-    <section class="inner_section">
+    <!-- old tabing code start -->
+    <section class="inner_section d-none">
         <div class="container">
             <div class="inner_tab_mainbox">
                 <div class="inner_tab_box">
@@ -42,16 +42,56 @@
                             <div class="research_thrust_area_mainbox">
                                 <div class="research_thrust_area_listing">
                                     <div class="research_thrust_area_left">
-                                        <div class="research_thrust_area_heading">Traditions of Devotion: Narratives and Lived Experiences</div>
-                                        <div class="research_thrust_area_subheading">Dr Suchetana Banerjee, Gayatri Mendanha, and Ananya Dutta</div>
+                                        <div class="research_thrust_area_heading">Traditions of Devotion: Narratives and
+                                            Lived Experiences</div>
+                                        <div class="research_thrust_area_subheading">Dr Suchetana Banerjee, Gayatri
+                                            Mendanha, and Ananya Dutta</div>
                                     </div>
                                     <div class="research_thrust_area_right">
                                         <div class="content">
                                             <p>
-                                                Dr. Suchetana Banerjee, Gayatri Mendanha, and Ananya Dutta share a set of interconnected research interests that sit at the crossroads of literature, performance, and lived experience in Maharashtra. Their collaborative minor research project, “Traditions of Devotion: Narratives and Lived Experiences,” funded by Symbiosis International (Deemed University) and supported by INTACH (Pune chapter), signals a common concern of how devotion is articulated through stories, performances, and everyday practices. Working within the liberal arts framework at SSLA, they collectively foreground an interdisciplinary methodology that brings together ethnographic practices, textual analyses, performative framworks, and philosophical interventions to understand how meaning is produced, negotiated, and contested in public sphere. Suchetana’s background in Comparative Literature and Theatre Studies, along with her long-term engagement with performance practices, aligns with a research orientation that treats performance as both text and method, allowing devotional and cultural narratives to be studied as embodied, situated acts rather than static objects. Gayatri’s training and teaching in both Philosophy and English contribute a strong conceptual and ethical frame, enabling questions about knowledge, belief, and subjectivity to be posed alongside close readings of texts and performances. Ananya’s professional formation in English and Journalism, introduce inter-mediality through which representational practices can be examined in public discourses.Their shared research brings together the study of narratives as they move across genres and media, the lived practices of devotion and community, and the ways these experiences are shaped through language, performance, and representation. Central to their work is a critical attention to how structures of power—such as gender, caste, and institutional hierarchies—influence whose voices are heard, whose bodies are visible, and whose stories are allowed to circulate.
+                                                Dr. Suchetana Banerjee, Gayatri Mendanha, and Ananya Dutta share a set
+                                                of interconnected research interests that sit at the crossroads of
+                                                literature, performance, and lived experience in Maharashtra. Their
+                                                collaborative minor research project, “Traditions of Devotion:
+                                                Narratives and Lived Experiences,” funded by Symbiosis International
+                                                (Deemed University) and supported by INTACH (Pune chapter), signals a
+                                                common concern of how devotion is articulated through stories,
+                                                performances, and everyday practices. Working within the liberal arts
+                                                framework at SSLA, they collectively foreground an interdisciplinary
+                                                methodology that brings together ethnographic practices, textual
+                                                analyses, performative framworks, and philosophical interventions to
+                                                understand how meaning is produced, negotiated, and contested in public
+                                                sphere. Suchetana’s background in Comparative Literature and Theatre
+                                                Studies, along with her long-term engagement with performance practices,
+                                                aligns with a research orientation that treats performance as both text
+                                                and method, allowing devotional and cultural narratives to be studied as
+                                                embodied, situated acts rather than static objects. Gayatri’s training
+                                                and teaching in both Philosophy and English contribute a strong
+                                                conceptual and ethical frame, enabling questions about knowledge,
+                                                belief, and subjectivity to be posed alongside close readings of texts
+                                                and performances. Ananya’s professional formation in English and
+                                                Journalism, introduce inter-mediality through which representational
+                                                practices can be examined in public discourses.Their shared research
+                                                brings together the study of narratives as they move across genres and
+                                                media, the lived practices of devotion and community, and the ways these
+                                                experiences are shaped through language, performance, and
+                                                representation. Central to their work is a critical attention to how
+                                                structures of power—such as gender, caste, and institutional
+                                                hierarchies—influence whose voices are heard, whose bodies are visible,
+                                                and whose stories are allowed to circulate.
                                             </p>
                                             <p class="m-0">
-                                                Within SSLA’s research and community outreach ecosystem, they collaborate on minor research projects and community-based programmes that reflect a shared commitment to public, pedagogical scholarship. Their approach positions students and community participants as active collaborators in knowledge production rather than passive subjects of study. Together, their work forms part of a broader interdisciplinary agenda that examines how stories, performances, and media practices—rooted in specific histories and social contexts—shape contemporary understandings of selfhood, community, and devotion in India.
+                                                Within SSLA’s research and community outreach ecosystem, they
+                                                collaborate on minor research projects and community-based programmes
+                                                that reflect a shared commitment to public, pedagogical scholarship.
+                                                Their approach positions students and community participants as active
+                                                collaborators in knowledge production rather than passive subjects of
+                                                study. Together, their work forms part of a broader interdisciplinary
+                                                agenda that examines how stories, performances, and media
+                                                practices—rooted in specific histories and social contexts—shape
+                                                contemporary understandings of selfhood, community, and devotion in
+                                                India.
                                             </p>
                                         </div>
                                         <span class="read-more-btn">Read more</span>
@@ -59,16 +99,55 @@
                                 </div>
                                 <div class="research_thrust_area_listing">
                                     <div class="research_thrust_area_left">
-                                        <div class="research_thrust_area_heading">Global Conjunctures, Adaptation and Scholarship</div>
+                                        <div class="research_thrust_area_heading">Global Conjunctures, Adaptation and
+                                            Scholarship</div>
                                         <div class="research_thrust_area_subheading">Dr. Barry H. Rodrigue</div>
                                     </div>
                                     <div class="research_thrust_area_right">
                                         <div class="content">
                                             <p>
-                                                Barry Rodrigue is an anthropologist and geographer whose work focuses on applying ethnography and archaeology to real-world situations. His career began in Alaska as a field biologist and ethnographer, then continued in Central America, North America, Europe, Russia, China, and India. In the United States, he works on cultural resource management (CRM) projects, particularly as an industrial archaeologist. Meanwhile, in Portugal, he studies predictive modelling of historical migrations. His overall concerns focus on human adaptation, cultural landscapes, global-crisis foresight, and the evolutionary process. He sees scholars as active partners who aid communities in harmonising their shared relationships in the changing natural world, especially during times of crisis. This is especially true in our present time of climate crisis and conflict. He coordinates the SSLA Collaborative for Asian Anthropology, for which he developed a dozen NGO partnerships throughout India that provide opportunities for internships and dissertations as well as faculty and staff openings for research and community engagement. This notably included a five-year urban ecology project for students in Pune. His current fieldwork includes two ongoing efforts – 1) Work with the Soliga Tribal Community and our VGKK partners to develop a Soliga heritage centre as well as conducting megalithic archaeology, permitted by the Karnataka Forest Department in their Tiger Reserve in the Biligirirangana Hills; 2) Ethnomedical studies with Koya tribal doctors (vaidyas) in East India to understand the application of indigenous and traditional medicine in the wider world. ​A key strand of his scholarship has been in conceptualising universal studies as a field with which to unify micro/macro and local/global perspectives.
+                                                Barry Rodrigue is an anthropologist and geographer whose work focuses on
+                                                applying ethnography and archaeology to real-world situations. His
+                                                career began in Alaska as a field biologist and ethnographer, then
+                                                continued in Central America, North America, Europe, Russia, China, and
+                                                India. In the United States, he works on cultural resource management
+                                                (CRM) projects, particularly as an industrial archaeologist. Meanwhile,
+                                                in Portugal, he studies predictive modelling of historical migrations.
+                                                His overall concerns focus on human adaptation, cultural landscapes,
+                                                global-crisis foresight, and the evolutionary process. He sees scholars
+                                                as active partners who aid communities in harmonising their shared
+                                                relationships in the changing natural world, especially during times of
+                                                crisis. This is especially true in our present time of climate crisis
+                                                and conflict. He coordinates the SSLA Collaborative for Asian
+                                                Anthropology, for which he developed a dozen NGO partnerships throughout
+                                                India that provide opportunities for internships and dissertations as
+                                                well as faculty and staff openings for research and community
+                                                engagement. This notably included a five-year urban ecology project for
+                                                students in Pune. His current fieldwork includes two ongoing efforts –
+                                                1) Work with the Soliga Tribal Community and our VGKK partners to
+                                                develop a Soliga heritage centre as well as conducting megalithic
+                                                archaeology, permitted by the Karnataka Forest Department in their Tiger
+                                                Reserve in the Biligirirangana Hills; 2) Ethnomedical studies with Koya
+                                                tribal doctors (vaidyas) in East India to understand the application of
+                                                indigenous and traditional medicine in the wider world. ​A key strand of
+                                                his scholarship has been in conceptualising universal studies as a field
+                                                with which to unify micro/macro and local/global perspectives.
                                             </p>
                                             <p class="m-0">
-                                                He was a founder of the International Big History Association (IBHA), which articulated a definition of the field as an integrated study of the cosmos, Earth, life, and humanity. A major editorial project was his three‑volume anthology, From Big Bang to Galactic Civilisations, which assembled contributions from 100 scholars in 25 countries and serves as a reference point for global teaching and research. His essay, “Big History: The Study of All Existence,” traces how cross‑disciplinary macrohistory converged as a global event in the late twentieth century. ​As the IBHA’s International Coordinator, he broadened access to this perspective through collaborations with historians, physicists, geologists, social scientists, and community activists, whom he helped form regional associations in Russia, Asia, and India. He views universal studies and anthropology as a practical lens for anticipating and navigating the global challenges of the twenty-first century.
+                                                He was a founder of the International Big History Association (IBHA),
+                                                which articulated a definition of the field as an integrated study of
+                                                the cosmos, Earth, life, and humanity. A major editorial project was his
+                                                three‑volume anthology, From Big Bang to Galactic Civilisations, which
+                                                assembled contributions from 100 scholars in 25 countries and serves as
+                                                a reference point for global teaching and research. His essay, “Big
+                                                History: The Study of All Existence,” traces how cross‑disciplinary
+                                                macrohistory converged as a global event in the late twentieth century.
+                                                ​As the IBHA’s International Coordinator, he broadened access to this
+                                                perspective through collaborations with historians, physicists,
+                                                geologists, social scientists, and community activists, whom he helped
+                                                form regional associations in Russia, Asia, and India. He views
+                                                universal studies and anthropology as a practical lens for anticipating
+                                                and navigating the global challenges of the twenty-first century.
                                             </p>
                                         </div>
                                         <span class="read-more-btn">Read more</span>
@@ -76,16 +155,40 @@
                                 </div>
                                 <div class="research_thrust_area_listing">
                                     <div class="research_thrust_area_left">
-                                        <div class="research_thrust_area_heading">Climate Change Risk, Vulnerability and Adaptation</div>
+                                        <div class="research_thrust_area_heading">Climate Change Risk, Vulnerability and
+                                            Adaptation</div>
                                         <div class="research_thrust_area_subheading">Dr. Manoranjan Ghosh</div>
                                     </div>
                                     <div class="research_thrust_area_right">
                                         <div class="content">
                                             <p>
-                                                Dr Manoranjan Ghosh works on climate change adaptation, risk management, and sustainable practices, often using spatial and statistical tools. He has completed four projects on climate risk, vulnerability, and adaptation. His first project was on examines livelihood–vulnerability linkages in sub‑Himalayan West Bengal, mapping how households and regions differ in exposure, sensitivity, and adaptive capacity within the same geographical space. This involves integrating satellite data, participatory surveys, and vulnerability indices to show that climate impacts are unevenly distributed even among neighboring communities. His second project was ‘The ADAPT project, which is a data-driven decision-making tool for city administrators. This project uses both satellite data as well as participatory data on climate adaptation practices for predicting the future urban growth and climate adaptation behaviour.
+                                                Dr Manoranjan Ghosh works on climate change adaptation, risk management,
+                                                and sustainable practices, often using spatial and statistical tools. He
+                                                has completed four projects on climate risk, vulnerability, and
+                                                adaptation. His first project was on examines livelihood–vulnerability
+                                                linkages in sub‑Himalayan West Bengal, mapping how households and
+                                                regions differ in exposure, sensitivity, and adaptive capacity within
+                                                the same geographical space. This involves integrating satellite data,
+                                                participatory surveys, and vulnerability indices to show that climate
+                                                impacts are unevenly distributed even among neighboring communities. His
+                                                second project was ‘The ADAPT project, which is a data-driven
+                                                decision-making tool for city administrators. This project uses both
+                                                satellite data as well as participatory data on climate adaptation
+                                                practices for predicting the future urban growth and climate adaptation
+                                                behaviour.
                                             </p>
                                             <p class="m-0">
-                                                The main aim of the project is to facilitate both the citizen and city administrator a broad understanding of climate adaptation. For more details please visit the website: <a href="https://niua.in/iscfp/" target="_blank">https://niua.in/iscfp/</a>. Dr. Ghosh’s third project was Delhi’s rising extreme heat, how it is linked to increasing, often unrecognised, deaths, especially among vulnerable groups like the elderly and outdoor workers, demanding urgent policy action and heatwave recognition as a national disaster. His recent work on rapidly urbanising Patna links land‑use change, climate vulnerability, and sustainable urban development, highlighting how unplanned expansion amplifies climate and environmental risks for marginalised populations.
+                                                The main aim of the project is to facilitate both the citizen and city
+                                                administrator a broad understanding of climate adaptation. For more
+                                                details please visit the website: <a href="https://niua.in/iscfp/"
+                                                    target="_blank">https://niua.in/iscfp/</a>. Dr. Ghosh’s third
+                                                project was Delhi’s rising extreme heat, how it is linked to increasing,
+                                                often unrecognised, deaths, especially among vulnerable groups like the
+                                                elderly and outdoor workers, demanding urgent policy action and heatwave
+                                                recognition as a national disaster. His recent work on rapidly
+                                                urbanising Patna links land‑use change, climate vulnerability, and
+                                                sustainable urban development, highlighting how unplanned expansion
+                                                amplifies climate and environmental risks for marginalised populations.
                                             </p>
                                         </div>
                                         <span class="read-more-btn">Read more</span>
@@ -93,27 +196,57 @@
                                 </div>
                                 <div class="research_thrust_area_listing">
                                     <div class="research_thrust_area_left">
-                                        <div class="research_thrust_area_heading">Development of thought in Biology</div>
+                                        <div class="research_thrust_area_heading">Development of thought in Biology
+                                        </div>
                                         <div class="research_thrust_area_subheading">Dr Vasudev Menon</div>
                                     </div>
                                     <div class="research_thrust_area_right">
                                         <p class="m-0">
-                                            Vasudev is interested in the development of thought concerning immunity and immune response to diseases. He is building an argument that the twin ontologies of host and pathogen are co-constructed and are processual in nature. Such an understanding will have a significant bearing not only on how biological individuality is explained but in a pragmatic sense, on how both prophylactic and therapeutic interventions to infectious diseases are imagined, both at the level of the individual and populations. Meanwhile, Vasudev is also keen on investigating the motivations behind why the language of immunology is seasoned with metaphors and other linguistic devices that otherwise describe violence, conflict, and war.
+                                            Vasudev is interested in the development of thought concerning immunity and
+                                            immune response to diseases. He is building an argument that the twin
+                                            ontologies of host and pathogen are co-constructed and are processual in
+                                            nature. Such an understanding will have a significant bearing not only on
+                                            how biological individuality is explained but in a pragmatic sense, on how
+                                            both prophylactic and therapeutic interventions to infectious diseases are
+                                            imagined, both at the level of the individual and populations. Meanwhile,
+                                            Vasudev is also keen on investigating the motivations behind why the
+                                            language of immunology is seasoned with metaphors and other linguistic
+                                            devices that otherwise describe violence, conflict, and war.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="research_thrust_area_listing">
                                     <div class="research_thrust_area_left">
-                                        <div class="research_thrust_area_heading">Uday Shankar Style of Creative Dance</div>
+                                        <div class="research_thrust_area_heading">Uday Shankar Style of Creative Dance
+                                        </div>
                                         <div class="research_thrust_area_subheading">Dr. Sulakshana Sen</div>
                                     </div>
                                     <div class="research_thrust_area_right">
                                         <div class="content">
                                             <p>
-                                                Uday Shankar (1900–1977), revolutionized Indian dance traditions. Regarded as the father of Indian Creative Dance in India, as well as India’s cultural ambassador, he was a visionary choreographer who created a vibrant new dance form, which was free from ethno-regional boundaries​. Dr. Sulakshana Sen's Scholarly Contributions. Dr. Sulakshana Sen, is a scholar practitioner in Uday Shankar's creative form. Trained extensively in both the Indian classical dance form of Odissi, and Uday Shankar Style of Creative Dance, and with a background in International Relations and Political Science, her research lies at the intersection of performance and politics. Her published book, "Creativity in Indian Dance: Uday Shankar's Autumn Years (1960-1977)," provides the first comprehensive scholarly study of Shankar's lesser-documented later creative period.
+                                                Uday Shankar (1900–1977), revolutionized Indian dance traditions.
+                                                Regarded as the father of Indian Creative Dance in India, as well as
+                                                India’s cultural ambassador, he was a visionary choreographer who
+                                                created a vibrant new dance form, which was free from ethno-regional
+                                                boundaries​. Dr. Sulakshana Sen's Scholarly Contributions. Dr.
+                                                Sulakshana Sen, is a scholar practitioner in Uday Shankar's creative
+                                                form. Trained extensively in both the Indian classical dance form of
+                                                Odissi, and Uday Shankar Style of Creative Dance, and with a background
+                                                in International Relations and Political Science, her research lies at
+                                                the intersection of performance and politics. Her published book,
+                                                "Creativity in Indian Dance: Uday Shankar's Autumn Years (1960-1977),"
+                                                provides the first comprehensive scholarly study of Shankar's
+                                                lesser-documented later creative period.
                                             </p>
                                             <p class="m-0">
-                                                It contextualizes Uday Shankar's work within broader frameworks of cultural diplomacy, soft power, and international relations theory, revealing how dance functioned as a medium for cultural exchange and nation-building. Dr. Sen's work connects Uday Shankar's artistic vision with contemporary educational practice, demonstrating how his pedagogical philosophy; emphasizing mindful embodiment, creativity, and cultural synthesis, remains profoundly relevant for liberal arts education and cross-cultural understanding.
+                                                It contextualizes Uday Shankar's work within broader frameworks of
+                                                cultural diplomacy, soft power, and international relations theory,
+                                                revealing how dance functioned as a medium for cultural exchange and
+                                                nation-building. Dr. Sen's work connects Uday Shankar's artistic vision
+                                                with contemporary educational practice, demonstrating how his
+                                                pedagogical philosophy; emphasizing mindful embodiment, creativity, and
+                                                cultural synthesis, remains profoundly relevant for liberal arts
+                                                education and cross-cultural understanding.
                                             </p>
                                         </div>
                                         <span class="read-more-btn">Read more</span>
@@ -1441,42 +1574,74 @@
                             <div class="new_slf_mainbox">
                                 <div class="new_slf_parabox">
                                     <p>
-                                        The Symbiosis Literary Festival (SLF) is an annual celebration of literature, ideas, and culture hosted by Symbiosis School for Liberal Arts (SSLA) under Symbiosis International (Deemed University), Pune. Rooted in the university’s ethos of “Vasudhaiva Kutumbakam” – the world is one family, the festival brings together acclaimed authors, poets, playwrights, journalists, policymakers, artists, students, and readers for two days of meaningful conversations and creative exchange. Since its inception in 2018, SLF has grown into a signature public event of the university, welcoming participants from within and beyond Pune.
+                                        The Symbiosis Literary Festival (SLF) is an annual celebration of literature,
+                                        ideas, and culture hosted by Symbiosis School for Liberal Arts (SSLA) under
+                                        Symbiosis International (Deemed University), Pune. Rooted in the university’s
+                                        ethos of “Vasudhaiva Kutumbakam” – the world is one family, the festival brings
+                                        together acclaimed authors, poets, playwrights, journalists, policymakers,
+                                        artists, students, and readers for two days of meaningful conversations and
+                                        creative exchange. Since its inception in 2018, SLF has grown into a signature
+                                        public event of the university, welcoming participants from within and beyond
+                                        Pune.
                                     </p>
                                     <p>
-                                        ​​The festival offers a rich, carefully curated programme that spans author sessions, panel discussions, in-conversation events, book readings, theatre and lecture-demonstrations, poetry performances, workshops, and interactive youth-focused activities. Over two immersive days, attendees can listen to leading thinkers unpack the politics of language, the craft of storytelling, the future of publishing, cinema and society, history and memory, as well as emerging forms of digital and experimental writing.
+                                        ​​The festival offers a rich, carefully curated programme that spans author
+                                        sessions, panel discussions, in-conversation events, book readings, theatre and
+                                        lecture-demonstrations, poetry performances, workshops, and interactive
+                                        youth-focused activities. Over two immersive days, attendees can listen to
+                                        leading thinkers unpack the politics of language, the craft of storytelling, the
+                                        future of publishing, cinema and society, history and memory, as well as
+                                        emerging forms of digital and experimental writing.
                                     </p>
                                     <p>
-                                        ​At its heart, the Symbiosis Literary Festival is powered by students and faculty. Conceptualised and organised by SSLA with support from Symbiosis International (Deemed University), the festival offers students hands-on experience in curation, production, research, outreach, design, media, and event management. This student-driven model infuses the festival with energy, openness, and experimentation, while also transforming the campus into a living classroom where learning extends beyond the walls of traditional lecture halls. For authors and speakers, SLF provides a vibrant academic environment; for students and visitors, it is an inviting space to question, reflect, and discover new reading journeys.
+                                        ​At its heart, the Symbiosis Literary Festival is powered by students and
+                                        faculty. Conceptualised and organised by SSLA with support from Symbiosis
+                                        International (Deemed University), the festival offers students hands-on
+                                        experience in curation, production, research, outreach, design, media, and event
+                                        management. This student-driven model infuses the festival with energy,
+                                        openness, and experimentation, while also transforming the campus into a living
+                                        classroom where learning extends beyond the walls of traditional lecture halls.
+                                        For authors and speakers, SLF provides a vibrant academic environment; for
+                                        students and visitors, it is an inviting space to question, reflect, and
+                                        discover new reading journeys.
                                     </p>
                                     <p class="m-0">
-                                        Each edition of the Symbiosis Literary Festival is built around a strong thematic core that responds to contemporary realities and the changing world of stories, media, and expression.
+                                        Each edition of the Symbiosis Literary Festival is built around a strong
+                                        thematic core that responds to contemporary realities and the changing world of
+                                        stories, media, and expression.
                                     </p>
                                 </div>
                                 <div class="new_slf_img_mainbox">
                                     <div class="new_slf_img_leftbox">
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-01.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-01.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-02.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-02.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-03.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-03.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-04.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-04.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-05.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-05.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-06.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-06.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                     </div>
                                     <div class="new_slf_img_rightbox">
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/slf-07.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/slf-07.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -1484,18 +1649,43 @@
                                     <div class="student_research_databox_heading">SLF – 2025</div>
                                     <div class="student_research_databox_data">
                                         <p>
-                                            The SLF-2025 sixth edition is themed “Ink, Ideas, and Inspiration”, inviting audiences to explore how stories take shape, travel, and transform society at a time when new technologies are reshaping authorship, authenticity, and creativity. SLF 2025 features an impressive line-up including Dr. Shashi Tharoor as Chief Guest at the inaugural, along with cultural icons and celebrated voices such as Javed Akhtar, Pavan K. Varma, and Sushama Deshpande, among many others, who together reflect the festival’s bridge between literature, cinema, art, and public life.
+                                            The SLF-2025 sixth edition is themed “Ink, Ideas, and Inspiration”, inviting
+                                            audiences to explore how stories take shape, travel, and transform society
+                                            at a time when new technologies are reshaping authorship, authenticity, and
+                                            creativity. SLF 2025 features an impressive line-up including Dr. Shashi
+                                            Tharoor as Chief Guest at the inaugural, along with cultural icons and
+                                            celebrated voices such as Javed Akhtar, Pavan K. Varma, and Sushama
+                                            Deshpande, among many others, who together reflect the festival’s bridge
+                                            between literature, cinema, art, and public life.
                                         </p>
                                         <div class="new_slf_btns">
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49"><g><path d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49">
+                                                        <g>
+                                                            <path
+                                                                d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                            <path
+                                                                d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Watch Now</div>
                                             </a>
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612"><g><path d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                                        <g>
+                                                            <path
+                                                                d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                                fill="#007382" opacity="1" data-original="#000000">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Download Brochure</div>
                                             </a>
@@ -1506,18 +1696,39 @@
                                     <div class="student_research_databox_heading">SLF – 2024</div>
                                     <div class="student_research_databox_data">
                                         <p>
-                                            The SLF-2024 fifth edition has carried the tagline “Conversations that Matter”, foregrounding SLF’s commitment to literature as a space for critical thought and public dialogue on issues such as democracy, identity, gender, mental health, sustainability, and the environment.
+                                            The SLF-2024 fifth edition has carried the tagline “Conversations that
+                                            Matter”, foregrounding SLF’s commitment to literature as a space for
+                                            critical thought and public dialogue on issues such as democracy, identity,
+                                            gender, mental health, sustainability, and the environment.
                                         </p>
                                         <div class="new_slf_btns">
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49"><g><path d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49">
+                                                        <g>
+                                                            <path
+                                                                d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                            <path
+                                                                d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Watch Now</div>
                                             </a>
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612"><g><path d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                                        <g>
+                                                            <path
+                                                                d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                                fill="#007382" opacity="1" data-original="#000000">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Download Brochure</div>
                                             </a>
@@ -1528,18 +1739,42 @@
                                     <div class="student_research_databox_heading">SLF – 2023</div>
                                     <div class="student_research_databox_data">
                                         <p>
-                                            The SLF-2023 fourth edition spans two days of keynotes, panels, and book discussions featuring leading scholars, writers, journalists, and cultural figures. Sessions address traditional knowledge and heritage diplomacy, AI and the future of language, culinary tourism, watchdog journalism, and regional media’s role in shaping public opinion with Usha Uthup, Saumya Roy, Javed Akhtar, Girish Kuber, Prof. R. A. Mashelkar and prominent media professionals. – We can provide the direct YouTube link to watch
+                                            The SLF-2023 fourth edition spans two days of keynotes, panels, and book
+                                            discussions featuring leading scholars, writers, journalists, and cultural
+                                            figures. Sessions address traditional knowledge and heritage diplomacy, AI
+                                            and the future of language, culinary tourism, watchdog journalism, and
+                                            regional media’s role in shaping public opinion with Usha Uthup, Saumya Roy,
+                                            Javed Akhtar, Girish Kuber, Prof. R. A. Mashelkar and prominent media
+                                            professionals. – We can provide the direct YouTube link to watch
                                         </p>
                                         <div class="new_slf_btns">
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49"><g><path d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49">
+                                                        <g>
+                                                            <path
+                                                                d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                            <path
+                                                                d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Watch Now</div>
                                             </a>
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612"><g><path d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                                        <g>
+                                                            <path
+                                                                d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                                fill="#007382" opacity="1" data-original="#000000">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Download Brochure</div>
                                             </a>
@@ -1552,13 +1787,31 @@
                                         <div class="new_slf_btns">
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49"><g><path d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49">
+                                                        <g>
+                                                            <path
+                                                                d="M39.256 6.5H9.744C4.371 6.5 0 10.885 0 16.274v16.451c0 5.39 4.371 9.774 9.744 9.774h29.512c5.373 0 9.744-4.385 9.744-9.774V16.274c0-5.389-4.371-9.774-9.744-9.774zM47 32.726c0 4.287-3.474 7.774-7.744 7.774H9.744C5.474 40.5 2 37.012 2 32.726V16.274C2 11.988 5.474 8.5 9.744 8.5h29.512c4.27 0 7.744 3.488 7.744 7.774v16.452z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                            <path
+                                                                d="m33.36 24.138-13.855-8.115a1.002 1.002 0 0 0-1.505.863v16.229a1.002 1.002 0 0 0 1 1 1 1 0 0 0 .505-.137l13.855-8.113a1 1 0 0 0 0-1.727zM20 31.37V18.63l10.876 6.371L20 31.37z"
+                                                                fill="#007382" opacity="1" data-original="#000000"
+                                                                class=""></path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Watch Now</div>
                                             </a>
                                             <a href="" class="new_slf_btns_listing">
                                                 <div>
-                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612"><g><path d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                                        <g>
+                                                            <path
+                                                                d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                                fill="#007382" opacity="1" data-original="#000000">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
                                                 </div>
                                                 <div>Download Brochure</div>
                                             </a>
@@ -1570,18 +1823,47 @@
                                 <h2 class="inner__subheading">International Gender Conference</h2>
                                 <div class="new_slf_parabox">
                                     <p>
-                                        The International Gender Conference (IGC) is being organised annually at SSLA from 2019, and it is a forum that foregrounds feminist, queer and intersectional perspectives to interrogate gender in relation to contemporary social, political and economic transformations. The conference has evolved since 2019 into a sustained interdisciplinary space that links pedagogy, research and activism on gender justice. The IGC hosted in collaboration with long-term partners  DePaul University, Chicago, and, more recently Montclair State University, New Jersey.  From its inception in 2019, the International Gender Conference was conceived as a platform that brings together academia, the corporate sector and civil society to engage critically with gender. Over subsequent editions, SSLA has institutionalised the conference as an annual event, embedding it within its broader commitment to Women and Gender Studies, gender-sensitive teaching practices and campus initiatives such as a Scholar-in-Residence on gender-based violence and the student-led Queer Qrew.
+                                        The International Gender Conference (IGC) is being organised annually at SSLA
+                                        from 2019, and it is a forum that foregrounds feminist, queer and intersectional
+                                        perspectives to interrogate gender in relation to contemporary social, political
+                                        and economic transformations. The conference has evolved since 2019 into a
+                                        sustained interdisciplinary space that links pedagogy, research and activism on
+                                        gender justice. The IGC hosted in collaboration with long-term partners DePaul
+                                        University, Chicago, and, more recently Montclair State University, New Jersey.
+                                        From its inception in 2019, the International Gender Conference was conceived as
+                                        a platform that brings together academia, the corporate sector and civil society
+                                        to engage critically with gender. Over subsequent editions, SSLA has
+                                        institutionalised the conference as an annual event, embedding it within its
+                                        broader commitment to Women and Gender Studies, gender-sensitive teaching
+                                        practices and campus initiatives such as a Scholar-in-Residence on gender-based
+                                        violence and the student-led Queer Qrew.
                                     </p>
                                     <div class="new_slf_btns">
-                                        <a href="https://www.instagram.com/igc_ssla/" target="_blank" class="new_slf_btns_listing">
+                                        <a href="https://www.instagram.com/igc_ssla/" target="_blank"
+                                            class="new_slf_btns_listing">
                                             <div>
-                                                <svg width="16" height="16" x="0" y="0" viewBox="0 0 512.001 512.001"><g><path d="M373.406 0H138.594C62.172 0 0 62.172 0 138.594V373.41C0 449.828 62.172 512 138.594 512H373.41C449.828 512 512 449.828 512 373.41V138.594C512 62.172 449.828 0 373.406 0zm108.578 373.41c0 59.867-48.707 108.574-108.578 108.574H138.594c-59.871 0-108.578-48.707-108.578-108.574V138.594c0-59.871 48.707-108.578 108.578-108.578H373.41c59.867 0 108.574 48.707 108.574 108.578zm0 0" fill="#007382" opacity="1" data-original="#000000"></path><path d="M256 116.004c-77.195 0-139.996 62.8-139.996 139.996S178.804 395.996 256 395.996 395.996 333.196 395.996 256 333.196 116.004 256 116.004zm0 249.976c-60.64 0-109.98-49.335-109.98-109.98 0-60.64 49.34-109.98 109.98-109.98 60.645 0 109.98 49.34 109.98 109.98 0 60.645-49.335 109.98-109.98 109.98zM399.344 66.285c-22.813 0-41.367 18.559-41.367 41.367 0 22.813 18.554 41.371 41.367 41.371s41.37-18.558 41.37-41.37-18.558-41.368-41.37-41.368zm0 52.719c-6.258 0-11.352-5.094-11.352-11.352 0-6.261 5.094-11.351 11.352-11.351 6.261 0 11.355 5.09 11.355 11.351 0 6.258-5.094 11.352-11.355 11.352zm0 0" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                <svg width="16" height="16" x="0" y="0" viewBox="0 0 512.001 512.001">
+                                                    <g>
+                                                        <path
+                                                            d="M373.406 0H138.594C62.172 0 0 62.172 0 138.594V373.41C0 449.828 62.172 512 138.594 512H373.41C449.828 512 512 449.828 512 373.41V138.594C512 62.172 449.828 0 373.406 0zm108.578 373.41c0 59.867-48.707 108.574-108.578 108.574H138.594c-59.871 0-108.578-48.707-108.578-108.574V138.594c0-59.871 48.707-108.578 108.578-108.578H373.41c59.867 0 108.574 48.707 108.574 108.578zm0 0"
+                                                            fill="#007382" opacity="1" data-original="#000000"></path>
+                                                        <path
+                                                            d="M256 116.004c-77.195 0-139.996 62.8-139.996 139.996S178.804 395.996 256 395.996 395.996 333.196 395.996 256 333.196 116.004 256 116.004zm0 249.976c-60.64 0-109.98-49.335-109.98-109.98 0-60.64 49.34-109.98 109.98-109.98 60.645 0 109.98 49.34 109.98 109.98 0 60.645-49.335 109.98-109.98 109.98zM399.344 66.285c-22.813 0-41.367 18.559-41.367 41.367 0 22.813 18.554 41.371 41.367 41.371s41.37-18.558 41.37-41.37-18.558-41.368-41.37-41.368zm0 52.719c-6.258 0-11.352-5.094-11.352-11.352 0-6.261 5.094-11.351 11.352-11.351 6.261 0 11.355 5.09 11.355 11.351 0 6.258-5.094 11.352-11.355 11.352zm0 0"
+                                                            fill="#007382" opacity="1" data-original="#000000"></path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <div>IGC Instragram</div>
                                         </a>
                                         <a href="https://x.com/igc_2024" target="_blank" class="new_slf_btns_listing">
                                             <div>
-                                                <svg width="16" height="16" x="0" y="0" viewBox="0 0 1226.37 1226.37"><g><path d="M727.348 519.284 1174.075 0h-105.86L680.322 450.887 370.513 0H13.185l468.492 681.821L13.185 1226.37h105.866l409.625-476.152 327.181 476.152h357.328L727.322 519.284zM582.35 687.828l-47.468-67.894-377.686-540.24H319.8l304.797 435.991 47.468 67.894 396.2 566.721H905.661L582.35 687.854z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                <svg width="16" height="16" x="0" y="0" viewBox="0 0 1226.37 1226.37">
+                                                    <g>
+                                                        <path
+                                                            d="M727.348 519.284 1174.075 0h-105.86L680.322 450.887 370.513 0H13.185l468.492 681.821L13.185 1226.37h105.866l409.625-476.152 327.181 476.152h357.328L727.322 519.284zM582.35 687.828l-47.468-67.894-377.686-540.24H319.8l304.797 435.991 47.468 67.894 396.2 566.721H905.661L582.35 687.854z"
+                                                            fill="#007382" opacity="1" data-original="#000000"></path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <div>IGC Tweeter</div>
                                         </a>
@@ -1590,27 +1872,34 @@
                                 <div class="new_slf_img_mainbox">
                                     <div class="new_slf_img_leftbox">
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-01.webp') }}" alt="IGC images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-01.webp') }}"
+                                                alt="IGC images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-02.webp') }}" alt="IGC images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-02.webp') }}"
+                                                alt="IGC images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-03.webp') }}" alt="IGC images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-03.webp') }}"
+                                                alt="IGC images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-04.webp') }}" alt="IGC images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-04.webp') }}"
+                                                alt="IGC images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-05.webp') }}" alt="IGC images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-05.webp') }}"
+                                                alt="IGC images" class="img-fluid">
                                         </div>
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-06.webp') }}" alt="IGC images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-06.webp') }}"
+                                                alt="IGC images" class="img-fluid">
                                         </div>
                                     </div>
                                     <div class="new_slf_img_rightbox">
                                         <div class="new_slf_img_listing">
-                                            <img src="{{ asset('assets/images/research/igc-07.webp') }}" alt="SLF images" class="img-fluid">
+                                            <img src="{{ asset('assets/images/research/igc-07.webp') }}"
+                                                alt="SLF images" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -1618,7 +1907,12 @@
                                     <div class="student_research_databox_heading">IGC - 2024</div>
                                     <div class="student_research_databox_data">
                                         <p class="m-0">
-                                            The sixth International Gender Conference (IGC-2024), held virtually on 1–2 March 2024, focused on “Bridging the Gap: Advancing Sustainability through Gender-Inclusive Solutions.” The conference foregrounds dialogic, interdisciplinary engagements to trace how gender shapes both the vulnerabilities produced by ecological crises and the possibilities for more just, sustainable futures.
+                                            The sixth International Gender Conference (IGC-2024), held virtually on 1–2
+                                            March 2024, focused on “Bridging the Gap: Advancing Sustainability through
+                                            Gender-Inclusive Solutions.” The conference foregrounds dialogic,
+                                            interdisciplinary engagements to trace how gender shapes both the
+                                            vulnerabilities produced by ecological crises and the possibilities for more
+                                            just, sustainable futures.
                                         </p>
                                     </div>
                                 </div>
@@ -1626,7 +1920,18 @@
                                     <div class="student_research_databox_heading">IGC - 2023</div>
                                     <div class="student_research_databox_data">
                                         <p class="m-0">
-                                            The 5th Annual edition of the International Gender Conference, hosted by Symbiosis School for Liberal Arts, in collaboration with DePaul University, Chicago, held on the 3rd and 4th of March 2023, focused on the theme is 'Dialogues in Gender: Past and Present' and the conference aims to host discussions which trace gender through an interdisciplinary and historic lens. This conference aims to address issues on gender throughout history. A way to understand it would be to approach history that takes gender centrally into account.  Notions of gender are not constant but are specific to time and place. Gender definition is always present, yet never static. Within a given time and place, the categories of masculinity, femininity or fluidity are in a process of being forged, disseminated, contested, reworked, and reaffirmed.
+                                            The 5th Annual edition of the International Gender Conference, hosted by
+                                            Symbiosis School for Liberal Arts, in collaboration with DePaul University,
+                                            Chicago, held on the 3rd and 4th of March 2023, focused on the theme is
+                                            'Dialogues in Gender: Past and Present' and the conference aims to host
+                                            discussions which trace gender through an interdisciplinary and historic
+                                            lens. This conference aims to address issues on gender throughout history. A
+                                            way to understand it would be to approach history that takes gender
+                                            centrally into account. Notions of gender are not constant but are specific
+                                            to time and place. Gender definition is always present, yet never static.
+                                            Within a given time and place, the categories of masculinity, femininity or
+                                            fluidity are in a process of being forged, disseminated, contested,
+                                            reworked, and reaffirmed.
                                         </p>
                                     </div>
                                 </div>
@@ -1634,7 +1939,20 @@
                                     <div class="student_research_databox_heading">IGC - 2022</div>
                                     <div class="student_research_databox_data">
                                         <p class="m-0">
-                                            Fourth Annual International Gender Conference (IGC) hosted by SSLA was held in collaboration with SSLA's international academic partner, DePaul University, focused on ‘Men, Masculinities and Gender Equality’. It aimed to take a multidisciplinary approach to the theme of 'Men, Masculinities and Gender Equality'. The conference was held from the 3rd to the 5th of March, 2022. Contemporary gender theory underscores the importance of relationality in the production and maintenance of gender – relationality of men to women, between men, and between women. Studies of men and masculinity have provided rich and thoughtful inroads into theorizing and analyzing gender as relational. 'Men and masculinity' has subsequently become the subject of intense theorization. Through this conference, we explored theoretical/social conceptions of masculinities from multiple disciplines and also examined how masculinities (of men and women) intersect with other structural locations, including sexuality, class, caste, country, etc.
+                                            Fourth Annual International Gender Conference (IGC) hosted by SSLA was held
+                                            in collaboration with SSLA's international academic partner, DePaul
+                                            University, focused on ‘Men, Masculinities and Gender Equality’. It aimed to
+                                            take a multidisciplinary approach to the theme of 'Men, Masculinities and
+                                            Gender Equality'. The conference was held from the 3rd to the 5th of March,
+                                            2022. Contemporary gender theory underscores the importance of relationality
+                                            in the production and maintenance of gender – relationality of men to women,
+                                            between men, and between women. Studies of men and masculinity have provided
+                                            rich and thoughtful inroads into theorizing and analyzing gender as
+                                            relational. 'Men and masculinity' has subsequently become the subject of
+                                            intense theorization. Through this conference, we explored
+                                            theoretical/social conceptions of masculinities from multiple disciplines
+                                            and also examined how masculinities (of men and women) intersect with other
+                                            structural locations, including sexuality, class, caste, country, etc.
                                         </p>
                                     </div>
                                 </div>
@@ -1642,7 +1960,14 @@
                                     <div class="student_research_databox_heading">IGC - 2021</div>
                                     <div class="student_research_databox_data">
                                         <p class="m-0">
-                                            The third edition of IGC-2021 focused on 'Pandemic: A Gendered Experience' on 25th, 26th, and 27th March 2021. The conference brought light to how the pandemic has drastically increased the already-existing gap of gender inequality and its effects. While the pandemic has brought distress to all our lives, it has put migrants, older persons, sex workers and other minority groups at further risk.  The three-day conference addressed issues affecting these groups and focused on the economic, social and legal ramifications of the pandemic from a gendered perspective.
+                                            The third edition of IGC-2021 focused on 'Pandemic: A Gendered Experience'
+                                            on 25th, 26th, and 27th March 2021. The conference brought light to how the
+                                            pandemic has drastically increased the already-existing gap of gender
+                                            inequality and its effects. While the pandemic has brought distress to all
+                                            our lives, it has put migrants, older persons, sex workers and other
+                                            minority groups at further risk. The three-day conference addressed issues
+                                            affecting these groups and focused on the economic, social and legal
+                                            ramifications of the pandemic from a gendered perspective.
                                         </p>
                                     </div>
                                 </div>
@@ -1650,7 +1975,16 @@
                                     <div class="student_research_databox_heading">IGC - 2020</div>
                                     <div class="student_research_databox_data">
                                         <p class="m-0">
-                                            The second edition of the International Gender Conference on the 7th and 8th of February 2020' focused on ‘Identity: Breaking Ground'. A multitude of disciplines define the term 'identity' in the context of their own knowledge base through terms rooted in the experience, accounts and evidence that is unique to each of them. This conference attempts to understand the way gender is experienced against the backdrop of burgeoning urbanity fuelled by industrialist-capitalist modernity and by post modernity resulting from globalization. Along with the growing need to consume, compete, and develop, a form of alienation is enveloping society in a global order that does not nurture, but only squeezes, to ensure the survival of the fittest.
+                                            The second edition of the International Gender Conference on the 7th and 8th
+                                            of February 2020' focused on ‘Identity: Breaking Ground'. A multitude of
+                                            disciplines define the term 'identity' in the context of their own knowledge
+                                            base through terms rooted in the experience, accounts and evidence that is
+                                            unique to each of them. This conference attempts to understand the way
+                                            gender is experienced against the backdrop of burgeoning urbanity fuelled by
+                                            industrialist-capitalist modernity and by post modernity resulting from
+                                            globalization. Along with the growing need to consume, compete, and develop,
+                                            a form of alienation is enveloping society in a global order that does not
+                                            nurture, but only squeezes, to ensure the survival of the fittest.
                                         </p>
                                     </div>
                                 </div>
@@ -1658,7 +1992,21 @@
                                     <div class="student_research_databox_heading">IGC - 2019</div>
                                     <div class="student_research_databox_data">
                                         <p class="m-0">
-                                            The first edition of IGC focused on 'Revisiting, Reviewing, and Restructuring Spaces for Urban Women: A Dialogue Between Sectors for Empowering Urban Women Across the Globe on the 1st and 2nd of March 2019. It was a dynamic gathering of academia, the corporate sector, community-based organizations, researchers, and the development sector to discuss issues faced by Women in Urban Spaces, specific to the middle-class population. At this conference, ideas, concepts, and stories of transformation and success were exchanged through several discussions, panels, workshops, exhibitions, and papers with a view to creating a network for all concerned with issues faced by women in urban spaces. The conference began with the SSLA-Sage Public Lecture, (co-hosted by Sage Publications) on 28 February 2019. The two-day conference worked towards revisiting and reviewing the socio-cultural challenges faced by urban women. This helped in realising our responsibility and will enable us to act towards restructuring these spaces as we progress.
+                                            The first edition of IGC focused on 'Revisiting, Reviewing, and
+                                            Restructuring Spaces for Urban Women: A Dialogue Between Sectors for
+                                            Empowering Urban Women Across the Globe on the 1st and 2nd of March 2019. It
+                                            was a dynamic gathering of academia, the corporate sector, community-based
+                                            organizations, researchers, and the development sector to discuss issues
+                                            faced by Women in Urban Spaces, specific to the middle-class population. At
+                                            this conference, ideas, concepts, and stories of transformation and success
+                                            were exchanged through several discussions, panels, workshops, exhibitions,
+                                            and papers with a view to creating a network for all concerned with issues
+                                            faced by women in urban spaces. The conference began with the SSLA-Sage
+                                            Public Lecture, (co-hosted by Sage Publications) on 28 February 2019. The
+                                            two-day conference worked towards revisiting and reviewing the
+                                            socio-cultural challenges faced by urban women. This helped in realising our
+                                            responsibility and will enable us to act towards restructuring these spaces
+                                            as we progress.
                                         </p>
                                     </div>
                                 </div>
@@ -1669,17 +2017,234 @@
             </div>
         </div>
     </section>
-    <!-- Inner section ends  -->
+    <!-- Old tabing code ends  -->
+
+    <!-- Inner section start -->
+    <section class="inner_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="inner__red_heading">
+                        SSLA's Major Research Thrust Areas
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="research_thrust_area_mainbox">
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Traditions of Devotion: Narratives and Lived
+                                    Experiences</div>
+                                <div class="research_thrust_area_subheading">Dr Suchetana Banerjee, Gayatri Mendanha,
+                                    and Ananya Dutta</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Dr. Suchetana Banerjee, Gayatri Mendanha, and Ananya Dutta share a set of
+                                        interconnected research interests that sit at the crossroads of literature,
+                                        performance, and lived experience in Maharashtra. Their collaborative minor
+                                        research project, “Traditions of Devotion: Narratives and Lived Experiences,”
+                                        funded by Symbiosis International (Deemed University) and supported by INTACH
+                                        (Pune chapter), signals a common concern of how devotion is articulated through
+                                        stories, performances, and everyday practices. Working within the liberal arts
+                                        framework at SSLA, they collectively foreground an interdisciplinary methodology
+                                        that brings together ethnographic practices, textual analyses, performative
+                                        framworks, and philosophical interventions to understand how meaning is
+                                        produced, negotiated, and contested in public sphere. Suchetana’s background in
+                                        Comparative Literature and Theatre Studies, along with her long-term engagement
+                                        with performance practices, aligns with a research orientation that treats
+                                        performance as both text and method, allowing devotional and cultural narratives
+                                        to be studied as embodied, situated acts rather than static objects. Gayatri’s
+                                        training and teaching in both Philosophy and English contribute a strong
+                                        conceptual and ethical frame, enabling questions about knowledge, belief, and
+                                        subjectivity to be posed alongside close readings of texts and performances.
+                                        Ananya’s professional formation in English and Journalism, introduce
+                                        inter-mediality through which representational practices can be examined in
+                                        public discourses.Their shared research brings together the study of narratives
+                                        as they move across genres and media, the lived practices of devotion and
+                                        community, and the ways these experiences are shaped through language,
+                                        performance, and representation. Central to their work is a critical attention
+                                        to how structures of power—such as gender, caste, and institutional
+                                        hierarchies—influence whose voices are heard, whose bodies are visible, and
+                                        whose stories are allowed to circulate.
+                                    </p>
+                                    <p class="m-0">
+                                        Within SSLA’s research and community outreach ecosystem, they collaborate on
+                                        minor research projects and community-based programmes that reflect a shared
+                                        commitment to public, pedagogical scholarship. Their approach positions students
+                                        and community participants as active collaborators in knowledge production
+                                        rather than passive subjects of study. Together, their work forms part of a
+                                        broader interdisciplinary agenda that examines how stories, performances, and
+                                        media practices—rooted in specific histories and social contexts—shape
+                                        contemporary understandings of selfhood, community, and devotion in India.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Global Conjunctures, Adaptation and
+                                    Scholarship</div>
+                                <div class="research_thrust_area_subheading">Dr. Barry H. Rodrigue</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Barry Rodrigue is an anthropologist and geographer whose work focuses on
+                                        applying ethnography and archaeology to real-world situations. His career began
+                                        in Alaska as a field biologist and ethnographer, then continued in Central
+                                        America, North America, Europe, Russia, China, and India. In the United States,
+                                        he works on cultural resource management (CRM) projects, particularly as an
+                                        industrial archaeologist. Meanwhile, in Portugal, he studies predictive
+                                        modelling of historical migrations. His overall concerns focus on human
+                                        adaptation, cultural landscapes, global-crisis foresight, and the evolutionary
+                                        process. He sees scholars as active partners who aid communities in harmonising
+                                        their shared relationships in the changing natural world, especially during
+                                        times of crisis. This is especially true in our present time of climate crisis
+                                        and conflict. He coordinates the SSLA Collaborative for Asian Anthropology, for
+                                        which he developed a dozen NGO partnerships throughout India that provide
+                                        opportunities for internships and dissertations as well as faculty and staff
+                                        openings for research and community engagement. This notably included a
+                                        five-year urban ecology project for students in Pune. His current fieldwork
+                                        includes two ongoing efforts – 1) Work with the Soliga Tribal Community and our
+                                        VGKK partners to develop a Soliga heritage centre as well as conducting
+                                        megalithic archaeology, permitted by the Karnataka Forest Department in their
+                                        Tiger Reserve in the Biligirirangana Hills; 2) Ethnomedical studies with Koya
+                                        tribal doctors (vaidyas) in East India to understand the application of
+                                        indigenous and traditional medicine in the wider world. ​A key strand of his
+                                        scholarship has been in conceptualising universal studies as a field with which
+                                        to unify micro/macro and local/global perspectives.
+                                    </p>
+                                    <p class="m-0">
+                                        He was a founder of the International Big History Association (IBHA), which
+                                        articulated a definition of the field as an integrated study of the cosmos,
+                                        Earth, life, and humanity. A major editorial project was his three‑volume
+                                        anthology, From Big Bang to Galactic Civilisations, which assembled
+                                        contributions from 100 scholars in 25 countries and serves as a reference point
+                                        for global teaching and research. His essay, “Big History: The Study of All
+                                        Existence,” traces how cross‑disciplinary macrohistory converged as a global
+                                        event in the late twentieth century. ​As the IBHA’s International Coordinator,
+                                        he broadened access to this perspective through collaborations with historians,
+                                        physicists, geologists, social scientists, and community activists, whom he
+                                        helped form regional associations in Russia, Asia, and India. He views universal
+                                        studies and anthropology as a practical lens for anticipating and navigating the
+                                        global challenges of the twenty-first century.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Climate Change Risk, Vulnerability and
+                                    Adaptation</div>
+                                <div class="research_thrust_area_subheading">Dr. Manoranjan Ghosh</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Dr Manoranjan Ghosh works on climate change adaptation, risk management, and
+                                        sustainable practices, often using spatial and statistical tools. He has
+                                        completed four projects on climate risk, vulnerability, and adaptation. His
+                                        first project was on examines livelihood–vulnerability linkages in sub‑Himalayan
+                                        West Bengal, mapping how households and regions differ in exposure, sensitivity,
+                                        and adaptive capacity within the same geographical space. This involves
+                                        integrating satellite data, participatory surveys, and vulnerability indices to
+                                        show that climate impacts are unevenly distributed even among neighboring
+                                        communities. His second project was ‘The ADAPT project, which is a data-driven
+                                        decision-making tool for city administrators. This project uses both satellite
+                                        data as well as participatory data on climate adaptation practices for
+                                        predicting the future urban growth and climate adaptation behaviour.
+                                    </p>
+                                    <p class="m-0">
+                                        The main aim of the project is to facilitate both the citizen and city
+                                        administrator a broad understanding of climate adaptation. For more details
+                                        please visit the website: <a href="https://niua.in/iscfp/"
+                                            target="_blank">https://niua.in/iscfp/</a>. Dr. Ghosh’s third project was
+                                        Delhi’s rising extreme heat, how it is linked to increasing, often unrecognised,
+                                        deaths, especially among vulnerable groups like the elderly and outdoor workers,
+                                        demanding urgent policy action and heatwave recognition as a national disaster.
+                                        His recent work on rapidly urbanising Patna links land‑use change, climate
+                                        vulnerability, and sustainable urban development, highlighting how unplanned
+                                        expansion amplifies climate and environmental risks for marginalised
+                                        populations.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Development of thought in Biology</div>
+                                <div class="research_thrust_area_subheading">Dr Vasudev Menon</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <p class="m-0">
+                                    Vasudev is interested in the development of thought concerning immunity and immune
+                                    response to diseases. He is building an argument that the twin ontologies of host
+                                    and pathogen are co-constructed and are processual in nature. Such an understanding
+                                    will have a significant bearing not only on how biological individuality is
+                                    explained but in a pragmatic sense, on how both prophylactic and therapeutic
+                                    interventions to infectious diseases are imagined, both at the level of the
+                                    individual and populations. Meanwhile, Vasudev is also keen on investigating the
+                                    motivations behind why the language of immunology is seasoned with metaphors and
+                                    other linguistic devices that otherwise describe violence, conflict, and war.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Uday Shankar Style of Creative Dance</div>
+                                <div class="research_thrust_area_subheading">Dr. Sulakshana Sen</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Uday Shankar (1900–1977), revolutionized Indian dance traditions. Regarded as
+                                        the father of Indian Creative Dance in India, as well as India’s cultural
+                                        ambassador, he was a visionary choreographer who created a vibrant new dance
+                                        form, which was free from ethno-regional boundaries​. Dr. Sulakshana Sen's
+                                        Scholarly Contributions. Dr. Sulakshana Sen, is a scholar practitioner in Uday
+                                        Shankar's creative form. Trained extensively in both the Indian classical dance
+                                        form of Odissi, and Uday Shankar Style of Creative Dance, and with a background
+                                        in International Relations and Political Science, her research lies at the
+                                        intersection of performance and politics. Her published book, "Creativity in
+                                        Indian Dance: Uday Shankar's Autumn Years (1960-1977)," provides the first
+                                        comprehensive scholarly study of Shankar's lesser-documented later creative
+                                        period.
+                                    </p>
+                                    <p class="m-0">
+                                        It contextualizes Uday Shankar's work within broader frameworks of cultural
+                                        diplomacy, soft power, and international relations theory, revealing how dance
+                                        functioned as a medium for cultural exchange and nation-building. Dr. Sen's work
+                                        connects Uday Shankar's artistic vision with contemporary educational practice,
+                                        demonstrating how his pedagogical philosophy; emphasizing mindful embodiment,
+                                        creativity, and cultural synthesis, remains profoundly relevant for liberal arts
+                                        education and cross-cultural understanding.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Inner section ends -->
 </main>
 <script>
 document.querySelectorAll('.read-more-btn').forEach(btn => {
-    btn.addEventListener('click', function () {
+    btn.addEventListener('click', function() {
         const parent = this.closest('.research_thrust_area_right');
         parent.classList.toggle('expanded');
 
-        this.textContent = parent.classList.contains('expanded')
-            ? 'Read less'
-            : 'Read more';
+        this.textContent = parent.classList.contains('expanded') ?
+            'Read less' :
+            'Read more';
     });
 });
 </script>
