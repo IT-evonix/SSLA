@@ -1892,17 +1892,18 @@
     position: relative;
 }
 
+/* Read More functionality in research colloquium page start */
+
 /* collapsed state */
-.read-more-content {
+/* .read-more-content {
     max-height: 200px;
     overflow: hidden;
     transition: max-height 0.4s ease;
-}
+} */
 
-/* expanded state */
-.read-more-wrapper.expanded .read-more-content {
+/* .read-more-wrapper.expanded .read-more-content {
     max-height: 5000px;
-}
+} */
 
 
 .read-more-btn {

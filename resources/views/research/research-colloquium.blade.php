@@ -306,9 +306,9 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -547,9 +547,9 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -821,9 +821,9 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1088,7 +1088,7 @@
                                 <div class="rap_admission_mainbox">
                                     <div class="rap-admission-section">
                                         <div class="rap-timeline">
-                                            <div class="accordion" id="rapAccordion">
+                                            <div class="accordion" id="rapAccordion2">
                                                 <!-- A. SET Online Registration -->
                                                 <div class="rap-item" data-aos="fade-up">
                                                     <div class="rap-dot"></div>
@@ -1100,7 +1100,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapFour" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -1392,9 +1392,9 @@
                                                                             </section>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1412,7 +1412,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapFive" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -1669,9 +1669,9 @@
                                                                             </section>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1688,7 +1688,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapeleven" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -1738,9 +1738,9 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1757,7 +1757,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="raptweleve" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -1803,9 +1803,9 @@
 
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1823,7 +1823,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapthirteen" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -1865,9 +1865,9 @@
 
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1885,7 +1885,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapfourteen" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -2262,9 +2262,9 @@
                                                                         </div>
 
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2281,7 +2281,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapfifteen" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -2311,7 +2311,7 @@
                                                                                         sustainability.</p>
 
                                                                                 </div>
-                                                                                <img src="/assets/images/research/Workshop-on-Tryst.webp"
+                                                                                <img src="{{ asset('/assets/images/research/Workshop-on-Tryst.webp') }}"
                                                                                     alt="Dr. Gitanjali Roy"
                                                                                     class="img-fluid">
 
@@ -2320,9 +2320,9 @@
                                                                         </div>
 
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2343,7 +2343,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapSixteen" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -2631,9 +2631,9 @@
                                                                             </section>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2652,7 +2652,7 @@
                                                             </button>
                                                         </h2>
                                                         <div id="rapSeventeen" class="accordion-collapse collapse"
-                                                            data-bs-parent="#rapAccordion">
+                                                            data-bs-parent="#rapAccordion2">
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
@@ -2790,9 +2790,9 @@
                                                                             </section>
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>

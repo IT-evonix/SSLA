@@ -3563,7 +3563,7 @@
   }
 
   .cjids_knowmore_section {
-      margin: 60px 0 0 0;
+      margin: 0px 0 0 0;
   }
 
   .cjids_knowmore_mainbox {
@@ -4785,7 +4785,7 @@
   }
 
   .conflunence_second_contentbox {
-      margin: 40px 0 0 0;
+      margin: 20px 0 0 0;
   }
 
   .conflunence_contentbox .my_btnbox a {
@@ -5846,6 +5846,23 @@
 
 .new_student_research_imagebox_second {
     margin: 60px 0 0 0;
+}
+
+.cjids_gallary_section {
+    padding: 40px 0;
+    background-color: #f5f5f5;
+    margin: 60px 0 0 0;
+}
+
+.cijid_gallery img {
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid var(--color-green);
+    background-color: var(--color-white);
+}
+
+.cjids_gallary_section .owl-carousel .owl-stage-outer {
+    padding: 10px 0;
 }
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {

@@ -180,7 +180,30 @@ $('.red_carpet').owlCarousel({
         }
     }
 });
-  
+$('.cijid_gallery').owlCarousel({
+  loop: true,
+  dots: false,
+  nav: false,
+  autoplay: true,
+  autoplayTimeout: 4000,
+  slideTransition: 'ease',
+  autoplaySpeed: 3000,
+  margin: 10,
+  responsive: {
+    0: {
+      items: 1,
+    },
+    600: {
+      items: 2,
+    },
+    991: {
+      items: 3,
+    },
+    1200: {
+      items: 4
+    }
+  },
+});
 // All slider ends
 // Sticky header start
 const header = document.getElementById('myHeader');

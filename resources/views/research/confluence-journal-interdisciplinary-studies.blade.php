@@ -70,23 +70,13 @@
                             </div>
                         </div> -->
                         <div class="conflunence_contentbox">
-                            <span class="green_strong">Confluence: Journal of Interdisciplinary Studies</span> publishes
-                            research work of young
-                            scholars across a wide range of academic disciplines. An annual publication, it
-                            showcases original research, creative work, and critical discourse on traditional,
-                            contemporary, and popular issues in Liberal Arts. The journal seeks to publish
-                            multidisciplinary and interdisciplinary research and provides a platform for
-                            students to take their ideas to the broader world. With that vision, from Volume
-                                III, the journal was based primarily on the web. The journal has adopted a rigorous
-                            review process wherein every submission is reviewed by two experts in the field.
-                            Volume VII-IX of the journal can be found here.
-
+                            <span class="green_strong">Confluence: Journal of Interdisciplinary Studies (CJIDS)</span> (ISSN: 2582-3256) is an online journal committed to fostering and encouraging young voices and their ideas by providing an academic platform to budding scholars to submit their scholarly work. 
                             <div class="conflunence_second_contentbox">
-                               To know more about Confluence: Journal of Interdisciplinary Studies (CJIDS) and  submission guidelines, Please CJIDS website.
+                                ‘Interdisciplinarity’ is the key epistemic focus of CJIDS and it actively encourages students to think and break disciplinary boundaries and synthesize insights across  streams of thought. By this virtue, the Board of Editors hope students will be encouraged to ask questions located at the intersections of various disciplines, and engage in research that seeks to synthesise perspectives from multiple disciplines and to that extent we trust that this issue of Confluence has been true to the journal’s core mandate.
                             </div>
                             <div class="cjis_btnbox">
                                 <div class="my_btnbox">
-                                    <a href="https://cjids.in/call-for-submissions/" target="_blank">
+                                    <a href="https://cjids.in/" target="_blank">
                                         <div class="my_btn_namebox">Please Visit</div>
                                         <div class="my_btn_iconbox">
                                             <svg width="12" height="12" x="0" y="0" viewBox="0 0 24 24">
@@ -117,6 +107,46 @@
                                         </div>
                                     </a>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cjids_gallary_section" data-aos="fade-up">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="cjids_gallary_mainbox">
+                        <div class="cijid_gallery owl-carousel">
+                            <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-01.webp') }}" alt="Banner image"
+                                    class="img-fluid">
+                            </div>
+                            <!-- <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-02.webp') }}" alt="Banner image"
+                                    class="img-fluid">
+                            </div> -->
+                            <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-03.webp') }}" alt="Banner image"
+                                    class="img-fluid">
+                            </div>
+                            <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-04.webp') }}" alt="Banner image"
+                                    class="img-fluid">
+                            </div>
+                            <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-05.webp') }}" alt="Banner image"
+                                    class="img-fluid">
+                            </div>
+                            <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-06.webp') }}" alt="Banner image"
+                                    class="img-fluid">
+                            </div>
+                            <div class="item">
+                                <img src="{{ asset('assets/images/research/CJIDS-07.webp') }}" alt="Banner image"
+                                    class="img-fluid">
                             </div>
                         </div>
                     </div>
