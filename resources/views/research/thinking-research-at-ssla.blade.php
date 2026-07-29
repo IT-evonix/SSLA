@@ -2034,40 +2034,305 @@
                     <div class="research_thrust_area_mainbox">
                         <div class="research_thrust_area_listing">
                             <div class="research_thrust_area_left">
-                                <div class="research_thrust_area_heading">Archaeological Assessment and Research in Khetri (AARKh)</div>
-                                <div class="research_thrust_area_subheading">Dr. Esha Prasad and Dr. Shweta Sinha Deshpande</div>
+                                <div class="research_thrust_area_heading">Archaeological Assessment and Research in
+                                    Khetri (AARKh)</div>
+                                <div class="research_thrust_area_subheading">Dr. Esha Prasad and Dr. Shweta Sinha
+                                    Deshpande</div>
                             </div>
                             <div class="research_thrust_area_right">
                                 <div class="content">
                                     <p>
-                                        The “Archaeological Assessment and Research in Khetri”, the AARKh project was envisaged in 2020 by Dr. Esha Prasad and Dr. Shweta Sinha Deshpande. This longitudinal project seeks to reexamine and reevaluate the Ganeshwar Jodhpura culture complex (GJCC) through a multidisciplinary approach including Archaeological Reconnaissance, salvage archaeology and integration of scientific techniques.
+                                        The “Archaeological Assessment and Research in Khetri”, the AARKh project was
+                                        envisaged in 2020 by Dr. Esha Prasad and Dr. Shweta Sinha Deshpande. This
+                                        longitudinal project seeks to reexamine and reevaluate the Ganeshwar Jodhpura
+                                        culture complex (GJCC) through a multidisciplinary approach including
+                                        Archaeological Reconnaissance, salvage archaeology and integration of scientific
+                                        techniques.
                                     </p>
                                     <p>
-                                        Located in the northeastern part of Rajasthan, GJCC is dated to the 3rd millennium BCE and was first discovered in the 1970s. Identified as a copper-producing/manufacturing culture, it is believed to have traded copper with the Harappans and other contemporary Chalcolithic cultures, such as Kayatha in Central India and Ahar in east Rajasthan. Despite being discovered in the 1970s, the culture is at an incipient stage of research. With only three of its sites viz. Ganeshwar (1981-88; 2013), Jodhpura (1971) and Bewa ki Dhani (2023) having been excavated in the last 50 years, the Ganeshwar complex continues to be an archaeological mystery, necessitating comprehensive research.
+                                        Located in the northeastern part of Rajasthan, GJCC is dated to the 3rd
+                                        millennium BCE and was first discovered in the 1970s. Identified as a
+                                        copper-producing/manufacturing culture, it is believed to have traded copper
+                                        with the Harappans and other contemporary Chalcolithic cultures, such as Kayatha
+                                        in Central India and Ahar in east Rajasthan. Despite being discovered in the
+                                        1970s, the culture is at an incipient stage of research. With only three of its
+                                        sites viz. Ganeshwar (1981-88; 2013), Jodhpura (1971) and Bewa ki Dhani (2023)
+                                        having been excavated in the last 50 years, the Ganeshwar complex continues to
+                                        be an archaeological mystery, necessitating comprehensive research.
                                     </p>
                                     <p>
-                                        Further the study conducted so far is specific only to establishing the stylistic and provenance similarity of copper artifacts and ceramic assemblage with Harappans and limited association with other contemporary Chalcolithic communities. Due to limited data and a narrow cultural understanding, the current research has been initiated as a phase-wise study of the region moving from reconnaissance to excavation.
+                                        Further the study conducted so far is specific only to establishing the
+                                        stylistic and provenance similarity of copper artifacts and ceramic assemblage
+                                        with Harappans and limited association with other contemporary Chalcolithic
+                                        communities. Due to limited data and a narrow cultural understanding, the
+                                        current research has been initiated as a phase-wise study of the region moving
+                                        from reconnaissance to excavation.
                                     </p>
                                     <p>
-                                        Phase I and II focused on the reconnaissance in the Khetri region to understand the Chalcolithic settlement pattern and identify sites for horizontal excavation. This study brought together traditional archaeology with GIS techniques to document and understand the settlement patterns, its relationship to resource distribution and environment within the region. The study expanded beyond the Chalcolithic to examine the early historic sites of Khetri region, which had been erroneously identified as GJCC. The results of Phase I and II indicate that the Ganeshwar Jodhpura culture sites may have been limited to the North Khetri belt and a large number of EH sites were misidentified as GJCC due to continuity in ceramic traditions.
+                                        Phase I and II focused on the reconnaissance in the Khetri region to understand
+                                        the Chalcolithic settlement pattern and identify sites for horizontal
+                                        excavation. This study brought together traditional archaeology with GIS
+                                        techniques to document and understand the settlement patterns, its relationship
+                                        to resource distribution and environment within the region. The study expanded
+                                        beyond the Chalcolithic to examine the early historic sites of Khetri region,
+                                        which had been erroneously identified as GJCC. The results of Phase I and II
+                                        indicate that the Ganeshwar Jodhpura culture sites may have been limited to the
+                                        North Khetri belt and a large number of EH sites were misidentified as GJCC due
+                                        to continuity in ceramic traditions.
                                     </p>
                                     <p>
-                                        The site of Bansiyal is located on the right bank tributary of river Dohan at an elevation of 368 m amsl and slope of 0.35 degree. The site is situated at 8 km from the river Dohan and at 8.5 km from known copper deposits.
+                                        The site of Bansiyal is located on the right bank tributary of river Dohan at an
+                                        elevation of 368 m amsl and slope of 0.35 degree. The site is situated at 8 km
+                                        from the river Dohan and at 8.5 km from known copper deposits.
                                     </p>
                                     <p>
-                                        Phase III of the project undertook rescue/salvage excavations at the site of Bansiyal, a Chalcolithic GJCC site (27° 59 '01.1''N and 75° 51' 23.3''E). The limited excavation led to the identification of a semi-permanent settlement abetting the Aravallis on the slope of the hills. The habitation structures excavated comprised of circular and rectangular huts with evidence of post holes, rectangular platforms with post holes and associated auxiliary pits. The material culture represented includes typical GJCC ceramics, bone tools such as points and awls including fragments of well polished bone handles; beads made of carnelian, steatite, jasper and terracotta. Evidence of copper include wire pieces, bar fragments, tiny balls and crucible fragments. Stone tools such as pestles and muller, hammer stone, sling balls while terracotta artefacts include perforated discs, game pieces and hopscotch.
+                                        Phase III of the project undertook rescue/salvage excavations at the site of
+                                        Bansiyal, a Chalcolithic GJCC site (27° 59 '01.1''N and 75° 51' 23.3''E). The
+                                        limited excavation led to the identification of a semi-permanent settlement
+                                        abetting the Aravallis on the slope of the hills. The habitation structures
+                                        excavated comprised of circular and rectangular huts with evidence of post
+                                        holes, rectangular platforms with post holes and associated auxiliary pits. The
+                                        material culture represented includes typical GJCC ceramics, bone tools such as
+                                        points and awls including fragments of well polished bone handles; beads made of
+                                        carnelian, steatite, jasper and terracotta. Evidence of copper include wire
+                                        pieces, bar fragments, tiny balls and crucible fragments. Stone tools such as
+                                        pestles and muller, hammer stone, sling balls while terracotta artefacts include
+                                        perforated discs, game pieces and hopscotch.
                                     </p>
                                     <p>
-                                        The ongoing phase IV aims to excavate the site of Chundara (27°50'23.0''N and 75°45'37.9''E), which has evidence of GJCC and Early Historic cultural material to fill in the gaps identified in GJCC research.
+                                        The ongoing phase IV aims to excavate the site of Chundara (27°50'23.0''N and
+                                        75°45'37.9''E), which has evidence of GJCC and Early Historic cultural material
+                                        to fill in the gaps identified in GJCC research.
                                     </p>
                                     <p>
-                                        The project acknowledges the support received from Archaeological Survey of India, Department of Archaeology and Museums, Rajasthan, Symbiosis International University, Homi Bhabha Fellowship, and the CIAR Ashoka Fellowship.
+                                        The project acknowledges the support received from Archaeological Survey of
+                                        India, Department of Archaeology and Museums, Rajasthan, Symbiosis International
+                                        University, Homi Bhabha Fellowship, and the CIAR Ashoka Fellowship.
                                     </p>
                                     <p>
-                                        This project would not have been complete without support from the people of the villages where we conducted our explorations. Our deepest regards for the landowner of the site of Bansiyal- Mr. Jayaram; our local team members and guide- Mr. Rohit, Mr. Sunil, and Mr. Ramesh Meena. We are grateful for the assistance during the field explorations and excavations given by Astha Sharma, Kundan Kumar, Shashank Babu, Tarik Tamboli, Vardha Das.
+                                        This project would not have been complete without support from the people of the
+                                        villages where we conducted our explorations. Our deepest regards for the
+                                        landowner of the site of Bansiyal- Mr. Jayaram; our local team members and
+                                        guide- Mr. Rohit, Mr. Sunil, and Mr. Ramesh Meena. We are grateful for the
+                                        assistance during the field explorations and excavations given by Astha Sharma,
+                                        Kundan Kumar, Shashank Babu, Tarik Tamboli, Vardha Das.
                                     </p>
                                     <p class="m-0">
-                                        We also acknowledge the support of our collaborators- Dr. Kalyan Shekhar Chakraborty, Dr. Riza Abbas, Professor David Ben Shlomo, Dr. Bandana Samant, Dr. Pankaj Goyal, Mr. Devadatta Phule, Dr. Prabodh Shirvalkar.
+                                        We also acknowledge the support of our collaborators- Dr. Kalyan Shekhar
+                                        Chakraborty, Dr. Riza Abbas, Professor David Ben Shlomo, Dr. Bandana Samant, Dr.
+                                        Pankaj Goyal, Mr. Devadatta Phule, Dr. Prabodh Shirvalkar.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Climate Change Risk, Vulnerability and
+                                    Adaptation</div>
+                                <div class="research_thrust_area_subheading">Dr. Manoranjan Ghosh</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Dr Manoranjan Ghosh works on climate change adaptation, risk management,
+                                        and sustainable practices, often using spatial and statistical tools. He
+                                        has completed four projects on climate risk, vulnerability, and
+                                        adaptation. His first project was on examines livelihood–vulnerability
+                                        linkages in sub‑Himalayan West Bengal, mapping how households and
+                                        regions differ in exposure, sensitivity, and adaptive capacity within
+                                        the same geographical space. This involves integrating satellite data,
+                                        participatory surveys, and vulnerability indices to show that climate
+                                        impacts are unevenly distributed even among neighboring communities. His
+                                        second project was ‘The ADAPT project, which is a data-driven
+                                        decision-making tool for city administrators. This project uses both
+                                        satellite data as well as participatory data on climate adaptation
+                                        practices for predicting the future urban growth and climate adaptation
+                                        behaviour.
+                                    </p>
+                                    <p class="m-0">
+                                        The main aim of the project is to facilitate both the citizen and city
+                                        administrator a broad understanding of climate adaptation. For more
+                                        details please visit the website: <a href="https://niua.in/iscfp/"
+                                            target="_blank">https://niua.in/iscfp/</a>. Dr. Ghosh’s third
+                                        project was Delhi’s rising extreme heat, how it is linked to increasing,
+                                        often unrecognised, deaths, especially among vulnerable groups like the
+                                        elderly and outdoor workers, demanding urgent policy action and heatwave
+                                        recognition as a national disaster. His recent work on rapidly
+                                        urbanising Patna links land‑use change, climate vulnerability, and
+                                        sustainable urban development, highlighting how unplanned expansion
+                                        amplifies climate and environmental risks for marginalised populations.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Development of thought in Biology
+                                </div>
+                                <div class="research_thrust_area_subheading">Dr Vasudev Menon</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <p class="m-0">
+                                    Vasudev is interested in the development of thought concerning immunity and
+                                    immune response to diseases. He is building an argument that the twin
+                                    ontologies of host and pathogen are co-constructed and are processual in
+                                    nature. Such an understanding will have a significant bearing not only on
+                                    how biological individuality is explained but in a pragmatic sense, on how
+                                    both prophylactic and therapeutic interventions to infectious diseases are
+                                    imagined, both at the level of the individual and populations. Meanwhile,
+                                    Vasudev is also keen on investigating the motivations behind why the
+                                    language of immunology is seasoned with metaphors and other linguistic
+                                    devices that otherwise describe violence, conflict, and war.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Global Conjunctures, Adaptation and
+                                    Scholarship</div>
+                                <div class="research_thrust_area_subheading">Dr. Barry H. Rodrigue</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Barry Rodrigue is an anthropologist and geographer whose work focuses on
+                                        applying ethnography and archaeology to real-world situations. His
+                                        career began in Alaska as a field biologist and ethnographer, then
+                                        continued in Central America, North America, Europe, Russia, China, and
+                                        India. In the United States, he works on cultural resource management
+                                        (CRM) projects, particularly as an industrial archaeologist. Meanwhile,
+                                        in Portugal, he studies predictive modelling of historical migrations.
+                                        His overall concerns focus on human adaptation, cultural landscapes,
+                                        global-crisis foresight, and the evolutionary process. He sees scholars
+                                        as active partners who aid communities in harmonising their shared
+                                        relationships in the changing natural world, especially during times of
+                                        crisis. This is especially true in our present time of climate crisis
+                                        and conflict. He coordinates the SSLA Collaborative for Asian
+                                        Anthropology, for which he developed a dozen NGO partnerships throughout
+                                        India that provide opportunities for internships and dissertations as
+                                        well as faculty and staff openings for research and community
+                                        engagement. This notably included a five-year urban ecology project for
+                                        students in Pune. His current fieldwork includes two ongoing efforts –
+                                        1) Work with the Soliga Tribal Community and our VGKK partners to
+                                        develop a Soliga heritage centre as well as conducting megalithic
+                                        archaeology, permitted by the Karnataka Forest Department in their Tiger
+                                        Reserve in the Biligirirangana Hills; 2) Ethnomedical studies with Koya
+                                        tribal doctors (vaidyas) in East India to understand the application of
+                                        indigenous and traditional medicine in the wider world. ​A key strand of
+                                        his scholarship has been in conceptualising universal studies as a field
+                                        with which to unify micro/macro and local/global perspectives.
+                                    </p>
+                                    <p class="m-0">
+                                        He was a founder of the International Big History Association (IBHA),
+                                        which articulated a definition of the field as an integrated study of
+                                        the cosmos, Earth, life, and humanity. A major editorial project was his
+                                        three‑volume anthology, From Big Bang to Galactic Civilisations, which
+                                        assembled contributions from 100 scholars in 25 countries and serves as
+                                        a reference point for global teaching and research. His essay, “Big
+                                        History: The Study of All Existence,” traces how cross‑disciplinary
+                                        macrohistory converged as a global event in the late twentieth century.
+                                        ​As the IBHA’s International Coordinator, he broadened access to this
+                                        perspective through collaborations with historians, physicists,
+                                        geologists, social scientists, and community activists, whom he helped
+                                        form regional associations in Russia, Asia, and India. He views
+                                        universal studies and anthropology as a practical lens for anticipating
+                                        and navigating the global challenges of the twenty-first century.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Traditions of Devotion: Narratives and
+                                    Lived Experiences</div>
+                                <div class="research_thrust_area_subheading">Dr Suchetana Banerjee, Gayatri
+                                    Mendanha, and Ananya Dutta</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Dr. Suchetana Banerjee, Gayatri Mendanha, and Ananya Dutta share a set
+                                        of interconnected research interests that sit at the crossroads of
+                                        literature, performance, and lived experience in Maharashtra. Their
+                                        collaborative minor research project, “Traditions of Devotion:
+                                        Narratives and Lived Experiences,” funded by Symbiosis International
+                                        (Deemed University) and supported by INTACH (Pune chapter), signals a
+                                        common concern of how devotion is articulated through stories,
+                                        performances, and everyday practices. Working within the liberal arts
+                                        framework at SSLA, they collectively foreground an interdisciplinary
+                                        methodology that brings together ethnographic practices, textual
+                                        analyses, performative framworks, and philosophical interventions to
+                                        understand how meaning is produced, negotiated, and contested in public
+                                        sphere. Suchetana’s background in Comparative Literature and Theatre
+                                        Studies, along with her long-term engagement with performance practices,
+                                        aligns with a research orientation that treats performance as both text
+                                        and method, allowing devotional and cultural narratives to be studied as
+                                        embodied, situated acts rather than static objects. Gayatri’s training
+                                        and teaching in both Philosophy and English contribute a strong
+                                        conceptual and ethical frame, enabling questions about knowledge,
+                                        belief, and subjectivity to be posed alongside close readings of texts
+                                        and performances. Ananya’s professional formation in English and
+                                        Journalism, introduce inter-mediality through which representational
+                                        practices can be examined in public discourses.Their shared research
+                                        brings together the study of narratives as they move across genres and
+                                        media, the lived practices of devotion and community, and the ways these
+                                        experiences are shaped through language, performance, and
+                                        representation. Central to their work is a critical attention to how
+                                        structures of power—such as gender, caste, and institutional
+                                        hierarchies—influence whose voices are heard, whose bodies are visible,
+                                        and whose stories are allowed to circulate.
+                                    </p>
+                                    <p class="m-0">
+                                        Within SSLA’s research and community outreach ecosystem, they
+                                        collaborate on minor research projects and community-based programmes
+                                        that reflect a shared commitment to public, pedagogical scholarship.
+                                        Their approach positions students and community participants as active
+                                        collaborators in knowledge production rather than passive subjects of
+                                        study. Together, their work forms part of a broader interdisciplinary
+                                        agenda that examines how stories, performances, and media
+                                        practices—rooted in specific histories and social contexts—shape
+                                        contemporary understandings of selfhood, community, and devotion in
+                                        India.
+                                    </p>
+                                </div>
+                                <span class="read-more-btn">Read more</span>
+                            </div>
+                        </div>
+                        <div class="research_thrust_area_listing">
+                            <div class="research_thrust_area_left">
+                                <div class="research_thrust_area_heading">Uday Shankar Style of Creative Dance
+                                </div>
+                                <div class="research_thrust_area_subheading">Dr. Sulakshana Sen</div>
+                            </div>
+                            <div class="research_thrust_area_right">
+                                <div class="content">
+                                    <p>
+                                        Uday Shankar (1900–1977), revolutionized Indian dance traditions.
+                                        Regarded as the father of Indian Creative Dance in India, as well as
+                                        India’s cultural ambassador, he was a visionary choreographer who
+                                        created a vibrant new dance form, which was free from ethno-regional
+                                        boundaries​. Dr. Sulakshana Sen's Scholarly Contributions. Dr.
+                                        Sulakshana Sen, is a scholar practitioner in Uday Shankar's creative
+                                        form. Trained extensively in both the Indian classical dance form of
+                                        Odissi, and Uday Shankar Style of Creative Dance, and with a background
+                                        in International Relations and Political Science, her research lies at
+                                        the intersection of performance and politics. Her published book,
+                                        "Creativity in Indian Dance: Uday Shankar's Autumn Years (1960-1977),"
+                                        provides the first comprehensive scholarly study of Shankar's
+                                        lesser-documented later creative period.
+                                    </p>
+                                    <p class="m-0">
+                                        It contextualizes Uday Shankar's work within broader frameworks of
+                                        cultural diplomacy, soft power, and international relations theory,
+                                        revealing how dance functioned as a medium for cultural exchange and
+                                        nation-building. Dr. Sen's work connects Uday Shankar's artistic vision
+                                        with contemporary educational practice, demonstrating how his
+                                        pedagogical philosophy; emphasizing mindful embodiment, creativity, and
+                                        cultural synthesis, remains profoundly relevant for liberal arts
+                                        education and cross-cultural understanding.
                                     </p>
                                 </div>
                                 <span class="read-more-btn">Read more</span>
