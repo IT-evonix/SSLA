@@ -20,10 +20,39 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="inner__red_heading">SSLA Library</h1>
+                    <h1 class="inner__red_heading">About Library</h1>
                 </div>
             </div>
             <div class="row">
+                <div class="col-lg-12">
+                    <div class="lab_mission_box">
+                        <div class="lab_mission_box_left">
+                            <div class="lab_mission_box_qoute">
+                                <svg width="45" height="45" x="0" y="0" viewBox="0 0 24 24"><g><path d="M4.7 17.7c-1-1.1-1.6-2.3-1.6-4.3 0-3.5 2.5-6.6 6-8.2l.9 1.3c-3.3 1.8-4 4.1-4.2 5.6.5-.3 1.2-.4 1.9-.3 1.8.2 3.2 1.6 3.2 3.5 0 .9-.4 1.8-1 2.5-.7.7-1.5 1-2.5 1-1.1 0-2.1-.5-2.7-1.1m10 0c-1-1.1-1.6-2.3-1.6-4.3 0-3.5 2.5-6.6 6-8.2l.9 1.3c-3.3 1.8-4 4.1-4.2 5.6.5-.3 1.2-.4 1.9-.3 1.8.2 3.2 1.6 3.2 3.5 0 .9-.4 1.8-1 2.5s-1.5 1-2.5 1c-1.1 0-2.1-.5-2.7-1.1" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                            </div>
+                        </div>
+                        <div class="lab_mission_box_right">
+                            <div class="research_thrust_area_heading">Our Vision</div>
+                            <p>
+                                <strong>
+                                    SSLA library is a true Learning Resource Center, which will provide latest literature and other learning aids and information on all topics, as required by Students and Teachers of the Institute.
+                                </strong>
+                            </p>
+                            <p>
+                                The library has an extensive collection of books covering all Subject like Social Science, information technology, Mathematics, G.K, Fictions, biography, Auto biography, Music, Art, Dictionary, Encyclopedia, etc. The Periodical section is also vital source for academic research & Current information. Also some newspapers, DVD & CD’s are available in library.
+                            </p>
+                            <p>
+                                The SSLA Pune library has a large reading hall and study spaces equipped with computers. There is also study / discussion tables which can be used for group work sessions. The library houses a Digital library inside the library premises where students and faculty members can browse varied databases such as CMIE, Project Muse, ProQuest, and Manupatra and centrally subscribed other online resources.
+                            </p>
+                            <p class="m-0">
+                                The library is fully automated using KOHA software. KOHA is a true enterprise-class Integrated Library System with comprehensive functionality including basic and advanced options. It supports full text searching with enhanced catalogue display.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- old tabbing code start  -->
+            <div class="row d-none">
                 <div class="col-lg-12">
                     <div class="tabs-slider-container">
                         <div class="nav">
@@ -1147,10 +1176,322 @@
                     </div>
                 </div>
             </div>
+            <!-- old tabbing code ends  -->
+        </div>
+    </section>
+    <section class="lab_collection_section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h2 class="inner__red_heading">Collections</h2>
+                    <p class="text-center">
+                        SSLA Pune Library is well-equipped with a rich collection of books, journals, magazines, and Audiovisual resources. In addition to the institutionally subscribed resources, library users also have access to the resources of the Central Library.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="lab_collection_mainbox">
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-01.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">Books</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-02.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">Journals</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-03.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">Magazines</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-04.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">Newspapers</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-05.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">CD/DVDs</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-06.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">Bound Volume</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">E-Journals</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-08.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">E-Books</div>
+                        </div>
+                        <div class="lab_collection_listing">
+                            <div class="lab_collection_listing_icon">
+                                <img src="{{ asset('assets/images/research/collection-icon-09.svg') }}" alt="" class="img-fluid">
+                            </div>
+                            <div class="lab_collection_listing_name">Databases</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="lab_membership_mainbox">
+                        <div class="lab_membership_left">
+                            <div class="lab_membership_heading">The SSLA library membership is available for</div>
+                            <div class="lab_membership_left_listing_main">
+                                <div class="lab_membership_left_listing">
+                                    <div class="lab_membership_left_listing_icon">
+                                        <img src="{{ asset('assets/images/research/collection-icon-10.svg') }}" alt="Icon" class="img-fluid">
+                                    </div>
+                                    <div class="lab_membership_left_listing_name">Students of SSLA</div>
+                                </div>
+                                <div class="lab_membership_left_listing">
+                                    <div class="lab_membership_left_listing_icon">
+                                        <img src="{{ asset('assets/images/research/collection-icon-11.svg') }}" alt="Icon" class="img-fluid">
+                                    </div>
+                                    <div class="lab_membership_left_listing_name">All teaching and non-teaching staff of Symbiosis Institutions</div>
+                                </div>
+                                <div class="lab_membership_left_listing">
+                                    <div class="lab_membership_left_listing_icon">
+                                        <img src="{{ asset('assets/images/research/collection-icon-12.svg') }}" alt="Icon" class="img-fluid">
+                                    </div>
+                                    <div class="lab_membership_left_listing_name">Members of the Symbiosis Society</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lab_membership_right">
+                            <div class="lab_membership_right_img">
+                                <img src="{{ asset('assets/images/research/girl-studying.webp') }}" alt="Girl Studying" class="img-fluid">
+                            </div>
+                            <div class="">
+                                <div class="lab_membership_heading">General Library Rules</div>
+                                <div class="custom_listing">
+                                    <ul>
+                                        <li>The issue of books is available to all library members.</li>
+                                        <li>Members are expected to keep their college ID card at the time of checking out a book.</li>
+                                        <li>Reference books and Journals will not be issued, but are available for study within the Library.</li>
+                                        <li>Members should use their own ID cards to issue books. Members should not lend their ID cards to others. If they do, they will have to suffer the losses incurred in the process.</li>
+                                        <li>Students can issue and return books on all working days from 9:00 a.m. to 7:00 pm.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="lab_services_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="inner__red_heading">Services</h2>
+                    <div class="lab_membership_heading text-center">Borrowing Facility: Rules</div>
+                     <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Members</th>
+                                    <th>Books</th>
+                                    <th>Periodicals</th>
+                                    <th>Time Period</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                <tr>
+                                    <td>Student</td>
+                                    <td>4</td>
+                                    <td>0</td>
+                                    <td>14 Days</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Faculty Member</td>
+                                    <td>10</td>
+                                    <td>0</td>
+                                    <td>For Semester</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Visiting Faculty</td>
+                                    <td>10</td>
+                                    <td>0</td>
+                                    <td>For Semester</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Staff</td>
+                                    <td>2</td>
+                                    <td>0</td>
+                                    <td>One Month</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="lab_services_mainbox">
+                        <div class="lab_services_leftbox">
+                            <div class="lab_membership_heading">E-Resources</div>
+                            <p><strong>Library Portal:</strong> <a href="https://elibrary.siu.edu.in/user/login" target="_blank">https://elibrary.siu.edu.in/user/login</a></p>
+                            <p>
+                                Library members can get the access of all e-resources on library portal. To access these e-resources you should have the login credentials for it. Every year newly admitted student’s registration is done according to their course duration by the librarian.
+                            </p>
+                            <p class="m-0">
+                                Once the registration is completed members get the access of all e-resources purchased by the SIU Central library. Also, all institutionally subscribed databases, e-books and e-journals can be accessed through this library portal.
+                            </p>
+                        </div>
+                        <div class="lab_services_rightbox">
+                            <div class="lab_membership_heading">The following e-resources can be accessed through the Library Portal</div>
+                            <div class="custom_listing">
+                                <ul>
+                                    <li>Project Muse</li>
+                                    <li>Emerald case study collection 2018</li>
+                                    <li>Manupa</li>
+                                    <li>Pearson e-Books</li>
+                                    <li>Web of Science</li>
+                                    <li>JSTOR</li>
+                                    <li>SCOPUS</li>
+                                    <li>Turnitin</li>
+                                    <li>McGraw Hill Education India e-Books</li>
+                                    <li>Emerald Management e-journal</li>
+                                    <li>Sage online Journals</li>
+                                    <li>Taylor & Francis -E-Journals/ E-books</li>
+                                    <li>Oxford very short introduction ebook</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="lab_important_link_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="inner__red_heading">Important Links</div>
+                    <div class="lab_important_link_mainbox">
+                        <div class="lab_important_link_listing">
+                            <div class="lab_important_link_img">
+                                <img src="{{ asset('assets/images/research/important-link-01.webp') }}" alt="logo" class="img-fluid">
+                            </div>
+                            <div class="lab_important_link_content">
+                                <div class="lab_important_link_text">
+                                    <div class="lab_important_link_heading">National Digital Library</div>
+                                    <div class="lab_important_link_para">
+                                        <p class="m-0">
+                                            Ministry of Human Resource Development (MHRD) under its National Mission on Education through Information and Communication Technology (NMEICT) has initiated the National Digital Library of India (NDL India) pilot project to develop a framework of virtual repository of learning resources with a single-window search facility. NDL India is designed to hold content of any language and provides interface support for leading Indian languages. It is being arranged to provide support for all academic levels including researchers and life-long learners, all disciplines, all popular form of access devices and differently-abled learners. It is being developed to help students to prepare for entrance and competitive examination, to enable people to learn and prepare from best practices from all over the world and to facilitate researchers to perform inter-linked exploration from multiple sources.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://ndl.iitkgp.ac.in/" target="_blank" class="lab_important_link_btn">
+                                <div class="lab_important_link_icon">
+                                    <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
+                                </div>
+                                <div class="lab_important_link_name">https://ndl.iitkgp.ac.in/</div>
+                                <div class="lab_important_link_arrow">
+                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="lab_important_link_listing">
+                            <div class="lab_important_link_img">
+                                <img src="{{ asset('assets/images/research/important-link-02.webp') }}" alt="logo" class="img-fluid">
+                            </div>
+                            <div class="lab_important_link_content">
+                                <div class="lab_important_link_text">
+                                    <div class="lab_important_link_heading">Swayam</div>
+                                    <div class="lab_important_link_para">
+                                        <p class="m-0">SWAYAM is a programme initiated by Government of India and designed to achieve the three cardinal principles of Education Policy viz., access, equity and quality. The objective of this effort is to take the best teaching learning resources to all, including the most disadvantaged. SWAYAM seeks to bridge the digital divide for students who have hitherto remained untouched by the digital revolution and have not been able to join the mainstream of the knowledge economy.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://swayam.gov.in/Home" target="_blank" class="lab_important_link_btn">
+                                <div class="lab_important_link_icon">
+                                    <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
+                                </div>
+                                <div class="lab_important_link_name">https://swayam.gov.in/Home</div>
+                                <div class="lab_important_link_arrow">
+                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="lab_important_link_listing">
+                            <div class="lab_important_link_img">
+                                <img src="{{ asset('assets/images/research/important-link-03.webp') }}" alt="logo" class="img-fluid">
+                            </div>
+                            <div class="lab_important_link_content">
+                                <div class="lab_important_link_text">
+                                    <div class="lab_important_link_heading">Shodhganga</div>
+                                    <div class="lab_important_link_para">
+                                        <p class="m-0">
+                                            The Shodhganga@INFLIBNET is set-up using an open source digital repository software called DSpace developed by MIT (Massachusetts Institute of Technology) in partnership between Hewlett- Packard (HP). The DSpace uses internationally recognized protocols and interoperability standards. Shodhganga provides a platform for research scholars to deposit their Ph.D. theses and make it available to the entire scholarly community in open access. The repository has the ability to capture, index, store, disseminate and preserve ETDs (Electronic Theses and Dissertations) submitted by the researchers.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://shodhganga.inflibnet.ac.in/" target="_blank" class="lab_important_link_btn">
+                                <div class="lab_important_link_icon">
+                                    <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
+                                </div>
+                                <div class="lab_important_link_name">https://shodhganga.inflibnet.ac.in/</div>
+                                <div class="lab_important_link_arrow">
+                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="lab_important_link_listing">
+                            <div class="lab_important_link_img">
+                                <img src="{{ asset('assets/images/research/important-link-04.webp') }}" alt="logo" class="img-fluid">
+                            </div>
+                            <div class="lab_important_link_content">
+                                <div class="lab_important_link_text">
+                                    <div class="lab_important_link_heading">DELNET</div>
+                                    <div class="lab_important_link_para">
+                                        <p class="m-0">
+                                            Developing Library Network, New Delhi is a major resource-sharing library Network in India connecting more than 8800 institutions in 28 States and 6 Union Territories in India and a few other countries comprising Universities, Colleges, R&D organizations, medical hospitals, etc.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://delnet.in/index.html" target="_blank" class="lab_important_link_btn">
+                                <div class="lab_important_link_icon">
+                                    <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
+                                </div>
+                                <div class="lab_important_link_name">https://delnet.in/index.html</div>
+                                <div class="lab_important_link_arrow">
+                                    <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 </main>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
 var tabsSwiper = new Swiper(".tabsSwiper", {
     slidesPerView: "auto",
@@ -1163,5 +1504,5 @@ var tabsSwiper = new Swiper(".tabsSwiper", {
         prevEl: ".tabs-button-prev",
     },
 });
-</script>
+</script> -->
 @include('footer')

@@ -458,9 +458,6 @@
                                                         <div class="big_history_listing_img_listing">
                                                             <img src="{{ asset('assets/images/research/big-history-05.webp') }}" alt="Big History Conference" class="img-fluid">
                                                         </div>
-                                                        <!-- <div class="big_history_listing_img_listing">
-                                                            <img src="{{ asset('assets/images/research/big-history-06.webp') }}" alt="Big History Conference" class="img-fluid">
-                                                        </div> -->
                                                     </div>
                                                     <div class="big_history_listing_datebox">
                                                         <div class="big_history_listing_icon">
@@ -501,9 +498,6 @@
                                                         <div class="big_history_listing_img_listing">
                                                             <img src="{{ asset('assets/images/research/big-history-02.webp') }}" alt="Big History Conference" class="img-fluid">
                                                         </div>
-                                                        <!-- <div class="big_history_listing_img_listing">
-                                                            <img src="{{ asset('assets/images/research/big-history-03.webp') }}" alt="Big History Conference" class="img-fluid">
-                                                        </div> -->
                                                     </div>
                                                     <div class="big_history_listing_datebox">
                                                         <div class="big_history_listing_icon">
@@ -523,6 +517,14 @@
                                                     </a>
                                                 </div>
                                             </div>
+                                        </div>
+                                    </div>
+                                    <div class="big_history_second_imgbox">
+                                        <div class="big_history_listing_img_listing">
+                                            <img src="{{ asset('assets/images/research/big-history-06.webp') }}" alt="Big History Conference" class="img-fluid">
+                                        </div>
+                                        <div class="big_history_listing_img_listing">
+                                            <img src="{{ asset('assets/images/research/big-history-03.webp') }}" alt="Big History Conference" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>

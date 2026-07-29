@@ -21,6 +21,37 @@
             <h3 class="inner__red_heading">SSLA Alumni</h3>
         </div>
         <div class="container">
+            <div class="ssla-txt">
+                <p>SSLA alumni are placed across a wide range of sectors globally, from academia and public policy
+                    to development, finance, technology, and the social sector, reflecting the interdisciplinary and
+                    applied nature of the liberal arts curriculum at the institute. Their trajectories highlight how the
+                    programme’s mix of majors, minors, and research training translates into careers that combine
+                    critical thinking, communication, and domain-specific expertise.
+                </p>
+                <p>
+                    Many SSLA graduates pursue advanced degrees at reputed universities abroad and in India,
+                    especially in fields such as counselling psychology, comparative literature, neuroscience, and
+                    society and culture, and then move into academic or research-oriented careers.
+                </p>
+                <p>
+                    A significant number of alumni work as professionals in diverse sectors, including law, banking
+                    and finance, gender and development, and public policy, often after completing specialised
+                    master’s programmes. Several alumni occupy roles in international organisations, NGOs, and
+                    global health and development spaces, where they manage programmes and coordinate
+                    multi-country initiatives.
+                </p>
+                <p>
+                    SSLA alumni are also active as entrepreneurs and in the broader social sector, founding or
+                    contributing to ventures in education technology, social media and content marketing, and
+                    community development. Initiatives such as <strong>The Invisible Paintbrush, Skizaa, The Letter
+                        Alley,
+                        and Happy Triangle Foundation</strong> demonstrate how graduates apply creative, analytical, and
+                    ethical perspectives to build organisations that address real-world needs in communication,
+                    schooling, and community wellbeing.
+                </p>
+            </div>
+        </div>
+        <div class="container">
             <!-- Professionals in diverse sectors start -->
             <div class="alumni-main-section">
                 <h3 class="part-seccc-title">Different Fields of Academia</h3>
@@ -280,37 +311,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="ssla-txt">
-                <p>SSLA alumni are placed across a wide range of sectors globally, from academia and public policy
-                    to development, finance, technology, and the social sector, reflecting the interdisciplinary and
-                    applied nature of the liberal arts curriculum at the institute. Their trajectories highlight how the
-                    programme’s mix of majors, minors, and research training translates into careers that combine
-                    critical thinking, communication, and domain-specific expertise.
-                </p>
-                <p>
-                    Many SSLA graduates pursue advanced degrees at reputed universities abroad and in India,
-                    especially in fields such as counselling psychology, comparative literature, neuroscience, and
-                    society and culture, and then move into academic or research-oriented careers.
-                </p>
-                <p>
-                    A significant number of alumni work as professionals in diverse sectors, including law, banking
-                    and finance, gender and development, and public policy, often after completing specialised
-                    master’s programmes. Several alumni occupy roles in international organisations, NGOs, and
-                    global health and development spaces, where they manage programmes and coordinate
-                    multi-country initiatives.
-                </p>
-                <p>
-                    SSLA alumni are also active as entrepreneurs and in the broader social sector, founding or
-                    contributing to ventures in education technology, social media and content marketing, and
-                    community development. Initiatives such as <strong>The Invisible Paintbrush, Skizaa, The Letter
-                        Alley,
-                        and Happy Triangle Foundation</strong> demonstrate how graduates apply creative, analytical, and
-                    ethical perspectives to build organisations that address real-world needs in communication,
-                    schooling, and community wellbeing.
-                </p>
             </div>
         </div>
     </section>

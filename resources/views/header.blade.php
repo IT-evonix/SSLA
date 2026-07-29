@@ -977,7 +977,7 @@
                                                                     </div>
                                                                 </a>
                                                             </div>
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="{{url('/achievements')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -993,7 +993,7 @@
                                                                     </div>
                                                                     <div class="mega_menu_name_box">Achievements</div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                         </div>
                                                     </div>
                                                 </div>
