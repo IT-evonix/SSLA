@@ -950,6 +950,15 @@ Route::get('inter-collegiate-event', function () {
     return view('/events/inter-collegiate-event', ['data_arr' => $data_arr]);
 });
 
+Route::get('events-archives', function () {
+    $data_arr = array();
+    $data_arr['title'] = "BA in Arts and Science | Bachelor of Arts Honours - SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a BA in Arts and Science or Bachelor of Arts Honours at SSLA Pune. Enjoy a comprehensive curriculum that fosters critical thinking and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/inter-collegiate-event";
+    return view('/events/events-archives', ['data_arr' => $data_arr]);
+});
+
 ///////// Events Routes Ends //////////
 
 ///////// Footer Routes Start //////////
