@@ -24,12 +24,22 @@
                         <li class="nav-item" role="presentation">
                             <a class="nav-link active" id="contact-tab-1" data-bs-toggle="pill"
                                 data-bs-target="#contact-fist-tab" type="button" role="tab"
-                                aria-controls="contact-fist-tab" aria-selected="true">Student Council 2025-26</a>
+                                aria-controls="contact-fist-tab" aria-selected="true">Student Council</a>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab-2" data-bs-toggle="pill"
                                 data-bs-target="#contact-second-tab" type="button" role="tab"
                                 aria-controls="contact-second-tab" aria-selected="false">Clubs</a>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link" id="contact-tab-4" data-bs-toggle="pill"
+                                data-bs-target="#contact-fourth-tab" type="button" role="tab"
+                                aria-controls="contact-fourth-tab" aria-selected="false">Cells</a>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link" id="contact-tab-3" data-bs-toggle="pill"
+                                data-bs-target="#contact-third-tab" type="button" role="tab"
+                                aria-controls="contact-third-tab" aria-selected="false">Student-Led Publications</a>
                         </li>
                     </ul>
                 </div>
@@ -37,159 +47,34 @@
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="contact-fist-tab" role="tabpanel"
                             aria-labelledby="contact-tab-1" tabindex="0">
-                            <div class="staff_main student-council">
+                            <div class="staff_main student-council p-0">
                                 <div class="container">
-                                    <h2 class="inner_heading-red">Student Council 2025-26</h2>
-                                    <div>
-                                        <img src="/assets/images/community/students council.webp" alt="student_council"
-                                            class="img-fluid student_council_img ">
-                                    </div>
-                                    <div class="council-table">
-                                        <div class="table-responsive">
-                                            <table class="table align-middle">
-                                                <thead>
-                                                    <tr>
-                                                        <th>S.No</th>
-                                                        <th>Name</th>
-                                                        <th>Designation</th>
-                                                        <th>Email ID</th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    <tr>
-                                                        <td>1</td>
-                                                        <td>Shreya Rajeev Nair</td>
-                                                        <td>President</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.president@ssla.edu.in">sc.president@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:shreya.nair@ssla.edu.in">shreya.nair@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>2</td>
-                                                        <td>Nihaal Krishnakumar</td>
-                                                        <td>Batch Rep 2026</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.batchrep2026@ssla.edu.in">sc.batchrep2026@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:nihaal.krishnakumar@ssla.edu.in">nihaal.krishnakumar@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>3</td>
-                                                        <td>Parnika Karwade</td>
-                                                        <td>Batch Rep 2027</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.batchrep2027@ssla.edu.in">sc.batchrep2027@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:parnika.karwade@ssla.edu.in">parnika.karwade@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>4</td>
-                                                        <td>Bhavya Balla</td>
-                                                        <td>Batch Rep 2028</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.batchrep2028@ssla.edu.in">sc.batchrep2028@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:bhavya.balla@ssla.edu.in">bhavya.balla@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>5</td>
-                                                        <td>Sneha Bhalerao</td>
-                                                        <td>Batch Rep 2029</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.batchrep2029@ssla.edu.in">sc.batchrep2029@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:sneha.bhalerao@ssla.edu.in">sneha.bhalerao@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>6</td>
-                                                        <td>Maahii Bajaj</td>
-                                                        <td>Grievance Officer</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.grievance@ssla.edu.in">sc.grievance@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:maahii.bajaj@ssla.edu.in">maahii.bajaj@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>7</td>
-                                                        <td>Anwesha Tyagi</td>
-                                                        <td>Events Coordinator</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.events@ssla.edu.in">sc.events@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:anwesha.tyagi@ssla.edu.in">anwesha.tyagi@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>8</td>
-                                                        <td>Advika Ponnappa</td>
-                                                        <td>Sports Coordinator</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.sports@ssla.edu.in">sc.sports@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:advika.ponnappa@ssla.edu.in">advika.ponnappa@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>9</td>
-                                                        <td>Suhani Jain</td>
-                                                        <td>Cultural Officer</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.culture@ssla.edu.in">sc.culture@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:suhani.jain@ssla.edu.in">suhani.jain@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>10</td>
-                                                        <td>Samaira Malhotra</td>
-                                                        <td>Secretary</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.secretary@ssla.edu.in">sc.secretary@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:samaira.malhotra@ssla.edu.in">samaira.malhotra@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>11</td>
-                                                        <td>Haardik Juneja</td>
-                                                        <td>Campus Officer</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.campus@ssla.edu.in">sc.campus@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:haardik.juneja@ssla.edu.in">haardik.juneja@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>12</td>
-                                                        <td>Anjali Valecha</td>
-                                                        <td>Hostel Representative</td>
-                                                        <td>
-                                                            <a
-                                                                href="mailto:sc.hostel@ssla.edu.in">sc.hostel@ssla.edu.in</a><br>
-                                                            <a
-                                                                href="mailto:anjali.valecha@ssla.edu.in">anjali.valecha@ssla.edu.in</a>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
+                                    <h2 class="inner_heading-red">Student Council</h2>
+                                    <div class="new_student_council_mainbox">
+                                        <p>
+                                            The Students’ Council serves as a bridge between students and the institution, fostering dialogue, representing student interests, and supporting a vibrant campus life through student engagement.
+                                        </p>
+                                        <p>
+                                            The student body is made up of all SSLA students across the four batches. This body is responsible for electing the Students’ Council President each year. Additionally, each Batch is responsible for electing their Batch Representative each year. The student body is encouraged to be a part of initiatives brought to them through various bodies within the institute and is welcome to start their initiatives within SSLA.  There are 13 positions that form the Students’ Council. Of these, five members are elected by the student body and form the Core Committee. These are the Batch Representatives (one from each batch) and the Student Body President.
+                                        </p>
+                                        <p>
+                                            The Core Committee comprises seven members to perform various functions and form the Students’ Assembly. These are the Campus Officer, Cultural Officer, Events Coordinator, Grievance Officer, Hostel Representative, Sports Coordinator, and the Secretary. The 8th position is dedicated to Mental Health Champions. Multiple students from each batch can serve as Mental Health Champions, and they are selected through a thorough vetting process conducted by SIU and the SPA. All members of the Students’ Council, except the Secretary and the Mental Health Champions, are voting members.  The Campus Officer, Cultural Officer, Events Coordinator, Grievance Officer, and Sports Coordinator are permitted to recruit additional students to complete their duties. These students will be selected after an application and interview process by the concerned Council member. 
+                                        </p>
+                                        <p>
+                                            The Students’ Council will regularly communicate with the student body about developments at SSLA, note student concerns/suggestions, and help moderate the smooth functioning of SSLA events. Open Door Meetings are held by the Students’ Council weekly and are open to the student body as a forum to voice their opinions on matters that concern them.
+                                        </p>
+                                        <div class="new_student_councile_mailbox">
+                                            <div class="new_student_councile_mailbox_left">
+                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 512 512"><circle r="256" cx="256" cy="256" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,51.19999999999999,51.19999999999999)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill-rule="evenodd" d="M256 512C114.841 512 0 397.159 0 256S114.841 0 256 0s256 114.841 256 256-114.841 256-256 256m132.758-166.069a5.73 5.73 0 0 0 5.725-5.725V179.489l-130.25 103.432c-2.41 1.915-5.323 2.872-8.234 2.872s-5.823-.958-8.234-2.872L117.516 179.489v160.717a5.73 5.73 0 0 0 5.725 5.725zm-19.96-179.862L256 255.644l-112.799-89.575zm52.168 5.725v168.414c0 17.759-14.449 32.208-32.208 32.208H123.241c-17.76 0-32.207-14.449-32.207-32.208V171.794c0-17.759 14.448-32.207 32.207-32.207h265.517c17.759-.001 32.208 14.448 32.208 32.207" clip-rule="evenodd" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_student_councile_mailbox_right">
+                                                <div class="new_student_councile_mailbox_right_head">Students may reach out to the council via the group email</div>
+                                                <a href="mailto:studentcouncil@ssla.edu.in" class="new_student_councile_mailbox_right_mail">studentcouncil@ssla.edu.in</a>
+                                            </div>
+                                        </div>
+                                        <div class="new_student_council_img_box">
+                                            <img src="{{ asset('assets/images/community/students council.webp') }}" alt="student_council"
+                                                class="img-fluid student_council_img ">
                                         </div>
                                     </div>
                                 </div>
@@ -197,7 +82,7 @@
                         </div>
                         <div class="tab-pane fade" id="contact-second-tab" role="tabpanel"
                             aria-labelledby="contact-tab-2" tabindex="0">
-                            <div class="rw-academic-modern py-5">
+                            <div class="rw-academic-modern">
                                 <div class="container">
                                     <!-- Header -->
                                     <div class="row mb-4">
@@ -212,15 +97,9 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="rc-overview" data-aos="fade-up">
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                    industry. Lorem Ipsum has been the industry's standard dummy text
-                                                    ever since the 1500s, when an unknown printer took a galley of type
-                                                    and scrambled it to make a type specimen book. It has survived not
-                                                    only five centuries, but also the leap into electronic typesetting,
-                                                    remaining essentially unchanged. It was popularised in the 1960s
-                                                    with the release of Letraset sheets containing Lorem Ipsum passages,
-                                                    and more recently with desktop publishing software like Aldus
-                                                    PageMaker including versions of Lorem Ipsum.</p>
+                                                <p>
+                                                    Student Clubs are voluntary organisations established within the SSLA community around shared interests, passions, and activities. They provide opportunities for students to collaborate, build leadership skills, pursue creative and intellectual interests, and contribute to the vibrant campus culture.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -302,7 +181,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -397,12 +276,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -466,7 +345,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -531,12 +410,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -609,7 +488,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -687,12 +566,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -756,7 +635,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -904,12 +783,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -988,7 +867,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -1170,12 +1049,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1226,7 +1105,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -1297,12 +1176,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1384,7 +1263,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -1473,13 +1352,13 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
-                                                                        </div>>
+                                                                            </div> -->
+                                                                        </div>
 
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1530,7 +1409,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -1664,12 +1543,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1741,7 +1620,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -1836,12 +1715,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1908,7 +1787,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -1949,12 +1828,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2042,7 +1921,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="table-heading">
+                                                                            <!-- <h3 class="table-heading">
                                                                                 Members
                                                                             </h3>
                                                                             <div class="table-responsive">
@@ -2162,12 +2041,12 @@
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
-                                                                            </div>
+                                                                            </div> -->
                                                                         </div>
                                                                     </div>
-                                                                    <button class="read-more-btn" type="button">
+                                                                    <!-- <button class="read-more-btn" type="button">
                                                                         Read More
-                                                                    </button>
+                                                                    </button> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2177,6 +2056,78 @@
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact-fourth-tab" role="tabpanel"
+                            aria-labelledby="contact-tab-4" tabindex="0">
+                            <div class="student_led_publication_mainbox">
+                                <h2 class="inner_heading-red">Cells</h2>
+                                <div class="new_student_council_mainbox">
+                                    <p>
+                                        SSLA Cells are faculty-led and student-operated bodies that support key academic, professional, and institutional initiatives. They serve as collaborative spaces where students work alongside faculty members to contribute to research, outreach, administration, and the continued development of the SSLA community. Depending on their focus, Cells may also function as specialised academic or research units that promote interdisciplinary learning and collaboration.
+                                    </p>
+                                    <p>
+                                        Current SSLA Cells include:
+                                    </p>
+                                    <div class="new_cells_mainbox">
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">Admissions Cell</div>
+                                        </div>
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">Alumni Cell</div>
+                                        </div>
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">Career Cell</div>
+                                        </div>
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">Community Outreach Cell</div>
+                                        </div>
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">International Cell</div>
+                                        </div>
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">Media & Branding Cell</div>
+                                        </div>
+                                        <div class="new_cells_listing">
+                                            <div class="new_cells_listing_icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" x="0" y="0" viewBox="0 0 254000 254000" style="enable-background:new 0 0 512 512" xml:space="preserve" fill-rule="evenodd" class=""><circle r="127000" cx="127000" cy="127000" fill="#ffffff" shape="circle" transform="matrix(0.8,0,0,0.8,25400,25400)"></circle><g transform="matrix(1,0,0,1,0,0)"><path fill="#007382" d="M127000 254000C56871 254000 0 197129 0 127000S56871 0 127000 0s127000 56871 127000 127000-56871 127000-127000 127000m-17473-104654 76212-76211c2637-2638 6967-2611 9578 0l8642 8642c2611 2611 2611 6968 0 9578l-89509 89510c-1601 1601-3850 2231-5957 1869-1442-181-2833-814-3919-1899l-54525-54525c-2606-2606-2637-6941 0-9579l8642-8642c2638-2637 6941-2637 9579 0z" opacity="1" data-original="#48b02c" class=""></path></g></svg>
+                                            </div>
+                                            <div class="new_cells_listing_name">Research Cell</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact-third-tab" role="tabpanel"
+                            aria-labelledby="contact-tab-3" tabindex="0">
+                            <div class="student_led_publication_mainbox">
+                                <h2 class="inner_heading-red">Student-Led Publications</h2>
+                                <div class="new_student_council_mainbox">
+                                    <p>
+                                        SSLA is home to several student-led publications, including journals, magazines, and newsletters that showcase original research, critical writing, creative expression, and informed commentary. Guided by faculty mentors and managed by student editorial teams, these publications provide valuable opportunities to develop research, writing, editing, and publication skills.
+                                    </p>
+                                    <p>
+                                        While individual Clubs and Cells may publish newsletters or magazines related to their activities, the publications featured here operate as independent editorial teams dedicated exclusively to producing student publications for the wider SSLA community.
+                                    </p>
                                 </div>
                             </div>
                         </div>

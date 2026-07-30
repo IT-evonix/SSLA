@@ -2180,8 +2180,8 @@
 
 .student_council_img {
     width: 100%;
-    border-radius: 15px;
-    margin: 40px 0;
+    border-radius: 20px;
+    margin: 30px 0 0 0;
     transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
