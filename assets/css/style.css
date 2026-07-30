@@ -6417,6 +6417,56 @@
     height: 20px;
 }
 
+.new_student_council_mainbox p {
+    margin-bottom: 20px!important;
+    text-align: justify;
+}
+
+.new_student_council_mainbox {
+    padding: 30px;
+    border-radius: 20px;
+    border: 1px solid #f2f2f2;
+}
+
+.new_student_councile_mailbox {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    width: fit-content;
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+    border-radius: 8px;
+    gap: 15px;
+    border: 1px solid #dedede;
+}
+
+.new_student_councile_mailbox_right_head {
+    font-family: var(--font-medium);
+}
+
+.new_student_councile_mailbox_right_mail {
+    display: inline-block;
+    color: var(--color-red);
+    font-family: var(--font-bold);
+    font-size: 18px;
+}
+
+.new_cells_mainbox {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.new_cells_listing {
+    display: grid;
+    grid-template-columns: 20px 1fr;
+    gap: 10px;
+    padding: 10px 13px;
+    border: 1px solid #dedede;
+    border-radius: 6px;
+    background-color: #f4f4f4;
+}
+
+
 /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {
