@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="inner__red_heading">Inter-Collegiate Event (ICE)</h1>
+                    <h1 class="inner__red_heading">ICE by SSLA</h1>
                 </div>
             </div>
             <div class="row">
@@ -72,15 +72,21 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="student_research_databox student_research_databox_data_with_margin">
-                            <div class="student_research_databox_heading">Origins and vision</div>
+                        <div class="student_research_databox student_research_databox_data_with_margin ice_by_ssla_new">
+                            <!-- <div class="student_research_databox_heading">Origins and vision</div> -->
                             <div class="student_research_databox_data">
-                                <p class="m-0">
+                                <p>
                                     ICE began in April 2023 as SSLA’s first formal inter-collegiate fest, hosted at the New Viman Nagar Campus on 28–29 April 2023. From its inception, the event was designed not just as entertainment but as a showcase of liberal arts values: interdisciplinarity, creativity, collaboration, and critical engagement through both sports and cultural formats. The Organising Committee (OC) articulated a clear aim—to build a lasting legacy of collegiate fests at SSLA while nurturing togetherness, passion, and collective effort within the student body.
+                                </p>
+                                <p>
+                                    ICE is structured as a two-day bonanza of sports and cultural competitions that invite participation from multiple colleges and universities. Sports line-ups have included futsal, basketball, volleyball, table tennis, badminton, tennis, gully cricket, chess, e-sports, pickleball, arm-wrestling, and Texas Hold’em, giving athletes and casual players alike a competitive yet friendly platform. On the cultural side, ICE has hosted group dance, solo singing, poetry, monologues, film-making, fashion shows, sports auctions, comedy, and more. Participants perform in both individual and team events, turning the campus into a continuous circuit of performances, debates, and matches.
+                                </p>
+                                <p class="m-0">
+                                    From the first edition, which recorded over 600 participants and a large, enthusiastic audience, ICE has expanded rapidly in both scale and ambition. By the 2025 edition, the fest drew more than 300 participants across over 60 institutions for competitions alone, and over 4,000 attendees overall, supported by dozens of sponsors.
                                 </p>
                             </div>
                         </div>
-                        <div class="student_research_databox student_research_databox_data_with_margin">
+                        <!-- <div class="student_research_databox student_research_databox_data_with_margin">
                             <div class="student_research_databox_heading">Events and participation</div>
                             <div class="student_research_databox_data">
                                 <p class="m-0">
@@ -103,7 +109,7 @@
                                     ICE is central to SSLA’s student culture, turning the campus into a festival site complete with food, merchandise, sponsor, and activity stalls curated by the Organising Committee. As the day-time competitions transition into evenings, cultural nights—such as stand-up comedy featuring performers like Madhur Virli and high-energy DJ sets—create a shared celebratory experience that extends beyond competition. For students, volunteers, and visitors, the fest becomes an immersive experience in community-building, event management, and creative expression, leaving behind “mementos” in SSLA’s institutional memory and setting benchmarks for future editions.
                                 </p>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -113,7 +119,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="inner__subheading">ICE - 2025</h2>
+                    <h2 class="inner__subheading">ICE by SSLA 2025</h2>
                 </div>
                 <div class="new_ice_first_parabox">
                     <p class="m-0">

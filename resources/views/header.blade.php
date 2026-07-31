@@ -1041,7 +1041,7 @@
                                                                             </g>
                                                                         </svg>
                                                                     </div>
-                                                                    <div class="mega_menu_name_box">I.C.E by SSLA</div>
+                                                                    <div class="mega_menu_name_box">ICE by SSLA</div>
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
@@ -1062,7 +1062,7 @@
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
-                                                                <a href="#">
+                                                                <a href="{{url('/orientation-week')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
                                                                             viewBox="0 0 24 24">
@@ -1076,41 +1076,6 @@
                                                                         </svg>
                                                                     </div>
                                                                     <div class="mega_menu_name_box">Orientation Week
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                            <div class="megamenu_listing">
-                                                                <a href="#">
-                                                                    <div class="mega_menu_icon_box">
-                                                                        <svg width="14" height="14" x="0" y="0"
-                                                                            viewBox="0 0 24 24">
-                                                                            <g
-                                                                                transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.999943256378181,-6.00239682197572)">
-                                                                                <path fill="#ffffff" fill-rule="evenodd"
-                                                                                    d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                                                                                    clip-rule="evenodd" opacity="1"
-                                                                                    data-original="#000000"></path>
-                                                                            </g>
-                                                                        </svg>
-                                                                    </div>
-                                                                    <div class="mega_menu_name_box">Sports events</div>
-                                                                </a>
-                                                            </div>
-                                                            <div class="megamenu_listing">
-                                                                <a href="#" target="_blank">
-                                                                    <div class="mega_menu_icon_box">
-                                                                        <svg width="14" height="14" x="0" y="0"
-                                                                            viewBox="0 0 24 24">
-                                                                            <g
-                                                                                transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.999943256378181,-6.00239682197572)">
-                                                                                <path fill="#ffffff" fill-rule="evenodd"
-                                                                                    d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                                                                                    clip-rule="evenodd" opacity="1"
-                                                                                    data-original="#000000"></path>
-                                                                            </g>
-                                                                        </svg>
-                                                                    </div>
-                                                                    <div class="mega_menu_name_box">Student Workshop
                                                                     </div>
                                                                 </a>
                                                             </div>
@@ -1128,10 +1093,45 @@
                                                                             </g>
                                                                         </svg>
                                                                     </div>
+                                                                    <div class="mega_menu_name_box">Sports events</div>
+                                                                </a>
+                                                            </div> -->
+                                                            <!-- <div class="megamenu_listing">
+                                                                <a href="#" target="_blank">
+                                                                    <div class="mega_menu_icon_box">
+                                                                        <svg width="14" height="14" x="0" y="0"
+                                                                            viewBox="0 0 24 24">
+                                                                            <g
+                                                                                transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.999943256378181,-6.00239682197572)">
+                                                                                <path fill="#ffffff" fill-rule="evenodd"
+                                                                                    d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
+                                                                                    clip-rule="evenodd" opacity="1"
+                                                                                    data-original="#000000"></path>
+                                                                            </g>
+                                                                        </svg>
+                                                                    </div>
+                                                                    <div class="mega_menu_name_box">Student Workshop
+                                                                    </div>
+                                                                </a>
+                                                            </div> -->
+                                                            <!-- <div class="megamenu_listing">
+                                                                <a href="#">
+                                                                    <div class="mega_menu_icon_box">
+                                                                        <svg width="14" height="14" x="0" y="0"
+                                                                            viewBox="0 0 24 24">
+                                                                            <g
+                                                                                transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.999943256378181,-6.00239682197572)">
+                                                                                <path fill="#ffffff" fill-rule="evenodd"
+                                                                                    d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
+                                                                                    clip-rule="evenodd" opacity="1"
+                                                                                    data-original="#000000"></path>
+                                                                            </g>
+                                                                        </svg>
+                                                                    </div>
                                                                     <div class="mega_menu_name_box">SSLA Presents</div>
                                                                 </a>
                                                             </div> -->
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="#">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -1148,7 +1148,7 @@
                                                                     <div class="mega_menu_name_box">Special Lecture
                                                                     </div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="megamenu_listing">
                                                                 <a href="{{url('/symbiosis-literary-festival')}}">
                                                                     <div class="mega_menu_icon_box">

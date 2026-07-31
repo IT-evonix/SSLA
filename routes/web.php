@@ -955,8 +955,17 @@ Route::get('events-archives', function () {
     $data_arr['title'] = "BA in Arts and Science | Bachelor of Arts Honours - SSLA Pune";
     $data_arr['keywords'] = "";
     $data_arr['description'] = "Pursue a BA in Arts and Science or Bachelor of Arts Honours at SSLA Pune. Enjoy a comprehensive curriculum that fosters critical thinking and interdisciplinary learning.";
-    $data_arr['canonical'] = "https://www.ssla.edu.in/inter-collegiate-event";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/events-archives";
     return view('/events/events-archives', ['data_arr' => $data_arr]);
+});
+
+Route::get('orientation-week', function () {
+    $data_arr = array();
+    $data_arr['title'] = "BA in Arts and Science | Bachelor of Arts Honours - SSLA Pune";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "Pursue a BA in Arts and Science or Bachelor of Arts Honours at SSLA Pune. Enjoy a comprehensive curriculum that fosters critical thinking and interdisciplinary learning.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/orientation-week";
+    return view('/events/orientation-week', ['data_arr' => $data_arr]);
 });
 
 ///////// Events Routes Ends //////////

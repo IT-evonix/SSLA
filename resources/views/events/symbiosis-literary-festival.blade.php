@@ -500,7 +500,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="literary_festival_card_listing">
+                        <!-- <div class="literary_festival_card_listing">
                             <div class="literary_festival_card_image">
                                 <div class="literary_festival_card_img">
                                     <img src="{{ asset('assets/images/research/slf-06.webp') }}" alt="SLF images"
@@ -540,7 +540,7 @@
                                     <div>Download Brochure</div>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
