@@ -4201,7 +4201,8 @@
   }
 
   .red_carpet_first_mainbox p {
-      padding: 80px 60px;
+      /* padding: 80px 60px; */
+      padding: 40px;
       font-size: 18px;
       text-align: justify;
   }
@@ -6466,7 +6467,22 @@
     background-color: #f4f4f4;
 }
 
+.orientation_week_main .red_carpet_second_section {
+    margin: 0px 0 0 0;
+}
 
+.table thead tr th.my_table_full_heading {
+    border-radius: 12px 12px 0px 0;
+    text-align: center;
+}
+
+.orientation_week_table_section {
+    padding: 60px 0 0 0;
+}
+
+.ice_by_ssla_new .student_research_databox_data {
+    margin: 0 0 0 0;
+}
 /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {
