@@ -54,12 +54,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="inner__subheading">Essence of Red Carpet</h2>
-                    <!-- <h2 class="inner__subheading">Red Carpet</h2> -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
                     <div class="red_carpet_second_mainbox">
                         <p>
                             Red Carpet at Symbiosis School for Liberal Arts (SSLA) is the institute’s signature annual farewell and celebration evening, styled as SSLA’s own version of the Oscars and dedicated to its graduating cohort. Blending awards, performances, memory-making and glamour, it acts as both a convocation-adjacent rite of passage and a showcase of SSLA’s creative, academic and community spirit.

@@ -14,10 +14,10 @@
 </div>
 </section>
 <!-- Responsive Header ends  -->
-<main class="rap_admission_main deeksharambh_main">
+<main class="rap_admission_main no_margin_main">
     <!-- Inner section start -->
-    <section class="inner_section" data-aos="fade-up">
-        <div class="container">
+    <section class="inner_section red_carpet_second_section">
+        <div class="container" data-aos="fade-up">
             <div class="row">
                 <div class="col-lg-12">
                     <h1 class="inner__red_heading">ICE by SSLA</h1>
@@ -26,8 +26,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="new_slf_mainbox">
-                        <div class="new_slf_parabox">
-                            <p class="m-0">
+                        <div class="red_carpet_second_mainbox">
+                            <p>
                                 Inter-Collegiate Event (ICE) by Symbiosis School for Liberal Arts (SSLA), Pune, is the
                                 institute’s flagship annual inter-collegiate fest that brings together sports, culture,
                                 and student leadership on a large, city-wide platform. Conceived as a space where
@@ -37,8 +37,17 @@
                                 it has grown from a promising new fest to a marquee student-led event with thousands of
                                 attendees and an expansive slate of activities.​
                             </p>
+                            <p>
+                                ICE began in April 2023 as SSLA’s first formal inter-collegiate fest, hosted at the New Viman Nagar Campus on 28–29 April 2023. From its inception, the event was designed not just as entertainment but as a showcase of liberal arts values: interdisciplinarity, creativity, collaboration, and critical engagement through both sports and cultural formats. The Organising Committee (OC) articulated a clear aim—to build a lasting legacy of collegiate fests at SSLA while nurturing togetherness, passion, and collective effort within the student body.
+                            </p>
+                            <p>
+                                ICE is structured as a two-day bonanza of sports and cultural competitions that invite participation from multiple colleges and universities. Sports line-ups have included futsal, basketball, volleyball, table tennis, badminton, tennis, gully cricket, chess, e-sports, pickleball, arm-wrestling, and Texas Hold’em, giving athletes and casual players alike a competitive yet friendly platform. On the cultural side, ICE has hosted group dance, solo singing, poetry, monologues, film-making, fashion shows, sports auctions, comedy, and more. Participants perform in both individual and team events, turning the campus into a continuous circuit of performances, debates, and matches.
+                            </p>
+                            <p class="m-0">
+                                From the first edition, which recorded over 600 participants and a large, enthusiastic audience, ICE has expanded rapidly in both scale and ambition. By the 2025 edition, the fest drew more than 300 participants across over 60 institutions for competitions alone, and over 4,000 attendees overall, supported by dozens of sponsors.
+                            </p>
                         </div>
-                        <div class="new_slf_img_mainbox">
+                        <!-- <div class="new_slf_img_mainbox">
                             <div class="new_slf_img_leftbox">
                                 <div class="new_slf_img_listing">
                                     <img src="{{ asset('assets/images/research/igc-01.webp') }}" alt="IGC images"
@@ -71,21 +80,7 @@
                                         class="img-fluid">
                                 </div>
                             </div>
-                        </div>
-                        <div class="student_research_databox student_research_databox_data_with_margin ice_by_ssla_new">
-                            <!-- <div class="student_research_databox_heading">Origins and vision</div> -->
-                            <div class="student_research_databox_data">
-                                <p>
-                                    ICE began in April 2023 as SSLA’s first formal inter-collegiate fest, hosted at the New Viman Nagar Campus on 28–29 April 2023. From its inception, the event was designed not just as entertainment but as a showcase of liberal arts values: interdisciplinarity, creativity, collaboration, and critical engagement through both sports and cultural formats. The Organising Committee (OC) articulated a clear aim—to build a lasting legacy of collegiate fests at SSLA while nurturing togetherness, passion, and collective effort within the student body.
-                                </p>
-                                <p>
-                                    ICE is structured as a two-day bonanza of sports and cultural competitions that invite participation from multiple colleges and universities. Sports line-ups have included futsal, basketball, volleyball, table tennis, badminton, tennis, gully cricket, chess, e-sports, pickleball, arm-wrestling, and Texas Hold’em, giving athletes and casual players alike a competitive yet friendly platform. On the cultural side, ICE has hosted group dance, solo singing, poetry, monologues, film-making, fashion shows, sports auctions, comedy, and more. Participants perform in both individual and team events, turning the campus into a continuous circuit of performances, debates, and matches.
-                                </p>
-                                <p class="m-0">
-                                    From the first edition, which recorded over 600 participants and a large, enthusiastic audience, ICE has expanded rapidly in both scale and ambition. By the 2025 edition, the fest drew more than 300 participants across over 60 institutions for competitions alone, and over 4,000 attendees overall, supported by dozens of sponsors.
-                                </p>
-                            </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="student_research_databox student_research_databox_data_with_margin">
                             <div class="student_research_databox_heading">Events and participation</div>
                             <div class="student_research_databox_data">
@@ -111,6 +106,45 @@
                             </div>
                         </div> -->
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="red_carpet_third_section" data-aos="fade-up">
+        <div class="red_carpet owl-carousel">
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-01.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-02.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-03.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-04.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-05.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-06.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/research/igc-07.webp') }}" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
