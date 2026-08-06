@@ -40,7 +40,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                        <h2 class="faculty-name">Ms. Gayatri Mendanha</h2>
+                                        <h2 class="faculty-name">Dr. Gayatri Mendanha</h2>
                                         <p class="faculty-designation">Assistant Professor  </p>
                                         <p class="faculty-institute">
                                         Philosophy & Literature
@@ -196,6 +196,8 @@
                       <li>Mendanha G., ‘An Indian Worldview: Secularism in Plurality’, Jnanadeepa Journal of Religious Studies, Vol. 20, No. 1-2 (2016)</li>
                       <li>Mendanha G., ‘In Search of Woman: Re-making Ourselves’, In Irudayadason, Nishant (Ed), Philosophizing the Body (2017)</li>
                       <li>Mendanha G., ‘The Individual and the Collective’, In Pardeshi, R. G., Sreedharan, C., Kaleidoscope (2014)</li>
+                      <li>Banerjee, S., Mendanha, G., and Dutta, A., 'Pandharpur Wari: Pilgrim Sojourn in the City of Pune: A Multimodal Essay', Dastavezi - The Audio-Visual South Asia, 6 (1), (2024).</li>
+                  
                     </ol>
                     </div>
                 </div>
@@ -248,7 +250,7 @@
                     <h4 class="section-title">Courses Taught</h4>
                 </div>
                 <ul>
-                   <li>Modern Indian Thinkers</li>
+                    <li>Modern Indian Thinkers</li>
                     <li>Women Philosophers</li>
                     <li>Literature and Religion</li>
                     <li>Writing Across Genre: Freeing Creativity</li>
@@ -257,6 +259,7 @@
                     <li>Understanding Modern Theatre: In Theory, Performance and Practice</li>
                     <li>Modern Drama from Around the World</li>
                     <li>Postmodernism: Literary and Philosophical Perspectives</li>
+                    <li>Rhetoric and Critical Writing</li>
                 </ul>
             </div>
         </div>

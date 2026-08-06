@@ -101,17 +101,19 @@
                             </div>
                         </div>
                         <!-- Teaching Philosophy -->
-                        <!-- <div class="teaching-philosophy">
-                                <h5>Teaching Philosophy</h5>
-                                <p>
-                                    Her teaching philosophy emphasizes experiential and problem-solving approaches to
-                                    learning, integrating field-based experiences with cross-disciplinary frameworks.
-                                    She views the classroom as a collaborative space where educators and students
-                                    actively engage in shared knowledge creation, encouraging critical thinking,
-                                    participation, and real-world application of concepts.
+                        <div class="teaching-philosophy">
+                            <h5>Teaching Philosophy</h5>
+                            <p>
+                                Teaching has made me an ardent learner, allowing constant questioning and exploration of
+                                new ideas, advancements, and frameworks, enhancing my understanding of fundamental and
+                                seminal concepts. My teaching philosophy is centred on creating a co-constructed
+                                collaborative learning space wherein, I as a facilitator guide students in understanding
+                                disciplinary content and help connect concepts to broader theoretical and societal
+                                questions. Through inquiry and activity based learning, I believe in mentoring students
+                                to cultivate their intellectual curiosity, analytical and critical thinking skills.
 
-                                </p>
-                            </div> -->
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -124,34 +126,15 @@
                     <h4 class="section-title">Bio</h4>
                 </div>
                 <p>
-                    Dr. Manjari Jonnalagadda is a molecular anthropologist who is interested in understanding the
-                    evolution of complex traits among Indian populations using phenotypic, genetic and evolutionary
-                    perspectives.
-                    Her doctoral work was supported by the Women Scientist-A grant from DST wherein she characterized
-                    the phenotypic and genotypic variation in skin pigmentation among diverse social groups of West
-                    Maharashtra and has found significant skin pigmentation differences among caste and tribal
-                    populations, along with a weak correlation between melanin levels and UVR across the subcontinental
-                    region indicating that natural selection may not be the dominant factor in shaping this variation,
-                    and factors such as endogamy may have led to the development of population structure thereby
-                    contributing to pigmentation diversity in West Maharashtra and across the Indian subcontinent. An
-                    association analysis shows the rs1426654 - SLC24A5 variant explains a majority of the observed
-                    variation in skin pigmentation in West Maharashtra.
-                    Her post-doctoral work at the University of Toronto, Canada focused on exploring the genetic
-                    architecture of skin pigmentation in Indians using a whole genome approach by performing a genome
-                    wide association analysis (GWAS).
-                    Through the award of an Early Career Research Award (ECRA) grant from SERB, GoI she studied the role
-                    of candidate pigmentation gene MC1R in shaping pigmentation diversity in Maharashtra. This project
-                    analyzed MC1R sequence diversity in populations with diverse pigmentary profiles to see if MC1R is
-                    constrained in dark skinned tribal as compared to lighter skinned caste populations in West
-                    Maharashtra. Analysis revealed no evidence of a selective constraint on MC1R suggesting that these
-                    polymorphisms may not be influencing pigmentation variation among populations in this region.
-                    Her future projects involve understanding the correlations between skin pigmentation and vitamin D
-                    levels in Indian populations with diverse pigmentary profiles. She is also working towards
-                    understating the genetic variants involved in the skin mediated vitamin D biosynthesis pathway to be
-                    able to comment on genetic factors that contribute to vitamin D deficiency in Indian populations.
-                    Through her doctoral students she is interested in exploring the domain of personalized medicine
-                    through the analysis of genes and genetic variations involved in drug metabolism.
-
+                    Dr. Manjari Jonnalagadda is currently serving as an Assistant Professor at the Symbiosis School for
+                    Liberal Arts (SSLA), SIU, Pune. She has a Ph.D. in Anthropology from Savitribai Phule Pune
+                    University (SPPU), Pune, specializing in Biological Anthropology. She is the recipient of the Homi
+                    Bhabha Fellowship (2026-2028) and SERB, Early Career research Award (2016-2020). Her research
+                    focuses on understanding the evolution of complex traits among Indian populations using phenotypic,
+                    genetic and evolutionary perspectives. Her current projects focus on unraveling the role of myriad
+                    factors contributing to evolution of complex traits of skin pigmentation and vitamin D in Indian
+                    populations. She also works in the domain of personalized medicine through the analysis of genes and
+                    genetic variations involved in drug metabolism.
                 </p>
             </div>
             <!-- achievement -->
@@ -185,7 +168,7 @@
             <div class="row mb-4">
                 <div class="col-md-6">
                     <!-- PUBLICATIONS -->
-                    <!-- <div class="section-card" data-aos="fade-up">
+                    <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
                             <img src="{{ asset('/assets/images/faculty/inner/publication.svg') }}"
                                 alt="Introduction icon" class="header-icon">
@@ -193,89 +176,133 @@
                         </div>
                         <ol class="ps-3">
 
-                            <li>Jonnalagadda, M. <em>Phenotypic and genotypic variation in skin pigmentation among
-                                    Indian populations</em>.</li>
-                            <li>Jonnalagadda, M. <em>Genome-wide association studies on skin pigmentation diversity in
-                                    Indians</em>.</li>
-                            <li>Jonnalagadda, M. <em>Role of SLC24A5 in skin pigmentation variation in West
-                                    Maharashtra</em>.</li>
-                            <li>Jonnalagadda, M. <em>MC1R gene diversity and pigmentation variation among caste and
-                                    tribal populations</em>.</li>
-                            <li>Jonnalagadda, M. <em>Skin pigmentation and vitamin D metabolism in Indian
-                                    populations</em>.</li>
-                            <li>Jonnalagadda, M. <em>Pharmacogenomics and personalized medicine in Indian
-                                    populations</em>.</li>
+                            <li>Jonnalagadda, M., Bhumkar, S., Ozarkar, S., & Ashma, R. (2026). Determinants of Vitamin
+                                D in Indian Populations: Understanding the Interplay of Skin Pigmentation, Sun Exposure,
+                                and Genetic Variants. American Journal of Human Biology, 38(3), e70228. <a
+                                    href="https://doi.org/10.1002/ajhb.70228" target="_blank"
+                                    class="text-danger">https://doi.org/10.1002/ajhb.70228</a></li>
+                            <li>Mendes, M., Jonnalagadda, M., Ozarkar, S., Torres, F. C. L., Pua, V. B., Kendall, C.,
+                                Tarazona-Santos, E., & Parra, E. J. (2022). Identifying signatures of natural selection
+                                in Indian populations. PLOS ONE, 17(8), e0271767. <a
+                                    href="https://doi.org/10.1371/journal.pone.0271767" target="_blank"
+                                    class="text-danger">https://doi.org/10.1371/journal.pone.0271767</a></li>
+                            <li>Jonnalagadda, M., Bharti, N., Kasibhatla, S. M., Wagh, M. A., Joshi, R., Ozarkar, S., &
+                                Ashma, R. (2022). MC1R diversity and its role in skin pigmentation variation in West
+                                Maharashtra, India. American Journal of Human Biology, 34(7), e23734. <a
+                                    href="https://doi.org/10.1002/ajhb.23734" target="_blank"
+                                    class="text-danger">https://doi.org/10.1002/ajhb.23734</a></li>
+                            <li>Debortoli, G., Abbatangelo, C., Ceballos, F., Fortes-Lima, C., Norton, H. L., Ozarkar,
+                                S., Parra, E. J., & Jonnalagadda, M. (2020). Novel insights on demographic history of
+                                tribal and caste groups from West Maharashtra (India) using genome-wide data. Scientific
+                                Reports, 10(1), Article 1. <a href="https://doi.org/10.1038/s41598-020-66953-3"
+                                    target="_blank" class="text-danger">https://doi.org/10.1038/s41598-020-66953-3</a>
+                            </li>
+                            <li>Jonnalagadda, M., Faizan, M. A., Ozarkar, S., Ashma, R., Kulkarni, S., Norton, H. L., &
+                                Parra, E. (2019). A Genome-Wide Association Study of Skin and Iris Pigmentation among
+                                Individuals of South Asian Ancestry. Genome Biology and Evolution, 11(4), 1066–1076. <a
+                                    href="https://doi.org/10.1093/gbe/evz057" target="_blank"
+                                    class="text-danger">https://doi.org/10.1093/gbe/evz057</a></li>
+                            <li>Jonnalagadda, M., Norton, H., Ozarkar, S., Kulkarni, S., & Ashma, R. (2016). Association
+                                of genetic variants with skin pigmentation phenotype among populations of west
+                                Maharashtra, India. American Journal of Human Biology, 28(5), 610–618. <a
+                                    href="https://doi.org/10.1002/ajhb.22836" target="_blank"
+                                    class="text-danger">https://doi.org/10.1002/ajhb.22836</a></li>
+                            <li>Jonnalagadda, M., Ozarkar, S., Ashma, R., & Kulkarni, S. (2016). Skin pigmentation
+                                variation among populations of West Maharashtra, India. American Journal of Human
+                                Biology: The Official Journal of the Human Biology Council, 28(1), 36–43. <a
+                                    href="https://doi.org/10.1002/ajhb.22738" target="_blank"
+                                    class="text-danger">https://doi.org/10.1002/ajhb.22738</a></li>
+
 
 
                         </ol>
-                    </div> -->
+                    </div>
                 </div>
                 <div class="col-md-6">
                     <!-- EDUCATION -->
-                    <!-- <div class="section-card" data-aos="fade-up">
+                    <div class="section-card" data-aos="fade-up">
                         <div class="section-header">
                             <img src="{{ asset('/assets/images/faculty/inner/education.svg') }}" alt="Introduction icon"
                                 class="header-icon">
                             <h4 class="section-title">Education</h4>
                         </div>
                         <ul>
-                            <li><strong>PhD (Doctoral Research):</strong>
-                                Focused on phenotypic and genotypic variation in skin pigmentation among caste and
-                                tribal populations of West Maharashtra
-                                Supported by the Women Scientist-A Grant, DST (Government of India)</li>
-                            <li><strong>Post-Doctoral Research:</strong>
-                                University of Toronto, Canada
-                                Focused on whole-genome approaches to study the genetic architecture of skin
-                                pigmentation in Indian populations using GWAS</li>
+                            <li><strong>Ph.D. Anthropology</strong> – May 2016. Savitribai Phule Pune University
+                                (Formerly University of
+                                Pune), Pune. <strong>Specialization :</strong> Biological Anthropology. <strong>Thesis
+                                    Title :</strong> The Study of
+                                Phenotypic and Genotypic Variation in Skin Pigmentation among Select Populations of
+                                Maharashtra</li>
+                            <li><strong>M.Sc. Anthropology (with research)</strong> – CGPA – 7.19/10, Grade ‘A’ (66.6%).
+                                June 2007,
+                                University of Pune, Pune. <strong>Specialization :</strong> Biological Anthropology.
+                                <strong>Dissertation title :</strong>
+                                Continuity/Discontinuity of Dental Morphological traits among the Parsis.
+                            </li>
+                            <li><strong>B.Sc. Zoology - May 2004,</strong> University of Pune, Pune. First Class with
+                                Distinction
+                                (73.75%)</li>
+
                         </ul>
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <!-- RESEARCH INTERESTS -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Research Interests</h4>
                 </div>
                 <ul class="research-list">
-                    <li>Evolution of complex traits in Indian populations</li>
-                    <li>Evolution of complex traits in Indian populations</li>
-                    <li>Skin pigmentation diversity and population structure</li>
-                    <li>Genetic and phenotypic variation across caste and <br>tribal groups</li>
-                    <li>Genome-wide association studies (GWAS)</li>
-                    <li>Role of pigmentation genes (e.g., SLC24A5, MC1R)</li>
-                    <li>Skin pigmentation and vitamin D metabolism</li>
-                    <li>Genetic basis of vitamin D deficiency in Indian<br> populations</li>
-                    <li>Personalized medicine and pharmacogenomics</li>
-                    <li>Genes involved in drug metabolism</li>
+                    <li>Anthropology</li>
+                    <li>Genomics</li>
+                    <li>Pigmentary traits</li>
+                    <li>Human Adaptation</li>
+                    <li>Bio-social adapatation</li>
+                    <li>South Asian Diversity</li>
+                    <li>Demographic history of populations</li>
+
                 </ul>
-            </div> -->
+            </div>
             <!-- AWARDS -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/awards.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Awards & Fellowships</h4>
                 </div>
                 <ul>
-                    <li><strong>Women Scientist-A Grant,</strong> Department of Science and Technology (DST), Government
-                        of India</li>
-                    <li><strong>Early Career Research Award (ECRA),</strong> SERB, Government of India
-            </div> -->
+                    <li>June 2026 – Homi Bhaba Fellowship.</li>
+                    <li>October 2025 – International Travel Award, Department of Health Research, by Indian Council of
+                        Medical Research (ICMR), New Delhi, India.</li>
+                    <li>October 2019 – Developing country Travel Award by American Society of Human Genetics.</li>
+                    <li>December 2016 - Early Career Research Award, SERB, Government of India.</li>
+                    <li>September 2010: Junior Research Fellowship (JRF) by Indian Council of Medical Research (ICMR),
+                        New Delhi, India.</li>
+                    <li>June 2007 & December 2007: Awarded Lectureship by Qualifying the National Eligibility Test (NET)
+                        conducted by University Grants Commission, New Delhi</li>
+
+                </ul>
+            </div>
             <!-- COURSES -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Courses Taught</h4>
                 </div>
                 <ul>
-                    <li>Rewrite this for SSLA faculty profile format</li>
-                    <li>Make it shorter for a website</li>
-                    <li>Convert it into third-person bio / CV format</li>
+                    <li>Biological Anthropology</li>
+                    <li>Human Biological Variation</li>
+                    <li>Anthropology Today – Its Applications</li>
+                    <li>Taxonomy, Diversity and Organization of life</li>
+                    <li>Inheritance Biology</li>
+                    <li>Cell and Molecular Biology </li>
+                    <li>Introduction to Human Genetics</li>
+
                 </ul>
-            </div> -->
+            </div>
         </div>
     </section>
     <!-- Details section End -->

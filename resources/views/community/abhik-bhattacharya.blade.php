@@ -48,7 +48,7 @@
                                         <p class="faculty-email-label d-flex align-items-center">
                                             <img src="{{ asset('/assets/images/icon/email.png') }}" alt="Email icon"
                                                 class="icon-img me-2">
-                                            <span>abhik.bhattacharya@ssla.edu.in 
+                                            <span>abhik.bhattacharya@ssla.edu.in
                                                 <div class="action-btns mt-3">
                                                     <a href="{{ asset('/assets/pdf/cv/Abhik-Bhattacharya-CV.pdf') }}"
                                                         class="btn btn-outline-light d-inline-flex align-items-center"
@@ -166,29 +166,22 @@
                                 alt="Introduction icon" class="header-icon">
                             <h4 class="section-title">Publications</h4>
                         </div>
-                        <!-- <ol class="ps-3">
-                            <li>Kumar, H., Ghosh, M. & Ghosal, S. (2025). Unravelling the
-                                impact of land use transformation on thermal environment across
-                                seasons: A comprehensive study of rapidly urbanising Patna
-                                Planning Area, India. Environmental Science and Pollution
-                                Research. Springer.</li>
-                            <li>Ghosh, M. and Garnaik, S. (2025). Death and Degree:
-                                Establishing a Relationship of Death and Heat in Scorched Delhi.
-                                Greenpeace India.</li>
-                            <li>Ghosh, M. (2024). Heat Havoc: Investigating the Impact on
-                                Street Vendors. Greenpeace India and the National Hawker
-                                Federation.</li>
-                            <li>Ghosh M. and Ghosal S. (2022). Geographies of Socio-
-                                Economic Vulnerability to Climate Change: Empirical Evidence
+                        <ol class="ps-3">
+                            <li>Bhattacharya A (2023), The Jharkhand Andolan: A Silencing of Muslim voice(s),
+                                Contribution to Indian Sociology, Volume 56, Issue No. 3</li>
 
-                                from the Indian Himalayan Foothills; Asia-Pacific Journal of
-                                Regional Science; Springer.</li>
-                            <li>Saha A., Ghosh M., Pal S C, (2022). Estimation of rainfall-
-                                runoff using SCS‐CN method and GIS techniques in
+                            <li>Bhattacharya A (2020), Coronavirus & Racism, Economic & Political Weekly, Volume 55,
+                                Issue No. 12</li>
 
-                                drought‐prone area of Upper Kangsabati Watershed, India,
-                                Journal of Sustainable Water Resources Management, Springer.</li>
-                        </ol> -->
+                            <li>Bhattacharya A (2020), Retaliatory Violence, Economic & Political Weekly, Volume 55,
+                                Issue No. 1</li>
+
+                            <li>Bhattacharya A & Das D (2018), Disability and Subject formation: Realising Ableist
+                                Ideology through the Lens of Indian Films, book chapter (ed) Mumtaz Begum & Ratan
+                                Sarkar, Disability and Inclusion: From Rationale to Reality, Adhyayan Publishers, New
+                                Delhi, ISBN: 978-81-8435-469-0</li>
+
+                        </ol>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -215,8 +208,8 @@
                     <h4 class="section-title">Research Interests</h4>
                 </div>
                 <ul class="research-list">
-                    <li>I mostly work on the intersection of sociology and media studies.</li>
-                    <li>My research area includes: Indigenous studies, politics of social justice, historical silencing
+                    <li>I mostly work on the intersection of sociology and media studies.
+                   My research area includes: Indigenous studies, politics of social justice, historical silencing
                         in media discourse, discursive context of caste, decolonial methodology/postcolonial studies,
                         Orientalism/post-Orientalism.</li>
                 </ul>

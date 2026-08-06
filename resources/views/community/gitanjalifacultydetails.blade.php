@@ -123,36 +123,14 @@
                     <h4 class="section-title">Bio</h4>
                 </div>
                 <p>
-                    Dr. Gitanjali Roy is currently serving as an Assistant Professor at the Symbiosis School for Liberal Arts (SSLA), SIU, Pune. She has her educational background in psychology and her research interests lie at Indian psychology. Dr. Roy has her post-graduation in Counselling Psychology from The Maharaja Sayajirao University of Baroda and a Ph.D. in Indian Psychology from the same university, where she developed a novel assessment tool for personality. Other than this, she has another scale ‘Asakti tool’ regularly used by scholars across universities to analyze personality. 
+                    Dr. Gitanjali Roy is currently serving as an Assistant Professor at the Symbiosis School for Liberal
+                    Arts (SSLA), SIU, Pune. She has her educational background in psychology and her research interests
+                    lie at Indian psychology. Dr. Roy has her post-graduation in Counselling Psychology from The
+                    Maharaja Sayajirao University of Baroda and a Ph.D. in Indian Psychology from the same university,
+                    where she developed a novel assessment tool for personality. Other than this, she has another scale
+                    ‘Asakti tool’ regularly used by scholars across universities to analyze personality.
                 </p>
-                <p>
-                    At SSLA Pune, Dr. Roy teaches courses on Lifespan development, Biological psychology, and research methodology. His pedagogical philosophy is deeply rooted in experiential approach by integrating field-based learning and disciplinary frameworks to engage students in real-world challenges.  A few of her works are enlisted here-
-                </p>
-                <ul class="new_faculty_link">
-                    <li>Roy, G. Āsakti. J. Indian Counc. Philos. Res. (2024).<br>
-                        <a href="https://doi.org/10.1007/s40961-023-00310-3. Vol 41" target="_blank" >
-                            https://doi.org/10.1007/s40961-023-00310-3. Vol 41
-                        </a>
-                    </li>
-                    <li>
-Roy, G., Kumar, R. (2023).  Construction of Asakti Model from Shrimad Bhagavad Gita: An Understanding of Attachment from Indian Ethos. Psychol Stud 68, 571–581                         <br>
-                        <a href="https://doi.org/10.1007/s12646-023-00750-6" target="_blank">
-                           https://doi.org/10.1007/s12646-023-00750-6
-                        </a>
-                    </li>
-                    <li>
-Bhangaokar, R., Gokhale, A., Pasta, S. et al. Triguna (Sattva, Rajasa and Tamasa) Personality Traits and Karma Yoga: Developmental Trends Among Indian Adults. Psychol Stud 68, 502–511 (2023).                        <br>
-                        <a href="https://doi.org/10.1007/s12646-023-00740-8" target="_blank">
-                           https://doi.org/10.1007/s12646-023-00740-8
-                        </a>
-                    </li>
-                    <li>
-Roy, G. Ashtang Yoga: For Attaining the State of Mindfulness. (2021). J. Indian Counc. Philos. Res. 38, 445–452.                         <br>
-                        <a href="https://doi.org/10.1007/s40961-021-00257-3 2363-9962" target="_blank">
-                           https://doi.org/10.1007/s40961-021-00257-3 2363-9962
-                        </a>
-                    </li>
-                </ul>
+
             </div>
             <!-- achievement -->
             <!-- <div class="section-card" data-aos="fade-up">
@@ -210,26 +188,26 @@ Roy, G. Ashtang Yoga: For Attaining the State of Mindfulness. (2021). J. Indian 
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ol class="ps-3">
-                           <li>Roy, G. (2024). Āsakti. Journal of Indian Council for Philosophical Research, 41, 205
-209. (Scopus) </li>
-                           <li>Bhangaokar, R., et al. (2023). Triguna and Karma Yoga. Psychological Studies, 68, 502
-511. (Scopus) </li>
-                           <li>Roy, G. & Kumar, R. (2023). Asakti Model. Psychological Studies, 68(4), 571–581. 
-(Scopus) </li>
-                           <li>Roy, G. & Behrani, P. (2023). Immigration and Psychological Well-being. Indian Journal 
-of Psychology. UGC-List.</li>
-                           <li>Roy, G. (2022). Progressive Females by Tagore. Philosophical Papers, 18(1), 100–109. 
-UGC-List.</li>
-                           <li>Behrani, P. & Roy, G. (2022). Counselling Module for ED. GAP Journal of Forensics, 3(2), 
-44–51. </li>
-<li>Roy, G. (2021). Ashtang Yoga. Journal of Indian Council for Philosophical Research, 38, 
-445–452. (Scopus) </li>
-<li>Roy, G. et al. (2020). Vipassana in Jail. GAP Journal of Forensics, 1, 8–17. 
-</li>
-<li>Roy, G. & Geuking, J. (2020). Three Gunas in Germans. International Journal of Indian 
-Psychology, 8(2), 145–168.  </li>
-<li> Roy, G. & Sharma, R. (2017). Indian Trait Inventory. Indian Journal of Psychology and 
-Education, 7(1), 163–175. UGC-List. </li>
+                            <li>Roy, G. (2024). Āsakti. Journal of Indian Council for Philosophical Research, 41, 205
+                                209. (Scopus) </li>
+                            <li>Bhangaokar, R., et al. (2023). Triguna and Karma Yoga. Psychological Studies, 68, 502
+                                511. (Scopus) </li>
+                            <li>Roy, G. & Kumar, R. (2023). Asakti Model. Psychological Studies, 68(4), 571–581.
+                                (Scopus) </li>
+                            <li>Roy, G. & Behrani, P. (2023). Immigration and Psychological Well-being. Indian Journal
+                                of Psychology. UGC-List.</li>
+                            <li>Roy, G. (2022). Progressive Females by Tagore. Philosophical Papers, 18(1), 100–109.
+                                UGC-List.</li>
+                            <li>Behrani, P. & Roy, G. (2022). Counselling Module for ED. GAP Journal of Forensics, 3(2),
+                                44–51. </li>
+                            <li>Roy, G. (2021). Ashtang Yoga. Journal of Indian Council for Philosophical Research, 38,
+                                445–452. (Scopus) </li>
+                            <li>Roy, G. et al. (2020). Vipassana in Jail. GAP Journal of Forensics, 1, 8–17.
+                            </li>
+                            <li>Roy, G. & Geuking, J. (2020). Three Gunas in Germans. International Journal of Indian
+                                Psychology, 8(2), 145–168. </li>
+                            <li> Roy, G. & Sharma, R. (2017). Indian Trait Inventory. Indian Journal of Psychology and
+                                Education, 7(1), 163–175. UGC-List. </li>
 
                         </ol>
                     </div>
@@ -243,12 +221,13 @@ Education, 7(1), 163–175. UGC-List. </li>
                             <h4 class="section-title">Education</h4>
                         </div>
                         <ul>
-                           <li>Ph.D. in Psychology, MSU Baroda (2019) <br>Title: “To construct and test the Multi-component Trait Model of Personality in Indian 
-Psychology”</li>
-                           <li>PG Diploma in Clinically Applied Hypnotherapy, MSU Baroda (2010) </li>
-                           <li>M.A. in Psychology, MSU Baroda (2009) </li>
-                           <li>B.A. (Hons) in Psychology, IEHE, Bhopal (2007) </li>
-                           
+                            <li>Ph.D. in Psychology, MSU Baroda (2019) <br>Title: “To construct and test the
+                                Multi-component Trait Model of Personality in Indian
+                                Psychology”</li>
+                            <li>PG Diploma in Clinically Applied Hypnotherapy, MSU Baroda (2010) </li>
+                            <li>M.A. in Psychology, MSU Baroda (2009) </li>
+                            <li>B.A. (Hons) in Psychology, IEHE, Bhopal (2007) </li>
+
                         </ul>
                     </div>
                 </div>
@@ -305,12 +284,12 @@ Psychology”</li>
                 </div>
                 <ul>
                     <li>Applied Indian Psychology (Core & IDE Papers)</li>
-<li>Counseling Process and Skills (Core Papers)</li>
-<li>Biological psychology (Core Papers)</li>
-<li>Psychology of Personality (Core Papers)</li>
-<li>Statistics in Psychology (Core Papers)</li>
-<li>Lifespan Development (Core Papers)</li>
-<li>Research Methodology (Core Papers)</li>
+                    <li>Counseling Process and Skills (Core Papers)</li>
+                    <li>Biological psychology (Core Papers)</li>
+                    <li>Psychology of Personality (Core Papers)</li>
+                    <li>Statistics in Psychology (Core Papers)</li>
+                    <li>Lifespan Development (Core Papers)</li>
+                    <li>Research Methodology (Core Papers)</li>
                 </ul>
             </div>
         </div>
