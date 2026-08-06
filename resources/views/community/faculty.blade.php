@@ -106,7 +106,7 @@
                                 class="img-fluid hover-img">
                         </div>
                         <div class="faculty_content_box">
-                            <div class="faculty_name">Ms. Gayatri Mendanha</div>
+                            <div class="faculty_name">Dr. Gayatri Mendanha</div>
                             <div class="faculty_position">(Assistant Professor)</div>
                             <a class="faculty_mail" href="mailto: gayatri@ssla.edu.in">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">

@@ -83,15 +83,26 @@
                                 </div>
                             </div>
                             <!-- Teaching Philosophy -->
-                            <!-- <div class="teaching-philosophy">
+                            <div class="teaching-philosophy">
                                 <h5>Teaching Philosophy</h5>
-                                <p>
-                                    His pedagogical philosophy is rooted in experiential and problem-solving
-                                    approaches, integrating field-based learning and cross-disciplinary
-                                    frameworks. Dr. Ghosh envisions classrooms as collaborative spaces where
-                                    knowledge creation is shared between educators and students.
-                                </p>
-                            </div> -->
+                                <p>As a teacher, I understand the enormity of my responsibility in presenting precise
+                                    information objectively to students. Communication in the academic world needs to be
+                                    sensitive to the crucial role that the teacher plays in shaping the worldview of
+                                    another, without hampering who they finally become. At the same time, I think a
+                                    holistic teaching experience is one which is based on a foundation of humility –
+                                    both of the teacher’s and that of the students, as both complement each other,
+                                    preferably through a collaborative format with shared academic goals.</p>
+                                <p>In my classroom, students get an insight into contemporary social life within its
+                                    historical context and in terms of the social structures that operate at the local,
+                                    national and global levels. In teaching my courses, I have realized that not only
+                                    dialogue but also active engagement with the issues by going out into the field, are
+                                    the two main ways in which students can learn.</p>
+                                <p>In all of my teaching experience, I have constantly reminded myself that true
+                                    pedagogy is not one where the teacher assumes an air of aloofness to compete with
+                                    students in demonstrating academic or intellectual superiority. Both my pedagogy and
+                                    the teaching philosophy that shapes it, function on the awareness that the teacher,
+                                    just as the student, is constantly growing and learning.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -103,34 +114,31 @@
                         class="header-icon">
                     <h4 class="section-title">Bio</h4>
                 </div>
-                <p>
-                    Dr. Renu Vinod is Assistant Professor (Adjunct), at the Symbiosis School for Liberal Arts
-                    (SSLA), SIU, Pune since 2020 before which she worked as lecturer at the Department of
-                    Sociology, Savitribai Phule Pune University. She received her PhD from Jawaharlal Nehru
-                    University, Delhi. She has undertaken postdoctoral work at the University of Uppsala, Sweden
-                    (2015) and the University of Freiburg, Germany (2009). Prior to joining academia, she worked in
-                    the development sector in New Delhi in the fields of right to information (Commonwealth Human
-                    Rights Initiative) and informal sector livelihoods (Centre for Civil Society), and in the field of
-                    corporate social responsibility (Times Foundation, Bennett, Coleman and Company Ltd.).
-                </p>
-                <p>
-                    At SSLA, she oversees the sociology major and teaches a wide range of courses within the
-                    discipline, including classical sociological theory, the sociology of India, popular culture,
-                    environment and ecology, and the sociology of science and technology.
-                </p>
+                <p>Dr. Renu Vinod is Assistant Professor (Adjunct), at the Symbiosis School for Liberal Arts (SSLA),
+                    SIU, Pune since 2020. Before SSLA, she worked as lecturer at the Department of Sociology, Savitribai
+                    Phule Pune University. She received her PhD from Jawaharlal Nehru University, Delhi. She has
+                    undertaken postdoctoral work at the University of Uppsala, Sweden (2015) and the University of
+                    Freiburg, Germany (2009). Prior to joining the academia, she worked in the development sector in New
+                    Delhi in the fields of right to information (Commonwealth Human Rights Initiative) and informal
+                    sector livelihoods (Centre for Civil Society), and in the field of corporate social responsibility
+                    (Times Foundation, Bennett, Coleman and Company Ltd.).</p>
                 <p class="new_faculty_link">
                     Most recently, she has authored a book on the sociology of modernity in India titled, <a
                         href="https://www.routledge.com/Modernity-in-India-Issues-Perspectives-and-Challenges/Vinod/p/book/9781032622873"
-                        target="_blank">Modernity
-                        in India: Issues, Perspectives and Challenges</a> (Routledge, 2024) and a peer reviewed paper on
+                        target="_blank">Modernity in India: Issues, Perspectives and Challenges</a> (Routledge, 2024)
+                    and a peer reviewed paper on
                     the subjective experiences of female leaders during the COVID-19 pandemic titled, <a
                         href="https://wiscomp.org/peaceprints/PPJ-Vol9-2023/PPJ-Vol9-Article5-2023-Renu-Vinod.pdf"
-                        target="_blank">‘We Need to
-                        Provide Education’: A Phenomenological Study of Female School Leaders During the
+                        target="_blank">‘We Need to Provide Education’: A Phenomenological Study of Female School
+                        Leaders During the
                         COVID-19 Lockdown</a> (Peace Prints, 2023). Her most recent research is on non-formal
-                    educational spaces and the pedagogy of care. More information on her work is available at:
-                    Renu Vinod Curriculum Vitae.
+                    educational spaces and the pedagogy of care.
+                    She is currently researching the intersections between folk art, livelihoods and the state; climate
+                    politics and development and slum
+                    redevelopment in post-LPG India. More information on her work is available at: Renu Vinod Curriculum
+                    Vitae.
                 </p>
+
             </div>
             <div class="row mb-4">
                 <div class="col-md-6">
@@ -142,52 +150,23 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ol class="ps-3">
-                            <li><strong>Book </strong><br>Modernity in India: Issues, Challenges and Perspectives,
-                                Routledge, 2024
-                            </li>
-                            <li><strong>Chapter in Edited Book</strong><br>‘The Effect of Economic Capital and Swedish
-                                Cultural Capital on Bonding and Bridging Ties: A Study of First-Generation Malayalees in
-                                Sweden’ in Rajan, Irudaya (ed) India Migration Report 2019: Diaspora in Europe.
-                                Routledge, 2019</li>
+                            <strong> Book</strong>
+                            <li>Modernity in India: Issues, Challenges and Perspectives, Routledge, 2024</li>
 
+                            <strong>Peer Reviewed Journal</strong>
+
+                            <li>Resilient Solidarities: A Phenomenological Study of Female School Leaders in Five
+                                Private Schools. Peace Prints, South Asian Journal of Peacebuilding, December 2023</li>
+
+                            <strong>Chapter in Edited Book</strong>
+
+                            <li>‘The Effect of Economic Capital and Swedish Cultural Capital on Bonding and Bridging
+                                Ties: A Study of First-Generation Malayalees in Sweden’ in Rajan, Irudaya (ed) India
+                                Migration Report 2019: Diaspora in Europe. Routledge, 2019</li>
                             <li>‘The Pedagogy of Poverty and the digitisation of education’ in Lakshminarayan, Devaki
                                 (ed) Technology in Education: The Gap Between Policy and Praxis. Centre for
                                 Communication and Development Studies, 2019</li>
 
-                            <li>‘Participatory Democracy: Key to Effectuating Good Governance’ in Kumar, Anand and
-                                Tiwari, Manish (eds) Quest for Participatory Democracy: Towards Understanding the
-                                Approach of Gandhi and Jayaprakash Narayan. Rawat Publications, New Delhi and Jaipur,
-                                2010.</li>
-                            <li><strong>Peer Reviewed Journal
-                                </strong><br>Resilient Solidarities: A Phenomenological Study of Female School Leaders
-                                in Five Private Schools. Peace Prints, South Asian Journal of Peacebuilding, December
-                                2023</li>
-
-                            <li>‘Negotiating Values in India: A Theoretical Exploration’, Journal of Human Values. Sage
-                                Publications, New Delhi, January 2016.</li>
-                            <li><strong>Articles in Journals, Reports and Newspapers
-                                </strong><br>‘Right to Information: People’s Right and Government’s Denial’ and
-                                ‘Education: Is Jharkhand on the Right Track?’ in State of Governance: Jharkhand Citizen
-                                Handbook 2007, Report prepared by Centre for Civil Society, New Delhi, 2007</li>
-
-                            <li>‘Department of Home’ and ‘Labour, Planning and Training Department’ in State of
-                                Governance: Jharkhand Citizen Handbook 2006, Report prepared by Centre for Civil
-                                Society, New Delhi (co-authored with Sanjay Kumar Sah), 2006</li>
-
-                            <li>‘Too Much on One Shoulder: The Atlas Shall Shrug!’, 4 Labour File 1, Jan-Feb 2006
-                                (co-authored with Parth J Shah)</li>
-
-                            <li>‘Open access to information’, Business Standard, December 27, 2005</li>
-
-                            <li>‘Self-employed sidelined in Unorganized Workers Bill’, The Hindu, September 18, 2005
-                            </li>
-
-                            <li>‘No space for street hawkers’, Business Standard, August 23, 2005.</li>
-                            <li>‘National Convention Celebrates A Decade of RTI in India’, 11 Commonwealth
-                                Human Rights Initiative Newsletter 4, Winter, 2004 </li>
-                            <li><strong>Government Report </strong>Annual Report of Central Information Commission
-                                (2005-06), Ministry of Personnel, Public Grievances & Pensions, November 2006 (Report
-                                tabled in Parliament of India in the year 2007)</li>
                         </ol>
                     </div>
                 </div>
@@ -220,29 +199,24 @@
                                     <li>Graduate in Sociology (2000).</li>
                                 </ul>
                             </li>
+
                         </ul>
                     </div>
                 </div>
             </div>
 
             <!-- RESEARCH INTERESTS -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/search-alt.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Research Interests</h4>
                 </div>
                 <ul class="research-list">
-                    <li>Climate Vulnerability & Adaptation</li>
-                    <li>Forest Resource Management</li>
-                    <li>Environmental Economics</li>
-                    <li>Green Urban Planning</li>
-                    <li>Environmental Justice</li>
-                    <li>Energy & Just Transitions</li>
-                    <li>Air Pollution Mitigation</li>
-                    <li>Dalit Environmentalism</li>
+                    <li>Sociology of: education, development, India, modernity</li>
+
                 </ul>
-            </div> -->
+            </div>
             <!-- AWARDS -->
             <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
@@ -251,23 +225,34 @@
                     <h4 class="section-title">Awards & Fellowships</h4>
                 </div>
                 <ul>
-                  <li>Co-Principal Investigator, Minor Research Project (2021-2022) in Humanities and Social Sciences, Symbiosis School for Liberal Arts, Symbiosis International University</li>
-                  <li>Post-Doctoral Fellow, Erasmus Mundus EXPERTS4Asia Consortium Grant, Uppsala University, Sweden (Dec 2015-June 2016)</li>
-                  <li>Faculty Exchange, Erasmus Mundus Scholar Grant, University of Groningen, The Netherlands and University of Uppsala, Sweden (October 2013)</li>
-                  <li>Postdoctoral Fellow, Erasmus Mundus Grant, Albert-Ludwigs-Universität Freiburg, Germany (Sep 2009– June 2010)</li>
+                    <li>Co-Principal Investigator, Minor Research Project (2021-2022) in Humanities and Social Sciences,
+                        Symbiosis School for Liberal Arts, Symbiosis International University</li>
+                    <li>Post-Doctoral Fellow, Erasmus Mundus EXPERTS4Asia Consortium Grant, Uppsala University, Sweden
+                        (Dec 2015-June 2016)</li>
+                    <li>Faculty Exchange, Erasmus Mundus Scholar Grant, University of Groningen, The Netherlands and
+                        University of Uppsala, Sweden (October 2013)</li>
+                    <li>Postdoctoral Fellow, Erasmus Mundus Grant, Albert-Ludwigs-Universität Freiburg, Germany (Sep
+                        2009– June 2010)</li>
+
                 </ul>
             </div>
             <!-- COURSES -->
-            <!-- <div class="section-card" data-aos="fade-up">
+            <div class="section-card" data-aos="fade-up">
                 <div class="section-header">
                     <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
                         class="header-icon">
                     <h4 class="section-title">Courses Taught</h4>
                 </div>
                 <ul>
-                    <li>Research Methodology: Philosophy, Methods & Analysis</li>
+                    <li>Principles of Sociology</li>
+                    <li>Sociology of India</li>
+                    <li>Popular Culture, Media and Everyday Life</li>
+                    <li>Environment, Ecology and Society</li>
+                    <li>Sociology of Science and Technology</li>
+                    <li>Sociology of Globalisation, Global Culture, Economy, Emerging Issues</li>
+
                 </ul>
-            </div> -->
+            </div>
         </div>
     </section>
     <!-- Details section End -->

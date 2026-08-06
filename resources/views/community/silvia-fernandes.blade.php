@@ -102,15 +102,26 @@
                                 </div>
                             </div>
                             <!-- Teaching Philosophy -->
-                            <!-- <div class="teaching-philosophy">
+                            <div class="teaching-philosophy">
                                 <h5>Teaching Philosophy</h5>
-                                <p>
-                                    His pedagogical philosophy is rooted in experiential and problem-solving
-                                    approaches, integrating field-based learning and cross-disciplinary
-                                    frameworks. Dr. Ghosh envisions classrooms as collaborative spaces where
-                                    knowledge creation is shared between educators and students.
+                                <p>I strongly believe that learning is not a one-way street. Every one of my classes is
+                                    an opportunity for me to gain a deeper understanding of the topic along with my
+                                    students. I try to achieve this by balancing content with activity-based learning. I
+                                    strive to create an environment where students feel comfortable asking questions,
+                                    discussing ideas, and feeling validated rather than judged. I try to connect
+                                    theoretical concepts to everyday experiences and real-world issues to make the
+                                    content relevant to the students.
+
                                 </p>
-                            </div> -->
+                                <p>
+                                    As a faculty of Psychology, I encourage students to engage in critical thinking and
+                                    real-world application. Students can expect a mix of theory and activities like
+                                    debates, discussions and case studies to facilitate learning. I try to experiment
+                                    with unique assessment formats to gauge student learning in non-traditional ways.
+                                    Ultimately, I strive for my students to be curious, critical thinkers who will
+                                    continue to be lifelong learners.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -230,17 +241,28 @@
                             <li>Ph. D. Psychology (SPPU) on the topic of Internet Abuse and its Related Variables among
                                 Teenagers (2018)</li>
 
-                            <li>MA Clinical Psychology (SPPU) [4.94 GPA]</li>
+                            <li>MA Clinical Psychology (SPPU)</li>
 
-                            <li>BA Psychology (Wadia College) [77.75%]</li>
+                            <li>BA Psychology (Wadia College)</li>
 
-                            <li>HSC (Wadia College) (74.17%)</li>
+                            <li>HSC (Wadia College)</li>
 
-                            <li>SSC (St. Josephs’ Convent, Kirkee) (69%)</li>
+                            <li>SSC (St. Josephs’ Convent, Kirkee)</li>
                             <!-- --- -->
                         </ol>
                     </div>
+                 
                 </div>
+            </div>
+                 <div class="section-card" data-aos="fade-up">
+                <div class="section-header">
+                    <img src="{{ asset('/assets/images/faculty/inner/cource.svg') }}" alt="Introduction icon"
+                        class="header-icon">
+                    <h4 class="section-title">Courses Taught</h4>
+                </div>
+                <ul>
+                   <li>Introduction to Psychology, Educational Psychology, Psychopathology, Research Methodology: Research Proposal.</li>
+                </ul>
             </div>
         </div>
     </section>
