@@ -34,7 +34,31 @@
             </div>
         </div>
     </section>
-    <section class="orientation_week_table_section">
+    <section class="red_carpet_third_section" data-aos="fade-up">
+        <div class="red_carpet owl-carousel">
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/events/Induction-2026-01.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/events/Induction-2026-02.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/events/Induction-2026-03.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="red_carpet_slider_listing">
+                <div class="red_carpet_slider_listing_imgbox">
+                    <img src="{{ asset('assets/images/events/Induction-2026-04.webp') }}" alt="" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="orientation_week_table_section" data-aos="fade-up">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
