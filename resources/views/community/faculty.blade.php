@@ -545,9 +545,9 @@
                 <div class="col-lg-3 col-md-4 col-sm-12 mt-4">
                     <div class="faculty_box_inner">
                         <div class="faculty_profile">
-                            <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr.Debapriya Ganguly"
+                            <img src="{{ asset('assets/images/faculty/anurupa-ghatge-modified.webp') }}" alt="Dr.Debapriya Ganguly"
                                 class="img-fluid normal-img">
-                            <img src="{{ asset('assets/images/faculty/dummy-avatar.jpg') }}" alt="Dr. Debapriya Ganguly"
+                            <img src="{{ asset('assets/images/faculty/anurupa-ghatge.webp') }}" alt="Dr. Debapriya Ganguly"
                                 class="img-fluid hover-img">
                         </div>
 
