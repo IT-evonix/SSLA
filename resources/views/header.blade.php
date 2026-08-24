@@ -684,7 +684,7 @@
                                                                 </a>
                                                             </div>
                                                             <div class="megamenu_listing">
-                                                                <a href="#">
+                                                                <a href="{{url('/internationlisation')}}">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
                                                                             viewBox="0 0 24 24">
@@ -959,7 +959,7 @@
                                                                     <div class="mega_menu_name_box">Alumni</div>
                                                                 </a>
                                                             </div>
-                                                            <div class="megamenu_listing">
+                                                            <!-- <div class="megamenu_listing">
                                                                 <a href="#">
                                                                     <div class="mega_menu_icon_box">
                                                                         <svg width="14" height="14" x="0" y="0"
@@ -976,7 +976,7 @@
                                                                     <div class="mega_menu_name_box">SSLA Committees
                                                                     </div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <!-- <div class="megamenu_listing">
                                                                 <a href="{{url('/achievements')}}">
                                                                     <div class="mega_menu_icon_box">

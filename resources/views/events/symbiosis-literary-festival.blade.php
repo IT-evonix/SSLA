@@ -668,7 +668,7 @@
                                 </p>
                             </div>
                             <div class="new_slf_btns">
-                                <a href="" class="new_slf_btns_listing">
+                                <a href="https://www.youtube.com/watch?v=u4bCeOiX_Eg&list=PLxxKMckAf1QbwwxDi9rrRC3rFfijIDMgv&index=15" target="_blank" class="new_slf_btns_listing">
                                     <div>
                                         <svg width="16" height="16" x="0" y="0" viewBox="0 0 49 49">
                                             <g>

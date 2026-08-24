@@ -530,7 +530,30 @@
                                 <div class="heading">
                                     <h2>Explore Our <span>Courses</span></h2>
                                 </div>
-                                <div class="our_courses_tabingbox">
+                                <div class="new_home_our_couese_para_box">
+                                    <p><strong>
+                                        Our courses approach knowledge as interconnected rather than divided into separate disciplines. Students encounter different ways of thinking, making, and questioning, developing the ability to move across fields and examine complex questions from multiple perspectives.
+                                    </strong></p>
+                                </div>
+                                <div class="my_btnbox">
+                                    <a href="{{url('/courses')}}">
+                                        <div class="my_btn_namebox">Explore Courses</div>
+                                        <div class="my_btn_iconbox">
+                                            <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                                <g
+                                                    transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                    <path fill="#007382" fill-rule="evenodd"
+                                                        d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                        clip-rule="evenodd" opacity="1" data-original="#000000"
+                                                        class="">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                <!-------------- old code start ---------------->
+                                <div class="our_courses_tabingbox d-none">
                                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                                         <li class="nav-item" role="presentation">
                                             <a class="nav-link active" id="home-tab" data-bs-toggle="tab"
@@ -1780,7 +1803,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- New tab pane -->
                                         <div class="tab-pane fade" id="settings-tab-pane" role="tabpanel"
                                             aria-labelledby="settings-tab" tabindex="0">
                                             <div class="our_courses_list_mainbox">
@@ -2029,6 +2051,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                <!---------------- old code ends ---------------->
                             </div>
                         </div>
                     </div>

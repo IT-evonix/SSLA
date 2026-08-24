@@ -594,6 +594,16 @@ Route::get('course-international', function () {
     return view('/academics/courses/course-international', ['data_arr' => $data_arr]);
 });
 
+Route::get('internationlisation', function () {
+    $data_arr = array();
+    $data_arr['title'] = "";
+    $data_arr['keywords'] = "";
+    $data_arr['description'] = "";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/internationlisation";
+
+    return view('/academics/internationlisation', ['data_arr' => $data_arr]);
+});
+
 ///////// ACADEMICS Routes Ends //////////
 
 ///////// Community Routes Start //////////

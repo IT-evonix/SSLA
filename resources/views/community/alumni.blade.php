@@ -59,7 +59,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="main-class-alumini-img">
                             <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/download.png') }}" alt="Ira Chakraborty"
+                                <img src="{{ asset('/assets/images/community/Aashna-Banerjee.webp') }}" alt="Aashna Banerjee"
                                     class="img-fluid">
                             </div>
                             <h3>Aashna Banerjee</h3>
@@ -72,7 +72,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="main-class-alumini-img">
                             <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/download.png') }}" alt="Ira Chakraborty"
+                                <img src="{{ asset('/assets/images/community/alsi3.webp') }}" alt="Divyali Mehrotra"
                                     class="img-fluid">
                             </div>
                             <h3>Divyali Mehrotra</h3>
@@ -85,7 +85,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="main-class-alumini-img">
                             <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/download.png') }}" alt="Ira Chakraborty"
+                                <img src="{{ asset('/assets/images/community/Atmadeep-Sengupta.webp') }}" alt="Atmadeep Sengupta"
                                     class="img-fluid">
                             </div>
                             <h3>Atmadeep Sengupta</h3>
@@ -98,7 +98,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="main-class-alumini-img">
                             <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/download.png') }}" alt="Ira Chakraborty"
+                                <img src="{{ asset('/assets/images/community/Srushti-Borkar.webp') }}" alt="Srushti Borkar"
                                     class="img-fluid">
                             </div>
                             <h3>Srushti Borkar</h3>
@@ -198,7 +198,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="main-class-alumini-img">
                             <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/download.png') }}" alt="Ira Chakraborty"
+                                <img src="{{ asset('/assets/images/community/Harshavardhan-Sushant.webp') }}" alt="Harshavardhan Sushant"
                                     class="img-fluid">
                             </div>
                             <h3>Harshavardhan Sushant</h3>
@@ -230,7 +230,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="main-class-alumini-img">
                             <div class="alumni-image">
-                                <img src="{{ asset('/assets/images/community/download.png') }}" alt="Ira Chakraborty"
+                                <img src="{{ asset('/assets/images/community/Kritika-Balaji.webp') }}" alt="Krithika Balaji"
                                     class="img-fluid">
                             </div>
                             <h3>Krithika Balaji</h3>
