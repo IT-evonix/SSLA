@@ -156,7 +156,7 @@
                     <div class="page-header">
                         <div>
                             <h1 class="inner__red_heading">
-                                Academic Calender
+                                Academic Calendar July-Dec 2026 
                             </h1>
                             <p class="m-0">
                                 All holidays are tentative and subject to change as per the SIU Calendar.
@@ -167,102 +167,57 @@
                             <span class="legend-pill"><span class="legend-dot national"></span> National</span>
                         </div>
                     </div>
-                    <div class="calendar-columns">
-                        <section class="calendar-card">
-                            <header class="calendar-card-header">
-                                <div class="title-row">
-                                    <h2 id="cal1-title">August 2024</h2>
-                                    <div class="nav-buttons">
-                                        <button class="nav-btn" onclick="changeMonth(1, -1)">
-                                            <svg height="16" viewBox="0 0 24 24" width="16">
-                                                <g id="_17" data-name="17">
-                                                    <path
-                                                        d="m15 19a1 1 0 0 1 -.71-.29l-6-6a1 1 0 0 1 0-1.41l6-6a1 1 0 0 1 1.41 1.41l-5.29 5.29 5.29 5.29a1 1 0 0 1 -.7 1.71z">
-                                                    </path>
-                                                </g>
-                                            </svg>
-                                        </button>
-                                        <button class="nav-btn" onclick="changeMonth(1, 1)">
-                                            <svg id="fi_2989988" height="16" viewBox="0 0 6.3499999 6.3500002"
-                                                width="16">
-                                                <g id="layer1" transform="translate(0 -290.65)">
-                                                    <path id="path9429"
-                                                        d="m2.2580394 291.96502a.26460982.26460982 0 0 0 -.1741496.46871l1.6190225 1.38699-1.6190225 1.38648a.26460982.26460982 0 1 0 .3436483.40049l1.8536335-1.58595a.26460982.26460982 0 0 0 0-.40256l-1.8536335-1.5875a.26460982.26460982 0 0 0 -.1694987-.0667z"
-                                                        font-variant-ligatures="normal" font-variant-position="normal"
-                                                        font-variant-caps="normal" font-variant-numeric="normal"
-                                                        font-variant-alternates="normal" font-feature-settings="normal"
-                                                        text-indent="0" text-align="start" text-decoration-line="none"
-                                                        text-decoration-style="solid" text-decoration-color="rgb(0,0,0)"
-                                                        text-transform="none" text-orientation="mixed"
-                                                        white-space="normal" shape-padding="0" isolation="auto"
-                                                        mix-blend-mode="normal" solid-color="rgb(0,0,0)"
-                                                        solid-opacity="1" vector-effect="none"></path>
-                                                </g>
-                                            </svg>
-                                        </button>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                            <div class="calendar_card_mainbox">
+                                <div class="calendar-card">
+                                    <header class="calendar-card-header">
+                                        <div class="title-row">
+                                            <!-- <h2 id="cal1-title">August 2024</h2> -->
+                                             <div class="cal_title_with_icon">
+                                                <div class="cal_title_icon">
+                                                    <svg width="25" height="25" x="0" y="0" viewBox="0 0 48 48"><g transform="matrix(0.7499999999999998,0,0,0.7499999999999998,6.0000000000000036,6.0000000000000036)"><rect width="4" height="6" x="11" y="3" rx="2" fill="#ffffff" opacity="1" data-original="#000000" class=""></rect><rect width="4" height="6" x="33" y="3" rx="2" fill="#ffffff" opacity="1" data-original="#000000" class=""></rect><path d="M4 18v23a4 4 0 0 0 4 4h32a4 4 0 0 0 4-4V18zm12 20a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm0-11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm11 11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm0-11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm11 11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm0-11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zM44 16v-6a4 4 0 0 0-4-4h-1v1c0 2.206-1.794 4-4 4s-4-1.794-4-4V6H17v1c0 2.206-1.794 4-4 4S9 9.206 9 7V6H8a4 4 0 0 0-4 4v6z" fill="#ffffff" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                </div>
+                                                <h2 id="cal1-title">August 2024</h2>
+                                            </div>
+                                            <div class="nav-buttons">
+                                                <button class="nav-btn" onclick="changeMonth(-1)">
+                                                    <svg height="16" viewBox="0 0 24 24" width="16">
+                                                        <g id="_17" data-name="17">
+                                                            <path
+                                                                d="m15 19a1 1 0 0 1 -.71-.29l-6-6a1 1 0 0 1 0-1.41l6-6a1 1 0 0 1 1.41 1.41l-5.29 5.29 5.29 5.29a1 1 0 0 1 -.7 1.71z">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
+                                                </button>
+                                                <button class="nav-btn" onclick="changeMonth(1)">
+                                                    <svg id="fi_2989988" height="16" viewBox="0 0 6.3499999 6.3500002" width="16">
+                                                        <g id="layer1" transform="translate(0 -290.65)">
+                                                            <path id="path9429"
+                                                                d="m2.2580394 291.96502a.26460982.26460982 0 0 0 -.1741496.46871l1.6190225 1.38699-1.6190225 1.38648a.26460982.26460982 0 1 0 .3436483.40049l1.8536335-1.58595a.26460982.26460982 0 0 0 0-.40256l-1.8536335-1.5875a.26460982.26460982 0 0 0 -.1694987-.0667z">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </header>
+                                    <div class="weekday-row">
+                                        <div>SUN</div>
+                                        <div>MON</div>
+                                        <div>TUE</div>
+                                        <div>WED</div>
+                                        <div>THU</div>
+                                        <div>FRI</div>
+                                        <div>SAT</div>
                                     </div>
+                                    <div class="calendar-grid" id="cal1-grid"></div>
                                 </div>
-
-                            </header>
-                            <div class="weekday-row">
-                                <div>SUN</div>
-                                <div>MON</div>
-                                <div>TUE</div>
-                                <div>WED</div>
-                                <div>THU</div>
-                                <div>FRI</div>
-                                <div>SAT</div>
-                            </div>
-                            <div class="calendar-grid" id="cal1-grid"></div>
-                        </section>
-
-                        <section class="calendar-card">
-                            <header class="calendar-card-header">
-                                <div class="title-row">
-                                    <h2 id="cal2-title">September 2024</h2>
-                                    <div class="nav-buttons">
-                                        <button class="nav-btn" onclick="changeMonth(2, -1)">
-                                            <svg height="16" viewBox="0 0 24 24" width="16">
-                                                <g id="_17" data-name="17">
-                                                    <path
-                                                        d="m15 19a1 1 0 0 1 -.71-.29l-6-6a1 1 0 0 1 0-1.41l6-6a1 1 0 0 1 1.41 1.41l-5.29 5.29 5.29 5.29a1 1 0 0 1 -.7 1.71z">
-                                                    </path>
-                                                </g>
-                                            </svg>
-                                        </button>
-                                        <button class="nav-btn" onclick="changeMonth(2, 1)">
-                                            <svg id="fi_2989988" height="16" viewBox="0 0 6.3499999 6.3500002"
-                                                width="16">
-                                                <g id="layer1" transform="translate(0 -290.65)">
-                                                    <path id="path9429"
-                                                        d="m2.2580394 291.96502a.26460982.26460982 0 0 0 -.1741496.46871l1.6190225 1.38699-1.6190225 1.38648a.26460982.26460982 0 1 0 .3436483.40049l1.8536335-1.58595a.26460982.26460982 0 0 0 0-.40256l-1.8536335-1.5875a.26460982.26460982 0 0 0 -.1694987-.0667z"
-                                                        font-variant-ligatures="normal" font-variant-position="normal"
-                                                        font-variant-caps="normal" font-variant-numeric="normal"
-                                                        font-variant-alternates="normal" font-feature-settings="normal"
-                                                        text-indent="0" text-align="start" text-decoration-line="none"
-                                                        text-decoration-style="solid" text-decoration-color="rgb(0,0,0)"
-                                                        text-transform="none" text-orientation="mixed"
-                                                        white-space="normal" shape-padding="0" isolation="auto"
-                                                        mix-blend-mode="normal" solid-color="rgb(0,0,0)"
-                                                        solid-opacity="1" vector-effect="none"></path>
-                                                </g>
-                                            </svg>
-                                        </button>
-                                    </div>
+                                <div class="calendar_card_imagebox">
+                                    <img src="{{ asset('assets/images/academics/symbiosis-calendar.webp') }}" alt="SSLA Calendar" class="img-fluid">
                                 </div>
-
-                            </header>
-                            <div class="weekday-row">
-                                <div>SUN</div>
-                                <div>MON</div>
-                                <div>TUE</div>
-                                <div>WED</div>
-                                <div>THU</div>
-                                <div>FRI</div>
-                                <div>SAT</div>
                             </div>
-                            <div class="calendar-grid" id="cal2-grid"></div>
-                        </section>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -296,81 +251,207 @@
 
 <script>
 const holidays = {
-    "2026-01-02": {
+    "2026-07-12": {
+        name: "Orientation for Batch 2026-30",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Orientation for Batch 2026-30"
+    },
+    "2026-07-18": {
+        name: "Orientation for Batch 2026-30",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Orientation for Batch 2026-30"
+    },
+    "2026-07-20": {
         name: "Classes begin",
         type: "Academic Event",
         colorClass: "holiday-academic",
-        desc: "The official assembly for all faculty members to inaugurate the new academic year and discuss research priorities."
+        desc: "Classes begin"
     },
-    "2026-01-14": {
-        name: "Makar Sankranti",
+    "2026-08-15": {
+        name: "Independence Day",
         type: "National Holiday",
         colorClass: "holiday-national",
-        desc: "Official commencement of the Fall academic session. Enrollment verification and syllabus distribution day."
+        desc: "Independence Day"
     },
-    "2025-07-14": {
-        name: "15th PRC Meeting",
+    "2026-08-20": {
+        name: "COP Reports due for Batch 2024-28",
         type: "Academic Event",
         colorClass: "holiday-academic",
-        desc: "The institution is closed in observance of Labor Day. All research labs and libraries will remain accessible via keycard."
+        desc: "COP Reports due for Batch 2024-28"
     },
-    "2025-07-21": {
-        name: "Classes begin",
+    "2026-08-26": {
+        name: "Eid-e-Milad",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Eid-e-Milad"
+    },
+    "2026-08-28": {
+        name: "Raksha Bandhan",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Raksha Bandhan"
+    },
+    "2026-09-20": {
+        name: "Internship Reports",
         type: "Academic Event",
         colorClass: "holiday-academic",
-        desc: "The institution is closed in observance of Labor Day. All research labs and libraries will remain accessible via keycard."
+        desc: "Internship Reports due for Batch 2023-27"
     },
-
-
-    // "2024-09-02": {
-    //     name: "Labor Day",
-    //     type: "National Holiday",
-    //     colorClass: "holiday-national",
-    //     desc: "The institution is closed in observance of Labor Day. All research labs and libraries will remain accessible via keycard."
-    // },
-    // "2024-09-21": {
-    //     name: "Research Symposium",
-    //     type: "Conference",
-    //     colorClass: "holiday-conference",
-    //     desc: "A full-day event showcasing ongoing institutional research projects and collaborative faculty presentations."
-    // }
+    "2026-09-14": {
+        name: "Ganesh Chaturthi",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Ganesh Chaturthi"
+    },
+    "2026-09-25": {
+        name: "Anant Chaturdashi",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Anant Chaturdashi"
+    },
+    "2026-10-01": {
+        name: "Deadline",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Deadline to share marks for assignments worth at least 35 marks (out of a total of 75 marks CA) with students and Academics Department"
+    },
+    "2026-10-02": {
+        name: "Gandhi Jayanti",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Gandhi Jayanti"
+    },
+    "2026-10-20": {
+        name: "Dussehra",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Dussehra"
+    },
+    "2026-10-23": {
+        name: "Deadline",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Deadline to share marks for assignments worth at least 50 marks (out of a total of 75 marks CA) with students and Academics Department"
+    },
+    "2026-10-24": {
+        name: "Symbiosis Literature Festival",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Symbiosis Literature Festival (Tentative)"
+    },
+    "2026-10-25": {
+        name: "Symbiosis Literature Festival",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Symbiosis Literature Festival (Tentative)"
+    },
+    "2026-10-30": {
+        name: "Traditional day",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Traditional day (Tentative)"
+    },
+    "2026-11-06": {
+        name: "Diwali",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Diwali"
+    },
+    "2026-11-11": {
+        name: "Diwali",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Diwali"
+    },
+    "2026-11-16": {
+        name: "Academic",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "1- Attendance freezes (at 11.45 am) and Last date to apply for condonation (12 noon) <br><br> 2- Deadline to share all CA marks with students and Academics Department"
+    },
+    "2026-11-17": {
+        name: "Last date",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Last date for students to request a correction in CA marks"
+    },
+    "2026-11-18": {
+        name: "Academic",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "1- CNG list declared (Calculated as on 17th Nov) <br> 2- TNG list will be declared after finalizing CNG list <br> 3- CA marks freeze"
+    },
+    "2026-11-20": {
+        name: "Last date",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Last date for faculty members to make any correction in CA marks"
+    },
+    "2026-11-20": {
+        name: "Last day of classes",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Last day of classes"
+    },
+    "2026-11-22": {
+        name: "Study Break",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Study Break"
+    },
+    "2026-11-23": {
+        name: "Study Break",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Study Break"
+    },
+    "2026-11-24": {
+        name: "Semester End Evaluations - TE",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Semester End Evaluations - TE"
+    },
+    "2026-12-10": {
+        name: "Backlog examinations",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Backlog examinations (including Research Project (dissertation), Internship and COP – exact dates to be declared 2 months in advance)"
+    },
+    "2026-12-23": {
+        name: "Backlog examinations",
+        type: "Academic Event",
+        colorClass: "holiday-academic",
+        desc: "Backlog examinations (including Research Project (dissertation), Internship and COP – exact dates to be declared 2 months in advance)"
+    },
+    "2026-12-25": {
+        name: "Christmas",
+        type: "National Holiday",
+        colorClass: "holiday-national",
+        desc: "Christmas"
+    },
 };
 
-// State for both calendars
+const today = new Date();
 const state = {
-    cal1: {
-        year: 2026,
-        month: 0
-    }, 
-    cal2: {
-        year: 2025,
-        month: 6
-    }
+    year: today.getFullYear(),
+    month: today.getMonth()
 };
 
-const monthNamesCal1 = ["January", "February", "March", "April", "May", "June", "July", "August", "September",
+const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September",
     "October", "November", "December"
 ];
 
-const monthNamesCal2 = ["January", "February", "March", "April", "May", "June", "July", "August", "September",
-    "October", "November", "December"
-];
-
-const monthNamesByCal = {
-    1: monthNamesCal1,
-    2: monthNamesCal2
-};
-
-function renderCalendar(id) {
-    const calState = state[`cal${id}`];
-    const grid = document.getElementById(`cal${id}-grid`);
-    const title = document.getElementById(`cal${id}-title`);
+function renderCalendar() {
+    const grid = document.getElementById('cal1-grid');
+    const title = document.getElementById('cal1-title');
 
     grid.innerHTML = '';
-    title.innerText = `${monthNamesByCal[id][calState.month]} ${calState.year}`;
+    title.innerText = `${monthNames[state.month]} ${state.year}`;
 
-    const firstDay = new Date(calState.year, calState.month, 1).getDay();
-    const daysInMonth = new Date(calState.year, calState.month + 1, 0).getDate();
+    const firstDay = new Date(state.year, state.month, 1).getDay();
+    const daysInMonth = new Date(state.year, state.month + 1, 0).getDate();
 
     for (let i = 0; i < firstDay; i++) {
         grid.innerHTML += `<div class="day-cell empty"></div>`;
@@ -378,7 +459,7 @@ function renderCalendar(id) {
 
     for (let day = 1; day <= daysInMonth; day++) {
         const dateKey =
-            `${calState.year}-${String(calState.month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+            `${state.year}-${String(state.month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
         const isHoliday = holidays[dateKey];
 
         const cell = document.createElement('div');
@@ -388,17 +469,16 @@ function renderCalendar(id) {
         if (isHoliday) {
             cell.onclick = () => showHoliday(dateKey);
         } else {
-            cell.onclick = () => showEmptyDay(day, calState.month + 1, calState.year);
+            cell.onclick = () => showEmptyDay(day, state.month + 1, state.year);
         }
 
         grid.appendChild(cell);
     }
 }
 
-function changeMonth(id, delta) {
-    const calKey = `cal${id}`;
-    let newMonth = state[calKey].month + delta;
-    let newYear = state[calKey].year;
+function changeMonth(delta) {
+    let newMonth = state.month + delta;
+    let newYear = state.year;
 
     if (newMonth < 0) {
         newMonth = 11;
@@ -408,37 +488,28 @@ function changeMonth(id, delta) {
         newYear++;
     }
 
-    state[calKey].month = newMonth;
-    state[calKey].year = newYear;
-    renderCalendar(id);
+    state.month = newMonth;
+    state.year = newYear;
+    renderCalendar();
 }
 
 function showHoliday(key) {
     const data = holidays[key];
     const date = new Date(key + 'T00:00:00');
-    const options = {
-        weekday: 'long',
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-    };
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
 
     document.getElementById('holiday-name').innerText = data.name;
     document.getElementById('holiday-badge').innerText = data.type;
     document.getElementById('holiday-date').innerText = date.toLocaleDateString('en-US', options);
-    document.getElementById('holiday-desc').innerText = data.desc;
+    // document.getElementById('holiday-desc').innerText = data.desc;
+    document.getElementById('holiday-desc').innerHTML = data.desc;
 
     openPanel();
 }
 
 function showEmptyDay(day, month, year) {
     const date = new Date(year, month - 1, day);
-    const options = {
-        weekday: 'long',
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-    };
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
 
     document.getElementById('holiday-name').innerText = "Academic Workday";
     document.getElementById('holiday-badge').innerText = "Standard";
@@ -462,9 +533,7 @@ function closePanel() {
     document.getElementById('panel-content').classList.remove('modal-enter-active');
 }
 
-// Initial render
-renderCalendar(1);
-renderCalendar(2);
+renderCalendar();
 
 document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') closePanel();
