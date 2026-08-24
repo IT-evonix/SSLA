@@ -454,7 +454,9 @@ function renderCalendar() {
     const daysInMonth = new Date(state.year, state.month + 1, 0).getDate();
 
     for (let i = 0; i < firstDay; i++) {
-        grid.innerHTML += `<div class="day-cell empty"></div>`;
+        const emptyCell = document.createElement('div');
+        emptyCell.className = 'day-cell empty';
+        grid.appendChild(emptyCell);
     }
 
     for (let day = 1; day <= daysInMonth; day++) {
@@ -473,6 +475,15 @@ function renderCalendar() {
         }
 
         grid.appendChild(cell);
+    }
+
+    // Pad trailing cells so every month always renders exactly 6 rows (42 cells)
+    const totalCells = firstDay + daysInMonth;
+    const trailingEmpty = 42 - totalCells;
+    for (let i = 0; i < trailingEmpty; i++) {
+        const emptyCell = document.createElement('div');
+        emptyCell.className = 'day-cell empty';
+        grid.appendChild(emptyCell);
     }
 }
 
