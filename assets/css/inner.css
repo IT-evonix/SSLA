@@ -224,7 +224,7 @@
 }
 
 .faculty_box_inner:hover {
-    transform: translateY(-6px);
+    /* transform: translateY(-6px); */
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
 }
 
@@ -292,15 +292,15 @@
 }
 
 /* On hover: show second image */
-.faculty_profile:hover .hover-img {
+.faculty_box_inner:hover .faculty_profile .hover-img {
     opacity: 1;
     /* transform: scale(1.08); */
 }
 
 /* On hover: hide first image */
-.faculty_profile:hover .normal-img {
+.faculty_box_inner:hover .faculty_profile .normal-img {
     opacity: 0;
-    transform: scale(1.08);
+    /* transform: scale(1.08); */
 }
 
 
@@ -466,7 +466,8 @@
 
 
 .main-banner-box {
-    padding: 130px 0 40px 0;
+    /* padding: 130px 0 40px 0; */
+    padding: 40px 0 40px 0;
     text-align: center;
     background: hsl(187, 100%, 25%);
     overflow: hidden;
@@ -480,6 +481,7 @@
 
 
 .main-banner-box .animated-bg span {
+    display: none;
     position: absolute;
     width: 200px;
     height: 200px;
