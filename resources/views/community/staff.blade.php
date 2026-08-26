@@ -4,7 +4,6 @@
 </div> -->
 <div class="main-banner-box">
     <div class="sub-main-banner">
-        <h1 class="inner_heading">Staff</h1>
         <div class="animated-bg">
             <span></span>
             <span></span>
@@ -17,6 +16,7 @@
 <main class="staff_main">
     <!-- Inner section start -->
     <section class="inner_section">
+        <h1 class="inner__red_heading">Staff</h1>
         <div class="staff-sub-inner">
             <div class="container">
                 <!-- <div>
