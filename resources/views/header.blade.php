@@ -194,7 +194,7 @@
                                                                         <div class="mega_menu_name_box">About SIU</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <!-- <div class="megamenu_listing">
                                                                     <a target="_blank"
                                                                         href="{{ asset('assets/pdf/SSLA-E-Brochure.pdf') }}">
                                                                         <div class="mega_menu_icon_box">
@@ -211,7 +211,7 @@
                                                                         </div>
                                                                         <div class="mega_menu_name_box">E-Brochure</div>
                                                                     </a>
-                                                                </div>
+                                                                </div> -->
                                                             </div>
                                                         </div>
                                                     </div>

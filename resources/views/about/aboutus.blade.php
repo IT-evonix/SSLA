@@ -249,8 +249,61 @@
         </div>
     </section>
     <section class="inner_about_section_creative" data-aos="fade-up">
-        <div class="inner_about_section_creative_mainbox">
-            <img src="{{ asset('assets/images/about/about-creative.webp') }}" alt="About courses" class="img-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="new_about_two_bottom_btns">
+                        <div class="inner_about_section_creative_mainbox">
+                            <!-- <img src="{{ asset('assets/images/about/about-creative.webp') }}" alt="About courses" class="img-fluid"> -->
+                            <div class="inner_about_section_creative_left">
+                                <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.7000000000000005,0,0,0.7000000000000005,3.600000286102299,3.600387597084044)"><path d="M2.134 10.356c-.566-.313-.884-.861-.884-1.434 0-.574.318-1.122.884-1.434l8.314-4.595a3.28 3.28 0 0 1 3.104 0l8.314 4.595c.566.312.884.86.884 1.434 0 .573-.318 1.121-.884 1.434l-8.314 4.594a3.27 3.27 0 0 1-3.104 0zm.725-1.313 8.314 4.594a1.74 1.74 0 0 0 1.654 0l8.314-4.594c.055-.03.109-.066.109-.121 0-.056-.054-.091-.109-.122l-8.314-4.594a1.74 1.74 0 0 0-1.654 0L2.859 8.8c-.055.031-.109.066-.109.122s.054.091.109.121" fill="#007382" opacity="1" data-original="#000000"></path><path d="M18.25 11.25a.75.75 0 0 1 1.5 0v4.5A3.75 3.75 0 0 1 16 19.5H8a3.75 3.75 0 0 1-3.75-3.75v-4.5a.75.75 0 0 1 1.5 0v4.5A2.25 2.25 0 0 0 8 18h8a2.25 2.25 0 0 0 2.25-2.25z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M11.47 9.78a.749.749 0 1 1 1.06-1.06l3.5 3.5c.141.14.22.331.22.53v8a.75.75 0 0 1-1.5 0v-7.689z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                            </div>
+                            <div class="lab_membership_heading">Explore our Major and Minor courses here</div>
+                            <div class="my_btnbox">
+                                <a href="{{url('/courses')}}">
+                                    <div class="my_btn_namebox">Explore Courses</div>
+                                    <div class="my_btn_iconbox">
+                                        <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                            <g
+                                                transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                <path fill="#007382" fill-rule="evenodd"
+                                                    d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                    clip-rule="evenodd" opacity="1" data-original="#000000"
+                                                    class="">
+                                                </path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="inner_about_section_creative_mainbox">
+                            <!-- <img src="{{ asset('assets/images/about/about-creative.webp') }}" alt="About courses" class="img-fluid"> -->
+                            <div class="inner_about_section_creative_left">
+                                <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.6,0,0,0.6,4.799999999999997,4.6)"><path d="M21 19H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2M12 2a1 1 0 0 0-1 1v10.59l-3.29-3.3a1 1 0 0 0-1.42 1.42l5 5a1 1 0 0 0 1.42 0l5-5a1 1 0 0 0-1.42-1.42L13 13.59V3a1 1 0 0 0-1-1" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                            </div>
+                            <div class="lab_membership_heading">You can download our e-bruchure here</div>
+                            <div class="my_btnbox">
+                                <a href="{{ asset('assets/pdf/SSLA-E-Brochure.pdf') }}">
+                                    <div class="my_btn_namebox">E-Brochure</div>
+                                    <div class="my_btn_iconbox">
+                                        <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                            <g
+                                                transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                <path fill="#007382" fill-rule="evenodd"
+                                                    d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                    clip-rule="evenodd" opacity="1" data-original="#000000"
+                                                    class="">
+                                                </path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 </main>

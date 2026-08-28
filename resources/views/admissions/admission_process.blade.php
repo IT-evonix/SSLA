@@ -86,7 +86,7 @@
                                                 <p>SET 2026 will be conducted on two different dates. Please note these
                                                     dates carefully:</p>
                                                 <div class="table-responsive">
-                                                    <table class="table table-hover align-middle set-date-table">
+                                                    <table class="table align-middle set-date-table">
                                                         <thead>
                                                             <tr>
                                                                 <th colspan="2">
@@ -131,6 +131,9 @@
                                                     <div class="process-step">
                                                         <h3>The registration process is as follows:</h3>
                                                         <ul class="rap-note-list">
+                                                            <li>Register online at <strong><a href="www.set-test.org" target="_blank">www.set-test.org</a></strong> 
+                                                            <!-- up to <strong>April 15, 2026 (Wednesday)</strong>. -->
+                                                            </li>
                                                             <li>Click on <strong>‘Register’</strong>.</li>
                                                             <li>Read all the <strong>‘Instructions’</strong> carefully
                                                                 and click on <strong>‘Continue’</strong> to accept the
@@ -177,8 +180,6 @@
                                                             <li>Candidates are required to fill in correct information
                                                                 in the online registration form corresponding to their
                                                                 credentials.</li>
-                                                            <li>Register online at <strong>www.set-test.org</strong> up
-                                                                to <strong>April 15, 2026 (Wednesday)</strong>.</li>
                                                             <li><strong>No changes</strong> shall be permitted after
                                                                 registration under any circumstances.</li>
                                                             <li>A candidate may appear for SET on both test dates:
@@ -794,3 +795,35 @@
 </section>
 
 @include('footer')
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+    const accordion = document.querySelector("#rapAccordion");
+
+    if (!accordion) return;
+
+    const collapseItems = accordion.querySelectorAll(".accordion-collapse");
+
+    collapseItems.forEach(function (item) {
+
+        item.addEventListener("shown.bs.collapse", function () {
+
+            const rapItem = this.closest(".rap-item");
+
+            if (!rapItem) return;
+
+            const headerPosition =
+                rapItem.getBoundingClientRect().top + window.pageYOffset;
+
+            window.scrollTo({
+                top: headerPosition - 100,
+                behavior: "smooth"
+            });
+
+        });
+
+    });
+
+});
+</script>
