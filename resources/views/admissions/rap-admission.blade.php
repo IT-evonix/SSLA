@@ -95,7 +95,7 @@
                                                         <div class="rap-dot"></div>
                                                         <div class="rap-content accordion-item">
                                                             <h2 class="accordion-header">
-                                                                <button class="accordion-button collapsed rap-acc-btn"
+                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
                                                                     data-bs-toggle="collapse" data-bs-target="#rapOne">
                                                                     Online Registration Process
                                                                 </button>
@@ -176,7 +176,7 @@
                                                         <div class="rap-dot"></div>
                                                         <div class="rap-content accordion-item">
                                                             <h2 class="accordion-header">
-                                                                <button class="accordion-button collapsed rap-acc-btn"
+                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
                                                                     data-bs-toggle="collapse" data-bs-target="#rapTwo">
                                                                     Payment Instructions for Registration
                                                                 </button>
@@ -205,7 +205,7 @@
                                                         <div class="rap-dot"></div>
                                                         <div class="rap-content accordion-item">
                                                             <h2 class="accordion-header">
-                                                                <button class="accordion-button collapsed rap-acc-btn"
+                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
                                                                     data-bs-toggle="collapse"
                                                                     data-bs-target="#rapThree">
                                                                     Personal Interaction
@@ -237,7 +237,7 @@
                                                         <div class="rap-dot"></div>
                                                         <div class="rap-content accordion-item">
                                                             <h2 class="accordion-header">
-                                                                <button class="accordion-button collapsed rap-acc-btn"
+                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
                                                                     data-bs-toggle="collapse" data-bs-target="#rapFour">
                                                                     Timeline for RAP 2026
                                                                 </button>
@@ -323,7 +323,7 @@
                                                         <div class="rap-dot"></div>
                                                         <div class="rap-content accordion-item">
                                                             <h2 class="accordion-header">
-                                                                <button class="accordion-button collapsed rap-acc-btn"
+                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
                                                                     data-bs-toggle="collapse"
                                                                     data-bs-target="#rapFifth">
                                                                     Important Points to be Noted
@@ -864,3 +864,35 @@
 
 
 @include('footer')
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+    const accordion = document.querySelector("#rapAccordion");
+
+    if (!accordion) return;
+
+    const collapseItems = accordion.querySelectorAll(".accordion-collapse");
+
+    collapseItems.forEach(function (item) {
+
+        item.addEventListener("shown.bs.collapse", function () {
+
+            const rapItem = this.closest(".rap-item");
+
+            if (!rapItem) return;
+
+            const headerPosition =
+                rapItem.getBoundingClientRect().top + window.pageYOffset;
+
+            window.scrollTo({
+                top: headerPosition - 100,
+                behavior: "smooth"
+            });
+
+        });
+
+    });
+
+});
+</script>

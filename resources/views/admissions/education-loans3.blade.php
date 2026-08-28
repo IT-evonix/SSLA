@@ -75,7 +75,7 @@
                                     <img src="{{ asset('assets/images/admissions/EL-3.webp') }}"
                                         alt="Educational loans icon" class="img-fluid">
                                     <div class="inner_logos_readmore">
-                                        <a href="{{ asset('assets/pdf/Education-Loan-Canara-Bank.pdf') }}"
+                                        <a href="#"
                                             target="_blank">
                                             <div class="inner_logos_readmore_name">Read More</div>
                                             <div class="inner_logos_readmore_icon">
@@ -97,7 +97,7 @@
                                     <img src="{{ asset('assets/images/admissions/EL-4.webp') }}"
                                         alt="Educational loans icon" class="img-fluid">
                                     <div class="inner_logos_readmore">
-                                        <a href="{{ asset('assets/pdf/Education-Loan-BOB.pdf') }}" target="_blank">
+                                        <a href="#" target="_blank">
                                             <div class="inner_logos_readmore_name">Read More</div>
                                             <div class="inner_logos_readmore_icon">
                                                 <svg width="12" height="12" x="0" y="0" viewBox="0 0 24 24">
@@ -116,9 +116,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="new_education_loan_rightbox">
+                        <!-- <div class="new_education_loan_rightbox">
                             <img src="{{ asset('assets/images/admissions/education-loan-image.webp') }}" alt="Education loan image" class="img-fluid">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

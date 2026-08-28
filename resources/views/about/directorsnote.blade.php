@@ -20,7 +20,7 @@
         <div class="bg-animated"></div>
 
         <div class="container">
-            <h1 class="inner__red_heading mt-4">Director's Note</h1>
+            <h1 class="inner__red_heading">Director's Note</h1>
             <div class="row  director-card" data-aos="fade-up">
 
                 <!-- Image Column -->
