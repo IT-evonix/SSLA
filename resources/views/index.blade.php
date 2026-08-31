@@ -228,7 +228,7 @@
                         <div class="col-lg-7">
                             <div class="why_choose_content_mainbox">
                                 <div class="heading">
-                                    <h2>Why choose <span>SSLA</span></h2>
+                                    <h2>Why choose SSLA</h2>
                                 </div>
                                 <div class="why_choose_para d-none">
                                     <p class="m-0">

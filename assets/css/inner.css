@@ -2500,11 +2500,10 @@
     border-bottom: 1px solid #f4f4f4;
 }
 
-/* hover */
-.main-financials .hostel-card:hover {
+/* .main-financials .hostel-card:hover {
     transform: translateY(-5px);
-    /* box-shadow: 0 22px 40px rgba(0, 115, 130, 0.25); */
-}
+    box-shadow: 0 22px 40px rgba(0, 115, 130, 0.25);
+} */
 
 
 
@@ -2770,6 +2769,32 @@
     margin-bottom: 25px;
 }
 
+.contact-numbers_listing {
+    display: grid;
+    grid-template-columns: 20px 1fr;
+    gap: 10px;
+    align-items: center;
+}
+
+.contact-numbers_mainbox {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.contact-numbers_listing_text {
+    line-height: normal;
+}
+
+.custom_anchore {
+    color: #007382 !important;
+    font-family: 'Roboto-Medium' !important;
+    transition-duration: 0.3s;
+}
+
+.custom_anchore:hover {
+    color: #EC3536 !important;
+}
 
 /* responsive */
 @media (max-width: 576px) {
@@ -2818,6 +2843,15 @@
 
     .main-financials.new-main-financials .contact-card a {
         font-size: 14px;
+    }
+
+    .main-sec-admission-process .rap_admission_main .rap-admission-section {
+        margin-bottom: 0;
+        padding: 20px;
+    }
+
+    .main-sec-admission-process .set-registration {
+        padding: 0px 0 50px 0;
     }
 }
 
