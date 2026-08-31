@@ -264,7 +264,7 @@
                                                                     </a>
                                                                 </div> -->
                                                                 <div class="megamenu_listing">
-                                                                    <a href="{{url('/admissionsprocess')}}">
+                                                                    <a href="{{url('/set-admission')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
                                                                                 viewBox="0 0 24 24">
@@ -1416,7 +1416,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Premium predefined search index
     const searchIndex = [
         { title: "Academic Fees & Fee Structure", path: "/financials3", category: "Admissions", keywords: ["fee structure", "fees", "academic fees", "hostel fees", "mess fees", "nri fees", "foreign student fees", "financials", "payment", "cost"] },
-        { title: "Admissions Process (SET)", path: "/admissionsprocess", category: "Admissions", keywords: ["admissions", "set exam", "entrance test", "apply", "registration", "admission process"] },
+        { title: "Admissions Process (SET)", path: "/set-admission", category: "Admissions", keywords: ["admissions", "set exam", "entrance test", "apply", "registration", "admission process"] },
         { title: "Rolling Admission Process (RAP)", path: "/rap-admission", category: "Admissions", keywords: ["rap", "rolling admission", "admissions", "apply", "dates", "schedule"] },
         { title: "Eligibility Criteria", path: "/eligibility3", category: "Admissions", keywords: ["eligibility", "requirements", "criteria", "admission rules", "academic requirement"] },
         { title: "Education Loans & Scholarships", path: "/education-loans3", category: "Admissions", keywords: ["education loans", "loan", "bank loan", "scholarship", "financial aid"] },
@@ -1482,7 +1482,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Popular links displayed when input is empty
     const popularLinks = [
         { title: "Academic Fees & Fee Structure", path: "/financials3", category: "Admissions" },
-        { title: "Admissions Process (SET)", path: "/admissionsprocess", category: "Admissions" },
+        { title: "Admissions Process (SET)", path: "/set-admission", category: "Admissions" },
         { title: "Rolling Admission Process (RAP)", path: "/rap-admission", category: "Admissions" },
         { title: "Explore Our Courses (Majors/Minors)", path: "/courses", category: "Academics" },
         { title: "Contact Us & Location", path: "/contact-us", category: "Contact Us" }

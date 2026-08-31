@@ -121,7 +121,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="container">
-                                                    <div class="card shadow-sm border-0">
+                                                    <div class="card">
                                                         <div class="card-body">
                                                             <h6 class="fw-bold mb-3">Important Note</h6>
                                                             <p>
@@ -266,7 +266,7 @@
                                 </div>
 
                                 <!-- B. Fee Payment -->
-                                <div class="rap-item" data-aos="fade-up">
+                                <!-- <div class="rap-item" data-aos="fade-up">
                                     <div class="rap-dot"></div>
                                     <div class="rap-content accordion-item">
                                         <h2 class="accordion-header">
@@ -363,6 +363,152 @@
                                                 </div>
                                             </div>
                                         </div>
+                                    </div>
+                                </div> -->
+                                <div class="rap-item" data-aos="fade-up">
+                                    <div class="rap-dot"></div>
+
+                                    <div class="rap-content accordion-item">
+
+                                        <h2 class="accordion-header">
+                                            <button 
+                                                type="button"
+                                                class="accordion-button collapsed rap-acc-btn"
+                                                data-bs-toggle="collapse"
+                                                data-bs-target="#rapTwo"
+                                                aria-expanded="false"
+                                                aria-controls="rapTwo">
+
+                                                SET Test & Programme Registration Fee Payment Process
+
+                                            </button>
+                                        </h2>
+
+                                        <div 
+                                            id="rapTwo" 
+                                            class="accordion-collapse collapse"
+                                            data-bs-parent="#rapAccordion">
+
+                                            <div class="accordion-body">
+
+                                                <div class="process-step">
+                                                    <h3>Candidates may pay through -</h3>
+
+                                                    <ul class="rap-note-list">
+                                                        <li>Billdesk Payment Gateway</li>
+
+                                                        <li>Easebuzz Payment Gateway</li>
+
+                                                        <li>Demand Draft</li>
+
+                                                        <li>
+                                                            <strong>
+                                                                SET Registration: Pay the SET Test
+                                                                registration fee of INR 2250
+                                                            </strong>
+                                                            per test (government taxes would be additional as and when
+                                                            applicable) up to
+                                                            <strong>
+                                                                April 15, 2026 (Wednesday)
+                                                            </strong>
+                                                            as per the instructions mentioned on the website
+                                                            (www.set-test.org) for payment of SET Test registration fee
+                                                        </li>
+
+                                                        <li>
+                                                            <strong>Programme/Institute Registration:</strong>
+                                                            In addition to that, you are also expected to pay
+                                                            the non-refundable and non-transferable
+
+                                                            <strong>
+                                                                Programme/Institute registration fee of INR
+                                                                1000/-
+                                                                (government taxes would be additional as and
+                                                                when applicable) for each Programme/Institute
+                                                            </strong>
+                                                            that you wish to apply for.
+                                                        </li>
+                                                    </ul>
+                                                </div>
+
+
+                                                <h5 class="process-subtitle">
+                                                    Programme registration fee payment process:
+                                                </h5>
+
+
+                                                <p>
+                                                    A candidate desirous to submit his candidature to select UG
+                                                    programmes is also required to complete the payment process
+                                                    of the desired programme before the closing date of payment
+                                                    of the same. Payment towards the programmes must be made
+                                                    through the website only (www.set-test.org). After making
+                                                    the payment for SET, proceed to complete the online
+                                                    registration form (Part II) for Programme(s) registration
+                                                    and the respective institute(s). A candidate is required to
+                                                    make separate non-refundable and non-transferable payment of
+                                                    INR 1000/- (government taxes would be additional as and when
+                                                    applicable) per programme per institute at this stage.
+                                                </p>
+
+
+                                                <div class="card mb-4">
+                                                    <div class="card-body">
+
+                                                        <h6 class="fw-bold mb-3">
+                                                            Note 1:
+                                                        </h6>
+
+                                                        <p>
+                                                            Please note that payment of only the SET entrance
+                                                            test registration fee will not make you eligible for
+                                                            shortlisting in any programme, regardless of your
+                                                            SET score. Both fees must be paid as per the
+                                                            instructions provided on the registration portal.
+                                                            Failure to pay the programme registration fee will
+                                                            result in your application not being considered for
+                                                            that programme. No communication will be entertained
+                                                            in this regard.
+                                                        </p>
+
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="card mb-3">
+                                                    <div class="card-body">
+
+                                                        <h6 class="fw-bold mb-3">
+                                                            Note2:
+                                                        </h6>
+
+                                                        <p>
+                                                            SET Test registration fee and Programme/Institute
+                                                            registration fee of the Institute is non-refundable
+                                                            and non-transferable.
+                                                        </p>
+
+                                                        <p>
+                                                            The normal spread will ensure that there is no
+                                                            unfair
+                                                            advantage to candidates who opt for any specific
+                                                            test /
+                                                            multiple tests. This will ensure the normalisation
+                                                            of
+                                                            the spread of questions across sections.
+                                                            Furthermore,
+                                                            the question papers will be normalised for the level
+                                                            of
+                                                            difficulty across all two tests. No correspondence
+                                                            regarding this will be entertained.
+                                                        </p>
+
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
 
@@ -525,7 +671,36 @@
                                                             </tbody>
                                                         </table>
                                                     </div>
-                                                    <div class="process-step">
+                                                    <div class="card">
+                                                        <div class="card-body">
+                                                            <h6 class="fw-bold mb-3">Important Note</h6>
+                                                                <ul class="rap-note-list">
+                                                                    <li>Please note that <strong>SET 2026</strong> will be
+                                                                        conducted in <strong>Computer Based Test (CBT)</strong>
+                                                                        mode.</li>
+                                                                    <li>The duration of <strong>SET Test–01</strong> and
+                                                                        <strong>SET Test–02</strong> is <strong>60 minutes
+                                                                            each</strong>.
+                                                                    </li>
+                                                                    <li>There is <strong>no negative marking</strong> for wrong
+                                                                        answers.</li>
+                                                                    <li><strong>All sections are mandatory</strong>.</li>
+                                                                    <li>Utmost care is taken to prepare an error-free question
+                                                                        paper. However, if any error is detected, the
+                                                                        <strong>Scrutiny Committee’s decision</strong> taken
+                                                                        after the test shall be <strong>final</strong>.
+                                                                    </li>
+                                                                    <li>A candidate may appear for SET on both test dates:
+                                                                        <strong>May 02, 2026 (Saturday)</strong> and <strong>May
+                                                                            10, 2026 (Sunday)</strong>.
+                                                                        If a candidate appears for more than one test, the
+                                                                        <strong>higher score</strong> will be considered for the
+                                                                        final percentile calculation.
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <!-- <div class="process-step">
                                                         <h3>Note:-</h3>
                                                         <ul class="rap-note-list">
                                                             <li>Please note that <strong>SET 2026</strong> will be
@@ -552,7 +727,7 @@
                                                             </li>
                                                         </ul>
 
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>

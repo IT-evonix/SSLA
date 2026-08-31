@@ -129,12 +129,12 @@ Route::get('deeksharambh-2025', function () {
     return view('/admissions/deeksharambh-2025', ['data_arr' => $data_arr]);
 })->name('admissions.deeksharambh-2025');
 
-Route::get('admissionsprocess', function () {
+Route::get('set-admission', function () {
     $data_arr = array();
     $data_arr['title'] = "Admissions Process | Liberal Arts and Science College Pune";
     $data_arr['keywords'] = "bachelor in liberal arts and science, BA in Liberal Arts, bsc liberal arts";
     $data_arr['description'] = "Learn about SSLA Pune’s admissions process for the Bachelor in Liberal Arts and Science, including application steps, evaluation stages, and selection criteria.";
-    $data_arr['canonical'] = "https://www.ssla.edu.in/admissionsprocess";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/set-admission";
     return view('/admissions/admission_process', ['data_arr' => $data_arr]);
 })->name('admissions.admissionsprocess');
 
