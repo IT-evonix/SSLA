@@ -26,7 +26,7 @@
                 <div class="rap-admission-section">
                     <div class="set-registration">
                         <div class="set-container">
-                            <div class="info-box mb-5">
+                            <div class="info-box">
                                 <p>
                                     The SSLA UG Admissions follow two entry pathways - the <strong>Symbiosis Entrance Test (SET)</strong> and the <strong>Non-SET Rolling Admissions Process (RAP)</strong>. Candidates have the choice to opt for either of the above processes to seek admission to SSLA.
                                 </p>
@@ -38,38 +38,55 @@
                                     <li>The eligibility criteria mentioned is applicable to both SET and RAP.</li>
                                 </ul>
                             </div>
-                            <h2>Online Registration Process</h2>
-                            <div class="info-box">
-                                <p>
-                                    From <strong>2018 onwards</strong>, <span class="highlight">“SET General”</span> is
-                                    known as
-                                    <strong>Symbiosis Entrance Test (SET)</strong>.
-                                </p>
-                                <ul>
-                                    <li>
-                                        For a <strong>valid and complete registration</strong>, candidates must register
-                                        <strong>independently</strong> for both:
-                                        <ul class="sub-list">
-                                            <li>Symbiosis Entrance Test (SET)</li>
-                                            <li>Institution / Programme of their choice</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        In the absence of <strong>Programme / Institution registration</strong>,
-                                        the <strong>SET registration will be INVALID</strong>.
-                                    </li>
-                                    <li class="warning">
-                                        Please note: <strong>No refund</strong> of the SET registration fee will be
-                                        provided
-                                        if the candidate misses the Programme / Institute registration.
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                     <div class="container">
                         <div class="rap-timeline">
                             <div class="accordion" id="rapAccordion">
+                                <!-- Admission process -->
+                                <div class="rap-item" data-aos="fade-up">
+                                    <div class="rap-dot"></div>
+                                    <div class="rap-content accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed rap-acc-btn"
+                                                data-bs-toggle="collapse" data-bs-target="#rapOne_1">
+                                                Online Registration Process
+                                            </button>
+                                        </h2>
+                                        <div id="rapOne_1" class="accordion-collapse collapse"
+                                            data-bs-parent="#rapAccordion">
+                                            <div class="accordion-body">
+                                                <div class="">
+                                                    <p>
+                                                        From <strong>2018 onwards</strong>, <span class="highlight">“SET General”</span> is
+                                                        known as
+                                                        <strong>Symbiosis Entrance Test (SET)</strong>.
+                                                    </p>
+                                                    <ul class="rap-note-list">
+                                                        <li>
+                                                            For a <strong>valid and complete registration</strong>, candidates must register
+                                                            <strong>independently</strong> for both:
+                                                            <ul class="my_sub_list">
+                                                                <li>Symbiosis Entrance Test (SET)</li>
+                                                                <li>Institution / Programme of their choice</li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>
+                                                            In the absence of <strong>Programme / Institution registration</strong>,
+                                                            the <strong>SET registration will be INVALID</strong>.
+                                                        </li>
+                                                        <li class="warning new_warning">
+                                                            Please note: <strong>No refund</strong> of the SET registration fee will be
+                                                            provided
+                                                            if the candidate misses the Programme / Institute registration.
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <!-- A. SET Online Registration -->
                                 <div class="rap-item" data-aos="fade-up">
                                     <div class="rap-dot"></div>
@@ -77,7 +94,7 @@
                                         <h2 class="accordion-header">
                                             <button class="accordion-button collapsed rap-acc-btn"
                                                 data-bs-toggle="collapse" data-bs-target="#rapOne">
-                                                A. SET Online Computer-based Test Registration Process
+                                                SET Online Computer-based Test Registration Process
                                             </button>
                                         </h2>
                                         <div id="rapOne" class="accordion-collapse collapse"
@@ -255,7 +272,7 @@
                                         <h2 class="accordion-header">
                                             <button class="accordion-button collapsed rap-acc-btn"
                                                 data-bs-toggle="collapse" data-bs-target="#rapTwo">
-                                                B. SET Test & Programme Registration Fee Payment Process
+                                                SET Test & Programme Registration Fee Payment Process
                                             </button>
                                         </h2>
                                         <div id="rapTwo" class="accordion-collapse collapse"
@@ -301,7 +318,7 @@
                                                             make separate non-refundable and non-transferable payment of
                                                             INR 1000/- (government taxes would be additional as and when
                                                             applicable) per programme per institute at this stage.</p>
-                                                        <div class="card shadow-sm border-0 mb-4">
+                                                        <div class="card mb-4">
                                                             <div class="card-body">
                                                                 <h6 class="fw-bold mb-3">Note 1: </h6>
                                                                 <p>
@@ -317,7 +334,7 @@
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="card shadow-sm border-0 mb-3">
+                                                        <div class="card mb-3">
                                                             <div class="card-body">
                                                                 <h6 class="fw-bold mb-3">Note2: </h6>
                                                                 <p>
@@ -356,7 +373,7 @@
                                         <h2 class="accordion-header">
                                             <button class="accordion-button collapsed rap-acc-btn"
                                                 data-bs-toggle="collapse" data-bs-target="#rapThree">
-                                                C. Personal Interaction (PI)
+                                                Personal Interaction (PI)
                                             </button>
                                         </h2>
                                         <div id="rapThree" class="accordion-collapse collapse"
@@ -383,7 +400,7 @@
                                         <h2 class="accordion-header">
                                             <button class="accordion-button collapsed rap-acc-btn"
                                                 data-bs-toggle="collapse" data-bs-target="#rapFour">
-                                                D. Timeline
+                                                Timeline for SET 2026
                                             </button>
                                         </h2>
                                         <div id="rapFour" class="accordion-collapse collapse"

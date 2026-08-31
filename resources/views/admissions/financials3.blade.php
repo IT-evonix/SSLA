@@ -156,14 +156,14 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>Mess Fees (Per Annum)</td>
-                                                                <td>₹ 1,19,600</td>
+                                                                <td><strong>₹ 1,19,600</strong></td>
                                                                 <td>₹ 59,800</td>
                                                                 <td>₹ 59,800</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Hostel Deposit (Refundable)</td>
-                                                                <td>₹ 20,000</td>
+                                                                <td><strong>₹ 20,000</strong></td>
                                                                 <td>₹ 20,000</td>
                                                                 <td>-</td>
                                                             </tr>
@@ -178,48 +178,48 @@
 
                                                             <tr>
                                                                 <td>Twin Sharing - Daffodil hostel</td>
-                                                                <td>₹ 1,93,100</td>
+                                                                <td><strong>₹ 1,93,100</strong></td>
                                                                 <td>₹ 1,93,100</td>
                                                                 <td>-</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Three Sharing - Daisy hostel</td>
-                                                                <td>₹ 1,61,600</td>
+                                                                <td><strong>₹ 1,61,600</strong></td>
                                                                 <td>₹ 1,61,600</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Orchid hostel</td>
-                                                                <td>₹ 2,13,000</td>
+                                                                <td><strong>₹ 2,13,000</strong></td>
                                                                 <td>₹ 2,13,000</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Orchid hostel</td>
-                                                                <td>₹ 1,79,700</td>
+                                                                <td><strong>₹ 1,79,700</strong></td>
                                                                 <td>₹ 1,79,700</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Tulip hostel</td>
-                                                                <td>₹ 2,13,000</td>
+                                                                <td><strong>₹ 2,13,000</strong></td>
                                                                 <td>₹ 2,13,000</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Tulip hostel</td>
-                                                                <td>₹ 1,90,600</td>
+                                                                <td><strong>₹ 1,90,600</strong></td>
                                                                 <td>₹ 1,90,600</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Kopou hostel</td>
-                                                                <td>₹ 1,90,600</td>
+                                                                <td><strong>₹ 1,90,600</strong></td>
                                                                 <td>₹ 1,90,600</td>
                                                                 <td>-</td>
                                                             </tr>
@@ -382,14 +382,14 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>Mess Fees {Per Annum}</td>
-                                                                <td>$1,400</td>
+                                                                <td><strong>$1,400</strong></td>
                                                                 <td>$700</td>
                                                                 <td>$700</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Hostel Deposit (Refundable)</td>
-                                                                <td>$250</td>
+                                                                <td><strong>$250</strong></td>
                                                                 <td>$250</td>
                                                                 <td></td>
                                                             </tr>
@@ -404,49 +404,49 @@
 
                                                             <tr>
                                                                 <td>Twin Sharing - Daffodil hostel</td>
-                                                                <td>$2,240</td>
+                                                                <td><strong>$2,240</strong></td>
                                                                 <td>$2,240</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Daisy hostel</td>
-                                                                <td>$1,870</td>
+                                                                <td><strong>$1,870</strong></td>
                                                                 <td>$1,870</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Orchid hostel</td>
-                                                                <td>$2,470</td>
+                                                                <td><strong>$2,470</strong></td>
                                                                 <td>$2,470</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Orchid hostel</td>
-                                                                <td>$2,080</td>
+                                                                <td><strong>$2,080</strong></td>
                                                                 <td>$2,080</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Tulip hostel</td>
-                                                                <td>$2,470</td>
+                                                                <td><strong>$2,470</strong></td>
                                                                 <td>$2,470</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Tulip hostel</td>
-                                                                <td>$2,210</td>
+                                                                <td><strong>$2,210</strong></td>
                                                                 <td>$2,210</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Kopou hostel</td>
-                                                                <td>$2,210</td>
+                                                                <td><strong>$2,210</strong></td>
                                                                 <td>$2,210</td>
                                                                 <td></td>
                                                             </tr>
@@ -523,8 +523,8 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <td>Total Fees to be paid (D)= (A+B+C)</td>
-                                                                <td>$1,850</td>
+                                                                <td><strong>Total Fees to be paid (D)= (A+B+C)</strong></td>
+                                                                <td><strong>$1,850</strong></td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -613,14 +613,14 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>Mess Fees {Per Annum}</td>
-                                                                <td>$560</td>
+                                                                <td><strong>$560</strong></td>
                                                                 <td>$280</td>
                                                                 <td>$280</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Hostel Deposit (Refundable)</td>
-                                                                <td>$250</td>
+                                                                <td><strong>$250</strong></td>
                                                                 <td>$250</td>
                                                                 <td></td>
                                                             </tr>
@@ -635,49 +635,49 @@
 
                                                             <tr>
                                                                 <td>Twin Sharing - Daffodil hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Daisy hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Orchid hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Orchid hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Tulip hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Tulip hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Kopou hostel</td>
-                                                                <td>$650</td>
+                                                                <td><strong>$650</strong></td>
                                                                 <td>$650</td>
                                                                 <td></td>
                                                             </tr>
@@ -793,63 +793,6 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="neft-modern mt-4">
-                                        <div class="neft-wrapper">
-
-                                            <!-- Header -->
-                                            <div class="neft-title">
-                                                <span class="neft-tag">NEFT / RTGS</span>
-                                                <h2>Payment Facility Available</h2>
-                                                <p>
-                                                    Details of bank account of campus administration for neft/rtgs
-                                                    transaction of hostel & mess fees
-                                                </p>
-                                            </div>
-
-                                            <!-- Content Grid -->
-                                            <div class="neft-grid">
-
-                                                <!-- Bank Info -->
-                                                <div class="neft-panel">
-                                                    <h5>🏦 Bank Details</h5>
-                                                    <ul>
-                                                        <li><span>Bank Name</span> Union Bank of India</li>
-                                                        <li><span>Branch</span> Viman Nagar, Pune</li>
-                                                        <li><span>IFSC Code</span> UBIN0907391</li>
-                                                        <li><span>MICR Code</span> 411026098</li>
-                                                        <li><span>SWIFT Code</span> UBININBBPUM</li>
-                                                    </ul>
-                                                </div>
-
-                                                <!-- Account Info -->
-                                                <div class="neft-panel accent">
-                                                    <h5>💳 Account Information</h5>
-                                                    <ul>
-                                                        <li><span>Beneficiary Name</span> Symbiosis Society SLS New
-                                                            Viman Nagar Campus</li>
-                                                        <li><span>Account Number</span> 520361002456295</li>
-                                                        <li><span>Account Type</span> Current Account</li>
-                                                    </ul>
-                                                </div>
-
-                                            </div>
-
-                                            <!-- Email Strip -->
-                                            <div class="neft-footer">
-                                                <h6>📧 Send Transaction Details To</h6>
-                                                <div class="email-list">
-                                                    <a
-                                                        href="mailto:guruprasad.sawant@symbiosis.ac.in">guruprasad.sawant@symbiosis.ac.in</a>
-                                                    <a
-                                                        href="mailto:accounts.svnc@symbiosis.ac.in">accounts.svnc@symbiosis.ac.in</a>
-                                                    <a
-                                                        href="mailto:admin.svc@symbiosis.ac.in">admin.svc@symbiosis.ac.in</a>
-                                                    <a
-                                                        href="mailto:campusadmin.newsvc@symbiosis.ac.in">campusadmin.newsvc@symbiosis.ac.in</a>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>

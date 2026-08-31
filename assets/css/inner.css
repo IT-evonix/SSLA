@@ -223,10 +223,10 @@
     height: 100%;
 }
 
-.faculty_box_inner:hover {
-    /* transform: translateY(-6px); */
+/* .faculty_box_inner:hover {
+    transform: translateY(-6px);
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
-}
+} */
 
 
 .faculty_profile {
@@ -1559,6 +1559,11 @@
     font-weight: 500;
 }
 
+.new_warning,
+.new_warning strong {
+    color: #ffffff!important;
+}
+
 /* Modern tweak */
 .main-sec-admission-process .modern .intro-box {
     display: flex;
@@ -1701,14 +1706,15 @@
     background: #ffffff;
     padding: 30px 25px 30px 70px;
     border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+    /* box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06); */
     transition: all 0.3s ease;
     height: 100%;
+    border: 1px solid #dedede;
 }
 
 .rc-card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-5px);
+    /* box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12); */
 }
 
 .research-main-sec .rc-num {
@@ -1812,7 +1818,7 @@
 
 .research-main-sec .proceedings-image img {
     border-radius: 14px;
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1); */
     animation: fadeZoom 1s ease forwards;
     object-fit: cover;
 }
@@ -1858,7 +1864,7 @@
     height: 240px;
     object-fit: cover;
     border-radius: 14px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); */
 }
 
 .research-main-sec .proceedings-text {
@@ -2063,9 +2069,9 @@
 }
 
 
-.alumni-main-section .alumni-image:hover img {
+/* .alumni-main-section .alumni-image:hover img {
     transform: scale(1.1);
-}
+} */
 
 
 .alumni-main-section .main-class-alumini-img h3 {
@@ -2118,14 +2124,14 @@
     padding: 30px 25px;
     background-color: #f9f9f9;
     border-radius: 8px;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08);
+    /* box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08); */
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
 /* Hover Effect */
 .research-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.15);
+    /* box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.15); */
 }
 
 /* Titles */
@@ -2196,10 +2202,10 @@
     transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
-.student_council_img:hover {
+/* .student_council_img:hover {
     transform: scale(1.02);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-}
+} */
 
 .student-council table td {
     font-size: 15px;
@@ -2242,7 +2248,8 @@
     background: #fff;
     border-radius: 16px;
     padding: 40px;
-    box-shadow: 0 6px 9px rgba(0, 0, 0, 0.08);
+    /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.08); */
+    border: 1px solid #dedede;
 }
 
 /* Title */
@@ -2288,7 +2295,10 @@
     padding: 30px;
     position: relative;
     border-top: 6px solid #CB2E33;
-    box-shadow: 0 6px 9px rgba(0, 0, 0, 0.05);
+    /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.05); */
+    border-right: 1px solid #f4f4f4;
+    border-left: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f4f4f4;
 }
 
 .main-financials .neft-panel.accent {
@@ -2483,14 +2493,17 @@
     border-radius: 18px;
     position: relative;
     transition: all 0.35s ease;
-    box-shadow: 0 6px 9px rgba(0, 0, 0, 0.08);
+    /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.08); */
     border-top: 4px solid #007382;
+    border-right: 1px solid #f4f4f4;
+    border-left: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f4f4f4;
 }
 
 /* hover */
 .main-financials .hostel-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 22px 40px rgba(0, 115, 130, 0.25);
+    transform: translateY(-5px);
+    /* box-shadow: 0 22px 40px rgba(0, 115, 130, 0.25); */
 }
 
 
@@ -2559,7 +2572,10 @@
     border-left: 6px solid #CB2E33;
     padding: 22px 26px;
     border-radius: 12px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); */
+    border-top: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
     margin-top: 30px;
 }
 
@@ -2592,11 +2608,11 @@
 }
 
 /* hover effect */
-.main-financials .hostel-note:hover {
+/* .main-financials .hostel-note:hover {
     transform: translateY(-3px);
     transition: all 0.3s ease;
     box-shadow: 0 14px 28px rgba(0, 115, 130, 0.2);
-}
+} */
 
 /* hostel contact section */
 .main-financials .hostel-contact {
@@ -2604,7 +2620,8 @@
     padding: 30px 32px;
     background: #ffffff;
     border-radius: 16px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    /* box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08); */
+    border: 1px solid #dedede;
 }
 
 /* header */
@@ -2699,10 +2716,13 @@
 .cop-card {
     background: #FFF;
     border-left: 6px solid #CB2E33;
-    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.08);
+    /* box-shadow: 0 3px 9px rgba(0, 0, 0, 0.08); */
     border-radius: 8px;
     padding: 25px;
     margin-bottom: 25px;
+    border-right: 1px solid #dedede;
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
 }
 
 .cop-title {

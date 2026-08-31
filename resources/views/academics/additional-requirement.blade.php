@@ -310,7 +310,7 @@
                                                     <div class="cop-title">Community Outreach Project Student Reports
                                                     </div>
                                                     <div class="table-responsive">
-                                                        <table class="table table-striped table-bordered table-hover">
+                                                        <table class="table">
                                                             <thead>
                                                                 <tr>
                                                                     <th>P.R. No.</th>
@@ -1169,7 +1169,7 @@
                                                         Reports
                                                     </div>
                                                     <div class="table-responsive">
-                                                        <table class="table table-striped table-bordered table-hover">
+                                                        <table class="table">
                                                             <thead>
                                                                 <tr>
                                                                     <th>Organisation</th>
@@ -1397,7 +1397,7 @@
                                             <div class="tab-pane fade show active" id="v-pills-home3" role="tabpanel"
                                                 aria-labelledby="v-pills-home-tab3" tabindex="0">
                                                 <div>
-                                                    <div class="cop-section">
+                                                    <div class="cop-section p-0">
                                                         <div class="cop-container">
                                                             <div class="cop-card">
                                                                 <p>The research dissertation is a comprehensive research
@@ -1491,7 +1491,7 @@
                                                 aria-labelledby="v-pills-profile-tab3" tabindex="0">
                                                 <div class="cop-card">
                                                     <div class="table-responsive">
-                                                        <table class="table table-striped table-bordered table-hover">
+                                                        <table class="table">
                                                             <thead>
                                                                 <tr>
                                                                     <th>Title of Dissertation</th>
@@ -1585,7 +1585,7 @@
                                         <div class="tab-content" id="v-pills-tabContent4">
                                             <div class="tab-pane fade show active" id="v-pills-home4" role="tabpanel"
                                                 aria-labelledby="v-pills-home-tab4" tabindex="0">
-                                                <section class="cop-section">
+                                                <section class="cop-section p-0">
                                                     <div class="cop-container">
                                                         <!-- Seminar Rules Card -->
                                                         <div class="cop-card">
@@ -1725,7 +1725,7 @@
                                                 aria-labelledby="v-pills-messages-tab4" tabindex="0">
                                                 <div class="cop-card">
                                                     <div class="table-responsive">
-                                                        <table class="table table-striped table-bordered table-hover">
+                                                        <table class="table">
                                                             <thead>
                                                                 <tr>
                                                                     <th>Title of Paper</th>

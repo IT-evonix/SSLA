@@ -18,7 +18,7 @@
     <div class="container">
         <h1 class="inner__red_heading">Admission Webinar</h1>
         <div class="set-registration">
-            <h2>Webinar</h2>
+            <h2>Upcoming Webinars</h2>
             <div class="table-responsive">
                 <table class="table table-bordered align-middle admission-table">
                     <thead>
@@ -114,7 +114,7 @@
         </div>
 
         <div class="set-registration">
-            <h2>Webinars Videos</h2>
+            <h2>Past Webinar Recordings</h2>
             <div class="table-responsive">
                 <table class="table table-bordered align-middle admission-table">
                     <thead>
@@ -123,7 +123,7 @@
                             <th>Day</th>
                             <th>Time</th>
                             <th>Topic</th>
-                            <th>Registration Link</th>
+                            <th>Recordings</th>
                         </tr>
                     </thead>
                     <tbody>
