@@ -55,6 +55,24 @@
                                                 </ul>
                                             </div>
                                         </div>
+                                        <div class="eligibility_elaborate_listing">
+                                            <div class="adderess_heading">GCE / IGCSE / GCSE</div>
+                                            <div class="custom_listing">
+                                                <ul>
+                                                    <li>
+                                                        Applicants must have passed a total of seven subjects, which
+                                                        must include:
+                                                        <span class="new__sub_point_margin">
+                                                            - Five subjects at Ordinary Level (O Level) with grades A,
+                                                            B, or C, including English, and <br>
+                                                            - Two subjects at Advanced Level (A Level) <br>
+                                                            <i>(Alternatively, four O Level subjects and three A Level
+                                                                subjects may be accepted, subject to equivalence).</i>
+                                                        </span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                         <!-- <div class="eligibility_orbox">
                                             OR
                                         </div> -->
@@ -112,24 +130,7 @@
                                         <!-- <div class="eligibility_orbox">
                                             OR
                                         </div> -->
-                                        <div class="eligibility_elaborate_listing">
-                                            <div class="adderess_heading">GCE / IGCSE / GCSE</div>
-                                            <div class="custom_listing">
-                                                <ul>
-                                                    <li>
-                                                        Applicants must have passed a total of seven subjects, which
-                                                        must include:
-                                                        <span class="new__sub_point_margin">
-                                                            - Five subjects at Ordinary Level (O Level) with grades A,
-                                                            B, or C, including English, and <br>
-                                                            - Two subjects at Advanced Level (A Level) <br>
-                                                            <i>(Alternatively, four O Level subjects and three A Level
-                                                                subjects may be accepted, subject to equivalence).</i>
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <div class="eligibility_reservation_mainbox">

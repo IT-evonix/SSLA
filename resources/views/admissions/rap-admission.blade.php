@@ -208,7 +208,7 @@
                                                                 <button type="button" class="accordion-button collapsed rap-acc-btn"
                                                                     data-bs-toggle="collapse"
                                                                     data-bs-target="#rapThree">
-                                                                    Personal Interaction
+                                                                    Personal Interaction (PI)
                                                                 </button>
                                                             </h2>
                                                             <div id="rapThree" class="accordion-collapse collapse"

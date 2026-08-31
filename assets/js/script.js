@@ -28,7 +28,7 @@ $('.home_testi').owlCarousel({
     dots: true,
     nav: false,
     dotsEach: 1,
-    autoplay: true,
+    autoplay: false,
     autoplayTimeout: 3000,
     slideTransition: 'linear',
     autoplaySpeed: 2000,
@@ -53,8 +53,9 @@ $('.home_event').owlCarousel({
     center: true,
     nav: false,
     dotsEach: 1,
-    autoplay: true,
-    autoplayTimeout: 3000,
+     autoplay: true,
+    autoplayTimeout: 6000,
+    smartSpeed: 1500,
     responsive: {
         0: {
             items: 1,
@@ -77,7 +78,7 @@ $('.home_team').owlCarousel({
     center: true,
     nav: true,
     dotsEach: 1,
-    autoplay: true,
+    autoplay: false,
     autoplayTimeout: 3000,
     slideTransition: 'linear',
     autoplaySpeed: 2000,
@@ -106,7 +107,7 @@ $('.home_blog').owlCarousel({
     margin: 10,
     items: 1,
     nav: false,
-    autoplay: true,
+    autoplay: false,
     autoplayTimeout: 2000,
     slideTransition: 'linear'
 });
@@ -117,7 +118,7 @@ $('.home_blog_two').owlCarousel({
     margin: 10,
     items: 1,
     nav: false,
-    autoplay: true,
+    autoplay: false,
     autoplayTimeout: 2000,
     slideTransition: 'linear',
     autoplaySpeed: 500
@@ -157,7 +158,7 @@ $('.red_carpet').owlCarousel({
     nav: true,
     items: 1,
     dots: false,
-    autoplay: true,
+    autoplay: false,
     margin: 0,
     autoplayTimeout: 5000,
     smartSpeed: 1600,
@@ -183,12 +184,16 @@ $('.red_carpet').owlCarousel({
 $('.cijid_gallery').owlCarousel({
   loop: true,
   dots: false,
-  nav: false,
-  autoplay: true,
+  nav: true,
+  autoplay: false,
   autoplayTimeout: 4000,
   slideTransition: 'ease',
   autoplaySpeed: 3000,
   margin: 10,
+  navText: [
+        "<img src='assets/images/events/gallery-arrow.svg'>",
+        "<img src='assets/images/events/gallery-arrow.svg'>"
+    ],
   responsive: {
     0: {
       items: 1,

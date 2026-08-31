@@ -28,7 +28,7 @@
                         <span class="highlight">Symbiosis Centre for International Education (SCIE)</span>.
                     </p>
 
-                    <div class="badge">
+                    <div class="new_badge">
                         20% Intake Reserved for International Applicants
                     </div>
                 </div>
