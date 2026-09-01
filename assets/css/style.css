@@ -1005,11 +1005,11 @@
   /* Our courses section ends  */
   /* Testimonial section start  */
   .testi_section {
-      padding: 20px 0;
+      padding: 30px 0;
       background-color: #F8232D;
-      width: 95%;
-      border-radius: 0 80px 80px 0;
-      box-shadow: 0px 3px 12px 3px #ccc;
+      /* width: 95%; */
+      /* border-radius: 0 80px 80px 0; */
+      /* box-shadow: 0px 3px 12px 3px #ccc; */
       margin: -40px 0 0 0;
       position: relative;
       z-index: 1;
@@ -1057,9 +1057,10 @@
       .owl-dots {
           display: flex;
           gap: 5px;
-          position: absolute;
-          right: 40px;
-          bottom: -15px;
+          justify-content: center;
+          /* position: absolute; */
+          /* right: 40px; */
+          /* bottom: -15px; */
       }
 
       .owl-dot.active span {
@@ -8316,9 +8317,9 @@
           width: 100%;
           border-radius: 0;
 
-          .owl-dots {
+          /* .owl-dots {
               display: none;
-          }
+          } */
 
           .testi_second_qoute_icon {
               justify-content: end;
@@ -8495,16 +8496,17 @@
       .testi_first_qoute_icon svg {
           width: 30px;
           height: 30px;
-          margin: 0 0 8px 0;
+          margin: 0 0 10px 0;
       }
 
       .testi_second_qoute_icon svg {
           width: 30px;
           height: 30px;
-          margin: 8px 0 0 0;
+          margin: 10px 0 0 0;
       }
 
       .testi_section {
+          padding: 20px 0;
           .testi_carousal_listing {
               font-size: 16px;
           }
