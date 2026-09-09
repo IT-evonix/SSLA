@@ -62,7 +62,8 @@
                                     </p>
                                 </div>
                                 <div class="footer_number">
-                                    <a href="tel:+912026557300">+91-20-26557300</a>
+                                    <!-- <a href="tel:+912026557300">+91-20-26557300</a> -->
+                                    +91-20-26557300
                                 </div>
                             </div>
                             <div class="footer_left_bottombox">
@@ -72,14 +73,12 @@
                                 <div class="footer_number_listing">
                                     <ul>
                                         <li>
-                                            SIU Main No: <a href="tel:+912039116226">+91-20-39116226</a>/<a
-                                                href="tel:+912039116227">7</a>
+                                            SIU Main No: <span>+91-20-39116226</span>/<span>7</span>
                                         </li>
                                         <li>
-                                            Health Care Centre (S.B.Road): <a
-                                                href="tel:+919552525651">+91-9552525651</a>
+                                            Health Care Centre (S.B.Road): <span>+91-9552525651</span>
                                         </li>
-                                        <li>Anti Ragging Helpline: <a href="tel:+91955252572">+91-955252572</a></li>
+                                        <li>Anti Ragging Helpline: <span>+91-955252572</span></li>
                                     </ul>
                                 </div>
                             </div>

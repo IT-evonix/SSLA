@@ -371,7 +371,7 @@
 }
 
 .know_more_btn a:hover {
-    background-color: #CB2E33;
+    background-color: #EC3536;
     color: #fff;
     background-image: url(../images/inner_pages/white_right_arrow.png);
 }
@@ -660,7 +660,7 @@
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     margin-bottom: 28px;
 }
 
@@ -677,13 +677,13 @@
     top: 0;
     bottom: 0;
     width: 3px;
-    background: #CB2E33;
+    background: #EC3536;
 }
 
 .rap_admission_main .rap-dot {
     width: 15px;
     height: 15px;
-    background: #CB2E33;
+    background: #EC3536;
     border-radius: 50%;
     position: relative;
     left: calc(18px - 6.5px);
@@ -758,7 +758,7 @@
 .rap_admission_main .rap-note-title {
     font-size: 28px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     margin-bottom: 25px;
 }
 
@@ -791,7 +791,7 @@
     position: absolute;
     left: 0;
     top: 2px;
-    color: #CB2E33;
+    color: #EC3536;
     font-size: 16px;
 }
 
@@ -806,13 +806,13 @@
     padding: 45px 50px;
     max-width: 1000px;
     margin: auto;
-    border-top: 4px solid #CB2E33;
+    border-top: 4px solid #EC3536;
 }
 
 .rap_admission_main .rap-terms-title {
     font-size: 30px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     margin-bottom: 30px;
     text-align: center;
 }
@@ -832,7 +832,7 @@
 
 .rap_admission_main .rap-terms-list li::before {
     content: "➤";
-    color: #CB2E33;
+    color: #EC3536;
     font-size: 16px;
 }
 
@@ -852,14 +852,14 @@
     padding: 45px 50px;
     max-width: 1000px;
     margin: auto;
-    border-top: 4px solid #CB2E33;
+    border-top: 4px solid #EC3536;
 }
 
 
 
 .rap_admission_main .rap_note_mainbox-disc li::before {
     content: "➤";
-    color: #CB2E33;
+    color: #EC3536;
     font-size: 16px;
     margin-right: 10px;
 }
@@ -884,7 +884,7 @@
 
 .rap_admission_main .rap_note_mainbox-cancel li::before {
     content: "➤";
-    color: #CB2E33;
+    color: #EC3536;
     font-size: 16px;
     margin-right: 10px;
 }
@@ -898,7 +898,7 @@
     text-align: center;
     font-size: 30px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     margin-bottom: 60px;
 }
 
@@ -929,7 +929,7 @@
     border-top-left-radius: 50px;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 50px;
-    border: 4px solid #CB2E33;
+    border: 4px solid #EC3536;
 }
 
 .alumni-testimonial-section .alumni-image img {
@@ -975,7 +975,7 @@
 
 .alumni-testimonial-section .alumni-batch {
     font-size: 15px;
-    color: #CB2E33;
+    color: #EC3536;
     font-weight: 500;
     margin-bottom: 10px;
 }
@@ -1003,7 +1003,7 @@
 .alumni-testimonial-section .alumni-quote::before {
     content: "“";
     font-size: 60px;
-    color: #CB2E33;
+    color: #EC3536;
     position: absolute;
     left: 0;
     top: -31px;
@@ -1135,7 +1135,7 @@
 }
 
 .main-card-secccc .profile-designation span {
-    color: #CB2E33;
+    color: #EC3536;
     font-weight: 500;
 }
 
@@ -1208,14 +1208,14 @@
 
 .faculty-listing-section .faculty-org {
     font-size: 14px;
-    color: #CB2E33;
+    color: #EC3536;
 }
 
 .staff-sub-inner .faculty_position {
     /* font-family: Montserrat-Bold; */
     font-family: 'Roboto-Regular';
     font-size: 15px;
-    color: #CB2E33;
+    color: #EC3536;
     text-align: center;
 }
 
@@ -1241,7 +1241,7 @@
     content: "";
     width: 80px;
     height: 4px;
-    background-color: #CB2E33;
+    background-color: #EC3536;
     display: block;
     margin: 12px auto 0;
 }
@@ -1446,7 +1446,7 @@
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background: #CB2E33;
+    background: #EC3536;
     color: #ffffff;
     padding: 12px 22px;
     font-size: 15px;
@@ -1502,7 +1502,7 @@
 }
 
 .main-sec-admission-process .set-registration h2 {
-    color: #CB2E33;
+    color: #EC3536;
     font-size: 28px;
     margin-bottom: 25px;
     border-left: 6px solid #007382;
@@ -1552,7 +1552,7 @@
 }
 
 .main-sec-admission-process .warning {
-    background-color: #CB2E33;
+    background-color: #EC3536;
     color: #fff;
     padding: 12px 15px;
     border-radius: 6px;
@@ -1592,14 +1592,14 @@
 .main-sec-admission-process .type-card {
     background: #fff;
     border: 1px solid #dedede;
-    border-left: 5px solid #CB2E33;
+    border-left: 5px solid #EC3536;
     border-radius: 10px;
     padding: 22px;
     transition: all 0.3s ease;
 }
 
 .main-sec-admission-process .type-card h4 {
-    color: #CB2E33;
+    color: #EC3536;
     margin-bottom: 10px;
     font-size: 17px;
 }
@@ -1623,7 +1623,7 @@
 .main-sec-admission-process .cta-link {
     display: inline-block;
     margin-top: 10px;
-    color: #CB2E33;
+    color: #EC3536;
     font-weight: 600;
     text-decoration: none;
     font-family: 'Roboto-Regular';
@@ -1639,13 +1639,13 @@
 
 .main-sec-admission-process .process-step h3 {
     font-size: 20px;
-    color: #CB2E33;
+    color: #EC3536;
     margin: 15px 0;
 }
 
 .main-sec-admission-process .process-subtitle {
     font-size: 20px;
-    color: #CB2E33;
+    color: #EC3536;
     margin: 15px 0;
 }
 
@@ -1665,7 +1665,7 @@
 .research-main-sec .rc-title {
     font-size: 32px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     font-family: 'Roboto-Bold';
 }
 
@@ -1677,18 +1677,20 @@
 
 .research-main-sec .rc-overview {
     padding: 30px;
-    border-top: 4px solid #CB2E33;
+    /* border-top: 4px solid #EC3536; */
+    border-radius: 20px;
+    border: 1px solid #dedede;
     background-color: #f9f9f9;
 }
 
 .research-main-sec .rc-overview h4 {
-    color: #007382;
+    /* color: #007382; */
     margin-bottom: 15px;
 }
 
 .research-main-sec .rc-overview p {
     font-size: 16px;
-    line-height: 1.6;
+    line-height: normal;
     text-align: justify;
 }
 
@@ -1704,18 +1706,18 @@
 .rc-card {
     position: relative;
     background: #ffffff;
-    padding: 30px 25px 30px 70px;
+    padding: 20px;
     border-radius: 12px;
     /* box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06); */
     transition: all 0.3s ease;
     height: 100%;
     border: 1px solid #dedede;
 }
-
+/* 
 .rc-card:hover {
     transform: translateY(-5px);
-    /* box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12); */
-}
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+} */
 
 .research-main-sec .rc-num {
     position: absolute;
@@ -1723,7 +1725,7 @@
     top: 25px;
     font-size: 34px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     font-family: 'Roboto-Bold';
 }
 
@@ -1751,8 +1753,9 @@
 }
 
 .research-main-sec .rc-series h4 {
-    font-size: 22px;
-    margin-bottom: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Roboto-Medium';
 }
 
 .research-main-sec .rc-series p {
@@ -1761,7 +1764,7 @@
 }
 
 .research-main-sec .inner_heading-red {
-    color: #CB2E33;
+    color: #EC3536;
     font-weight: 700;
     line-height: 1.3;
     animation: fadeUp 0.8s ease forwards;
@@ -1779,9 +1782,9 @@
 }
 
 .research-main-sec .objective h2 {
-    color: #CB2E33;
-    margin-bottom: 15px;
-    font-size: 25px;
+    color: #EC3536;
+    margin-bottom: 20px;
+    font-size: 20px;
 }
 
 .research-main-sec .objective p {
@@ -1824,15 +1827,15 @@
 }
 
 .research-main-sec .speaker {
-    padding: 50px;
-    border-radius: 20px;
+    /* padding: 50px;
+    border-radius: 20px; */
     margin-bottom: 15px;
 }
 
 .research-main-sec .speaker h2 {
-    color: #CB2E33;
+    color: #EC3536;
     margin-bottom: 20px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .research-main-sec .speaker-card {
@@ -1869,7 +1872,7 @@
 
 .research-main-sec .proceedings-text {
     /* max-width: 900px; */
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
 
 .research-main-sec .proceedings-text p {
@@ -1879,9 +1882,9 @@
 }
 
 .research-main-sec .speaker {
-    background: #f9f9f9;
+    /* background: #f9f9f9;
     padding: 20px;
-    border-radius: 18px;
+    border-radius: 18px; */
 }
 
 .research-main-sec .speaker-content p {
@@ -1986,7 +1989,7 @@
 .acc-title {
     font-size: 22px;
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
     line-height: 1.3;
 }
 
@@ -2046,7 +2049,7 @@
     width: 200px;
     height: 200px;
     overflow: hidden;
-    /* border: 4px solid #CB2E33; */
+    /* border: 4px solid #EC3536; */
     border-radius: 100%;
     object-fit: cover;
     margin: auto;
@@ -2084,7 +2087,7 @@
 .alumni-main-section .main-class-alumini-img .batch-txtt {
     font-size: 14px;
     margin-bottom: 0;
-    color: #CB2E33;
+    color: #EC3536;
 }
 
 .alumni-main-section .main-class-alumini-img .p {
@@ -2227,7 +2230,7 @@
 
 .table-heading {
     text-align: center;
-    color: #CB2E33;
+    color: #EC3536;
     font-size: 16px;
     font-weight: 600;
     background: #F5F5F5;
@@ -2260,7 +2263,7 @@
 
 .main-financials .neft-tag {
     display: inline-block;
-    background: #CB2E33;
+    background: #EC3536;
     color: #fff;
     padding: 6px 14px;
     border-radius: 20px;
@@ -2294,7 +2297,7 @@
     border-radius: 14px;
     padding: 30px;
     position: relative;
-    border-top: 6px solid #CB2E33;
+    border-top: 6px solid #EC3536;
     /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.05); */
     border-right: 1px solid #f4f4f4;
     border-left: 1px solid #f4f4f4;
@@ -2389,7 +2392,7 @@
     display: block;
     width: 80px;
     height: 4px;
-    background: #CB2E33;
+    background: #EC3536;
     margin: 10px auto;
     border-radius: 2px;
 }
@@ -2400,7 +2403,7 @@
     border-radius: 14px;
     margin-bottom: 25px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-    border-left: 6px solid #CB2E33;
+    border-left: 6px solid #EC3536;
 }
 
 .main-financials .info-card.accent {
@@ -2408,7 +2411,7 @@
 }
 
 .main-financials .info-card.highlight {
-    background: linear-gradient(135deg, #007382, #CB2E33);
+    background: linear-gradient(135deg, #007382, #EC3536);
     color: #fff;
 }
 
@@ -2444,7 +2447,7 @@
 }
 
 .main-financials .contact-grid a:hover {
-    background: #CB2E33;
+    background: #EC3536;
 }
 
 .main-financials .facility-list {
@@ -2513,7 +2516,7 @@
 
 /* boys variation */
 .main-financials .hostel-card.boys {
-    border-top-color: #CB2E33;
+    border-top-color: #EC3536;
 }
 
 /* headings */
@@ -2552,7 +2555,7 @@
 }
 
 .main-financials .badge.girls {
-    background-color: #CB2E33;
+    background-color: #EC3536;
     font-family: 'Roboto-Medium';
 }
 
@@ -2568,7 +2571,7 @@
     align-items: flex-start;
     gap: 18px;
     background: #ffffff;
-    border-left: 6px solid #CB2E33;
+    border-left: 6px solid #EC3536;
     padding: 22px 26px;
     border-radius: 12px;
     /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); */
@@ -2603,7 +2606,7 @@
 
 /* highlight text */
 .main-financials .note-content strong {
-    color: #CB2E33;
+    color: #EC3536;
 }
 
 /* hover effect */
@@ -2633,7 +2636,7 @@
 
 .main-financials .contact-icon {
     font-size: 26px;
-    color: #CB2E33;
+    color: #EC3536;
 }
 
 /* title */
@@ -2687,7 +2690,7 @@
 /* labels */
 .main-financials .label {
     font-weight: 700;
-    color: #CB2E33;
+    color: #EC3536;
 }
 
 /* separator */
@@ -2714,25 +2717,23 @@
 
 .cop-card {
     background: #FFF;
-    border-left: 6px solid #CB2E33;
     /* box-shadow: 0 3px 9px rgba(0, 0, 0, 0.08); */
-    border-radius: 8px;
+    border-radius: 20px;
     padding: 25px;
     margin-bottom: 25px;
-    border-right: 1px solid #dedede;
-    border-top: 1px solid #dedede;
-    border-bottom: 1px solid #dedede;
+    /* border-left: 6px solid #EC3536; */
+    border: 1px solid #dedede;
 }
 
 .cop-title {
-    color: #CB2E33;
-    font-size: 22px;
+    color: #EC3536;
+    font-size: 20px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .cop-subtitle {
-    color: #007382;
+    /* color: #007382; */
     font-weight: bold;
     margin-top: 15px;
 }
@@ -2755,7 +2756,7 @@
     content: "➤";
     position: absolute;
     left: 0;
-    color: #CB2E33;
+    color: #EC3536;
     /* arrow color */
     font-size: 14px;
 }
@@ -3158,7 +3159,7 @@
     }
 
     .research-main-sec .speaker h2 {
-        font-size: 21px;
+        font-size: 20px;
     }
 
     .acheivement_main .faculty-names {
@@ -3366,7 +3367,7 @@
     }
 
     .research-main-sec .speaker h2 {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .research-main-sec .proceedings-collage {

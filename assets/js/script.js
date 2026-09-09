@@ -189,11 +189,12 @@ $('.cijid_gallery').owlCarousel({
   autoplayTimeout: 4000,
   slideTransition: 'ease',
   autoplaySpeed: 3000,
-  margin: 10,
-  navText: [
-        "<img src='assets/images/events/gallery-arrow.svg'>",
-        "<img src='assets/images/events/gallery-arrow.svg'>"
-    ],
+  margin: 15,
+  navText: 
+        [
+            "<img src='assets/images/home/prev-icon-white.svg'>",
+            "<img src='assets/images/home/next-icon-white.svg'>"
+        ],
   responsive: {
     0: {
       items: 1,
