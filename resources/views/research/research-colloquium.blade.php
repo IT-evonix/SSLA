@@ -51,7 +51,7 @@
                                         <!-- Left Content -->
                                         <div class="col-lg-12">
                                             <div class="rc-overview">
-                                                <h4>About the Colloquia</h4>
+                                                <h4 class="cop-title">About the Colloquia</h4>
                                                 <p>
                                                     The Research Colloquium at the Symbiosis School for Liberal Arts
                                                     (SSLA) is a structured academic forum designed to cultivate a
@@ -75,8 +75,8 @@
 
                                                             <div class="col-sm-12 col-md-6 col-lg-6">
                                                                 <div class="rc-card">
-                                                                    <span class="rc-num">01</span>
-                                                                    <h5>Showcase Faculty Research</h5>
+                                                                    <!-- <span class="rc-num">01</span> -->
+                                                                    <div class="lab_membership_heading">Showcase Faculty Research</div>
                                                                     <p>
                                                                         Enable faculty to present completed work or
                                                                         work-in-progress across diverse disciplines to
@@ -87,8 +87,8 @@
 
                                                             <div class="col-sm-12 col-md-6 col-lg-6">
                                                                 <div class="rc-card">
-                                                                    <span class="rc-num">02</span>
-                                                                    <h5>Stimulate Scholarly Dialogue</h5>
+                                                                    <!-- <span class="rc-num">02</span> -->
+                                                                    <div class="lab_membership_heading">Stimulate Scholarly Dialogue</div>
                                                                     <p>
                                                                         Facilitate critical engagement with research
                                                                         topics through discussion, feedback, and
@@ -99,8 +99,8 @@
 
                                                             <div class="col-sm-12 col-md-6 col-lg-6">
                                                                 <div class="rc-card">
-                                                                    <span class="rc-num">03</span>
-                                                                    <h5>Bridge Disciplinary Silos</h5>
+                                                                    <!-- <span class="rc-num">03</span> -->
+                                                                    <div class="lab_membership_heading">Bridge Disciplinary Silos</div>
                                                                     <p>
                                                                         Encourage interactions across academic fields,
                                                                         to foster a true liberal arts space in research.
@@ -110,8 +110,8 @@
 
                                                             <div class="col-sm-12 col-md-6 col-lg-6">
                                                                 <div class="rc-card">
-                                                                    <span class="rc-num">04</span>
-                                                                    <h5>Inspire Student Insight</h5>
+                                                                    <!-- <span class="rc-num">04</span> -->
+                                                                    <div class="lab_membership_heading">Inspire Student Insight</div>
                                                                     <p>
                                                                         By opening the forum to students, the colloquium
                                                                         aims to familiarise students to research
@@ -132,8 +132,8 @@
                                                 <h4>Colloquia Series Format</h4>
                                                 <p>
                                                     Conducted as seasonal series including
-                                                    <strong>Monsoon Research Colloquia (July–November)</strong> and
-                                                    <strong>Spring Research Colloquia (January–May)</strong>.
+                                                    Monsoon Research Colloquia (July–November) and
+                                                    Spring Research Colloquia (January–May).
                                                     Each session features a faculty presentation followed by discussion.
                                                 </p>
                                             </div>
@@ -187,7 +187,7 @@
                                                                                 </p>
                                                                             </div>
                                                                             <!-- Proceedings -->
-                                                                            <div class="proceedings">
+                                                                            <div class="objective">
                                                                                 <h2>Colloquium’s Proceedings</h2>
 
                                                                                 <!-- IMAGE COLLAGE -->
@@ -218,7 +218,7 @@
                                                                                     <p>
                                                                                         Her research examined the
                                                                                         hypothesis of
-                                                                                        <strong>MC1R</strong> as a
+                                                                                        MC1R as a
                                                                                         candidate
                                                                                         gene contributing to skin
                                                                                         pigmentation in Indian
@@ -230,7 +230,7 @@
                                                                                         and regional diversity.
                                                                                     </p>
 
-                                                                                    <p>
+                                                                                    <p class="m-0">
                                                                                         Findings indicated that MC1R did
                                                                                         not significantly contribute to
                                                                                         observed
@@ -352,7 +352,7 @@
                                                                                 </p>
                                                                             </div>
                                                                             <!-- Proceedings -->
-                                                                            <div class="proceedings">
+                                                                            <div class="objective">
                                                                                 <h2>Colloquium’s Proceedings</h2>
 
                                                                                 <!-- IMAGE COLLAGE -->
@@ -597,7 +597,7 @@
                                                                             </div>
 
                                                                             <!-- Proceedings -->
-                                                                            <div class="proceedings">
+                                                                            <div class="objective">
                                                                                 <h2>Colloquium’s Proceedings</h2>
 
                                                                                 <!-- IMAGE COLLAGE -->
@@ -846,45 +846,47 @@
                                                         <div id="rapSix" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="objective">
-                                                                    <p>Elections are glorified experiments. In
-                                                                        democracies today, they are at the very least,
-                                                                        models of public ambitions, goals and desires.
-                                                                        Lest we forget, the elected are representative
-                                                                        abstractions of the prevailing nature of the
-                                                                        larger phenomenon namely, the electorate.
-                                                                        Nothing mobilizes and at the same time
-                                                                        represents public will more than an election.
-                                                                        The race to the White House last year was touted
-                                                                        as the ‘Election to Save Science’ and indeed the
-                                                                        front runner journal in the discipline, Nature
-                                                                        ran an editorial titled ‘On November 3, Vote to
-                                                                        End Attacks on Science‘. </p>
-                                                                    <p> Readers were urged – “Instead of thinking about
-                                                                        whether to vote Democratic or Republican in the
-                                                                        upcoming U.S. election, think about voting to
-                                                                        protect science instead of destroying it.”
-                                                                        ("Vote, for science!," 2020). Few disagreed that
-                                                                        the Trump administration over its tenure had
-                                                                        dealt a significant blow to progress in the area
-                                                                        via often simultaneous articulations such as
-                                                                        substantial funding cuts (J. Mervis, 2020a and
-                                                                        2020b) and a sustained disinformation campaign
-                                                                        on media platforms, often involving the
-                                                                        President himself (Motta, Stecula, & Farhart,
-                                                                        2020; Tollefson, 2020) and so on. Similar notes
-                                                                        of caution had already been sounded in 2018 with
-                                                                        the Brazilian (Escobar, 2018; Tollefson, 2018)
-                                                                        and Italian (Abbott, 2018) Presidential
-                                                                        Elections.</p>
-                                                                    <p>The recent handling of the COVID19 pandemic by
-                                                                        countries under right-wing dispensation has
-                                                                        starkly brought this troubled relationship
-                                                                        between the Sciences and policy makers into
-                                                                        glaring focus (Leonhardt, 2020). Suddenly, the
-                                                                        very relevance of the enterprise of science
-                                                                        within societies appears to be fragile to say
-                                                                        the least.</p>
+                                                                <div class="card research-card mt-3">
+                                                                    <div class="objective">
+                                                                        <p>Elections are glorified experiments. In
+                                                                            democracies today, they are at the very least,
+                                                                            models of public ambitions, goals and desires.
+                                                                            Lest we forget, the elected are representative
+                                                                            abstractions of the prevailing nature of the
+                                                                            larger phenomenon namely, the electorate.
+                                                                            Nothing mobilizes and at the same time
+                                                                            represents public will more than an election.
+                                                                            The race to the White House last year was touted
+                                                                            as the ‘Election to Save Science’ and indeed the
+                                                                            front runner journal in the discipline, Nature
+                                                                            ran an editorial titled ‘On November 3, Vote to
+                                                                            End Attacks on Science‘. </p>
+                                                                        <p> Readers were urged – “Instead of thinking about
+                                                                            whether to vote Democratic or Republican in the
+                                                                            upcoming U.S. election, think about voting to
+                                                                            protect science instead of destroying it.”
+                                                                            ("Vote, for science!," 2020). Few disagreed that
+                                                                            the Trump administration over its tenure had
+                                                                            dealt a significant blow to progress in the area
+                                                                            via often simultaneous articulations such as
+                                                                            substantial funding cuts (J. Mervis, 2020a and
+                                                                            2020b) and a sustained disinformation campaign
+                                                                            on media platforms, often involving the
+                                                                            President himself (Motta, Stecula, & Farhart,
+                                                                            2020; Tollefson, 2020) and so on. Similar notes
+                                                                            of caution had already been sounded in 2018 with
+                                                                            the Brazilian (Escobar, 2018; Tollefson, 2018)
+                                                                            and Italian (Abbott, 2018) Presidential
+                                                                            Elections.</p>
+                                                                        <p>The recent handling of the COVID19 pandemic by
+                                                                            countries under right-wing dispensation has
+                                                                            starkly brought this troubled relationship
+                                                                            between the Sciences and policy makers into
+                                                                            glaring focus (Leonhardt, 2020). Suddenly, the
+                                                                            very relevance of the enterprise of science
+                                                                            within societies appears to be fragile to say
+                                                                            the least.</p>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -906,41 +908,43 @@
                                                         <div id="rapSeven" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="objective">
-                                                                    <p>Soft Power, according to Jospeh Nye, Jr, who
-                                                                        coined the term, is the ability to achieve
-                                                                        desired outcomes in international affairs
-                                                                        through attraction rather than coercion.
-                                                                        Traditionally, cultural and literary exchanges
-                                                                        through various festivals, sports – especially
-                                                                        like cricket and table-tennis and grants for
-                                                                        higher education, have been used as tools of
-                                                                        soft power. However, over the past decade,
-                                                                        medicine as a tool or currency for diplomacy has
-                                                                        become a game-changer in International
-                                                                        Relations.</p>
-                                                                    <p>USA, China and Cuba have already successfully
-                                                                        implemented healthcare or medical diplomacy as
-                                                                        an integral part of their foreign policy. UK is
-                                                                        also looking at using their well-established NHS
-                                                                        as the way forward. However, as far as India is
-                                                                        concerned, while health/medical tourism is a
-                                                                        watchword for India, and India has sent medical
-                                                                        support as part of humanitarian aid to different
-                                                                        parts of the world, in response to various
-                                                                        natural calamities and other situations,
-                                                                        including engaging in vaccine diplomacy during
-                                                                        the pandemic, we are yet to formalize a strategy
-                                                                        or policy on healthcare diplomacy.</p>
-                                                                    <p>Given the absence of any formalised policy for
-                                                                        medical or healthcare diplomacy in India, the
-                                                                        purpose of this paper is to explore whether
-                                                                        India can use medicine/healthcare as a currency
-                                                                        to advance its interests in the present
-                                                                        international order; and whether healthcare
-                                                                        diplomacy can be incorporated as a strategy and
-                                                                        an instrument of soft power in India’s foreign
-                                                                        policy concerns.</p>
+                                                                <div class="card research-card mt-3">
+                                                                    <div class="objective">
+                                                                        <p>Soft Power, according to Jospeh Nye, Jr, who
+                                                                            coined the term, is the ability to achieve
+                                                                            desired outcomes in international affairs
+                                                                            through attraction rather than coercion.
+                                                                            Traditionally, cultural and literary exchanges
+                                                                            through various festivals, sports – especially
+                                                                            like cricket and table-tennis and grants for
+                                                                            higher education, have been used as tools of
+                                                                            soft power. However, over the past decade,
+                                                                            medicine as a tool or currency for diplomacy has
+                                                                            become a game-changer in International
+                                                                            Relations.</p>
+                                                                        <p>USA, China and Cuba have already successfully
+                                                                            implemented healthcare or medical diplomacy as
+                                                                            an integral part of their foreign policy. UK is
+                                                                            also looking at using their well-established NHS
+                                                                            as the way forward. However, as far as India is
+                                                                            concerned, while health/medical tourism is a
+                                                                            watchword for India, and India has sent medical
+                                                                            support as part of humanitarian aid to different
+                                                                            parts of the world, in response to various
+                                                                            natural calamities and other situations,
+                                                                            including engaging in vaccine diplomacy during
+                                                                            the pandemic, we are yet to formalize a strategy
+                                                                            or policy on healthcare diplomacy.</p>
+                                                                        <p>Given the absence of any formalised policy for
+                                                                            medical or healthcare diplomacy in India, the
+                                                                            purpose of this paper is to explore whether
+                                                                            India can use medicine/healthcare as a currency
+                                                                            to advance its interests in the present
+                                                                            international order; and whether healthcare
+                                                                            diplomacy can be incorporated as a strategy and
+                                                                            an instrument of soft power in India’s foreign
+                                                                            policy concerns.</p>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -963,63 +967,65 @@
                                                         <div id="rapEight" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="objective">
-                                                                    <p>A nation’s security policy is essentially aimed
-                                                                        at creating and sustaining the space -
-                                                                        regionally and globally - which enables it to
-                                                                        pursue its national interests. Devising such a
-                                                                        policy requires an assessment of external
-                                                                        environment, the nature and intensity of the
-                                                                        threat as well as the means, both internal and
-                                                                        external, to mitigate such a threat. It is
-                                                                        therefore a critical instrument to understand
-                                                                        the nature of threats and the avenues and
-                                                                        approaches applied by the State to deal with it.
-                                                                        India is a diverse democracy with multiplicity
-                                                                        of political actors at play. The most visible of
-                                                                        those are the political parties, both regional
-                                                                        and national, who are prime drivers of the
-                                                                        public discourse and also of the public policy.
-                                                                        In the initial years after the independence,
-                                                                        this diversity was relatively less pronounced at
-                                                                        the policy level given the prominence of the
-                                                                        Congress party which ruled at the centre as well
-                                                                        as in the majority of the states. </p>
-                                                                    <p>The single-party dominance implied a relatively
-                                                                        one-dimensional approach to policy making. This
-                                                                        was true also in case of making of security
-                                                                        policy. The one party-dominance started fading
-                                                                        in the mid-seventies, essentially after the
-                                                                        emergency, and the phenomenon of coalition of
-                                                                        political parties to form government started
-                                                                        gaining currency. The coalition inevitably meant
-                                                                        a multi-dimensional approach to policy to
-                                                                        satisfy the multiple and at time conflicting
-                                                                        interests of the coalition partners. </p>
-                                                                    <p>The diversity thus started getting pronounced at
-                                                                        the policy level as well. This diversity of
-                                                                        political opinions and resulting lack of
-                                                                        consensus is reflected also in the making of
-                                                                        security policy. There is no unanimity in the
-                                                                        political class, for instance, in the approach
-                                                                        to deal with the Pakistan or China, arguably the
-                                                                        two most significant strategic challenges facing
-                                                                        India. Similarly, there are differing approach
-                                                                        to deal with terrorism and the insurgencies as
-                                                                        well. The advent of coalition governments
-                                                                        compounded this effect of the differing
-                                                                        opinions. The proposed study intends to study
-                                                                        comprehensively the dynamics of Coalition
-                                                                        Governments and its impact on the making of
-                                                                        Security Policy in India. It bases on the
-                                                                        primary assumption that a nuanced study, which
-                                                                        incorporates the variables such as ideological
-                                                                        inclinations of the coalition partners,
-                                                                        political capital, the nature of the leadership
-                                                                        along with the contemporary structural
-                                                                        environment, is imperative to have a
-                                                                        comprehensive study of Security Policy Making in
-                                                                        India.</p>
+                                                                <div class="card research-card mt-3">
+                                                                    <div class="objective">
+                                                                        <p>A nation’s security policy is essentially aimed
+                                                                            at creating and sustaining the space -
+                                                                            regionally and globally - which enables it to
+                                                                            pursue its national interests. Devising such a
+                                                                            policy requires an assessment of external
+                                                                            environment, the nature and intensity of the
+                                                                            threat as well as the means, both internal and
+                                                                            external, to mitigate such a threat. It is
+                                                                            therefore a critical instrument to understand
+                                                                            the nature of threats and the avenues and
+                                                                            approaches applied by the State to deal with it.
+                                                                            India is a diverse democracy with multiplicity
+                                                                            of political actors at play. The most visible of
+                                                                            those are the political parties, both regional
+                                                                            and national, who are prime drivers of the
+                                                                            public discourse and also of the public policy.
+                                                                            In the initial years after the independence,
+                                                                            this diversity was relatively less pronounced at
+                                                                            the policy level given the prominence of the
+                                                                            Congress party which ruled at the centre as well
+                                                                            as in the majority of the states. </p>
+                                                                        <p>The single-party dominance implied a relatively
+                                                                            one-dimensional approach to policy making. This
+                                                                            was true also in case of making of security
+                                                                            policy. The one party-dominance started fading
+                                                                            in the mid-seventies, essentially after the
+                                                                            emergency, and the phenomenon of coalition of
+                                                                            political parties to form government started
+                                                                            gaining currency. The coalition inevitably meant
+                                                                            a multi-dimensional approach to policy to
+                                                                            satisfy the multiple and at time conflicting
+                                                                            interests of the coalition partners. </p>
+                                                                        <p>The diversity thus started getting pronounced at
+                                                                            the policy level as well. This diversity of
+                                                                            political opinions and resulting lack of
+                                                                            consensus is reflected also in the making of
+                                                                            security policy. There is no unanimity in the
+                                                                            political class, for instance, in the approach
+                                                                            to deal with the Pakistan or China, arguably the
+                                                                            two most significant strategic challenges facing
+                                                                            India. Similarly, there are differing approach
+                                                                            to deal with terrorism and the insurgencies as
+                                                                            well. The advent of coalition governments
+                                                                            compounded this effect of the differing
+                                                                            opinions. The proposed study intends to study
+                                                                            comprehensively the dynamics of Coalition
+                                                                            Governments and its impact on the making of
+                                                                            Security Policy in India. It bases on the
+                                                                            primary assumption that a nuanced study, which
+                                                                            incorporates the variables such as ideological
+                                                                            inclinations of the coalition partners,
+                                                                            political capital, the nature of the leadership
+                                                                            along with the contemporary structural
+                                                                            environment, is imperative to have a
+                                                                            comprehensive study of Security Policy Making in
+                                                                            India.</p>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1045,7 +1051,7 @@
                                         </div>
                                     </div>
                                     <!-- Content -->
-                                    <div class="row">
+                                    <div class="row mb-5">
                                         <div class="col-lg-12">
                                             <div class="rc-overview" data-aos="fade-up">
                                                 <p>
