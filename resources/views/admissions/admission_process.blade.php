@@ -40,397 +40,272 @@
                     </div>
                 </div>
                 <div class="rap-admission-section">
-                    <div class="container">
-                        <div class="rap-timeline">
-                            <div class="accordion" id="rapAccordion">
-                                <!-- Admission process -->
-                                <div class="rap-item" data-aos="fade-up">
-                                    <div class="rap-dot"></div>
-                                    <div class="rap-content accordion-item">
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed rap-acc-btn"
-                                                data-bs-toggle="collapse" data-bs-target="#rapOne_1">
-                                                Online Registration Process
-                                            </button>
-                                        </h2>
-                                        <div id="rapOne_1" class="accordion-collapse collapse"
-                                            data-bs-parent="#rapAccordion">
-                                            <div class="accordion-body">
-                                                <div class="research-card">
-                                                    <p>
-                                                        From 2018 onwards, “SET General” is known as Symbiosis Entrance Test (SET).
-                                                    </p>
-                                                    <ul class="rap-note-list">
-                                                        <li>
-                                                            For a valid and complete registration, candidates must register independently for both:
-                                                            <ul class="my_sub_list">
-                                                                <li>Symbiosis Entrance Test (SET)</li>
-                                                                <li>Institution / Programme of their choice</li>
-                                                            </ul>
-                                                        </li>
-                                                        <li>
-                                                            In the absence of Programme / Institution registration,
-                                                            the SET registration will be INVALID.
-                                                        </li>
-                                                        <li class="warning new_warning">
-                                                            Please note: No refund of the SET registration fee will be
-                                                            provided
-                                                            if the candidate misses the Programme / Institute registration.
-                                                        </li>
-                                                    </ul>
-                                                </div>
+                    <div class="rap-timeline">
+                        <div class="accordion" id="rapAccordion">
+                            <!-- Admission process -->
+                            <div class="rap-item" data-aos="fade-up">
+                                <div class="rap-dot"></div>
+                                <div class="rap-content accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed rap-acc-btn"
+                                            data-bs-toggle="collapse" data-bs-target="#rapOne_1">
+                                            Online Registration Process
+                                        </button>
+                                    </h2>
+                                    <div id="rapOne_1" class="accordion-collapse collapse"
+                                        data-bs-parent="#rapAccordion">
+                                        <div class="accordion-body">
+                                            <div class="">
+                                                <p>
+                                                    From 2018 onwards, “SET General” is known as Symbiosis Entrance Test (SET).
+                                                </p>
+                                                <ul class="rap-note-list">
+                                                    <li>
+                                                        For a valid and complete registration, candidates must register independently for both:
+                                                        <ul class="my_sub_list">
+                                                            <li>Symbiosis Entrance Test (SET)</li>
+                                                            <li>Institution / Programme of their choice</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        In the absence of Programme / Institution registration,
+                                                        the SET registration will be INVALID.
+                                                    </li>
+                                                    <li class="warning new_warning">
+                                                        Please note: No refund of the SET registration fee will be
+                                                        provided
+                                                        if the candidate misses the Programme / Institute registration.
+                                                    </li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                            </div>
 
-                                <!-- A. SET Online Registration -->
-                                <div class="rap-item" data-aos="fade-up">
-                                    <div class="rap-dot"></div>
-                                    <div class="rap-content accordion-item">
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed rap-acc-btn"
-                                                data-bs-toggle="collapse" data-bs-target="#rapOne">
-                                                SET Online Computer-based Test Registration Process
-                                            </button>
-                                        </h2>
-                                        <div id="rapOne" class="accordion-collapse collapse"
-                                            data-bs-parent="#rapAccordion">
-                                            <div class="accordion-body">
-                                                <div class="research-card">
-                                                    <p>SET 2026 will be conducted on two different dates. Please note these
-                                                        dates carefully:</p>
-                                                    <div class="table-responsive">
-                                                        <table class="table align-middle set-date-table">
-                                                            <thead>
-                                                                <tr>
-                                                                    <th colspan="2">
-                                                                        Date of SET 2026 and Time
-                                                                    </th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>May 02, 2026 (Saturday) and May 10, 2026 (Sunday)
-                                                                    </td>
-                                                                    <td>09.00 am – 10.00 am</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
-                                                    <div class="container">
-                                                        <div class="card">
-                                                            <div class="card-body">
-                                                                <h6 class="fw-bold mb-3">Important Note</h6>
-                                                                <p>
-                                                                    A candidate can appear for two tests for SET 2026. If a
-                                                                    candidate appears for more than one test, the higher
-                                                                    score will be considered for the final percentile
-                                                                    calculation. There will be no normalization. A rigorous
-                                                                    process that has been statistically tested will be
-                                                                    administered to ensure that unique types of questions
-                                                                    are framed under a specific topic across the question
-                                                                    papers.
-                                                                </p>
-                                                                <p>
-                                                                    The normal spread will ensure that there is no unfair
-                                                                    advantage to candidates who opt for any specific test /
-                                                                    multiple tests. This will ensure the normalisation of
-                                                                    the spread of questions across sections. Furthermore,
-                                                                    the question papers will be normalised for the level of
-                                                                    difficulty across all two tests. No correspondence
-                                                                    regarding this will be entertained.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="process-step">
-                                                            <h3>The registration process is as follows:</h3>
-                                                            <ul class="rap-note-list">
-                                                                <li>Register online at <a href="www.set-test.org" target="_blank">www.set-test.org</a>
-                                                                <!-- up to <strong>April 15, 2026 (Wednesday)</strong>. -->
-                                                                </li>
-                                                                <li>Click on ‘Register’.</li>
-                                                                <li>Read all the ‘Instructions’ carefully
-                                                                    and click on ‘Continue’ to accept the
-                                                                    ‘Terms and Conditions’.
-                                                                </li>
-                                                                <li>Fill in the details requested on the page displayed.
-                                                                </li>
-                                                                <li>Click on ‘Save and Continue’. An OTP
-                                                                    will be sent to the mobile number and email ID entered.
-                                                                </li>
-                                                                <li>Enter the OTP and submit.</li>
-                                                                <li>After successful registration, an e-mail and SMS
-                                                                    containing your SET ID and password
-                                                                    will be sent.</li>
-                                                                <li>Use this SET ID for all communications
-                                                                    regarding the SET 2026 entrance test/admission
-                                                                        procedure.</li>
-                                                                <li>Pay the SET entrance test registration fee of
-                                                                        INR 2250 per test (government taxes extra
-                                                                    as applicable). The fee is non-transferable and
-                                                                    non-refundable.</li>
-                                                                <li>In addition, pay the programme registration fee
-                                                                        of INR 1000/- per programme (government
-                                                                    taxes extra as applicable). This fee is non-transferable
-                                                                    and non-refundable.</li>
-                                                                <li>Payment of only the SET entrance test registration fee
-                                                                    will not make a candidate eligible for shortlisting or
-                                                                    merit listing in any programme.</li>
-                                                                <li>Both fees must be paid as per the
-                                                                    instructions on the registration portal. Failure to pay
-                                                                    the programme registration fee will result in the
-                                                                    application not being considered for that programme. No
-                                                                    communication will be entertained in this regard.</li>
-                                                                <li>For queries, log in using your SET ID, click on
-                                                                    “Raise A Query”, and generate a ticket.
-                                                                    Generating a ticket is mandatory to resolve the query.
-                                                                </li>
-                                                                <li>The modes of payment for the programme registration fee
-                                                                    are the same as those for SET/SITEEE>.
-                                                                </li>
-                                                                <li>Candidates must declare and maintain a valid and unique
-                                                                    email ID and mobile number throughout the admission
-                                                                    process.</li>
-                                                                <li>Candidates are required to fill in correct information
-                                                                    in the online registration form corresponding to their
-                                                                    credentials.</li>
-                                                                <li>No changes shall be permitted after
-                                                                    registration under any circumstances.</li>
-                                                                <li>A candidate may appear for SET on both test dates:
-                                                                    May 02, 2026 (Saturday) and May
-                                                                        10, 2026 (Sunday).
-                                                                </li>
-                                                                <li>If a candidate appears for more than one test, the
-                                                                    higher score will be considered for the
-                                                                    final percentile calculation.
-                                                                </li>
-                                                                <li>If any information provided by a candidate is found to
-                                                                    be incorrect, the University reserves the right to
-                                                                    cancel the application.
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="process-step">
-                                                            <h3>General Terms and Conditions:</h3>
-                                                            <ul class="rap-note-list">
-                                                                <li>Upload your latest scanned colour passport size
-                                                                    photograph at the time of online registration. The
-                                                                    photograph should not be more than 06 months
-                                                                        old.</li>
-                                                                <li>Ensure that all information filled in the application
-                                                                    form is accurate. No changes shall be permitted
-                                                                        after registration under any circumstances.
-                                                                    Candidates are fully and solely responsible for
-                                                                    providing correct information during the application
-                                                                    process.</li>
-                                                                <li>If any information provided by the candidate at the time
-                                                                    of filling or submitting the application form is found
-                                                                    to be incorrect or untrue, SIU reserves the
-                                                                        right to cancel the application or admission at any
-                                                                        stage, in accordance with its rules and
-                                                                    regulations.</li>
-                                                                <li>Any direct or indirect attempt to influence the
-                                                                    management or employees of the Institute will lead to
-                                                                    automatic disqualification of the
-                                                                    candidate.
-                                                                </li>
-                                                                <li>All communication with candidates will be carried out
-                                                                    only through the official email IDs:
-                                                                    <a href="mailto:no-reply@set-test.org">no-reply@set-test.org</a> and
-                                                                    <a href="mailto:info@set-test.org">info@set-test.org</a>.
-                                                                    Candidates are advised to whitelist these email
-                                                                    addresses.
-                                                                </li>
-                                                                <li>If the registration or payment confirmation email is not
-                                                                    received within 24 hours, candidates
-                                                                    should check their spam/junk folder.
-                                                                </li>
-                                                                <li>Candidates should note that SET 2026 is only the
-                                                                        first step. Each Symbiosis institute will
-                                                                    conduct its own independent admission process after
-                                                                    shortlisting.</li>
-                                                                <li>The SET Test registration fee and the
-                                                                    programme registration fee of the
-                                                                    Institute are non-refundable and
-                                                                        non-transferable.
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
+                            <!-- A. SET Online Registration -->
+                            <div class="rap-item" data-aos="fade-up">
+                                <div class="rap-dot"></div>
+                                <div class="rap-content accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed rap-acc-btn"
+                                            data-bs-toggle="collapse" data-bs-target="#rapOne">
+                                            SET Online Computer-based Test Registration Process
+                                        </button>
+                                    </h2>
+                                    <div id="rapOne" class="accordion-collapse collapse"
+                                        data-bs-parent="#rapAccordion">
+                                        <div class="accordion-body">
+                                            <div class="">
+                                                <p>SET 2026 will be conducted on two different dates. Please note these
+                                                    dates carefully:</p>
+                                                <div class="table-responsive">
+                                                    <table class="table align-middle set-date-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th colspan="2">
+                                                                    Date of SET 2026 and Time
+                                                                </th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>May 02, 2026 (Saturday) and May 10, 2026 (Sunday)
+                                                                </td>
+                                                                <td>09.00 am – 10.00 am</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
                                                 </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- B. Fee Payment -->
-                                <!-- <div class="rap-item" data-aos="fade-up">
-                                    <div class="rap-dot"></div>
-                                    <div class="rap-content accordion-item">
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed rap-acc-btn"
-                                                data-bs-toggle="collapse" data-bs-target="#rapTwo">
-                                                SET Test & Programme Registration Fee Payment Process
-                                            </button>
-                                        </h2>
-                                        <div id="rapTwo" class="accordion-collapse collapse"
-                                            data-bs-parent="#rapAccordion">
-                                            <div class="accordion-body">
-                                                <div id="rapTwo" class="accordion-collapse collapse"
-                                                    data-bs-parent="#rapAccordion">
-                                                    <div class="accordion-body">
-                                                        <div class="process-step">
-                                                            <h3>Candidates may pay through -</h3>
-                                                            <ul class="rap-note-list">
-                                                                <li>Billdesk Payment Gateway</li>
-                                                                <li>Easebuzz Payment Gateway</li>
-                                                                <li>Demand Draft</li>
-                                                                <li><strong>SET Registration: Pay the SET Test
-                                                                        registration fee of INR 2250</strong> per test
-                                                                    (government taxes would be additional as and when
-                                                                    applicable) up to <strong>April 15, 2026
-                                                                        (Wednesday)</strong> as per the instructions
-                                                                    mentioned on the website (www.set-test.org) for
-                                                                    payment of SET Test registration fee</li>
-                                                                <li><strong>Programme/Institute Registration:</strong>
-                                                                    In addition to that, you are also expected to pay
-                                                                    the non-refundable and non-transferable
-                                                                    <strong>Programme/Institute registration fee of INR
-                                                                        1000/-
-                                                                        (government taxes would be additional as and
-                                                                        when applicable) for each Programme/Institute
-                                                                    </strong> that you wish to apply for.
-                                                                </li>
-                                                            </ul>
+                                                <div class="container">
+                                                    <div class="card">
+                                                        <div class="card-body">
+                                                            <h6 class="fw-bold mb-3">Important Note</h6>
+                                                            <p>
+                                                                A candidate can appear for two tests for SET 2026. If a
+                                                                candidate appears for more than one test, the higher
+                                                                score will be considered for the final percentile
+                                                                calculation. There will be no normalization. A rigorous
+                                                                process that has been statistically tested will be
+                                                                administered to ensure that unique types of questions
+                                                                are framed under a specific topic across the question
+                                                                papers.
+                                                            </p>
+                                                            <p>
+                                                                The normal spread will ensure that there is no unfair
+                                                                advantage to candidates who opt for any specific test /
+                                                                multiple tests. This will ensure the normalisation of
+                                                                the spread of questions across sections. Furthermore,
+                                                                the question papers will be normalised for the level of
+                                                                difficulty across all two tests. No correspondence
+                                                                regarding this will be entertained.
+                                                            </p>
                                                         </div>
-                                                        <h5 class="process-subtitle">Programme registration fee payment
-                                                            process:</h5>
-                                                        <p>A candidate desirous to submit his candidature to select UG
-                                                            programmes is also required to complete the payment process
-                                                            of the desired programme before the closing date of payment
-                                                            of the same. Payment towards the programmes must be made
-                                                            through the website only (www.set-test.org). After making
-                                                            the payment for SET, proceed to complete the online
-                                                            registration form (Part II) for Programme(s) registration
-                                                            and the respective institute(s). A candidate is required to
-                                                            make separate non-refundable and non-transferable payment of
-                                                            INR 1000/- (government taxes would be additional as and when
-                                                            applicable) per programme per institute at this stage.</p>
-                                                        <div class="card mb-4">
-                                                            <div class="card-body">
-                                                                <h6 class="fw-bold mb-3">Note 1: </h6>
-                                                                <p>
-                                                                    Please note that payment of only the SET entrance
-                                                                    test registration fee will not make you eligible for
-                                                                    shortlisting in any programme, regardless of your
-                                                                    SET score. Both fees must be paid as per the
-                                                                    instructions provided on the registration portal.
-                                                                    Failure to pay the programme registration fee will
-                                                                    result in your application not being considered for
-                                                                    that programme. No communication will be entertained
-                                                                    in this regard.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="card mb-3">
-                                                            <div class="card-body">
-                                                                <h6 class="fw-bold mb-3">Note2: </h6>
-                                                                <p>
-                                                                    SET Test registration fee and Programme/Institute
-                                                                    registration fee of the Institute is non-refundable
-                                                                    and non-transferable.
-                                                                </p>
-                                                                <p>
-                                                                    The normal spread will ensure that there is no
-                                                                    unfair
-                                                                    advantage to candidates who opt for any specific
-                                                                    test /
-                                                                    multiple tests. This will ensure the normalisation
-                                                                    of
-                                                                    the spread of questions across sections.
-                                                                    Furthermore,
-                                                                    the question papers will be normalised for the level
-                                                                    of
-                                                                    difficulty across all two tests. No correspondence
-                                                                    regarding this will be entertained.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-
                                                     </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <div class="rap-item" data-aos="fade-up">
-                                    <div class="rap-dot"></div>
-
-                                    <div class="rap-content accordion-item">
-
-                                        <h2 class="accordion-header">
-                                            <button 
-                                                type="button"
-                                                class="accordion-button collapsed rap-acc-btn"
-                                                data-bs-toggle="collapse"
-                                                data-bs-target="#rapTwo"
-                                                aria-expanded="false"
-                                                aria-controls="rapTwo">
-
-                                                SET Test & Programme Registration Fee Payment Process
-
-                                            </button>
-                                        </h2>
-
-                                        <div 
-                                            id="rapTwo" 
-                                            class="accordion-collapse collapse"
-                                            data-bs-parent="#rapAccordion">
-
-                                            <div class="accordion-body">
-                                                <div class="research-card">
-
                                                     <div class="process-step">
-                                                        <h3>Candidates may pay through</h3>
-
+                                                        <h3>The registration process is as follows:</h3>
                                                         <ul class="rap-note-list">
-                                                            <li>Billdesk Payment Gateway</li>
-
-                                                            <li>Easebuzz Payment Gateway</li>
-
-                                                            <li>Demand Draft</li>
-
-                                                            <li>
-                                                                SET Registration: Pay the SET Test
-                                                                registration fee of INR 2250
-                                                                per test (government taxes would be additional as and when
-                                                                applicable) up to April 15, 2026 (Wednesday)
-                                                                as per the instructions mentioned on the website
-                                                                (<a href="www.set-test.org" target="_blank">www.set-test.org</a>) for payment of SET Test registration fee
+                                                            <li>Register online at <a href="www.set-test.org" target="_blank">www.set-test.org</a>
+                                                            <!-- up to <strong>April 15, 2026 (Wednesday)</strong>. -->
                                                             </li>
-
-                                                            <li>
-                                                                Programme/Institute Registration:
-                                                                In addition to that, you are also expected to pay
-                                                                the non-refundable and non-transferable
-                                                                Programme/Institute registration fee of INR
-                                                                1000/-
-                                                                (government taxes would be additional as and
-                                                                when applicable) for each Programme/Institute
-                                                                that you wish to apply for.
+                                                            <li>Click on ‘Register’.</li>
+                                                            <li>Read all the ‘Instructions’ carefully
+                                                                and click on ‘Continue’ to accept the
+                                                                ‘Terms and Conditions’.
+                                                            </li>
+                                                            <li>Fill in the details requested on the page displayed.
+                                                            </li>
+                                                            <li>Click on ‘Save and Continue’. An OTP
+                                                                will be sent to the mobile number and email ID entered.
+                                                            </li>
+                                                            <li>Enter the OTP and submit.</li>
+                                                            <li>After successful registration, an e-mail and SMS
+                                                                containing your SET ID and password
+                                                                will be sent.</li>
+                                                            <li>Use this SET ID for all communications
+                                                                regarding the SET 2026 entrance test/admission
+                                                                    procedure.</li>
+                                                            <li>Pay the SET entrance test registration fee of
+                                                                    INR 2250 per test (government taxes extra
+                                                                as applicable). The fee is non-transferable and
+                                                                non-refundable.</li>
+                                                            <li>In addition, pay the programme registration fee
+                                                                    of INR 1000/- per programme (government
+                                                                taxes extra as applicable). This fee is non-transferable
+                                                                and non-refundable.</li>
+                                                            <li>Payment of only the SET entrance test registration fee
+                                                                will not make a candidate eligible for shortlisting or
+                                                                merit listing in any programme.</li>
+                                                            <li>Both fees must be paid as per the
+                                                                instructions on the registration portal. Failure to pay
+                                                                the programme registration fee will result in the
+                                                                application not being considered for that programme. No
+                                                                communication will be entertained in this regard.</li>
+                                                            <li>For queries, log in using your SET ID, click on
+                                                                “Raise A Query”, and generate a ticket.
+                                                                Generating a ticket is mandatory to resolve the query.
+                                                            </li>
+                                                            <li>The modes of payment for the programme registration fee
+                                                                are the same as those for SET/SITEEE>.
+                                                            </li>
+                                                            <li>Candidates must declare and maintain a valid and unique
+                                                                email ID and mobile number throughout the admission
+                                                                process.</li>
+                                                            <li>Candidates are required to fill in correct information
+                                                                in the online registration form corresponding to their
+                                                                credentials.</li>
+                                                            <li>No changes shall be permitted after
+                                                                registration under any circumstances.</li>
+                                                            <li>A candidate may appear for SET on both test dates:
+                                                                May 02, 2026 (Saturday) and May
+                                                                    10, 2026 (Sunday).
+                                                            </li>
+                                                            <li>If a candidate appears for more than one test, the
+                                                                higher score will be considered for the
+                                                                final percentile calculation.
+                                                            </li>
+                                                            <li>If any information provided by a candidate is found to
+                                                                be incorrect, the University reserves the right to
+                                                                cancel the application.
                                                             </li>
                                                         </ul>
                                                     </div>
+                                                    <div class="process-step">
+                                                        <h3>General Terms and Conditions:</h3>
+                                                        <ul class="rap-note-list">
+                                                            <li>Upload your latest scanned colour passport size
+                                                                photograph at the time of online registration. The
+                                                                photograph should not be more than 06 months
+                                                                    old.</li>
+                                                            <li>Ensure that all information filled in the application
+                                                                form is accurate. No changes shall be permitted
+                                                                    after registration under any circumstances.
+                                                                Candidates are fully and solely responsible for
+                                                                providing correct information during the application
+                                                                process.</li>
+                                                            <li>If any information provided by the candidate at the time
+                                                                of filling or submitting the application form is found
+                                                                to be incorrect or untrue, SIU reserves the
+                                                                    right to cancel the application or admission at any
+                                                                    stage, in accordance with its rules and
+                                                                regulations.</li>
+                                                            <li>Any direct or indirect attempt to influence the
+                                                                management or employees of the Institute will lead to
+                                                                automatic disqualification of the
+                                                                candidate.
+                                                            </li>
+                                                            <li>All communication with candidates will be carried out
+                                                                only through the official email IDs:
+                                                                <a href="mailto:no-reply@set-test.org">no-reply@set-test.org</a> and
+                                                                <a href="mailto:info@set-test.org">info@set-test.org</a>.
+                                                                Candidates are advised to whitelist these email
+                                                                addresses.
+                                                            </li>
+                                                            <li>If the registration or payment confirmation email is not
+                                                                received within 24 hours, candidates
+                                                                should check their spam/junk folder.
+                                                            </li>
+                                                            <li>Candidates should note that SET 2026 is only the
+                                                                    first step. Each Symbiosis institute will
+                                                                conduct its own independent admission process after
+                                                                shortlisting.</li>
+                                                            <li>The SET Test registration fee and the
+                                                                programme registration fee of the
+                                                                Institute are non-refundable and
+                                                                    non-transferable.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
-
-                                                    <h5 class="process-subtitle">
-                                                        Programme registration fee payment process:
-                                                    </h5>
-
-
-                                                    <p>
-                                                        A candidate desirous to submit his candidature to select UG
+                            <!-- B. Fee Payment -->
+                            <!-- <div class="rap-item" data-aos="fade-up">
+                                <div class="rap-dot"></div>
+                                <div class="rap-content accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed rap-acc-btn"
+                                            data-bs-toggle="collapse" data-bs-target="#rapTwo">
+                                            SET Test & Programme Registration Fee Payment Process
+                                        </button>
+                                    </h2>
+                                    <div id="rapTwo" class="accordion-collapse collapse"
+                                        data-bs-parent="#rapAccordion">
+                                        <div class="accordion-body">
+                                            <div id="rapTwo" class="accordion-collapse collapse"
+                                                data-bs-parent="#rapAccordion">
+                                                <div class="accordion-body">
+                                                    <div class="process-step">
+                                                        <h3>Candidates may pay through -</h3>
+                                                        <ul class="rap-note-list">
+                                                            <li>Billdesk Payment Gateway</li>
+                                                            <li>Easebuzz Payment Gateway</li>
+                                                            <li>Demand Draft</li>
+                                                            <li><strong>SET Registration: Pay the SET Test
+                                                                    registration fee of INR 2250</strong> per test
+                                                                (government taxes would be additional as and when
+                                                                applicable) up to <strong>April 15, 2026
+                                                                    (Wednesday)</strong> as per the instructions
+                                                                mentioned on the website (www.set-test.org) for
+                                                                payment of SET Test registration fee</li>
+                                                            <li><strong>Programme/Institute Registration:</strong>
+                                                                In addition to that, you are also expected to pay
+                                                                the non-refundable and non-transferable
+                                                                <strong>Programme/Institute registration fee of INR
+                                                                    1000/-
+                                                                    (government taxes would be additional as and
+                                                                    when applicable) for each Programme/Institute
+                                                                </strong> that you wish to apply for.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <h5 class="process-subtitle">Programme registration fee payment
+                                                        process:</h5>
+                                                    <p>A candidate desirous to submit his candidature to select UG
                                                         programmes is also required to complete the payment process
                                                         of the desired programme before the closing date of payment
                                                         of the same. Payment towards the programmes must be made
@@ -440,17 +315,10 @@
                                                         and the respective institute(s). A candidate is required to
                                                         make separate non-refundable and non-transferable payment of
                                                         INR 1000/- (government taxes would be additional as and when
-                                                        applicable) per programme per institute at this stage.
-                                                    </p>
-
-
+                                                        applicable) per programme per institute at this stage.</p>
                                                     <div class="card mb-4">
                                                         <div class="card-body">
-
-                                                            <h6 class="fw-bold mb-3">
-                                                                Note 1:
-                                                            </h6>
-
+                                                            <h6 class="fw-bold mb-3">Note 1: </h6>
                                                             <p>
                                                                 Please note that payment of only the SET entrance
                                                                 test registration fee will not make you eligible for
@@ -462,24 +330,16 @@
                                                                 that programme. No communication will be entertained
                                                                 in this regard.
                                                             </p>
-
                                                         </div>
                                                     </div>
-
-
                                                     <div class="card mb-3">
                                                         <div class="card-body">
-
-                                                            <h6 class="fw-bold mb-3">
-                                                                Note2:
-                                                            </h6>
-
+                                                            <h6 class="fw-bold mb-3">Note2: </h6>
                                                             <p>
                                                                 SET Test registration fee and Programme/Institute
                                                                 registration fee of the Institute is non-refundable
                                                                 and non-transferable.
                                                             </p>
-
                                                             <p>
                                                                 The normal spread will ensure that there is no
                                                                 unfair
@@ -494,233 +354,371 @@
                                                                 difficulty across all two tests. No correspondence
                                                                 regarding this will be entertained.
                                                             </p>
-
                                                         </div>
                                                     </div>
+
                                                 </div>
                                             </div>
                                         </div>
-
                                     </div>
                                 </div>
+                            </div> -->
+                            <div class="rap-item" data-aos="fade-up">
+                                <div class="rap-dot"></div>
 
-                                <!-- C. Selection Process -->
-                                <div class="rap-item" data-aos="fade-up">
-                                    <div class="rap-dot"></div>
-                                    <div class="rap-content accordion-item">
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed rap-acc-btn"
-                                                data-bs-toggle="collapse" data-bs-target="#rapThree">
-                                                Personal Interaction (PI)
-                                            </button>
-                                        </h2>
-                                        <div id="rapThree" class="accordion-collapse collapse"
-                                            data-bs-parent="#rapAccordion">
-                                            <div class="accordion-body">
-                                                <div class="research-card">
+                                <div class="rap-content accordion-item">
+
+                                    <h2 class="accordion-header">
+                                        <button 
+                                            type="button"
+                                            class="accordion-button collapsed rap-acc-btn"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#rapTwo"
+                                            aria-expanded="false"
+                                            aria-controls="rapTwo">
+
+                                            SET Test & Programme Registration Fee Payment Process
+
+                                        </button>
+                                    </h2>
+
+                                    <div 
+                                        id="rapTwo" 
+                                        class="accordion-collapse collapse"
+                                        data-bs-parent="#rapAccordion">
+
+                                        <div class="accordion-body">
+                                            <div class="">
+
+                                                <div class="process-step">
+                                                    <h3>Candidates may pay through</h3>
+
                                                     <ul class="rap-note-list">
-                                                        <li>Saturday - 6th June 2026</li>
-                                                        <li>Monday - 8th June 2026</li>
-                                                        <li>Tuesday - 9th June 2026</li>
-                                                        <li>Wednesday - 10th June 2026</li>
+                                                        <li>Billdesk Payment Gateway</li>
+
+                                                        <li>Easebuzz Payment Gateway</li>
+
+                                                        <li>Demand Draft</li>
+
+                                                        <li>
+                                                            SET Registration: Pay the SET Test
+                                                            registration fee of INR 2250
+                                                            per test (government taxes would be additional as and when
+                                                            applicable) up to April 15, 2026 (Wednesday)
+                                                            as per the instructions mentioned on the website
+                                                            (<a href="www.set-test.org" target="_blank">www.set-test.org</a>) for payment of SET Test registration fee
+                                                        </li>
+
+                                                        <li>
+                                                            Programme/Institute Registration:
+                                                            In addition to that, you are also expected to pay
+                                                            the non-refundable and non-transferable
+                                                            Programme/Institute registration fee of INR
+                                                            1000/-
+                                                            (government taxes would be additional as and
+                                                            when applicable) for each Programme/Institute
+                                                            that you wish to apply for.
+                                                        </li>
                                                     </ul>
-                                                    <p class="note">
-                                                        Personal Interaction (PI) is mandatory for final selection.
-                                                    </p>
+                                                </div>
+
+
+                                                <h5 class="process-subtitle">
+                                                    Programme registration fee payment process:
+                                                </h5>
+
+
+                                                <p>
+                                                    A candidate desirous to submit his candidature to select UG
+                                                    programmes is also required to complete the payment process
+                                                    of the desired programme before the closing date of payment
+                                                    of the same. Payment towards the programmes must be made
+                                                    through the website only (www.set-test.org). After making
+                                                    the payment for SET, proceed to complete the online
+                                                    registration form (Part II) for Programme(s) registration
+                                                    and the respective institute(s). A candidate is required to
+                                                    make separate non-refundable and non-transferable payment of
+                                                    INR 1000/- (government taxes would be additional as and when
+                                                    applicable) per programme per institute at this stage.
+                                                </p>
+
+
+                                                <div class="card mb-4">
+                                                    <div class="card-body">
+
+                                                        <h6 class="fw-bold mb-3">
+                                                            Note 1:
+                                                        </h6>
+
+                                                        <p>
+                                                            Please note that payment of only the SET entrance
+                                                            test registration fee will not make you eligible for
+                                                            shortlisting in any programme, regardless of your
+                                                            SET score. Both fees must be paid as per the
+                                                            instructions provided on the registration portal.
+                                                            Failure to pay the programme registration fee will
+                                                            result in your application not being considered for
+                                                            that programme. No communication will be entertained
+                                                            in this regard.
+                                                        </p>
+
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="card">
+                                                    <div class="card-body">
+
+                                                        <h6 class="fw-bold">
+                                                            Note2:
+                                                        </h6>
+
+                                                        <p>
+                                                            SET Test registration fee and Programme/Institute
+                                                            registration fee of the Institute is non-refundable
+                                                            and non-transferable.
+                                                        </p>
+
+                                                        <p>
+                                                            The normal spread will ensure that there is no
+                                                            unfair
+                                                            advantage to candidates who opt for any specific
+                                                            test /
+                                                            multiple tests. This will ensure the normalisation
+                                                            of
+                                                            the spread of questions across sections.
+                                                            Furthermore,
+                                                            the question papers will be normalised for the level
+                                                            of
+                                                            difficulty across all two tests. No correspondence
+                                                            regarding this will be entertained.
+                                                        </p>
+
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
+                            </div>
 
-                                <!-- D. Timeline -->
-                                <div class="rap-item" data-aos="fade-up">
-                                    <div class="rap-dot"></div>
-                                    <div class="rap-content accordion-item">
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed rap-acc-btn"
-                                                data-bs-toggle="collapse" data-bs-target="#rapFour">
-                                                Timeline for SET 2026
-                                            </button>
-                                        </h2>
-                                        <div id="rapFour" class="accordion-collapse collapse"
-                                            data-bs-parent="#rapAccordion">
-                                            <div class="accordion-body">
-                                                <div class="research-card">
-                                                    <div class="table-responsive">
-                                                        <table
-                                                            class="table table-bordered align-middle admission-table">
-                                                            <thead>
-                                                                <tr>
-                                                                    <th>Particulars</th>
-                                                                    <th>Date</th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>SET Application Forms Open</td>
-                                                                    <td>Thursday - 19th December, 2025</td>
-                                                                </tr>
+                            <!-- C. Selection Process -->
+                            <div class="rap-item" data-aos="fade-up">
+                                <div class="rap-dot"></div>
+                                <div class="rap-content accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed rap-acc-btn"
+                                            data-bs-toggle="collapse" data-bs-target="#rapThree">
+                                            Personal Interaction (PI)
+                                        </button>
+                                    </h2>
+                                    <div id="rapThree" class="accordion-collapse collapse"
+                                        data-bs-parent="#rapAccordion">
+                                        <div class="accordion-body">
+                                            <div class="">
+                                                <ul class="rap-note-list">
+                                                    <li>Saturday - 6th June 2026</li>
+                                                    <li>Monday - 8th June 2026</li>
+                                                    <li>Tuesday - 9th June 2026</li>
+                                                    <li>Wednesday - 10th June 2026</li>
+                                                </ul>
+                                                <p class="note mt-3 mb-0">
+                                                    Personal Interaction (PI) is mandatory for final selection.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
-                                                                <tr>
-                                                                    <td>SET Registration Closes on</td>
-                                                                    <td>Wednesday - 15th April 2026</td>
-                                                                </tr>
+                            <!-- D. Timeline -->
+                            <div class="rap-item" data-aos="fade-up">
+                                <div class="rap-dot"></div>
+                                <div class="rap-content accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed rap-acc-btn"
+                                            data-bs-toggle="collapse" data-bs-target="#rapFour">
+                                            Timeline for SET 2026
+                                        </button>
+                                    </h2>
+                                    <div id="rapFour" class="accordion-collapse collapse"
+                                        data-bs-parent="#rapAccordion">
+                                        <div class="accordion-body">
+                                            <div class="">
+                                                <div class="table-responsive">
+                                                    <table
+                                                        class="table table-bordered align-middle admission-table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Particulars</th>
+                                                                <th>Date</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>SET Application Forms Open</td>
+                                                                <td>Thursday - 19th December, 2025</td>
+                                                            </tr>
 
-                                                                <tr>
-                                                                    <td>SET Payment Closes on</td>
-                                                                    <td>Wednesday - 15th April 2026</td>
-                                                                </tr>
+                                                            <tr>
+                                                                <td>SET Registration Closes on</td>
+                                                                <td>Wednesday - 15th April 2026</td>
+                                                            </tr>
 
-                                                                <tr>
-                                                                    <td>SET Admit Card Live On (www.set-test.org)</td>
-                                                                    <td>Friday - 24th April 2026 (SET Test 01) <br />
-                                                                        Thursday - 30th April 2026 (SET Test 02)</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>SET Computer Based Test (CBT) 2026
-                                                                        (www.set-test.org) Test 01</td>
-                                                                    <td>Saturday - 2nd May 2026 (09:00 am to 10:00 am)
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>SET Computer Based Test (CBT) 2026
-                                                                        (www.set-test.org) Test 02</td>
-                                                                    <td>Sunday - 10th May 2026 (09:00 am to 10:00 am)
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Announcement of SET Results</td>
-                                                                    <td>Wednesday - 20th May 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Last date for Payment for SSLA</td>
-                                                                    <td>Wednesday - 27th May 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Declaration of Shortlisted Candidates for PI
-                                                                    </td>
-                                                                    <td>Tuesday - 2nd June 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Slot Booking by Candidates for PI</td>
-                                                                    <td>Tuesday - 2nd June and 3rd June 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>ONLINE Personal Interaction Dates</td>
-                                                                    <td>Saturday - 6th June 2026 <br />Monday - 8th June
-                                                                        2026 <br />Tuesday - 9th June
-                                                                        2026<br />Wednesday - 10th June 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Declaration of 1st Merit List</td>
-                                                                    <td>Thursday - 18th June 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Payment for 1st Merit List</td>
-                                                                    <td>Thursday - 18th June 2026 to Wednesday 24th June
-                                                                        2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Declaration of 2nd Merit List</td>
-                                                                    <td>Thursday - 25th June 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Payment for 2nd Merit List</td>
-                                                                    <td>Thursday - 25th June 2026 to Wednesday 1st July
-                                                                        2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Declaration of 3rd Merit List</td>
-                                                                    <td>Thursday - 2nd July 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Payment for 3rd Merit List</td>
-                                                                    <td>Thursday - 2nd July 2026 to Wednesday 8th July
-                                                                        2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Induction & Orientation Week</td>
-                                                                    <td>Sunday - 12th July 2026 to Saturday - 18th July
-                                                                        2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Classes Begin</td>
-                                                                    <td>Monday - 20th July 2026</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td colspan="2">Please note SIU reserves the right
-                                                                        to change
-                                                                        these dates in view of any unavoidable
-                                                                        circumstances.</td>
-                                                                </tr>
-                                                                <tr colspan="2">
-                                                                    <td colspan="2">** Programme Commencement with
-                                                                        compulsory
-                                                                        attendance through the week of Induction &
-                                                                        Orientation.</td>
-                                                                </tr>
+                                                            <tr>
+                                                                <td>SET Payment Closes on</td>
+                                                                <td>Wednesday - 15th April 2026</td>
+                                                            </tr>
+
+                                                            <tr>
+                                                                <td>SET Admit Card Live On (www.set-test.org)</td>
+                                                                <td>Friday - 24th April 2026 (SET Test 01) <br />
+                                                                    Thursday - 30th April 2026 (SET Test 02)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>SET Computer Based Test (CBT) 2026
+                                                                    (www.set-test.org) Test 01</td>
+                                                                <td>Saturday - 2nd May 2026 (09:00 am to 10:00 am)
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>SET Computer Based Test (CBT) 2026
+                                                                    (www.set-test.org) Test 02</td>
+                                                                <td>Sunday - 10th May 2026 (09:00 am to 10:00 am)
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Announcement of SET Results</td>
+                                                                <td>Wednesday - 20th May 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Last date for Payment for SSLA</td>
+                                                                <td>Wednesday - 27th May 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Declaration of Shortlisted Candidates for PI
+                                                                </td>
+                                                                <td>Tuesday - 2nd June 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Slot Booking by Candidates for PI</td>
+                                                                <td>Tuesday - 2nd June and 3rd June 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>ONLINE Personal Interaction Dates</td>
+                                                                <td>Saturday - 6th June 2026 <br />Monday - 8th June
+                                                                    2026 <br />Tuesday - 9th June
+                                                                    2026<br />Wednesday - 10th June 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Declaration of 1st Merit List</td>
+                                                                <td>Thursday - 18th June 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Payment for 1st Merit List</td>
+                                                                <td>Thursday - 18th June 2026 to Wednesday 24th June
+                                                                    2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Declaration of 2nd Merit List</td>
+                                                                <td>Thursday - 25th June 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Payment for 2nd Merit List</td>
+                                                                <td>Thursday - 25th June 2026 to Wednesday 1st July
+                                                                    2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Declaration of 3rd Merit List</td>
+                                                                <td>Thursday - 2nd July 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Payment for 3rd Merit List</td>
+                                                                <td>Thursday - 2nd July 2026 to Wednesday 8th July
+                                                                    2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Induction & Orientation Week</td>
+                                                                <td>Sunday - 12th July 2026 to Saturday - 18th July
+                                                                    2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Classes Begin</td>
+                                                                <td>Monday - 20th July 2026</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan="2">Please note SIU reserves the right
+                                                                    to change
+                                                                    these dates in view of any unavoidable
+                                                                    circumstances.</td>
+                                                            </tr>
+                                                            <tr colspan="2">
+                                                                <td colspan="2">** Programme Commencement with
+                                                                    compulsory
+                                                                    attendance through the week of Induction &
+                                                                    Orientation.</td>
+                                                            </tr>
 
 
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
-                                                    <div class="card">
-                                                        <div class="card-body">
-                                                            <h6 class="fw-bold mb-3">Important Note</h6>
-                                                                <ul class="rap-note-list">
-                                                                    <li>Please note that SET 2026 will be
-                                                                        conducted in Computer Based Test (CBT)
-                                                                        mode.</li>
-                                                                    <li>The duration of SET Test–01 and
-                                                                        SET Test–02 is 60 minutes each.
-                                                                    </li>
-                                                                    <li>There is no negative marking for wrong
-                                                                        answers.</li>
-                                                                    <li>All sections are mandatory.</li>
-                                                                    <li>Utmost care is taken to prepare an error-free question
-                                                                        paper. However, if any error is detected, the
-                                                                        Scrutiny Committee’s decision taken
-                                                                        after the test shall be final.
-                                                                    </li>
-                                                                    <li>A candidate may appear for SET on both test dates:
-                                                                        May 02, 2026 (Saturday) and May 10, 2026 (Sunday).
-                                                                        If a candidate appears for more than one test, the
-                                                                        higher score will be considered for the
-                                                                        final percentile calculation.
-                                                                    </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <!-- <div class="process-step">
-                                                        <h3>Note:-</h3>
-                                                        <ul class="rap-note-list">
-                                                            <li>Please note that <strong>SET 2026</strong> will be
-                                                                conducted in <strong>Computer Based Test (CBT)</strong>
-                                                                mode.</li>
-                                                            <li>The duration of <strong>SET Test–01</strong> and
-                                                                <strong>SET Test–02</strong> is <strong>60 minutes
-                                                                    each</strong>.
-                                                            </li>
-                                                            <li>There is <strong>no negative marking</strong> for wrong
-                                                                answers.</li>
-                                                            <li><strong>All sections are mandatory</strong>.</li>
-                                                            <li>Utmost care is taken to prepare an error-free question
-                                                                paper. However, if any error is detected, the
-                                                                <strong>Scrutiny Committee’s decision</strong> taken
-                                                                after the test shall be <strong>final</strong>.
-                                                            </li>
-                                                            <li>A candidate may appear for SET on both test dates:
-                                                                <strong>May 02, 2026 (Saturday)</strong> and <strong>May
-                                                                    10, 2026 (Sunday)</strong>.
-                                                                If a candidate appears for more than one test, the
-                                                                <strong>higher score</strong> will be considered for the
-                                                                final percentile calculation.
-                                                            </li>
-                                                        </ul>
-
-                                                    </div> -->
+                                                        </tbody>
+                                                    </table>
                                                 </div>
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <h6 class="fw-bold mb-3">Important Note</h6>
+                                                            <ul class="rap-note-list">
+                                                                <li>Please note that SET 2026 will be
+                                                                    conducted in Computer Based Test (CBT)
+                                                                    mode.</li>
+                                                                <li>The duration of SET Test–01 and
+                                                                    SET Test–02 is 60 minutes each.
+                                                                </li>
+                                                                <li>There is no negative marking for wrong
+                                                                    answers.</li>
+                                                                <li>All sections are mandatory.</li>
+                                                                <li>Utmost care is taken to prepare an error-free question
+                                                                    paper. However, if any error is detected, the
+                                                                    Scrutiny Committee’s decision taken
+                                                                    after the test shall be final.
+                                                                </li>
+                                                                <li>A candidate may appear for SET on both test dates:
+                                                                    May 02, 2026 (Saturday) and May 10, 2026 (Sunday).
+                                                                    If a candidate appears for more than one test, the
+                                                                    higher score will be considered for the
+                                                                    final percentile calculation.
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <!-- <div class="process-step">
+                                                    <h3>Note:-</h3>
+                                                    <ul class="rap-note-list">
+                                                        <li>Please note that <strong>SET 2026</strong> will be
+                                                            conducted in <strong>Computer Based Test (CBT)</strong>
+                                                            mode.</li>
+                                                        <li>The duration of <strong>SET Test–01</strong> and
+                                                            <strong>SET Test–02</strong> is <strong>60 minutes
+                                                                each</strong>.
+                                                        </li>
+                                                        <li>There is <strong>no negative marking</strong> for wrong
+                                                            answers.</li>
+                                                        <li><strong>All sections are mandatory</strong>.</li>
+                                                        <li>Utmost care is taken to prepare an error-free question
+                                                            paper. However, if any error is detected, the
+                                                            <strong>Scrutiny Committee’s decision</strong> taken
+                                                            after the test shall be <strong>final</strong>.
+                                                        </li>
+                                                        <li>A candidate may appear for SET on both test dates:
+                                                            <strong>May 02, 2026 (Saturday)</strong> and <strong>May
+                                                                10, 2026 (Sunday)</strong>.
+                                                            If a candidate appears for more than one test, the
+                                                            <strong>higher score</strong> will be considered for the
+                                                            final percentile calculation.
+                                                        </li>
+                                                    </ul>
+
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>

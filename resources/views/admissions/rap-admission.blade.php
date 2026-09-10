@@ -53,294 +53,294 @@
                                         </div>
                                     </div>
                                     <div class="rap-admission-section">
-                                        <div class="container">
-                                            <div class="rap-timeline">
-                                                <!-- NORMAL ITEMS -->
-                                                <div class="d-none">
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content">
-                                                            <h4>Admission Portal Opens</h4>
-                                                            <p>The admission portal on the SSLA website will open on
-                                                                <strong>Thursday, 4th September 2025</strong>.
-                                                            </p>
-                                                        </div>
+                                        <div class="rap-timeline">
+                                            <!-- NORMAL ITEMS -->
+                                            <div class="d-none">
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content">
+                                                        <h4>Admission Portal Opens</h4>
+                                                        <p>The admission portal on the SSLA website will open on
+                                                            <strong>Thursday, 4th September 2025</strong>.
+                                                        </p>
                                                     </div>
+                                                </div>
 
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content">
-                                                            <h4>Choose RAP</h4>
-                                                            <p>Applicants can opt for <strong>RAP</strong> directly on
-                                                                the
-                                                                website.</p>
-                                                        </div>
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content">
+                                                        <h4>Choose RAP</h4>
+                                                        <p>Applicants can opt for <strong>RAP</strong> directly on
+                                                            the
+                                                            website.</p>
                                                     </div>
+                                                </div>
 
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content">
-                                                            <h4>SET Portal Access</h4>
-                                                            <p>The SET process and portal access will open in
-                                                                <strong>December 2025</strong>.
-                                                            </p>
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content">
+                                                        <h4>SET Portal Access</h4>
+                                                        <p>The SET process and portal access will open in
+                                                            <strong>December 2025</strong>.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- BOOTSTRAP ACCORDION -->
+                                            <div class="accordion" id="rapAccordion">
+                                                <!-- 1st -->
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content accordion-item">
+                                                        <h2 class="accordion-header">
+                                                            <button type="button" class="accordion-button collapsed rap-acc-btn"
+                                                                data-bs-toggle="collapse" data-bs-target="#rapOne">
+                                                                Online Registration Process
+                                                            </button>
+                                                        </h2>
+                                                        <div id="rapOne" class="accordion-collapse collapse"
+                                                            data-bs-parent="#rapAccordion">
+                                                            <div class="accordion-body">
+                                                                <div class="">
+                                                                    <ul class="rap-note-list">
+                                                                        <li>Applicants may choose the RAP option through
+                                                                            the SSLA website.</li>
+                                                                        <li>The admission portal will open in September.
+                                                                        </li>
+                                                                        <li>
+                                                                            To complete the application form:
+                                                                            <ul class="my_sub_list">
+                                                                                <li>Candidates must provide their
+                                                                                    personal and contact details.</li>
+                                                                                <li>Class 12 Board marks will be
+                                                                                    considered solely for meeting
+                                                                                    eligibility requirements.</li>
+                                                                                <li>
+                                                                                    All required documents must be
+                                                                                    uploaded, as applicable, on the
+                                                                                    admission portal. These include:
+                                                                                    <ul class="my_sub_sub_list">
+                                                                                        <li>Final mark sheet of Class 10
+                                                                                            Board Exam</li>
+                                                                                        <li>Final Exam mark sheet for
+                                                                                            Class 11</li>
+                                                                                        <li>1 recent passport size
+                                                                                            photograph</li>
+                                                                                        <li>1 Letter of Recommendation
+                                                                                            (LOR) from a school teacher
+                                                                                            or the Principal of the
+                                                                                            school on the school
+                                                                                            letterhead</li>
+                                                                                        <li>Statement of Purpose (SOP):
+                                                                                            The Statement of Purpose
+                                                                                            should clearly articulate
+                                                                                            the candidate’s reasons for
+                                                                                            applying to SSLA, including
+                                                                                            specific aspects of the
+                                                                                            institution that attract
+                                                                                            their interest. It should
+                                                                                            also outline the candidate’s
+                                                                                            academic interests, career
+                                                                                            objectives, and future
+                                                                                            plans, while demonstrating
+                                                                                            how they intend to
+                                                                                            contribute meaningfully to
+                                                                                            SSLA.</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                                <li>
+                                                                                    Please ensure that the SOP adheres
+                                                                                    to the following guidelines:
+                                                                                    <ul class="my_sub_sub_list">
+                                                                                        <li>It must be written in Times
+                                                                                            New Roman, font size 12.
+                                                                                        </li>
+                                                                                        <li>The total word count should
+                                                                                            not exceed 500 words.</li>
+                                                                                        <li>The candidate’s name must be
+                                                                                            clearly mentioned at the top
+                                                                                            of the document.</li>
+                                                                                    </ul>
+                                                                                </li>
+                                                                            </ul>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
 
-                                                <!-- BOOTSTRAP ACCORDION -->
-                                                <div class="accordion" id="rapAccordion">
-                                                    <!-- 1st -->
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content accordion-item">
-                                                            <h2 class="accordion-header">
-                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
-                                                                    data-bs-toggle="collapse" data-bs-target="#rapOne">
-                                                                    Online Registration Process
-                                                                </button>
-                                                            </h2>
-                                                            <div id="rapOne" class="accordion-collapse collapse"
-                                                                data-bs-parent="#rapAccordion">
-                                                                <div class="accordion-body">
-                                                                    <div class="research-card">
-                                                                        <ul class="rap-note-list">
-                                                                            <li>Applicants may choose the RAP option through
-                                                                                the SSLA website.</li>
-                                                                            <li>The admission portal will open in September.
-                                                                            </li>
-                                                                            <li>
-                                                                                To complete the application form:
-                                                                                <ul class="my_sub_list">
-                                                                                    <li>Candidates must provide their
-                                                                                        personal and contact details.</li>
-                                                                                    <li>Class 12 Board marks will be
-                                                                                        considered solely for meeting
-                                                                                        eligibility requirements.</li>
-                                                                                    <li>
-                                                                                        All required documents must be
-                                                                                        uploaded, as applicable, on the
-                                                                                        admission portal. These include:
-                                                                                        <ul class="my_sub_sub_list">
-                                                                                            <li>Final mark sheet of Class 10
-                                                                                                Board Exam</li>
-                                                                                            <li>Final Exam mark sheet for
-                                                                                                Class 11</li>
-                                                                                            <li>1 recent passport size
-                                                                                                photograph</li>
-                                                                                            <li>1 Letter of Recommendation
-                                                                                                (LOR) from a school teacher
-                                                                                                or the Principal of the
-                                                                                                school on the school
-                                                                                                letterhead</li>
-                                                                                            <li>Statement of Purpose (SOP):
-                                                                                                The Statement of Purpose
-                                                                                                should clearly articulate
-                                                                                                the candidate’s reasons for
-                                                                                                applying to SSLA, including
-                                                                                                specific aspects of the
-                                                                                                institution that attract
-                                                                                                their interest. It should
-                                                                                                also outline the candidate’s
-                                                                                                academic interests, career
-                                                                                                objectives, and future
-                                                                                                plans, while demonstrating
-                                                                                                how they intend to
-                                                                                                contribute meaningfully to
-                                                                                                SSLA.</li>
-                                                                                        </ul>
-                                                                                    </li>
-                                                                                    <li>
-                                                                                        Please ensure that the SOP adheres
-                                                                                        to the following guidelines:
-                                                                                        <ul class="my_sub_sub_list">
-                                                                                            <li>It must be written in Times
-                                                                                                New Roman, font size 12.
-                                                                                            </li>
-                                                                                            <li>The total word count should
-                                                                                                not exceed 500 words.</li>
-                                                                                            <li>The candidate’s name must be
-                                                                                                clearly mentioned at the top
-                                                                                                of the document.</li>
-                                                                                        </ul>
-                                                                                    </li>
-                                                                                </ul>
-                                                                            </li>
-                                                                        </ul>
-                                                                    </div>
+                                                <!-- 2nd -->
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content accordion-item">
+                                                        <h2 class="accordion-header">
+                                                            <button type="button" class="accordion-button collapsed rap-acc-btn"
+                                                                data-bs-toggle="collapse" data-bs-target="#rapTwo">
+                                                                Payment Instructions for Registration
+                                                            </button>
+                                                        </h2>
+                                                        <div id="rapTwo" class="accordion-collapse collapse"
+                                                            data-bs-parent="#rapAccordion">
+                                                            <div class="accordion-body">
+                                                                <div class="">
+                                                                    <ul class="rap-note-list">
+                                                                        <li>To complete the online application form,
+                                                                            applicants must make a non-refundable
+                                                                            payment of ₹2,500 to SSLA.</li>
+                                                                        <li>The fee can be paid online via credit card,
+                                                                            debit card, internet banking, or UPI.
+                                                                            Payments may be made directly using
+                                                                            MasterCard or Visa.</li>
+                                                                        <li>Please follow the instructions provided on
+                                                                            the application/registration portal.</li>
+                                                                    </ul>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </div>
 
-                                                    <!-- 2nd -->
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content accordion-item">
-                                                            <h2 class="accordion-header">
-                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
-                                                                    data-bs-toggle="collapse" data-bs-target="#rapTwo">
-                                                                    Payment Instructions for Registration
-                                                                </button>
-                                                            </h2>
-                                                            <div id="rapTwo" class="accordion-collapse collapse"
-                                                                data-bs-parent="#rapAccordion">
-                                                                <div class="accordion-body">
-                                                                    <div class="research-card">
-                                                                        <ul class="rap-note-list">
-                                                                            <li>To complete the online application form,
-                                                                                applicants must make a non-refundable
-                                                                                payment of ₹2,500 to SSLA.</li>
-                                                                            <li>The fee can be paid online via credit card,
-                                                                                debit card, internet banking, or UPI.
-                                                                                Payments may be made directly using
-                                                                                MasterCard or Visa.</li>
-                                                                            <li>Please follow the instructions provided on
-                                                                                the application/registration portal.</li>
-                                                                        </ul>
-                                                                    </div>
+                                                <!-- 3rd -->
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content accordion-item">
+                                                        <h2 class="accordion-header">
+                                                            <button type="button" class="accordion-button collapsed rap-acc-btn"
+                                                                data-bs-toggle="collapse"
+                                                                data-bs-target="#rapThree">
+                                                                Personal Interaction (PI)
+                                                            </button>
+                                                        </h2>
+                                                        <div id="rapThree" class="accordion-collapse collapse"
+                                                            data-bs-parent="#rapAccordion">
+                                                            <div class="accordion-body">
+                                                                <div class="">
+                                                                    <ul class="rap-note-list">
+                                                                        <li>Candidates must select a date for the online
+                                                                            Personal Interaction (PI), which is a
+                                                                            mandatory requirement.</li>
+                                                                        <li>Applicants are required to appear for the
+                                                                            online PI on their chosen date.</li>
+                                                                        <li>Details regarding the PI process will be
+                                                                            communicated via email to the registered
+                                                                            email ID.</li>
+                                                                        <li>Participation in the PI is compulsory for
+                                                                            consideration in the final selection
+                                                                            process.</li>
+                                                                    </ul>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </div>
 
-                                                    <!-- 3rd -->
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content accordion-item">
-                                                            <h2 class="accordion-header">
-                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
-                                                                    data-bs-toggle="collapse"
-                                                                    data-bs-target="#rapThree">
-                                                                    Personal Interaction (PI)
-                                                                </button>
-                                                            </h2>
-                                                            <div id="rapThree" class="accordion-collapse collapse"
-                                                                data-bs-parent="#rapAccordion">
-                                                                <div class="accordion-body">
-                                                                    <div class="research-card">
-                                                                        <ul class="rap-note-list">
-                                                                            <li>Candidates must select a date for the online
-                                                                                Personal Interaction (PI), which is a
-                                                                                mandatory requirement.</li>
-                                                                            <li>Applicants are required to appear for the
-                                                                                online PI on their chosen date.</li>
-                                                                            <li>Details regarding the PI process will be
-                                                                                communicated via email to the registered
-                                                                                email ID.</li>
-                                                                            <li>Participation in the PI is compulsory for
-                                                                                consideration in the final selection
-                                                                                process.</li>
-                                                                        </ul>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <!-- 4th -->
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content accordion-item">
-                                                            <h2 class="accordion-header">
-                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
-                                                                    data-bs-toggle="collapse" data-bs-target="#rapFour">
-                                                                    Timeline for RAP 2026
-                                                                </button>
-                                                            </h2>
-                                                            <div id="rapFour" class="accordion-collapse collapse"
-                                                                data-bs-parent="#rapAccordion">
-                                                                <div class="accordion-body">
-                                                                    <div class="research-card">
-                                                                        <div class="table-responsive">
-                                                                            <table
-                                                                                class="table table-bordered align-middle admission-table">
-                                                                                <thead>
-                                                                                    <tr>
-                                                                                        <th>Components</th>
-                                                                                        <th>Rolling Admission Process (RAP)</th>
-                                                                                    </tr>
-                                                                                </thead>
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td>Application Forms Open</td>
-                                                                                        <td>Friday, 17th April 2026</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>
-                                                                                            Closing date for
-                                                                                            <ul class="rap-note-list">
-                                                                                                <ul class="my_sub_list">
-                                                                                                    <li>Paid registrations</li>
-                                                                                                    <li>Completion of form</li>
-                                                                                                    <li>Upload documents:
-                                                                                                        <ul class="my_sub_sub__list">
-                                                                                                            <li>SOP</li>
-                                                                                                            <li>LOR</li>
-                                                                                                            <li>Final Mark sheets for class 10 Board Exams & 11 Standard Final Exam</li>
-                                                                                                            <li>Passport size photograph</li>
-                                                                                                        </ul>
-                                                                                                    </li>
-                                                                                                    <li>Opt for PI dates</li>
-                                                                                                    <li>Payment of registration fee</li>
-                                                                                                </ul>
+                                                <!-- 4th -->
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content accordion-item">
+                                                        <h2 class="accordion-header">
+                                                            <button type="button" class="accordion-button collapsed rap-acc-btn"
+                                                                data-bs-toggle="collapse" data-bs-target="#rapFour">
+                                                                Timeline for RAP 2026
+                                                            </button>
+                                                        </h2>
+                                                        <div id="rapFour" class="accordion-collapse collapse"
+                                                            data-bs-parent="#rapAccordion">
+                                                            <div class="accordion-body">
+                                                                <div class="">
+                                                                    <div class="table-responsive">
+                                                                        <table
+                                                                            class="table table-bordered align-middle admission-table">
+                                                                            <thead>
+                                                                                <tr>
+                                                                                    <th>Components</th>
+                                                                                    <th>Rolling Admission Process (RAP)</th>
+                                                                                </tr>
+                                                                            </thead>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td>Application Forms Open</td>
+                                                                                    <td>Friday, 17th April 2026</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        Closing date for
+                                                                                        <ul class="rap-note-list">
+                                                                                            <ul class="my_sub_list">
+                                                                                                <li>Paid registrations</li>
+                                                                                                <li>Completion of form</li>
+                                                                                                <li>Upload documents:
+                                                                                                    <ul class="my_sub_sub_list">
+                                                                                                        <li>SOP</li>
+                                                                                                        <li>LOR</li>
+                                                                                                        <li>Final Mark sheets for class 10 Board Exams & 11 Standard Final Exam</li>
+                                                                                                        <li>Passport size photograph</li>
+                                                                                                    </ul>
+                                                                                                </li>
+                                                                                                <li>Opt for PI dates</li>
+                                                                                                <li>Payment of registration fee</li>
                                                                                             </ul>
-                                                                                        </td>
-                                                                                        <td>
-                                                                                            Thursday, 11th June 2026
-                                                                                        </td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>Last date for Application form submission</td>
-                                                                                        <td>Thursday, 11th June 2026</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>Personal Interaction Dates</td>
-                                                                                        <td>Friday, 19th June 2026 and Saturday, 20th June 2026</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>Declaration of Merit List Dates</td>
-                                                                                        <td>Thursday, 25th June 2026</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>Payment of Admission Fee Dates</td>
-                                                                                        <td>Thursday, 25th June 2026 to Thursday, 2nd July 2026</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>Induction & Orientation week**</td>
-                                                                                        <td>Sunday 12th July 2026 – Saturday 18th July 2026</td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <td>Classes Begin</td>
-                                                                                        <td>Monday 20th July 2026</td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </div>
-                                                                        <p class="mb-0">
-                                                                            ** Programme Commencement with compulsory attendance through the week of Induction & Orientation
-                                                                        </p>
+                                                                                        </ul>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        Thursday, 11th June 2026
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>Last date for Application form submission</td>
+                                                                                    <td>Thursday, 11th June 2026</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>Personal Interaction Dates</td>
+                                                                                    <td>Friday, 19th June 2026 and Saturday, 20th June 2026</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>Declaration of Merit List Dates</td>
+                                                                                    <td>Thursday, 25th June 2026</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>Payment of Admission Fee Dates</td>
+                                                                                    <td>Thursday, 25th June 2026 to Thursday, 2nd July 2026</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>Induction & Orientation week**</td>
+                                                                                    <td>Sunday 12th July 2026 – Saturday 18th July 2026</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>Classes Begin</td>
+                                                                                    <td>Monday 20th July 2026</td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
                                                                     </div>
+                                                                    <p class="mb-0">
+                                                                        ** Programme Commencement with compulsory attendance through the week of Induction & Orientation
+                                                                    </p>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </div>
 
-                                                    <!-- 5th -->
-                                                    <div class="rap-item" data-aos="fade-up">
-                                                        <div class="rap-dot"></div>
-                                                        <div class="rap-content accordion-item">
-                                                            <h2 class="accordion-header">
-                                                                <button type="button" class="accordion-button collapsed rap-acc-btn"
-                                                                    data-bs-toggle="collapse"
-                                                                    data-bs-target="#rapFifth">
-                                                                    Important Points to be Noted
-                                                                </button>
-                                                            </h2>
-                                                            <div id="rapFifth" class="accordion-collapse collapse"
-                                                                data-bs-parent="#rapAccordion">
-                                                                <div class="accordion-body">
-                                                                    <div class="research-card">
+                                                <!-- 5th -->
+                                                <div class="rap-item" data-aos="fade-up">
+                                                    <div class="rap-dot"></div>
+                                                    <div class="rap-content accordion-item">
+                                                        <h2 class="accordion-header">
+                                                            <button type="button" class="accordion-button collapsed rap-acc-btn"
+                                                                data-bs-toggle="collapse"
+                                                                data-bs-target="#rapFifth">
+                                                                Important Points to be Noted
+                                                            </button>
+                                                        </h2>
+                                                        <div id="rapFifth" class="accordion-collapse collapse"
+                                                            data-bs-parent="#rapAccordion">
+                                                            <div class="accordion-body">
+                                                                <div class="">
+                                                                    <div class="process-step">
                                                                         <h6 class="red_sub_heading">
                                                                             Final Selection, Admission Confirmation
                                                                         </h6>
@@ -351,7 +351,8 @@
                                                                             <li>Please refer to the Eligibility Criteria section for detailed requirements.</li>
                                                                             <li>Provisional admission will be cancelled if the minimum eligibility requirements are not met.</li>
                                                                         </ul>
-                                                                        <hr>
+                                                                    </div>
+                                                                    <div class="process-step">
                                                                         <h6 class="red_sub_heading">Terms and Conditions</h6>
                                                                         <ul class="rap-note-list">
                                                                             <li>All communication with candidates will be conducted exclusively through the official email address admissions@ssla.edu.in. Applicants must ensure that this email ID is whitelisted in their registered email account.</li>
@@ -363,7 +364,8 @@
                                                                             <li>Candidates applying under reserved categories must submit valid supporting documents issued by the competent authority. Their participation in the admission process remains provisional, subject to verification and authentication of these documents.</li>
                                                                             <li>In case a candidate falls under more than one of the above categories (e.g., Scheduled Caste as well as Differently Abled or any other combination), s/he would need to select any one Category (i.e. either Scheduled Caste OR Differently Abled in the case of example mentioned above) at the time of filling up the SSLA registration form. The category selected by the candidate at the time of filling the registration form will be considered to be their category for the entire admission process. All benefits and entitlements if any, shall be according to such selected categories. Candidates will not be able to claim benefit under any other category/ies at any stage of admission on any account whatsoever.</li>
                                                                         </ul>
-                                                                        <hr>
+                                                                    </div>
+                                                                    <div class="process-step">
                                                                         <h6 class="red_sub_heading">Admissions will be cancelled in case of</h6>
                                                                         <ul class="rap-note-list">
                                                                             <li>Non-submission of the required documents on time.</li>
@@ -371,7 +373,8 @@
                                                                             <li>Admission gained through unfair and objectionable practices detected at any stage during the 4 years.</li>
                                                                             <li>Failing to fulfill the required eligibility criteria of the programme.</li>
                                                                         </ul>
-                                                                        <hr>
+                                                                    </div>
+                                                                    <div class="process-step">
                                                                         <h6 class="red_sub_heading">Disclaimer</h6>
                                                                         <ul class="rap-note-list">
                                                                             <li>Every effort is made to provide accurate and complete information. However, we cannot guarantee that there will be no errors. We make no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this Site and expressly disclaim liability for errors and omissions in the contents of this Site. SSLA/SIU will always use its best efforts to ensure the accuracy and timeliness of all information.</li>
@@ -387,8 +390,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
