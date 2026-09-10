@@ -1110,7 +1110,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1422,7 +1422,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1698,16 +1698,16 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
                                                                             <div class="proceedings-grid-workshop">
                                                                                 <div class="proceedings-text">
                                                                                     <p>
-                                                                                        <strong>Workshop on Gender
-                                                                                            Equity and Inclusion:
-                                                                                        </strong>Transformative Pathways
+                                                                                        Workshop on Gender
+                                                                                        Equity and Inclusion:
+                                                                                        Transformative Pathways
                                                                                         in Higher Education with Wiscomp
                                                                                         : A unique first-of-its-kind
                                                                                         workshop was organised at Pune
@@ -1767,7 +1767,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1833,7 +1833,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1895,7 +1895,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2291,7 +2291,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2353,7 +2353,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2662,7 +2662,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2730,7 +2730,7 @@
                                                                                     <section class="speaker mt-5">
                                                                                         <h2>Workshop Proceedings </h2>
                                                                                         <div class="speaker-card">
-                                                                                            <p><strong>Day 1:</strong>
+                                                                                            <p> Day 1:
                                                                                                 On the first day the
                                                                                                 facilitator focused on
                                                                                                 laying a strong
@@ -2759,7 +2759,7 @@
                                                                                                 importance of each
                                                                                                 component in the
                                                                                                 research process.</p>
-                                                                                            <p><strong>Day 2:</strong>
+                                                                                            <p>Day 2:
                                                                                                 On the second day the
                                                                                                 facilitator delved into
                                                                                                 the application of

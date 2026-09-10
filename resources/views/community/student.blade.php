@@ -94,7 +94,7 @@
                                         </div>
                                     </div>
                                     <!-- Content -->
-                                    <div class="row">
+                                    <div class="row mb-5">
                                         <div class="col-lg-12">
                                             <div class="rc-overview" data-aos="fade-up">
                                                 <p>
@@ -125,13 +125,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
-                                                                                    Art club</h2>
+                                                                                <h2>About the Art club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
                                                                                         <p>Any event at SSLA is
@@ -302,12 +301,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Comedy Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -436,12 +435,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Dance Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -474,9 +473,9 @@
                                                                                             make you want to step up and
                                                                                             have the time of your life!
                                                                                         </p>
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Mihika Bansal</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY :
                                                                                             Aakanshaa Baruah</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
@@ -592,12 +591,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Film club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -621,9 +620,9 @@
                                                                                             about the technical aspects
                                                                                             of film and how to make
                                                                                             films.</p>
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Radhika Mohite</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY :
                                                                                             Rutvi Mehta</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
@@ -810,12 +809,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Poetry Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-12">
@@ -858,11 +857,11 @@
                                                                                             to inspire, create and grow.
                                                                                             Find us on instagram:
                                                                                             @verseitcouldbe</p>
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Alex Shah</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Angela Sabu</p>
-                                                                                        <h5>Faculty In-Charge</h5>
+                                                                                        <p>Faculty In-Charge</p>
                                                                                         <p>Dr. Suchetana Banerjee</p>
                                                                                     </div>
                                                                                 </div>
@@ -1075,12 +1074,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Karaoke Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-12">
@@ -1096,11 +1095,11 @@
                                                                                             and stress-bust those
                                                                                             college-blues away with the
                                                                                             Karaoke Club!</p>
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Alex Shah</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Sanyukta Nair</p>
-                                                                                        <h5>Faculty In-Charge</h5>
+                                                                                        <p>Faculty In-Charge</p>
                                                                                         <p>Hitashree Pulapaka</p>
                                                                                     </div>
                                                                                 </div>
@@ -1202,12 +1201,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Music Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -1249,9 +1248,9 @@
 
                                                                                         </p>
 
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Darren D’souza</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Eshwin Natrajan</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
@@ -1379,12 +1378,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Photography Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-12">
@@ -1402,9 +1401,9 @@
                                                                                             the art in the club members
                                                                                             and a passion for clicking
                                                                                             photos.</p>
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Jai Bakshi</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Aditi M</p>
                                                                                     </div>
                                                                                 </div>
@@ -1571,12 +1570,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Theatre Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -1606,9 +1605,9 @@
                                                                                             offer.
                                                                                         </p>
 
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Sanika Joshi</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Khushi Tulsyan</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
@@ -1743,12 +1742,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Fitness and Nutrition Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-12">
@@ -1780,9 +1779,9 @@
                                                                                             members' needs.
                                                                                         </p>
 
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Hrishi Baney</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Jui Patil</p>
                                                                                     </div>
                                                                                 </div>
@@ -1856,12 +1855,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card">
+                                                                        <div class="card research-card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
                                                                             <div class="objective">
-                                                                                <h2 class="text-center">About the
+                                                                                <h2>About the
                                                                                     Orator’s Club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -1907,9 +1906,9 @@
                                                                                             others will listen.
                                                                                         </p>
 
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Karen Mesquitta</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY : 
                                                                                             Snehal Dasgupta</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
