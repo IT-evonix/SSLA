@@ -163,11 +163,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <!-- Objective -->
                                                                             <div class="objective">
                                                                                 <h2>Objective of the Colloquium</h2>
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     SSLA is a space that encourages
                                                                                     research and aims to equip its
                                                                                     students with
@@ -296,7 +296,7 @@
                                                                                         colour</strong>.
                                                                                 </p>
 
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     Overall, the colloquium offered
                                                                                     students a rich academic experience,
                                                                                     fostering
@@ -332,12 +332,12 @@
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
 
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
 
                                                                             <!-- Objective -->
                                                                             <div class="objective">
                                                                                 <h2>Objective of the Colloquium</h2>
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     SSLA is a space which encourages
                                                                                     research and aims to equip its
                                                                                     students with valuable knowledge and
@@ -572,7 +572,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card mt-3">
+                                                                        <div class="card mt-3">
 
                                                                             <!-- Objective -->
                                                                             <div class="objective">
@@ -846,7 +846,7 @@
                                                         <div id="rapSix" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="card research-card mt-3">
+                                                                <div class="card mt-3">
                                                                     <div class="objective">
                                                                         <p>Elections are glorified experiments. In
                                                                             democracies today, they are at the very least,
@@ -908,7 +908,7 @@
                                                         <div id="rapSeven" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="card research-card mt-3">
+                                                                <div class="card mt-3">
                                                                     <div class="objective">
                                                                         <p>Soft Power, according to Jospeh Nye, Jr, who
                                                                             coined the term, is the ability to achieve
@@ -967,7 +967,7 @@
                                                         <div id="rapEight" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="card research-card mt-3">
+                                                                <div class="card mt-3">
                                                                     <div class="objective">
                                                                         <p>A nation’s security policy is essentially aimed
                                                                             at creating and sustaining the space -
@@ -1110,7 +1110,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1422,7 +1422,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1698,7 +1698,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1767,7 +1767,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1833,7 +1833,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -1895,7 +1895,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2291,7 +2291,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2353,7 +2353,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>
@@ -2662,7 +2662,7 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Workshop</span>
                                                                             </div>

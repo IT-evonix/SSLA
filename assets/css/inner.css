@@ -652,10 +652,10 @@
 /* RAP CSS start */
 
 
-.rap_admission_main .rap-admission-section {
+/* .rap_admission_main .rap-admission-section {
     background: #F0F9FA;
     padding: 40px 20px;
-}
+} */
 
 .rap_admission_main .section-title {
     text-align: center;
@@ -667,7 +667,7 @@
 
 .rap_admission_main .rap-timeline {
     position: relative;
-    max-width: 900px;
+    /* max-width: 900px; */
     margin: auto;
 }
 
@@ -700,7 +700,7 @@
 }
 
 .rap_admission_main .rap-content {
-    background: #fff;
+    background: #f9f9f9;
     padding: 18px;
     border-radius: 14px;
     width: 100%;
@@ -777,6 +777,10 @@
     line-height: 1.5;
     color: var(--color-black);
     text-align: justify;
+}
+
+.rap_admission_main .rap-note-list li:last-child {
+    margin: 0;
 }
 
 .rap_admission_main .rap-note-list strong {
@@ -1494,9 +1498,9 @@
     margin-top: 60px;
 }
 
-.main-sec-admission-process .rap_admission_main .rap-admission-section {
+/* .main-sec-admission-process .rap_admission_main .rap-admission-section {
     margin-bottom: 60px;
-}
+} */
 
 /* .main-sec-admission-process .set-registration {
     padding: 0px 20px 50px 20px;
@@ -1645,17 +1649,25 @@
     margin: 20px 0;
 }
 
+.main-sec-admission-process .process-step:last-child {
+    margin: 20px 0 0 0;
+}
+
+.main-sec-admission-process .process-step:first-child {
+    margin: 0 0 20px 0;
+}
+
 .main-sec-admission-process .process-step h3 {
     /* font-size: 20px;
     color: #EC3536;
     margin: 15px 0; */
 }
 
-.main-sec-admission-process .process-subtitle {
+/* .main-sec-admission-process .process-subtitle {
     font-size: 20px;
     color: #EC3536;
     margin: 15px 0;
-}
+} */
 
 .set-registration .table a:hover {
     color: #FFF;
@@ -1782,6 +1794,7 @@
     border: none;
     border-radius: 16px;
     animation: fadeUp 1s ease forwards;
+    background-color: unset;
 }
 
 
@@ -1793,7 +1806,8 @@
 .research-main-sec .facilator-heading,
 .research-main-sec .proceedings h2,
 .main-sec-admission-process .process-step h3,
-.red_sub_heading {
+.red_sub_heading,
+.main-sec-admission-process .process-subtitle {
     color: #EC3536;
     margin-bottom: 20px;
     font-size: 20px;
@@ -1903,7 +1917,7 @@
 
 .research-main-sec .rap_admission_main .rap-timeline {
     position: relative;
-    max-width: 1050px;
+    /* max-width: 1050px; */
     margin: auto;
 }
 

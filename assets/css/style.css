@@ -2198,14 +2198,15 @@
       border-radius: 20px;
       background-color: var(--color-white);
       /* box-shadow: 6px 6px 16px 2px #f4f4f4; */
-      border-bottom: 2px solid var(--color-red);
+      /* border-bottom: 2px solid var(--color-red); */
+      border: 1px solid #dedede;
       transition-duration: 0.7s;
   }
 
-  .degree_offered_listing:hover {
+  /* .degree_offered_listing:hover {
       border-bottom: 2px solid var(--color-green);
       transform: scale(1.02);
-  }
+  } */
 
   .degree_offered_icon {
       width: 50px;
@@ -6960,6 +6961,15 @@
     color: var(--color-white) !important;
     border: 1px solid var(--color-red);
 }
+
+.faculty_mail svg path {
+    transition-duration: 0.3s;
+}
+
+.faculty_mail:hover svg path {
+    fill: var(--color-red);
+}
+
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {
