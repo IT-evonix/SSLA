@@ -316,23 +316,24 @@
 
   .custom_listing ul li {
       position: relative;
-      padding: 0 0 0.625rem 1.375rem;
+      padding: 0 0 0.625rem 30px;
   }
 
   .custom_listing ul li:last-child {
-      padding: 0 0 0 1.375rem;
+      padding: 0 0 0 30px;
   }
 
   .custom_listing ul li::after {
       position: absolute;
-      content: "";
+      content: "➤";
       width: 12px;
       height: 12px;
-      background-image: url("../images/check.svg");
+      color: var(--color-red);
+      /* background-image: url("../images/check.svg"); */
       background-size: contain;
       background-repeat: no-repeat;
       left: 0;
-      top: 6px;
+      top: 0px;
   }
 
   .adderess_heading {
@@ -2762,12 +2763,13 @@
       }
 
       .eligibility_reservation_mainbox a {
-          color: var(--color-red);
+          color: var(--color-black);
           transition-duration: 0.3s;
+          font-family: var(--font-medium);
       }
 
       .eligibility_reservation_mainbox a:hover {
-          color: var(--color-green);
+          color: var(--color-red);
       }
   }
 
@@ -4228,6 +4230,21 @@
       overflow: hidden;
       transition-duration: 0.5s;
       text-decoration: none !important;
+      transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .new_slf_btns_listing:hover {
+    background-color: var(--color-red);
+    color: var(--color-white) !important;
+    border: 1px solid var(--color-red);
+  }
+
+  .new_slf_btns_listing svg path {
+    transition-duration: 0.2s;
+  }
+
+  .new_slf_btns_listing:hover svg path {
+    fill: var(--color-white);
   }
 
   .new_slf_btns {
@@ -4257,12 +4274,10 @@
       display: grid;
       grid-template-areas: "stack";
       /* box-shadow: 4px 5px 16px #dedede; */
-      border-radius: 30px;
+      border-radius: 20px;
       overflow: hidden;
-      border-left: 5px solid var(--color-red);
-      border-right: 1px solid #dedede;
-      border-top: 1px solid #dedede;
-      border-bottom: 1px solid #dedede;
+      /* border-left: 5px solid var(--color-red); */
+      border: 1px solid #dedede;
   }
 
   .red_carpet_background_img {
@@ -4314,9 +4329,11 @@
       text-align: justify;
   }
 
-  .red_carpet_third_section {
-      padding: 60px 0 0 0;
-  }
+    .red_carpet_third_section {
+        margin: 60px 0 0 0;
+        padding: 60px 0;
+        background-color: #f5f5f5;
+    }
 
   .red_carpet_slider_listing {
       display: grid;
@@ -4374,9 +4391,17 @@
       margin: 10px 10px 0 0;
   }
 
-  .red_carpet.owl-carousel .owl-nav .owl-prev {
-      transform: rotate(180deg);
+  .red_carpet.owl-carousel .owl-prev:hover img {
+      content: url('../images/home/prev-icon-green.svg');
   }
+
+  .red_carpet.owl-carousel .owl-next:hover img {
+      content: url('../images/home/next-icon-green.svg');
+  }
+
+  /* .red_carpet.owl-carousel .owl-nav .owl-prev {
+      transform: rotate(180deg);
+  } */
 
   .cijid_gallery.owl-carousel .owl-nav {
       display: flex;
@@ -4462,12 +4487,14 @@
   }
 
   .new_ice_parabox {
-      background-color: #F0F9FA;
+      /* background-color: #F0F9FA; */
+      background-color: var(--color-white);
       padding: 30px;
       border-radius: 20px;
       display: flex;
       align-items: center;
-      border-bottom: 2px solid var(--color-red);
+      border: 1px solid #dedede;
+      /* border-bottom: 2px solid var(--color-red); */
   }
 
   /* I.C.E page ends  */
@@ -5019,13 +5046,14 @@
       margin-bottom: 20px;
   }
 
-  .rap_admission_main .rap-note-list .my_sub_list li {
+  .rap_admission_main .rap-note-list .my_sub_list li,
+  .rap_admission_main .rap-note-list .my_sub_sub_list li {
       position: relative;
       padding-left: 20px;
       margin-bottom: 18px;
       font-size: 16px;
       line-height: 1.5;
-      color: #333;
+      color: var(--color-black);
       text-align: justify;
   }
 
@@ -5037,10 +5065,26 @@
       height: 6px;
       border-radius: 50%;
       top: 9px;
-      background-color: #333;
+      background-color: var(--color-black);
+  }
+
+  .rap_admission_main .rap-note-list .my_sub_sub_list li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      top: 9px;
+      border: 1px solid var(--color-black);
+      background-color: unset;
   }
 
   .rap_admission_main .rap-note-list .my_sub_list {
+      margin: 10px 0 0 0;
+  }
+
+   .rap_admission_main .rap-note-list .my_sub_sub_list {
       margin: 10px 0 0 0;
   }
 
@@ -5883,9 +5927,9 @@
       transition-duration: 0.4s;
   }
 
-  .literary_festival_card_listing:hover {
+  /* .literary_festival_card_listing:hover {
       background-color: #f6f6f6;
-  }
+  } */
 
   .literary_festival_card_mainbox {
       display: grid;
@@ -5932,7 +5976,7 @@
       border-radius: 0 0 0 12px;
       font-family: 'Roboto-Bold';
       font-size: 14px;
-      background-color: #0073828f;
+      /* background-color: #0073828f; */
       line-height: normal;
       backdrop-filter: saturate(100%) blur(2px);
   }
@@ -6167,8 +6211,8 @@
       justify-content: center;
       width: 30px;
       height: 30px;
-      background-color: #ffe0e0;
-      border-radius: 6px;
+      /* background-color: #ffe0e0; */
+      /* border-radius: 6px; */
   }
 
   .big_history_listing_btn {
@@ -6179,17 +6223,18 @@
       border: 1px solid var(--color-green);
       border-radius: 40px;
       color: var(--color-green);
-      transition: all 0.4s;
+      transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
   }
 
-  .big_history_listing:last-child .big_history_listing_btn {
+  /* .big_history_listing:last-child .big_history_listing_btn {
       border: 1px solid var(--color-red);
       color: var(--color-red);
-  }
+  } */
 
   .big_history_listing_btn:hover {
-      color: var(--color-green);
-      transform: translateX(5px);
+      color: var(--color-white);
+      background-color: var(--color-red);
+      border: 1px solid var(--color-red);
   }
 
   .big_history_listing_right {
@@ -6579,13 +6624,14 @@
       padding: 30px;
       border-radius: 20px;
       border: 1px solid #dedede;
+      background-color: #f9f9f9;
   }
 
   .new_student_councile_mailbox {
       display: grid;
       grid-template-columns: 40px 1fr;
       width: fit-content;
-      background-color: #f5f5f5;
+      background-color: var(--color-white);
       padding: 10px 20px;
       border-radius: 8px;
       gap: 15px;
@@ -6598,7 +6644,7 @@
 
   .new_student_councile_mailbox_right_mail {
       display: inline-block;
-      color: var(--color-red);
+      color: var(--color-black);
       font-family: var(--font-bold);
       font-size: 18px;
   }
@@ -6878,7 +6924,42 @@
       line-height: normal;
   }
 
+  .international_without_padding_box .new_internationall_email_mainbox {
+        display: grid;
+        grid-template-columns: 30px 1fr;
+        gap: 10px;
+        padding: 0;
+        border: 0;
+        border-radius: 0;
+}
 
+.green_anchore_tag {
+    color: var(--color-green);
+    font-family: var(--font-medium);
+    transition: color 0.3s ease;
+}
+
+.green_anchore_tag:hover {
+    color: var(--color-red);
+}
+
+.webinar_btn {
+    padding: 5px 16px;
+    color: var(--color-green) !important;
+    border: 1px solid var(--color-green);
+    font-family: var(--font-medium);
+    font-size: 12px;
+    border-radius: 20px;
+    position: relative;
+    text-decoration: none !important;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.webinar_btn:hover {
+    background-color: var(--color-red);
+    color: var(--color-white) !important;
+    border: 1px solid var(--color-red);
+}
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {

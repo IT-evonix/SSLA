@@ -163,9 +163,9 @@ $('.red_carpet').owlCarousel({
     autoplayTimeout: 5000,
     smartSpeed: 1600,
     navText: [
-        "<img src='assets/images/events/gallery-arrow.svg'>",
-        "<img src='assets/images/events/gallery-arrow.svg'>"
-    ],
+            "<img src='assets/images/home/prev-icon-white.svg'>",
+            "<img src='assets/images/home/next-icon-white.svg'>"
+        ],
     responsive: {
         0: {
             items: 1,

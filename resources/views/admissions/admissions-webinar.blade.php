@@ -17,8 +17,8 @@
 <section class="main-sec-admission-process">
     <div class="container">
         <h1 class="inner__red_heading">Admission Webinar</h1>
-        <div class="set-registration">
-            <h2>Upcoming Webinars</h2>
+        <div class="set-registration mb-4">
+            <div class="research_thrust_area_heading">Upcoming Webinars</div>
             <div class="table-responsive">
                 <table class="table table-bordered align-middle admission-table">
                     <thead>
@@ -38,7 +38,7 @@
                             <td>Admissions @ SSLA</td>
                             <td>
                                 <a href="https://zoom.us/meeting/register/G-gRk8_TTJS6C8ioRtsnfg#/registration"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -51,7 +51,7 @@
                             <td>Liberal Arts @ SSLA</td>
                             <td>
                                 <a href="https://zoom.us/meeting/register/F-qMiOtqRVim3ZsAc9Y23Q"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -64,7 +64,7 @@
                             <td>Student Life @ SSLA</td>
                             <td>
                                 <a href="https://zoom.us/meeting/register/7SvkrXRLSvul7gDvZwCSaQ"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -77,7 +77,7 @@
                             <td>In Conversation with Director & SSLA Faculty</td>
                             <td>
                                 <a href="https://zoom.us/meeting/register/QfWZwyh2T5-RJ9kt1qrk_g"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -90,7 +90,7 @@
                             <td>In Conversation with SSLA Faculty</td>
                             <td>
                                 <a href="https://zoom.us/meeting/register/J2mJ_aXkTGyxPiT4SPo7Ug#/"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -103,7 +103,7 @@
                             <td>In Conversation with SSLA</td>
                             <td>
                                 <a href="https://zoom.us/meeting/register/rMgvxqgPQUG9eKOUlgk3pQ#/"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -114,7 +114,7 @@
         </div>
 
         <div class="set-registration">
-            <h2>Past Webinar Recordings</h2>
+            <div class="research_thrust_area_heading">Past Webinar Recordings</div>
             <div class="table-responsive">
                 <table class="table table-bordered align-middle admission-table">
                     <thead>
@@ -134,7 +134,7 @@
                             <td>Liberal Arts @SSLA</td>
                             <td>
                                 <a href="https://www.youtube.com/watch?v=HXnwZa3TZrc&feature=youtu.be"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -147,7 +147,7 @@
                             <td>Q & A Session - SSLA Programme</td>
                             <td>
                                 <a href="https://www.youtube.com/watch?v=mysf1dRS3do&feature=youtu.be"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -160,7 +160,7 @@
                             <td>Student Life at SSLA</td>
                             <td>
                                 <a href="https://www.youtube.com/watch?v=nuC_1ssbT2U&feature=youtu.be"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -173,7 +173,7 @@
                             <td>Conversation with SSLA Faculty</td>
                             <td>
                                 <a href="https://www.youtube.com/watch?v=BDVqdc1u5NE&feature=youtu.be"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>
@@ -186,7 +186,7 @@
                             <td>In Conversation with the SSLA Director and Faculty</td>
                             <td>
                                 <a href="https://www.youtube.com/watch?v=kYabYoNW14w&feature=youtu.be"
-                                    class="btn btn-sm btn-outline-danger" target="_blank" rel="noopener noreferrer">
+                                    class="webinar_btn" target="_blank" rel="noopener noreferrer">
                                     Click here
                                 </a>
                             </td>

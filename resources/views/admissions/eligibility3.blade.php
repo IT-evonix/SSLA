@@ -37,7 +37,7 @@
                                     <!-- <h2 class="inner__subheading">To Elaborate</h2> -->
                                     <div class="eligibility_first_box_listing_mainbox">
                                         <div class="eligibility_elaborate_listing">
-                                            <div class="adderess_heading">CBSE / ICSE / HSC (10+2)</div>
+                                            <div class="lab_membership_heading">CBSE / ICSE / HSC (10+2)</div>
                                             <div class="custom_listing">
                                                 <ul>
                                                     <li>
@@ -56,7 +56,7 @@
                                             </div>
                                         </div>
                                         <div class="eligibility_elaborate_listing">
-                                            <div class="adderess_heading">GCE / IGCSE / GCSE</div>
+                                            <div class="lab_membership_heading">GCE / IGCSE / GCSE</div>
                                             <div class="custom_listing">
                                                 <ul>
                                                     <li>
@@ -77,7 +77,7 @@
                                             OR
                                         </div> -->
                                         <div class="eligibility_elaborate_listing">
-                                            <div class="adderess_heading">
+                                            <div class="lab_membership_heading">
                                                 International Baccalaureate (IB)
                                             </div>
                                             <div class="new__eligibility_small_heading mt-0">
@@ -137,7 +137,7 @@
                                     <h2 class="inner__subheading">Reservation</h2>
                                     <div class="custom_listing">
                                         <ul>
-                                            <li><strong>As per SIU Norms: please check:</strong> <a
+                                            <li>As per SIU Norms: please check: <a
                                                     href="https://www.siu.edu.in/" traget="_blank">www.siu.edu.in</a>
                                             </li>
                                         </ul>
