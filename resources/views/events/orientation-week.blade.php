@@ -69,7 +69,7 @@
                 <div class="col-lg-12">
                     <div class="orientation_table_mainbox">
                         <div class="table-responsive">
-                            <table class="table">
+                            <table class="table mb-0">
                                 <thead>
                                     <tr>
                                         <th class="my_table_full_heading" colspan="5">Induction & Orientation Program : Batch 2024-2028</th>

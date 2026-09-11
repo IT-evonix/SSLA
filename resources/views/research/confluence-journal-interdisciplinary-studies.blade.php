@@ -220,16 +220,8 @@
                             </tbody>
                         </table>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="cjids_table_section" data-aos="fade-up">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
                     <div class="table-responsive">
-                        <table class="table">
+                        <table class="table mb-0">
                             <thead>
                                 <tr>
                                     <th>Board of Editors</th>

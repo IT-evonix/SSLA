@@ -116,7 +116,7 @@
         <div class="set-registration">
             <div class="research_thrust_area_heading">Past Webinar Recordings</div>
             <div class="table-responsive">
-                <table class="table table-bordered align-middle admission-table">
+                <table class="table table-bordered align-middle admission-table mb-0">
                     <thead>
                         <tr>
                             <th>Date</th>

@@ -78,40 +78,41 @@
                                             <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
                                                 aria-labelledby="v-pills-home-tab" tabindex="0">
                                                 <div>
-                                                    <p>In addition to the academic course work, students participate in
-                                                        a
-                                                        community outreach project. This outreach project aims at
-                                                        initiating
-                                                        student contributions towards social justice. COP aims to
-                                                        nurture
-                                                        students into sensitive, ethical, and critically conscious
-                                                        citizens
-                                                        who will contribute responsibly to communities and society.</p>
-                                                    <p>The Community Outreach Project is a mandatory component of the
-                                                        curriculum at SSLA. It carries 6 credits, and is designed to be
-                                                        a 2
-                                                        month full-time project, to be completed over the first summer
-                                                        break. The minimum total number of hours required for the COP is
-                                                        200
-                                                        hours, on completion of which, the student is required to get a
-                                                        validation letter from the organisation. This letter will be a
-                                                        part
-                                                        of the student’s report, which is due at the beginning of
-                                                        Semester
-                                                        5.</p>
-                                                    <p> The student is required to write a 10,000 word report and
-                                                        prepare a
-                                                        20 minute presentation, as well as respond to a 10 minute viva
-                                                        before a panel of two examiners. The student will have to set up
-                                                        dates with the panel of examiners allotted to him/her.</p>
-                                                    <p>It is mandatory that the student registers himself/herself with
-                                                        the
-                                                        Community Outreach Cell, before the commencement of the project.
-                                                        The
-                                                        COP batch representative will send out an online form for the
-                                                        same.
-                                                    </p>
-
+                                                    <div class="cop-card mb-0">
+                                                        <p>In addition to the academic course work, students participate in
+                                                            a
+                                                            community outreach project. This outreach project aims at
+                                                            initiating
+                                                            student contributions towards social justice. COP aims to
+                                                            nurture
+                                                            students into sensitive, ethical, and critically conscious
+                                                            citizens
+                                                            who will contribute responsibly to communities and society.</p>
+                                                        <p>The Community Outreach Project is a mandatory component of the
+                                                            curriculum at SSLA. It carries 6 credits, and is designed to be
+                                                            a 2
+                                                            month full-time project, to be completed over the first summer
+                                                            break. The minimum total number of hours required for the COP is
+                                                            200
+                                                            hours, on completion of which, the student is required to get a
+                                                            validation letter from the organisation. This letter will be a
+                                                            part
+                                                            of the student’s report, which is due at the beginning of
+                                                            Semester
+                                                            5.</p>
+                                                        <p> The student is required to write a 10,000 word report and
+                                                            prepare a
+                                                            20 minute presentation, as well as respond to a 10 minute viva
+                                                            before a panel of two examiners. The student will have to set up
+                                                            dates with the panel of examiners allotted to him/her.</p>
+                                                        <p class="m-0">It is mandatory that the student registers himself/herself with
+                                                            the
+                                                            Community Outreach Cell, before the commencement of the project.
+                                                            The
+                                                            COP batch representative will send out an online form for the
+                                                            same.
+                                                        </p>
+                                                    </div>
 
                                                     <div class="cop-section">
                                                         <div class="cop-container">
@@ -129,7 +130,7 @@
                                                                 </ul>
                                                                 <!-- Handbook Info -->
                                                                 <div class="cop-highlight">
-                                                                    Refer to the <strong>Student Handbook</strong> for
+                                                                    Refer to the Student Handbook for
                                                                     further details about deadlines and submissions.
                                                                 </div>
                                                                 <div class="cop-title">Members</div>
@@ -155,7 +156,7 @@
                                                             </div>
 
                                                             <!-- Events & Projects Team -->
-                                                            <div class="cop-card">
+                                                            <div class="cop-card mb-0">
                                                                 <div class="cop-title">Events and Projects Team</div>
 
                                                                 <div class="cop-subtitle">Faculty</div>
@@ -172,7 +173,7 @@
                                             </div>
                                             <div class="tab-pane fade" id="v-pills-profile" role="tabpanel"
                                                 aria-labelledby="v-pills-profile-tab" tabindex="0">
-                                                <div class="cop-card">
+                                                <div class="cop-card mb-0">
                                                     <div class="row">
                                                         <div class="col md-6">
                                                             <ul class="cop-list">
@@ -306,736 +307,733 @@
 
                                             <div class="tab-pane fade" id="v-pills-messages" role="tabpanel"
                                                 aria-labelledby="v-pills-messages-tab" tabindex="0">
-                                                <div class="cop-card">
-                                                    <div class="cop-title">Community Outreach Project Student Reports
-                                                    </div>
-                                                    <div class="table-responsive">
-                                                        <table class="table">
-                                                            <thead>
-                                                                <tr>
-                                                                    <th>P.R. No.</th>
-                                                                    <th>Name of the Student</th>
-                                                                    <th>Name of Organization</th>
-                                                                    <th>Domain</th>
-                                                                    <th>Title of the Report</th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>14060321001</td>
-                                                                    <td>Aashima Safi</td>
-                                                                    <td>U&I and Reach Beyond</td>
-                                                                    <td>Education</td>
-                                                                    <td>U&I and Reach Beyond</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321002</td>
-                                                                    <td>Aastha Seth</td>
-                                                                    <td>Akshar School</td>
-                                                                    <td>Education</td>
-                                                                    <td>Akshar - an inclusive school</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321005</td>
-                                                                    <td>Ananya</td>
-                                                                    <td>U & I</td>
-                                                                    <td>Education</td>
-                                                                    <td>Volunteer at U & I</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321006</td>
-                                                                    <td>Ananya Gautam Gouthi</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321007</td>
-                                                                    <td>Anjani Anand</td>
-                                                                    <td>Cessna Lifeline Veterinary Care Clinic</td>
-                                                                    <td>Veterinary Medicine</td>
-                                                                    <td>Cessna Lifeline Veterinary Care Clinic</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321008</td>
-                                                                    <td>Ankita Datta</td>
-                                                                    <td>Child in Need Institute</td>
-                                                                    <td>Nutrition, Health, Education & Protection</td>
-                                                                    <td>Child in Need Institute</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321009</td>
-                                                                    <td>Archana Suresh Warrier</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321010</td>
-                                                                    <td>Aritra Chattaraj</td>
-                                                                    <td>The Hope Kolkata Foundation</td>
-                                                                    <td>Child & Youth Education</td>
-                                                                    <td>Enterprising Young Minds - The Hope Kolkata
-                                                                        Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321011</td>
-                                                                    <td>Arshdeep Kaur</td>
-                                                                    <td>The Akanksha Foundation and NGO Tammana</td>
-                                                                    <td>Education/Health</td>
-                                                                    <td>The Akanksha Foundation and NGO Tammana</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321012</td>
-                                                                    <td>Ayush Tiwari</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321013</td>
-                                                                    <td>Azara Munir Merchant</td>
-                                                                    <td>Nityaasha Foundation</td>
-                                                                    <td>Child & Health Services</td>
-                                                                    <td>Nityaasha Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321014</td>
-                                                                    <td>Ruchi Sunil Bhutada</td>
-                                                                    <td>Doorstep School, Pune; Dr Narendra Bhivapurkar
-                                                                        Blindschool, Amravati</td>
-                                                                    <td>Education/Rehabilitation</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321015</td>
-                                                                    <td>Chandreyi Mukherjee</td>
-                                                                    <td>FACES: MedWish; Project Life Force</td>
-                                                                    <td>Awareness & Medical Aid</td>
-                                                                    <td>MedWish: A Project of FACES, Kolkata</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321016</td>
-                                                                    <td>Chetan Nirmal Kumar Gollapalli</td>
-                                                                    <td>John Paul Slum Development Project</td>
-                                                                    <td>Child Education/AIDS Control</td>
-                                                                    <td>John Paul Slum Development Project</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321017</td>
-                                                                    <td>Daksh Vinod Bhasin</td>
-                                                                    <td>John Paul Slum Development Project</td>
-                                                                    <td>Child Education/AIDS Control</td>
-                                                                    <td>John Paul Slum Development Project</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321018</td>
-                                                                    <td>Tejas Machandranath Devamane</td>
-                                                                    <td>Doorstep Organization, Pune</td>
-                                                                    <td>Education</td>
-                                                                    <td>Community Outreach Project with Doorstep
-                                                                        Organization</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321019</td>
-                                                                    <td>Divya Das</td>
-                                                                    <td>The Inner Wheel Club of Baner Hills</td>
-                                                                    <td>Women Empowerment & Child Welfare</td>
-                                                                    <td>The Inner Wheel Club of Baner Hills, Pune</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321020</td>
-                                                                    <td>Darren John D'Souza</td>
-                                                                    <td>Lha and Sethu</td>
-                                                                    <td>Children and Education</td>
-                                                                    <td>Lha Charitable Trust & Sethu Centre for Child
-                                                                        Development</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321021</td>
-                                                                    <td>Gaarimma Mishra</td>
-                                                                    <td>Adruta Children's Home</td>
-                                                                    <td>Child and Youth Welfare</td>
-                                                                    <td>Adruta Children's Home</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321022</td>
-                                                                    <td>Gaurav Gajanand Gupta</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321023</td>
-                                                                    <td>Hana Suhail Masood</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321024</td>
-                                                                    <td>Harsh Agarwal</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321025</td>
-                                                                    <td>Jai Aditya Govind</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321026</td>
-                                                                    <td>Anisa Shahram Javanmardi</td>
-                                                                    <td>Brilliant Stars School, Tripura</td>
-                                                                    <td>Education</td>
-                                                                    <td>Brilliant Stars School, Tripura Community
-                                                                        Outreach
-                                                                        Project</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321027</td>
-                                                                    <td>Jemin Nilesh Shah</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321028</td>
-                                                                    <td>Jhanvi Tiwari</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321029</td>
-                                                                    <td>Kanika Bambra</td>
-                                                                    <td>Pallavanjali & Society for Upliftment and
-                                                                        Development of Human Beings by Action</td>
-                                                                    <td>Education (Special Needs)</td>
-                                                                    <td>Pallavanjali & Sudha Society</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321030</td>
-                                                                    <td>Keerthi Chandana Durugadda</td>
-                                                                    <td>Kaigal Environment and Education Programme</td>
-                                                                    <td>Education & Biodiversity Conservation</td>
-                                                                    <td>Kaigal Environment and Education Programme</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321031</td>
-                                                                    <td>Kotha Saikishore Reddy</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321032</td>
-                                                                    <td>Krishna Sanghi</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321033</td>
-                                                                    <td>Divij Pravin Kulkarni</td>
-                                                                    <td>John Paul Slum Development Project</td>
-                                                                    <td>Child Education/AIDS Control</td>
-                                                                    <td>John Paul Slum Development Project</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321034</td>
-                                                                    <td>Lavania Saraf</td>
-                                                                    <td>U&I & Iswar Sankalpa</td>
-                                                                    <td>Education + Social Services</td>
-                                                                    <td>U&I and Iswar Sankalpa</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321035</td>
-                                                                    <td>Liana Kher</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321036</td>
-                                                                    <td>Karan Rajesh Madan</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321037</td>
-                                                                    <td>Maitreyi Natarajan</td>
-                                                                    <td>Cessna Lifeline Veterinary Care Clinic</td>
-                                                                    <td>Veterinary Care for Animals</td>
-                                                                    <td>Cessna Lifeline Veterinary Care Clinic</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321038</td>
-                                                                    <td>Manal Jagdeep Bole</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321039</td>
-                                                                    <td>Manjulika Chellappan</td>
-                                                                    <td>Kalrav School</td>
-                                                                    <td>Children & Education (Special Needs)</td>
-                                                                    <td>Kalrav School</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321041</td>
-                                                                    <td>Mehak Vijay Wadhwani</td>
-                                                                    <td>Education for Development Fund; Akanksha
-                                                                        Foundation
-                                                                    </td>
-                                                                    <td>Education</td>
-                                                                    <td>Education for Development Fund; Akanksha
-                                                                        Foundation
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321042</td>
-                                                                    <td>Sujay Mungekar</td>
-                                                                    <td>Stree Mukti Sanghatana</td>
-                                                                    <td>Women</td>
-                                                                    <td>Mulagi Zhali Ho! - A Project in Dehumanization
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321043</td>
-                                                                    <td>Janhavi Ravindra Nadkarni</td>
-                                                                    <td>Make-A-Wish India</td>
-                                                                    <td>Children (Wishes)</td>
-                                                                    <td>Make-A-Wish India: Making Dreams Come True</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321044</td>
-                                                                    <td>Monica Narwani</td>
-                                                                    <td>Akanksha Foundation</td>
-                                                                    <td>Education</td>
-                                                                    <td>Akanksha: Aspire, Achieve, Be the Change</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321045</td>
-                                                                    <td>Nayaneeka Dutta Choudhury</td>
-                                                                    <td>Manovikas Kendra</td>
-                                                                    <td>Education (Special Needs) & Research</td>
-                                                                    <td>Manovikas Kendra: No Child Left Behind</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321046</td>
-                                                                    <td>Neha Diwakar</td>
-                                                                    <td>SECMOL</td>
-                                                                    <td>Education</td>
-                                                                    <td>To Teach and To Learn</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321048</td>
-                                                                    <td>Simone Liane Noronha</td>
-                                                                    <td>Teach For India</td>
-                                                                    <td>Education</td>
-                                                                    <td>Teach For India</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321049</td>
-                                                                    <td>Mihir Ajeet Oak</td>
-                                                                    <td>Easol</td>
-                                                                    <td>Rural Development</td>
-                                                                    <td>The Tiger Toilet Project</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321050</td>
-                                                                    <td>Oishi Bhattacharyya</td>
-                                                                    <td>The Hope Kolkata Foundation</td>
-                                                                    <td>Child & Youth Education</td>
-                                                                    <td>The Children of Hope</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321051</td>
-                                                                    <td>Palak Periwal</td>
-                                                                    <td>Tapovan Manovikas Vidyalaya</td>
-                                                                    <td>Education</td>
-                                                                    <td>Tapovan Manovikas Vidyalaya</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321052</td>
-                                                                    <td>Paranjay Agarwal</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321053</td>
-                                                                    <td>Aalisha Avinash Patil</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321054</td>
-                                                                    <td>Riya Rajendra Patil</td>
-                                                                    <td>Akanksha Foundation & Seva Sahayog</td>
-                                                                    <td>Education</td>
-                                                                    <td>Akanksha Foundation & Seva Sahayog, Pune</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321055</td>
-                                                                    <td>Nibraas Mohamed Hanif Patvi</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321056</td>
-                                                                    <td>Pavit Bakshi</td>
-                                                                    <td>Institute of Development and Communication</td>
-                                                                    <td>Research Organisation</td>
-                                                                    <td>Institute of Development and Communication</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321057</td>
-                                                                    <td>Aishwarya Ajit Pawar</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321058</td>
-                                                                    <td>Radhika Vikramsinha Mohite</td>
-                                                                    <td>Seva Sahayog Foundation</td>
-                                                                    <td>Education</td>
-                                                                    <td>Seva Sahayog Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321059</td>
-                                                                    <td>Phagun Shaktawat</td>
-                                                                    <td>Swechha</td>
-                                                                    <td>Education</td>
-                                                                    <td>Swechha</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321060</td>
-                                                                    <td>Sanika Sanjeev Potnis</td>
-                                                                    <td>Suzlon Foundation</td>
-                                                                    <td>Corporate Social Responsibility</td>
-                                                                    <td>Suzlon Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321061</td>
-                                                                    <td>Prachi Agrawal</td>
-                                                                    <td>Prayasam</td>
-                                                                    <td>Women Empowerment & Education</td>
-                                                                    <td>Prayasam</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321064</td>
-                                                                    <td>Pragati Singh</td>
-                                                                    <td>Project KHEL</td>
-                                                                    <td>Underprivileged Children</td>
-                                                                    <td>Project KHEL, Lucknow</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321066</td>
-                                                                    <td>Purvi Edara</td>
-                                                                    <td>Saahas Zero Waste</td>
-                                                                    <td>Environment</td>
-                                                                    <td>Saahas Zero Waste</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321069</td>
-                                                                    <td>Raghav Pandey</td>
-                                                                    <td>Kaigal Environment and Education Programme</td>
-                                                                    <td>Education & Biodiversity Education</td>
-                                                                    <td>Kaigal Environment and Education Programme</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321070</td>
-                                                                    <td>Rishita Vijaybhai Parmar</td>
-                                                                    <td>Franciscan Missionaries of Mary Social Service
-                                                                        Society, Pune</td>
-                                                                    <td>Remedial Classes & Women Support</td>
-                                                                    <td>Remedial Classes & Women Support</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321071</td>
-                                                                    <td>Rituparna Singh</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321072</td>
-                                                                    <td>Ritushree Ramchand Bagepalli</td>
-                                                                    <td>Seva-In-Action</td>
-                                                                    <td>Assessment of Disabled Students</td>
-                                                                    <td>Seva-In-Action</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321073</td>
-                                                                    <td>Ritwik Sharma</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321074</td>
-                                                                    <td>Rohan Samir Parikh</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321075</td>
-                                                                    <td>Roshni V Kadam</td>
-                                                                    <td>Akanksha Foundation & Seva Sahayog</td>
-                                                                    <td>Education</td>
-                                                                    <td>Akanksha Foundation & Seva Sahayog</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321076</td>
-                                                                    <td>Sadaf Hossain</td>
-                                                                    <td>FACES, MedWish</td>
-                                                                    <td>Awareness & Medical Aid</td>
-                                                                    <td>MedWish: A Project of FACES, Kolkata</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321077</td>
-                                                                    <td>Sahana Kaul</td>
-                                                                    <td>Tibet World</td>
-                                                                    <td>Marketing & Education</td>
-                                                                    <td>Tibet World</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321078</td>
-                                                                    <td>Sakeena – Sajad</td>
-                                                                    <td>Nightingales Medical Trust</td>
-                                                                    <td>Elder Care</td>
-                                                                    <td>Nightingales Medical Trust</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321079</td>
-                                                                    <td>Sana Bhinder</td>
-                                                                    <td>Sanskar India Foundation</td>
-                                                                    <td>Environment Education</td>
-                                                                    <td>Sanskar India Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321080</td>
-                                                                    <td>Sunit Animesh Sanghvi</td>
-                                                                    <td>Tibet World</td>
-                                                                    <td>Marketing & Education</td>
-                                                                    <td>Tibet World, McLeod Ganj</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321081</td>
-                                                                    <td>Sanket Sandeep Shrotri</td>
-                                                                    <td>PETA & FIAPO</td>
-                                                                    <td>Animal Rights</td>
-                                                                    <td>People for the Ethical Treatment of Animals &
-                                                                        FIAPO
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321082</td>
-                                                                    <td>Shefaali Bopana</td>
-                                                                    <td>World Wide Veterinary Service Intl Training
-                                                                        Center
-                                                                    </td>
-                                                                    <td>Animals</td>
-                                                                    <td>World Wide Veterinary Service Intl Training
-                                                                        Center
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321083</td>
-                                                                    <td>Shivangi Tangr</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321084</td>
-                                                                    <td>Shradha Kasturi</td>
-                                                                    <td>Akanksha Foundation & Teach For India</td>
-                                                                    <td>Child Education</td>
-                                                                    <td>The Akanksha Foundation & Teach For India</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321085</td>
-                                                                    <td>Shrishti S Deshpande</td>
-                                                                    <td>Teach For India</td>
-                                                                    <td>Education</td>
-                                                                    <td>Teach For India</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321086</td>
-                                                                    <td>Shubhangi Hora</td>
-                                                                    <td>Teach For India</td>
-                                                                    <td>Education</td>
-                                                                    <td>Teach For India</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321088</td>
-                                                                    <td>Shweta Swaminathan</td>
-                                                                    <td>U&I</td>
-                                                                    <td>Education</td>
-                                                                    <td>U&I</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321089</td>
-                                                                    <td>Rhea Shantanu Sugwekar</td>
-                                                                    <td>The Akanksha Foundation</td>
-                                                                    <td>Education & Child Development</td>
-                                                                    <td>The Akanksha Foundation: In facilitation with
-                                                                        Pujya
-                                                                        Kasturba Gandhi English Medium School</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321090</td>
-                                                                    <td>Suroraj Sen</td>
-                                                                    <td>Manovikas Kendra</td>
-                                                                    <td>Education & Research</td>
-                                                                    <td>Manovikas Kendra: No Child Left Behind</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321091</td>
-                                                                    <td>Swati Gopalkrishnan</td>
-                                                                    <td>Cuddles Foundation</td>
-                                                                    <td>Healthcare</td>
-                                                                    <td>Cuddles Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321093</td>
-                                                                    <td>Tanvi Rao</td>
-                                                                    <td>GiveIndia</td>
-                                                                    <td>Fundraising & Donation</td>
-                                                                    <td>GiveIndia: The Power to Change the World</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321094</td>
-                                                                    <td>Twinkle Rajesh Verma</td>
-                                                                    <td>Maria Assunta Convent</td>
-                                                                    <td>Education</td>
-                                                                    <td>Maria Assunta Convent</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321095</td>
-                                                                    <td>Urmit Shah</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321096</td>
-                                                                    <td>Vaishali–Bhargava</td>
-                                                                    <td>Parvarish - The Museum School</td>
-                                                                    <td>Education & Social Work</td>
-                                                                    <td>Parvarish - The Museum School</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321097</td>
-                                                                    <td>Vignesh Muthusubramanian</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321098</td>
-                                                                    <td>Vir Mehta</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321100</td>
-                                                                    <td>Vrinda Chopra</td>
-                                                                    <td>Aagaz</td>
-                                                                    <td>Education</td>
-                                                                    <td>Aagaz</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321101</td>
-                                                                    <td>Debolina Samanta</td>
-                                                                    <td>QATAR Animal Welfare Society (QAWS)</td>
-                                                                    <td>Animal Shelter</td>
-                                                                    <td>Qatar Animal Welfare Society (QAWS)</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321102</td>
-                                                                    <td>Deepika Raju Thadani</td>
-                                                                    <td>Autism Awareness Care & Training Centre</td>
-                                                                    <td>Autism & Education</td>
-                                                                    <td>Autism Awareness Care & Training Centre</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321103</td>
-                                                                    <td>Meher Rohan Advani</td>
-                                                                    <td>Rashi Pediatric Therapy Foundation</td>
-                                                                    <td>Education</td>
-                                                                    <td>Rashi Pediatric Therapy Foundation</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321104</td>
-                                                                    <td>Neel Vishwanatha Vasishta</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321105</td>
-                                                                    <td>Shama Sreekumar Nair</td>
-                                                                    <td>Thermax Foundation & Akanksha Foundation</td>
-                                                                    <td>Children & Education</td>
-                                                                    <td>Thermax Foundation & Akanksha Foundation, Pune,
-                                                                        India</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321110</td>
-                                                                    <td>Shubhangi Jagdev</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321111</td>
-                                                                    <td>Neha Jogi</td>
-                                                                    <td>Franciscan Missionaries of Mary Social Service
-                                                                        Society, Pune</td>
-                                                                    <td>Children & Education</td>
-                                                                    <td>Franciscan Missionaries of Mary Social Service
-                                                                        Society, Pune</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321112</td>
-                                                                    <td>Ranjeev Dutta</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321113</td>
-                                                                    <td>Vedica Bajaj</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                    <td>-</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>14060321114</td>
-                                                                    <td>Isha Mathur</td>
-                                                                    <td>Children of the World (India) Trust</td>
-                                                                    <td>Adoption</td>
-                                                                    <td>Children of the World (India) Trust</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
+                                                <div class="cop-title">Community Outreach Project Student Reports
                                                 </div>
-
+                                                <div class="table-responsive">
+                                                    <table class="table mb-0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>P.R. No.</th>
+                                                                <th>Name of the Student</th>
+                                                                <th>Name of Organization</th>
+                                                                <th>Domain</th>
+                                                                <th>Title of the Report</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>14060321001</td>
+                                                                <td>Aashima Safi</td>
+                                                                <td>U&I and Reach Beyond</td>
+                                                                <td>Education</td>
+                                                                <td>U&I and Reach Beyond</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321002</td>
+                                                                <td>Aastha Seth</td>
+                                                                <td>Akshar School</td>
+                                                                <td>Education</td>
+                                                                <td>Akshar - an inclusive school</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321005</td>
+                                                                <td>Ananya</td>
+                                                                <td>U & I</td>
+                                                                <td>Education</td>
+                                                                <td>Volunteer at U & I</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321006</td>
+                                                                <td>Ananya Gautam Gouthi</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321007</td>
+                                                                <td>Anjani Anand</td>
+                                                                <td>Cessna Lifeline Veterinary Care Clinic</td>
+                                                                <td>Veterinary Medicine</td>
+                                                                <td>Cessna Lifeline Veterinary Care Clinic</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321008</td>
+                                                                <td>Ankita Datta</td>
+                                                                <td>Child in Need Institute</td>
+                                                                <td>Nutrition, Health, Education & Protection</td>
+                                                                <td>Child in Need Institute</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321009</td>
+                                                                <td>Archana Suresh Warrier</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321010</td>
+                                                                <td>Aritra Chattaraj</td>
+                                                                <td>The Hope Kolkata Foundation</td>
+                                                                <td>Child & Youth Education</td>
+                                                                <td>Enterprising Young Minds - The Hope Kolkata
+                                                                    Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321011</td>
+                                                                <td>Arshdeep Kaur</td>
+                                                                <td>The Akanksha Foundation and NGO Tammana</td>
+                                                                <td>Education/Health</td>
+                                                                <td>The Akanksha Foundation and NGO Tammana</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321012</td>
+                                                                <td>Ayush Tiwari</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321013</td>
+                                                                <td>Azara Munir Merchant</td>
+                                                                <td>Nityaasha Foundation</td>
+                                                                <td>Child & Health Services</td>
+                                                                <td>Nityaasha Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321014</td>
+                                                                <td>Ruchi Sunil Bhutada</td>
+                                                                <td>Doorstep School, Pune; Dr Narendra Bhivapurkar
+                                                                    Blindschool, Amravati</td>
+                                                                <td>Education/Rehabilitation</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321015</td>
+                                                                <td>Chandreyi Mukherjee</td>
+                                                                <td>FACES: MedWish; Project Life Force</td>
+                                                                <td>Awareness & Medical Aid</td>
+                                                                <td>MedWish: A Project of FACES, Kolkata</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321016</td>
+                                                                <td>Chetan Nirmal Kumar Gollapalli</td>
+                                                                <td>John Paul Slum Development Project</td>
+                                                                <td>Child Education/AIDS Control</td>
+                                                                <td>John Paul Slum Development Project</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321017</td>
+                                                                <td>Daksh Vinod Bhasin</td>
+                                                                <td>John Paul Slum Development Project</td>
+                                                                <td>Child Education/AIDS Control</td>
+                                                                <td>John Paul Slum Development Project</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321018</td>
+                                                                <td>Tejas Machandranath Devamane</td>
+                                                                <td>Doorstep Organization, Pune</td>
+                                                                <td>Education</td>
+                                                                <td>Community Outreach Project with Doorstep
+                                                                    Organization</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321019</td>
+                                                                <td>Divya Das</td>
+                                                                <td>The Inner Wheel Club of Baner Hills</td>
+                                                                <td>Women Empowerment & Child Welfare</td>
+                                                                <td>The Inner Wheel Club of Baner Hills, Pune</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321020</td>
+                                                                <td>Darren John D'Souza</td>
+                                                                <td>Lha and Sethu</td>
+                                                                <td>Children and Education</td>
+                                                                <td>Lha Charitable Trust & Sethu Centre for Child
+                                                                    Development</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321021</td>
+                                                                <td>Gaarimma Mishra</td>
+                                                                <td>Adruta Children's Home</td>
+                                                                <td>Child and Youth Welfare</td>
+                                                                <td>Adruta Children's Home</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321022</td>
+                                                                <td>Gaurav Gajanand Gupta</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321023</td>
+                                                                <td>Hana Suhail Masood</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321024</td>
+                                                                <td>Harsh Agarwal</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321025</td>
+                                                                <td>Jai Aditya Govind</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321026</td>
+                                                                <td>Anisa Shahram Javanmardi</td>
+                                                                <td>Brilliant Stars School, Tripura</td>
+                                                                <td>Education</td>
+                                                                <td>Brilliant Stars School, Tripura Community
+                                                                    Outreach
+                                                                    Project</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321027</td>
+                                                                <td>Jemin Nilesh Shah</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321028</td>
+                                                                <td>Jhanvi Tiwari</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321029</td>
+                                                                <td>Kanika Bambra</td>
+                                                                <td>Pallavanjali & Society for Upliftment and
+                                                                    Development of Human Beings by Action</td>
+                                                                <td>Education (Special Needs)</td>
+                                                                <td>Pallavanjali & Sudha Society</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321030</td>
+                                                                <td>Keerthi Chandana Durugadda</td>
+                                                                <td>Kaigal Environment and Education Programme</td>
+                                                                <td>Education & Biodiversity Conservation</td>
+                                                                <td>Kaigal Environment and Education Programme</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321031</td>
+                                                                <td>Kotha Saikishore Reddy</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321032</td>
+                                                                <td>Krishna Sanghi</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321033</td>
+                                                                <td>Divij Pravin Kulkarni</td>
+                                                                <td>John Paul Slum Development Project</td>
+                                                                <td>Child Education/AIDS Control</td>
+                                                                <td>John Paul Slum Development Project</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321034</td>
+                                                                <td>Lavania Saraf</td>
+                                                                <td>U&I & Iswar Sankalpa</td>
+                                                                <td>Education + Social Services</td>
+                                                                <td>U&I and Iswar Sankalpa</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321035</td>
+                                                                <td>Liana Kher</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321036</td>
+                                                                <td>Karan Rajesh Madan</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321037</td>
+                                                                <td>Maitreyi Natarajan</td>
+                                                                <td>Cessna Lifeline Veterinary Care Clinic</td>
+                                                                <td>Veterinary Care for Animals</td>
+                                                                <td>Cessna Lifeline Veterinary Care Clinic</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321038</td>
+                                                                <td>Manal Jagdeep Bole</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321039</td>
+                                                                <td>Manjulika Chellappan</td>
+                                                                <td>Kalrav School</td>
+                                                                <td>Children & Education (Special Needs)</td>
+                                                                <td>Kalrav School</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321041</td>
+                                                                <td>Mehak Vijay Wadhwani</td>
+                                                                <td>Education for Development Fund; Akanksha
+                                                                    Foundation
+                                                                </td>
+                                                                <td>Education</td>
+                                                                <td>Education for Development Fund; Akanksha
+                                                                    Foundation
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321042</td>
+                                                                <td>Sujay Mungekar</td>
+                                                                <td>Stree Mukti Sanghatana</td>
+                                                                <td>Women</td>
+                                                                <td>Mulagi Zhali Ho! - A Project in Dehumanization
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321043</td>
+                                                                <td>Janhavi Ravindra Nadkarni</td>
+                                                                <td>Make-A-Wish India</td>
+                                                                <td>Children (Wishes)</td>
+                                                                <td>Make-A-Wish India: Making Dreams Come True</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321044</td>
+                                                                <td>Monica Narwani</td>
+                                                                <td>Akanksha Foundation</td>
+                                                                <td>Education</td>
+                                                                <td>Akanksha: Aspire, Achieve, Be the Change</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321045</td>
+                                                                <td>Nayaneeka Dutta Choudhury</td>
+                                                                <td>Manovikas Kendra</td>
+                                                                <td>Education (Special Needs) & Research</td>
+                                                                <td>Manovikas Kendra: No Child Left Behind</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321046</td>
+                                                                <td>Neha Diwakar</td>
+                                                                <td>SECMOL</td>
+                                                                <td>Education</td>
+                                                                <td>To Teach and To Learn</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321048</td>
+                                                                <td>Simone Liane Noronha</td>
+                                                                <td>Teach For India</td>
+                                                                <td>Education</td>
+                                                                <td>Teach For India</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321049</td>
+                                                                <td>Mihir Ajeet Oak</td>
+                                                                <td>Easol</td>
+                                                                <td>Rural Development</td>
+                                                                <td>The Tiger Toilet Project</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321050</td>
+                                                                <td>Oishi Bhattacharyya</td>
+                                                                <td>The Hope Kolkata Foundation</td>
+                                                                <td>Child & Youth Education</td>
+                                                                <td>The Children of Hope</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321051</td>
+                                                                <td>Palak Periwal</td>
+                                                                <td>Tapovan Manovikas Vidyalaya</td>
+                                                                <td>Education</td>
+                                                                <td>Tapovan Manovikas Vidyalaya</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321052</td>
+                                                                <td>Paranjay Agarwal</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321053</td>
+                                                                <td>Aalisha Avinash Patil</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321054</td>
+                                                                <td>Riya Rajendra Patil</td>
+                                                                <td>Akanksha Foundation & Seva Sahayog</td>
+                                                                <td>Education</td>
+                                                                <td>Akanksha Foundation & Seva Sahayog, Pune</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321055</td>
+                                                                <td>Nibraas Mohamed Hanif Patvi</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321056</td>
+                                                                <td>Pavit Bakshi</td>
+                                                                <td>Institute of Development and Communication</td>
+                                                                <td>Research Organisation</td>
+                                                                <td>Institute of Development and Communication</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321057</td>
+                                                                <td>Aishwarya Ajit Pawar</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321058</td>
+                                                                <td>Radhika Vikramsinha Mohite</td>
+                                                                <td>Seva Sahayog Foundation</td>
+                                                                <td>Education</td>
+                                                                <td>Seva Sahayog Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321059</td>
+                                                                <td>Phagun Shaktawat</td>
+                                                                <td>Swechha</td>
+                                                                <td>Education</td>
+                                                                <td>Swechha</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321060</td>
+                                                                <td>Sanika Sanjeev Potnis</td>
+                                                                <td>Suzlon Foundation</td>
+                                                                <td>Corporate Social Responsibility</td>
+                                                                <td>Suzlon Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321061</td>
+                                                                <td>Prachi Agrawal</td>
+                                                                <td>Prayasam</td>
+                                                                <td>Women Empowerment & Education</td>
+                                                                <td>Prayasam</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321064</td>
+                                                                <td>Pragati Singh</td>
+                                                                <td>Project KHEL</td>
+                                                                <td>Underprivileged Children</td>
+                                                                <td>Project KHEL, Lucknow</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321066</td>
+                                                                <td>Purvi Edara</td>
+                                                                <td>Saahas Zero Waste</td>
+                                                                <td>Environment</td>
+                                                                <td>Saahas Zero Waste</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321069</td>
+                                                                <td>Raghav Pandey</td>
+                                                                <td>Kaigal Environment and Education Programme</td>
+                                                                <td>Education & Biodiversity Education</td>
+                                                                <td>Kaigal Environment and Education Programme</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321070</td>
+                                                                <td>Rishita Vijaybhai Parmar</td>
+                                                                <td>Franciscan Missionaries of Mary Social Service
+                                                                    Society, Pune</td>
+                                                                <td>Remedial Classes & Women Support</td>
+                                                                <td>Remedial Classes & Women Support</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321071</td>
+                                                                <td>Rituparna Singh</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321072</td>
+                                                                <td>Ritushree Ramchand Bagepalli</td>
+                                                                <td>Seva-In-Action</td>
+                                                                <td>Assessment of Disabled Students</td>
+                                                                <td>Seva-In-Action</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321073</td>
+                                                                <td>Ritwik Sharma</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321074</td>
+                                                                <td>Rohan Samir Parikh</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321075</td>
+                                                                <td>Roshni V Kadam</td>
+                                                                <td>Akanksha Foundation & Seva Sahayog</td>
+                                                                <td>Education</td>
+                                                                <td>Akanksha Foundation & Seva Sahayog</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321076</td>
+                                                                <td>Sadaf Hossain</td>
+                                                                <td>FACES, MedWish</td>
+                                                                <td>Awareness & Medical Aid</td>
+                                                                <td>MedWish: A Project of FACES, Kolkata</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321077</td>
+                                                                <td>Sahana Kaul</td>
+                                                                <td>Tibet World</td>
+                                                                <td>Marketing & Education</td>
+                                                                <td>Tibet World</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321078</td>
+                                                                <td>Sakeena – Sajad</td>
+                                                                <td>Nightingales Medical Trust</td>
+                                                                <td>Elder Care</td>
+                                                                <td>Nightingales Medical Trust</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321079</td>
+                                                                <td>Sana Bhinder</td>
+                                                                <td>Sanskar India Foundation</td>
+                                                                <td>Environment Education</td>
+                                                                <td>Sanskar India Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321080</td>
+                                                                <td>Sunit Animesh Sanghvi</td>
+                                                                <td>Tibet World</td>
+                                                                <td>Marketing & Education</td>
+                                                                <td>Tibet World, McLeod Ganj</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321081</td>
+                                                                <td>Sanket Sandeep Shrotri</td>
+                                                                <td>PETA & FIAPO</td>
+                                                                <td>Animal Rights</td>
+                                                                <td>People for the Ethical Treatment of Animals &
+                                                                    FIAPO
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321082</td>
+                                                                <td>Shefaali Bopana</td>
+                                                                <td>World Wide Veterinary Service Intl Training
+                                                                    Center
+                                                                </td>
+                                                                <td>Animals</td>
+                                                                <td>World Wide Veterinary Service Intl Training
+                                                                    Center
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321083</td>
+                                                                <td>Shivangi Tangr</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321084</td>
+                                                                <td>Shradha Kasturi</td>
+                                                                <td>Akanksha Foundation & Teach For India</td>
+                                                                <td>Child Education</td>
+                                                                <td>The Akanksha Foundation & Teach For India</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321085</td>
+                                                                <td>Shrishti S Deshpande</td>
+                                                                <td>Teach For India</td>
+                                                                <td>Education</td>
+                                                                <td>Teach For India</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321086</td>
+                                                                <td>Shubhangi Hora</td>
+                                                                <td>Teach For India</td>
+                                                                <td>Education</td>
+                                                                <td>Teach For India</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321088</td>
+                                                                <td>Shweta Swaminathan</td>
+                                                                <td>U&I</td>
+                                                                <td>Education</td>
+                                                                <td>U&I</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321089</td>
+                                                                <td>Rhea Shantanu Sugwekar</td>
+                                                                <td>The Akanksha Foundation</td>
+                                                                <td>Education & Child Development</td>
+                                                                <td>The Akanksha Foundation: In facilitation with
+                                                                    Pujya
+                                                                    Kasturba Gandhi English Medium School</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321090</td>
+                                                                <td>Suroraj Sen</td>
+                                                                <td>Manovikas Kendra</td>
+                                                                <td>Education & Research</td>
+                                                                <td>Manovikas Kendra: No Child Left Behind</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321091</td>
+                                                                <td>Swati Gopalkrishnan</td>
+                                                                <td>Cuddles Foundation</td>
+                                                                <td>Healthcare</td>
+                                                                <td>Cuddles Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321093</td>
+                                                                <td>Tanvi Rao</td>
+                                                                <td>GiveIndia</td>
+                                                                <td>Fundraising & Donation</td>
+                                                                <td>GiveIndia: The Power to Change the World</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321094</td>
+                                                                <td>Twinkle Rajesh Verma</td>
+                                                                <td>Maria Assunta Convent</td>
+                                                                <td>Education</td>
+                                                                <td>Maria Assunta Convent</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321095</td>
+                                                                <td>Urmit Shah</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321096</td>
+                                                                <td>Vaishali–Bhargava</td>
+                                                                <td>Parvarish - The Museum School</td>
+                                                                <td>Education & Social Work</td>
+                                                                <td>Parvarish - The Museum School</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321097</td>
+                                                                <td>Vignesh Muthusubramanian</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321098</td>
+                                                                <td>Vir Mehta</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321100</td>
+                                                                <td>Vrinda Chopra</td>
+                                                                <td>Aagaz</td>
+                                                                <td>Education</td>
+                                                                <td>Aagaz</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321101</td>
+                                                                <td>Debolina Samanta</td>
+                                                                <td>QATAR Animal Welfare Society (QAWS)</td>
+                                                                <td>Animal Shelter</td>
+                                                                <td>Qatar Animal Welfare Society (QAWS)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321102</td>
+                                                                <td>Deepika Raju Thadani</td>
+                                                                <td>Autism Awareness Care & Training Centre</td>
+                                                                <td>Autism & Education</td>
+                                                                <td>Autism Awareness Care & Training Centre</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321103</td>
+                                                                <td>Meher Rohan Advani</td>
+                                                                <td>Rashi Pediatric Therapy Foundation</td>
+                                                                <td>Education</td>
+                                                                <td>Rashi Pediatric Therapy Foundation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321104</td>
+                                                                <td>Neel Vishwanatha Vasishta</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321105</td>
+                                                                <td>Shama Sreekumar Nair</td>
+                                                                <td>Thermax Foundation & Akanksha Foundation</td>
+                                                                <td>Children & Education</td>
+                                                                <td>Thermax Foundation & Akanksha Foundation, Pune,
+                                                                    India</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321110</td>
+                                                                <td>Shubhangi Jagdev</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321111</td>
+                                                                <td>Neha Jogi</td>
+                                                                <td>Franciscan Missionaries of Mary Social Service
+                                                                    Society, Pune</td>
+                                                                <td>Children & Education</td>
+                                                                <td>Franciscan Missionaries of Mary Social Service
+                                                                    Society, Pune</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321112</td>
+                                                                <td>Ranjeev Dutta</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321113</td>
+                                                                <td>Vedica Bajaj</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14060321114</td>
+                                                                <td>Isha Mathur</td>
+                                                                <td>Children of the World (India) Trust</td>
+                                                                <td>Adoption</td>
+                                                                <td>Children of the World (India) Trust</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1069,13 +1067,13 @@
                                             <div class="tab-pane fade show active" id="v-pills-home2" role="tabpanel"
                                                 aria-labelledby="v-pills-home-tab2" tabindex="0">
                                                 <div>
-                                                    <p>The internship is a compulsory component of the curriculum at
+                                                    <p class="m-0">The internship is a compulsory component of the curriculum at
                                                         SSLA. It seeks to introduce the students to the realities of the
                                                         industries, and to help them understand their own strengths.</p>
                                                     <div class="cop-section">
                                                         <div class="cop-container">
                                                             <!-- Members Section -->
-                                                            <div class="cop-card">
+                                                            <div class="cop-card mb-0">
                                                                 <h2 class="cop-title">Hours: 220 hours Credits: 7 Total
                                                                     Marks: 175.
                                                                 </h2>
@@ -1148,7 +1146,7 @@
                                                                     and viva, depending on the evaluation. The report
                                                                     submission, presentation and viva will be conducted
                                                                     in the consequent semesters.</p>
-                                                                <p>Refer to the Student Handbook for further details
+                                                                <p class="m-0">Refer to the Student Handbook for further details
                                                                     about deadlines and submissions.</p>
                                                             </div>
                                                         </div>
@@ -1164,204 +1162,202 @@
 
                                             <div class="tab-pane fade" id="v-pills-messages2" role="tabpanel"
                                                 aria-labelledby="v-pills-messages-tab2" tabindex="0">
-                                                <div class="cop-card">
-                                                    <div class="cop-title">Community Outreach Project Student
-                                                        Reports
-                                                    </div>
-                                                    <div class="table-responsive">
-                                                        <table class="table">
-                                                            <thead>
-                                                                <tr>
-                                                                    <th>Organisation</th>
-                                                                    <th>Work Domain</th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>The Hindu Business Line</td>
-                                                                    <td>Reporter</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Smartron India Pvt Ltd</td>
-                                                                    <td>Marketing (Consumer and market research)
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Bureau Central Marocain des Societes
-                                                                        d’Assurances (BCMA)</td>
-                                                                    <td>Assurance</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>BCMA</td>
-                                                                    <td>Insurance</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Netherlands Business Support Office</td>
-                                                                    <td>Market research</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Interface Communications (F.C.B. ULKA)</td>
-                                                                    <td>Creative Copywriting</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Curozo Edutech</td>
-                                                                    <td>Growth Tracking and Market Research</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>The Richmond Fellowship Society</td>
-                                                                    <td>Auroville</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Solar Village Project</td>
-                                                                    <td>Global Education Solutions</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>The Indian Express</td>
-                                                                    <td>Content and Curriculum development</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>The Indian Express</td>
-                                                                    <td>Features/ Editorial</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Tata Memorial Hospital</td>
-                                                                    <td>Psycho – Oncology</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Institute of Peace and Conflict Studies</td>
-                                                                    <td>Fortis Memorial Research Institute</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Interics Designs Pvt Ltd</td>
-                                                                    <td>Mental Health and Behavioural Sciences</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>LOL Ventures Pvt Ltd</td>
-                                                                    <td>Advertising</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Droom Technology</td>
-                                                                    <td>SSLA</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>International Cell</td>
-                                                                    <td>SSLA</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Nimble Systems Pvt Ltd</td>
-                                                                    <td>Entrepreneur, Entrepreneurship and
-                                                                        management intern</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Indiabulls Foundation</td>
-                                                                    <td>CSR project and HR processes</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Ogilvy and Mather Pvt Ltd</td>
-                                                                    <td>Account Management</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>National Centre for Advocacy Studies</td>
-                                                                    <td>Research</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Malhar Limelight</td>
-                                                                    <td>Book writing</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Indian Express</td>
-                                                                    <td>Features</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Liberty India DHC Pvt Ltd</td>
-                                                                    <td>Tourism</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>SSLA</td>
-                                                                    <td>Research</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>NKP Salve Institute of Medical Sciences</td>
-                                                                    <td>Psychology</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Fortis Healthcare</td>
-                                                                    <td>Psychology</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Advocate Mrunalini Deshmukh</td>
-                                                                    <td>Family Law</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Mac Advertising</td>
-                                                                    <td>Automobile Industry (car4sene.com)</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Goodricke Group Ltd</td>
-                                                                    <td>Marketing</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Anandi Foods (Happy Belly)</td>
-                                                                    <td>Marketing</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Aker Power Gas Subsea</td>
-                                                                    <td>HR</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Frost and Sullivan</td>
-                                                                    <td>Economic Research</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>National Centre for Advocacy Studies</td>
-                                                                    <td>Research</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>WFT</td>
-                                                                    <td>Digital Marketing and Content Writing</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Carpe Diem</td>
-                                                                    <td>PR, Branding, Corporate Communication,
-                                                                        Events</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Anandi Foods (Happy Belly)</td>
-                                                                    <td>Marketing</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Eye Catcher Entertainment Pvt Ltd</td>
-                                                                    <td>Homegrown Media LLP, Editorial and Content
-                                                                        Writing</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Earth 5 R</td>
-                                                                    <td>Socio – environmental</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Richmond Fellowship Society</td>
-                                                                    <td>Samuchit Enviro Tech, Sustainable lifestyle
-                                                                        products, services, research studies</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>ZEBRA Crossing Paradigm Pvt Ltd</td>
-                                                                    <td>Advertising Agency</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Nomad Films</td>
-                                                                    <td>Ad film Production House</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>FCB ULKA</td>
-                                                                    <td>Creative and advertising</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Gyaan Adab</td>
-                                                                    <td>Creative, program development</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
+                                                <div class="cop-title">Community Outreach Project Student
+                                                    Reports
+                                                </div>
+                                                <div class="table-responsive">
+                                                    <table class="table mb-0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Organisation</th>
+                                                                <th>Work Domain</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>The Hindu Business Line</td>
+                                                                <td>Reporter</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Smartron India Pvt Ltd</td>
+                                                                <td>Marketing (Consumer and market research)
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Bureau Central Marocain des Societes
+                                                                    d’Assurances (BCMA)</td>
+                                                                <td>Assurance</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>BCMA</td>
+                                                                <td>Insurance</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Netherlands Business Support Office</td>
+                                                                <td>Market research</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Interface Communications (F.C.B. ULKA)</td>
+                                                                <td>Creative Copywriting</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Curozo Edutech</td>
+                                                                <td>Growth Tracking and Market Research</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>The Richmond Fellowship Society</td>
+                                                                <td>Auroville</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Solar Village Project</td>
+                                                                <td>Global Education Solutions</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>The Indian Express</td>
+                                                                <td>Content and Curriculum development</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>The Indian Express</td>
+                                                                <td>Features/ Editorial</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Tata Memorial Hospital</td>
+                                                                <td>Psycho – Oncology</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Institute of Peace and Conflict Studies</td>
+                                                                <td>Fortis Memorial Research Institute</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Interics Designs Pvt Ltd</td>
+                                                                <td>Mental Health and Behavioural Sciences</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>LOL Ventures Pvt Ltd</td>
+                                                                <td>Advertising</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Droom Technology</td>
+                                                                <td>SSLA</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>International Cell</td>
+                                                                <td>SSLA</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Nimble Systems Pvt Ltd</td>
+                                                                <td>Entrepreneur, Entrepreneurship and
+                                                                    management intern</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Indiabulls Foundation</td>
+                                                                <td>CSR project and HR processes</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Ogilvy and Mather Pvt Ltd</td>
+                                                                <td>Account Management</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>National Centre for Advocacy Studies</td>
+                                                                <td>Research</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Malhar Limelight</td>
+                                                                <td>Book writing</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Indian Express</td>
+                                                                <td>Features</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Liberty India DHC Pvt Ltd</td>
+                                                                <td>Tourism</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>SSLA</td>
+                                                                <td>Research</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>NKP Salve Institute of Medical Sciences</td>
+                                                                <td>Psychology</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Fortis Healthcare</td>
+                                                                <td>Psychology</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Advocate Mrunalini Deshmukh</td>
+                                                                <td>Family Law</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Mac Advertising</td>
+                                                                <td>Automobile Industry (car4sene.com)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Goodricke Group Ltd</td>
+                                                                <td>Marketing</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Anandi Foods (Happy Belly)</td>
+                                                                <td>Marketing</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Aker Power Gas Subsea</td>
+                                                                <td>HR</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Frost and Sullivan</td>
+                                                                <td>Economic Research</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>National Centre for Advocacy Studies</td>
+                                                                <td>Research</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>WFT</td>
+                                                                <td>Digital Marketing and Content Writing</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Carpe Diem</td>
+                                                                <td>PR, Branding, Corporate Communication,
+                                                                    Events</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Anandi Foods (Happy Belly)</td>
+                                                                <td>Marketing</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Eye Catcher Entertainment Pvt Ltd</td>
+                                                                <td>Homegrown Media LLP, Editorial and Content
+                                                                    Writing</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Earth 5 R</td>
+                                                                <td>Socio – environmental</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Richmond Fellowship Society</td>
+                                                                <td>Samuchit Enviro Tech, Sustainable lifestyle
+                                                                    products, services, research studies</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>ZEBRA Crossing Paradigm Pvt Ltd</td>
+                                                                <td>Advertising Agency</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Nomad Films</td>
+                                                                <td>Ad film Production House</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>FCB ULKA</td>
+                                                                <td>Creative and advertising</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Gyaan Adab</td>
+                                                                <td>Creative, program development</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
                                                 </div>
                                             </div>
                                         </div>
@@ -1399,7 +1395,7 @@
                                                 <div>
                                                     <div class="cop-section p-0">
                                                         <div class="cop-container">
-                                                            <div class="cop-card">
+                                                            <div class="cop-card mb-0">
                                                                 <p>The research dissertation is a comprehensive research
                                                                     project-based submission which is undertaken and
                                                                     completed by every student at SSLA. Students are
@@ -1478,7 +1474,7 @@
                                                                         (batch-specific dates in table below).</li>
                                                                 </ul>
 
-                                                                <p>Refer to the Student Handbook for further details
+                                                                <p class="m-0">Refer to the Student Handbook for further details
                                                                     about deadlines and submissions.
 
                                                                 </p>
@@ -1489,64 +1485,61 @@
                                             </div>
                                             <div class="tab-pane fade" id="v-pills-profile3" role="tabpanel"
                                                 aria-labelledby="v-pills-profile-tab3" tabindex="0">
-                                                <div class="cop-card">
-                                                    <div class="table-responsive">
-                                                        <table class="table">
-                                                            <thead>
-                                                                <tr>
-                                                                    <th>Title of Dissertation</th>
-                                                                    <th>Student Name</th>
-                                                                    <th>Year</th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>Exploring the legitimacy of sweatshop labour
-                                                                        through feminist economics</td>
-                                                                    <td>Ananya</td>
-                                                                    <td>2018</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Analysing factors that affect consumer attitudes
-                                                                        towards online retail</td>
-                                                                    <td>Anisa Javanmardi</td>
-                                                                    <td>2018</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Strong Women: Gender in young adult science
-                                                                        fiction and fantasy</td>
-                                                                    <td>Archana Warrier</td>
-                                                                    <td>2018</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Cultural Détente: John Le Carré, From the Cold
-                                                                        War to the thaw</td>
-                                                                    <td>Chandreyi Mukherjee</td>
-                                                                    <td>2018</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>The impact of new media on the feminist movement
-                                                                        in India</td>
-                                                                    <td>Pavit Bakshi</td>
-                                                                    <td>2018</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Velo-City: An econometric model of the Pune
-                                                                        bicycle market</td>
-                                                                    <td>Mihir Oak</td>
-                                                                    <td>2018</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
-
+                                                <div class="table-responsive">
+                                                    <table class="table mb-0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Title of Dissertation</th>
+                                                                <th>Student Name</th>
+                                                                <th>Year</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Exploring the legitimacy of sweatshop labour
+                                                                    through feminist economics</td>
+                                                                <td>Ananya</td>
+                                                                <td>2018</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Analysing factors that affect consumer attitudes
+                                                                    towards online retail</td>
+                                                                <td>Anisa Javanmardi</td>
+                                                                <td>2018</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Strong Women: Gender in young adult science
+                                                                    fiction and fantasy</td>
+                                                                <td>Archana Warrier</td>
+                                                                <td>2018</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Cultural Détente: John Le Carré, From the Cold
+                                                                    War to the thaw</td>
+                                                                <td>Chandreyi Mukherjee</td>
+                                                                <td>2018</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>The impact of new media on the feminist movement
+                                                                    in India</td>
+                                                                <td>Pavit Bakshi</td>
+                                                                <td>2018</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Velo-City: An econometric model of the Pune
+                                                                    bicycle market</td>
+                                                                <td>Mihir Oak</td>
+                                                                <td>2018</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
                                                 </div>
                                             </div>
 
                                             <div class="tab-pane fade" id="v-pills-messages3" role="tabpanel"
                                                 aria-labelledby="v-pills-messages-tab3" tabindex="0">
                                                 <div class="cop-card">
-                                                    <p>Hard copies of all dissertations are available in the SSLA
+                                                    <p class="m-0">Hard copies of all dissertations are available in the SSLA
                                                         Library
 
                                                     </p>
@@ -1588,7 +1581,7 @@
                                                 <section class="cop-section p-0">
                                                     <div class="cop-container">
                                                         <!-- Seminar Rules Card -->
-                                                        <div class="cop-card">
+                                                        <div class="cop-card mb-0">
                                                             <div class="cop-title">Seminar Paper Rules and Policies
                                                             </div>
                                                             <ul class="cop-list">
@@ -1638,7 +1631,7 @@
                                                                     is to encourage students to familiarise themselves
                                                                     with formal systems of publishing their work. This
                                                                     end can be achieved through two means:
-                                                                    <ul>
+                                                                    <ul class="my_sub_list">
                                                                         <li>Students are graded also on whether the work
                                                                             is of publishable quality.</li>
                                                                         <li>Students send their papers to various
@@ -1660,7 +1653,7 @@
                                                                 </ul>
                                                                 <li>The grading scheme for the publication stipulation
                                                                     is as follows:
-                                                                    <ul>
+                                                                    <ul class="my_sub_list">
                                                                         <li>Proof of Paper/Article Submitted: 15</li>
                                                                         <li>Paper/Article Submitted and under review: 20
                                                                         </li>
@@ -1687,7 +1680,7 @@
 
                                                             <div class="cop-subtitle">Does the Seminar need to be from
                                                                 my Major-Minor?</div>
-                                                            <p>No, the seminar has no impact nor is it shaped by your
+                                                            <p class="mb-0">No, the seminar has no impact nor is it shaped by your
                                                                 Major-Minor disciplines.</p>
                                                         </div>
                                                     </div>
@@ -1695,7 +1688,7 @@
                                             </div>
                                             <div class="tab-pane fade" id="v-pills-profile4" role="tabpanel"
                                                 aria-labelledby="v-pills-profile-tab4" tabindex="0">
-                                                <div class="cop-card">
+                                                <div class="cop-card mb-0">
                                                     <p>The Seminar Topics are a variety of topics associated with the
                                                         various subjects taught at SSLA.
 
@@ -1723,43 +1716,40 @@
 
                                             <div class="tab-pane fade" id="v-pills-messages4" role="tabpanel"
                                                 aria-labelledby="v-pills-messages-tab4" tabindex="0">
-                                                <div class="cop-card">
-                                                    <div class="table-responsive">
-                                                        <table class="table">
-                                                            <thead>
-                                                                <tr>
-                                                                    <th>Title of Paper</th>
-                                                                    <th>Author</th>
-                                                                    <th>Year</th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>Can Machines be Moral Agents</td>
-                                                                    <td>Aishwarya Shah</td>
-                                                                    <td>2017</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Reading Austerlitz</td>
-                                                                    <td>Francesca Cotta</td>
-                                                                    <td>2017</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Representations of Cultural Trauma in Indian
-                                                                        Fiction</td>
-                                                                    <td>Tanushree Baijal</td>
-                                                                    <td>2017</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>Women’s Sexual and Reproductive Health Rights in
-                                                                        India</td>
-                                                                    <td>Suman Manvi</td>
-                                                                    <td>2017</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
-
+                                                <div class="table-responsive">
+                                                    <table class="table mb-0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Title of Paper</th>
+                                                                <th>Author</th>
+                                                                <th>Year</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Can Machines be Moral Agents</td>
+                                                                <td>Aishwarya Shah</td>
+                                                                <td>2017</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Reading Austerlitz</td>
+                                                                <td>Francesca Cotta</td>
+                                                                <td>2017</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Representations of Cultural Trauma in Indian
+                                                                    Fiction</td>
+                                                                <td>Tanushree Baijal</td>
+                                                                <td>2017</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Women’s Sexual and Reproductive Health Rights in
+                                                                    India</td>
+                                                                <td>Suman Manvi</td>
+                                                                <td>2017</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
                                                 </div>
                                             </div>
                                         </div>

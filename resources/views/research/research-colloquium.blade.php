@@ -455,7 +455,7 @@
                                                                                         tools.
                                                                                     </p>
 
-                                                                                    <p>
+                                                                                    <p class="m-0">
                                                                                         Prof. Sinha plans to investigate
                                                                                         the effects of narratives by
                                                                                         demographic data collection
@@ -523,11 +523,11 @@
                                                                             </div>
 
                                                                             <!-- SPEAKER -->
-                                                                            <div class="speaker">
+                                                                            <div class="speaker m-0">
                                                                                 <h2>The Colloquium’s Speaker</h2>
 
                                                                                 <div class="speaker-content">
-                                                                                    <p>
+                                                                                    <p class="m-0">
                                                                                         Prof. Uday Sinha is primarily an
                                                                                         economist, and teaches courses
                                                                                         in Economics, Quantitative
@@ -572,12 +572,12 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card mt-3">
+                                                                        <div class="card">
 
                                                                             <!-- Objective -->
                                                                             <div class="objective">
                                                                                 <h2>Objective of the Colloquium</h2>
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     SSLA opens the floor of knowledge
                                                                                     exchange in a level where Professors
                                                                                     can share their work and research
@@ -714,7 +714,7 @@
                                                                                         visualise a model along with
                                                                                         living tales about the place.
                                                                                     </p>
-                                                                                    <p>Following the lecture, various
+                                                                                    <p class="m-0">Following the lecture, various
                                                                                         questions were put forward
                                                                                         addressing the accuracy and
                                                                                         reliance of the GIS, oral
@@ -803,7 +803,7 @@
 
                                                                             <!-- CONCLUSION -->
                                                                             <div class="proceedings-text">
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     Following the lecture, various
                                                                                     questions were put forward
                                                                                     addressing the accuracy and reliance
@@ -846,8 +846,8 @@
                                                         <div id="rapSix" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="card mt-3">
-                                                                    <div class="objective">
+                                                                <div class="card">
+                                                                    <div class="objective m-0">
                                                                         <p>Elections are glorified experiments. In
                                                                             democracies today, they are at the very least,
                                                                             models of public ambitions, goals and desires.
@@ -878,7 +878,7 @@
                                                                             the Brazilian (Escobar, 2018; Tollefson, 2018)
                                                                             and Italian (Abbott, 2018) Presidential
                                                                             Elections.</p>
-                                                                        <p>The recent handling of the COVID19 pandemic by
+                                                                        <p class="m-0">The recent handling of the COVID19 pandemic by
                                                                             countries under right-wing dispensation has
                                                                             starkly brought this troubled relationship
                                                                             between the Sciences and policy makers into
@@ -908,8 +908,8 @@
                                                         <div id="rapSeven" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="card mt-3">
-                                                                    <div class="objective">
+                                                                <div class="card">
+                                                                    <div class="objective m-0">
                                                                         <p>Soft Power, according to Jospeh Nye, Jr, who
                                                                             coined the term, is the ability to achieve
                                                                             desired outcomes in international affairs
@@ -935,7 +935,7 @@
                                                                             including engaging in vaccine diplomacy during
                                                                             the pandemic, we are yet to formalize a strategy
                                                                             or policy on healthcare diplomacy.</p>
-                                                                        <p>Given the absence of any formalised policy for
+                                                                        <p class="m-0">Given the absence of any formalised policy for
                                                                             medical or healthcare diplomacy in India, the
                                                                             purpose of this paper is to explore whether
                                                                             India can use medicine/healthcare as a currency
@@ -967,8 +967,8 @@
                                                         <div id="rapEight" class="accordion-collapse collapse"
                                                             data-bs-parent="#rapAccordion">
                                                             <div class="accordion-body">
-                                                                <div class="card mt-3">
-                                                                    <div class="objective">
+                                                                <div class="card">
+                                                                    <div class="objective m-0">
                                                                         <p>A nation’s security policy is essentially aimed
                                                                             at creating and sustaining the space -
                                                                             regionally and globally - which enables it to
@@ -1001,7 +1001,7 @@
                                                                             a multi-dimensional approach to policy to
                                                                             satisfy the multiple and at time conflicting
                                                                             interests of the coalition partners. </p>
-                                                                        <p>The diversity thus started getting pronounced at
+                                                                        <p class="m-0">The diversity thus started getting pronounced at
                                                                             the policy level as well. This diversity of
                                                                             political opinions and resulting lack of
                                                                             consensus is reflected also in the making of
@@ -1117,7 +1117,7 @@
 
                                                                             <div class="objective">
                                                                                 <h2>Objective of the Workshop </h2>
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     SSLA is an institute which fosters
                                                                                     academic
                                                                                     writing, and as such it becomes a
@@ -1187,7 +1187,7 @@
                                                                                         class="img-fluid">
                                                                                 </div> -->
                                                                                     <!-- Speaker Section -->
-                                                                                    <section class="speaker mt-5">
+                                                                                    <section class="speaker mt-4 mb-0">
                                                                                         <h2>Workshop Proceedings </h2>
                                                                                         <div class="speaker-card">
                                                                                             <div
@@ -1358,7 +1358,7 @@
                                                                                                     primarily APA and
                                                                                                     MLA.
                                                                                                 </p>
-                                                                                                <p>With the advent of
+                                                                                                <p class="m-0">With the advent of
                                                                                                     artificial
                                                                                                     intelligence and its
                                                                                                     increased
@@ -1428,7 +1428,7 @@
                                                                             </div>
                                                                             <div class="objective">
                                                                                 <h2>Objective of the Workshop </h2>
-                                                                                <p>
+                                                                                <p class="m-0">
                                                                                     Dissertation is an integral part of
                                                                                     the curriculum for the 3rd and final
                                                                                     year
@@ -1625,7 +1625,7 @@
                                                                                                 models were also
                                                                                                 discussed.
                                                                                             </p>
-                                                                                            <p>The workshop became a
+                                                                                            <p class="m-0">The workshop became a
                                                                                                 field of engagement
                                                                                                 amongst the students
                                                                                                 and the
@@ -1736,7 +1736,7 @@
                                                                                     <img src="{{ asset('/assets/images/research/sslapi13.webp') }}"
                                                                                         alt="Banner image"
                                                                                         class="img-fluid">
-                                                                                    <p class="img-name-below">Wiscomp
+                                                                                    <p class="img-name-below mt-2 mb-0">Wiscomp
                                                                                         participate and Team at SSLA MPH
                                                                                         on 23rd August 2019</p>
                                                                                 </div>
@@ -2245,7 +2245,7 @@
                                                                                     songs and tried to ask actors to
                                                                                     play roles in a gender neutral
                                                                                     manner.</p>
-                                                                                <p>The third play, Medea is about
+                                                                                <p class="m-0">The third play, Medea is about
                                                                                     women's conflict and it was an
                                                                                     entirely women led production and
                                                                                     cast. Many songs were used to
@@ -2423,7 +2423,7 @@
                                                                                         class="img-fluid">
                                                                                 </div> -->
                                                                                     <!-- Speaker Section -->
-                                                                                    <section class="speaker mt-5">
+                                                                                    <section class="speaker mt-5 mb-0">
                                                                                         <h2>Workshop Proceedings </h2>
                                                                                         <div class="speaker-card">
                                                                                             <div>
@@ -2544,7 +2544,7 @@
                                                                                                 <div
                                                                                                     class="table-responsive">
                                                                                                     <table
-                                                                                                        class="table ">
+                                                                                                        class="table mb-0">
                                                                                                         <thead
                                                                                                             class=" ">
                                                                                                             <tr>
@@ -2727,10 +2727,10 @@
                                                                                         class="img-fluid">
                                                                                 </div> -->
                                                                                     <!-- Speaker Section -->
-                                                                                    <section class="speaker mt-5">
+                                                                                    <section class="speaker mt-5 mb-0">
                                                                                         <h2>Workshop Proceedings </h2>
                                                                                         <div class="speaker-card">
-                                                                                            <p> Day 1:
+                                                                                            <p class="mb-lg-0"> Day 1:
                                                                                                 On the first day the
                                                                                                 facilitator focused on
                                                                                                 laying a strong
@@ -2759,7 +2759,7 @@
                                                                                                 importance of each
                                                                                                 component in the
                                                                                                 research process.</p>
-                                                                                            <p>Day 2:
+                                                                                            <p class="mb-lg-0">Day 2:
                                                                                                 On the second day the
                                                                                                 facilitator delved into
                                                                                                 the application of

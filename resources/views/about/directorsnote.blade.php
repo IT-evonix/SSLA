@@ -104,7 +104,7 @@
                                 communication and collaboration for problem solving at social, professional and personal
                                 levels.
                             </p>
-                            <p>
+                            <p class="m-0">
                                 SSLA’s four-year B.A/B.Sc. Liberal Arts Honours degree moves beyond the traditional
                                 degree
                                 to promote an inter-multi-and-trans-disciplinary holistic and well-rounded education. It

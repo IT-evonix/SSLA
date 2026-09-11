@@ -586,7 +586,7 @@
     z-index: 1;
     backdrop-filter: blur(12px);
     border-radius: 20px;
-    margin: 50px;
+    margin: 50px 50px 0 50px;
 }
 
 .director-profile-section .director-img {
@@ -1787,7 +1787,7 @@
     color: #EC3536;
     font-weight: 700;
     line-height: 1.3;
-    animation: fadeUp 0.8s ease forwards;
+    /* animation: fadeUp 0.8s ease forwards; */
 }
 
 .research-main-sec .card {
@@ -1807,8 +1807,16 @@
 .research-main-sec .proceedings h2,
 .main-sec-admission-process .process-step h3,
 .red_sub_heading,
-.main-sec-admission-process .process-subtitle {
+.main-sec-admission-process .process-subtitle,
+.cop-title {
     color: #EC3536;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Roboto-Medium';
+}
+
+.table-heading {
+    color: var(--color-black);
     margin-bottom: 20px;
     font-size: 20px;
     font-family: 'Roboto-Medium';
@@ -1834,6 +1842,10 @@
     align-items: center;
 }
 
+.proceedings-grid-workshop img {
+    border-radius: 12px;
+}
+
 .research-main-sec .proceedings-text p {
     font-size: 15px;
     line-height: 1.6;
@@ -1841,7 +1853,7 @@
 }
 
 .research-main-sec .proceedings-image img {
-    border-radius: 14px;
+    border-radius: 12px;
     /* box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1); */
     animation: fadeZoom 1s ease forwards;
     object-fit: cover;
@@ -2042,6 +2054,27 @@
     border-radius: 15px;
 }
 
+.cop-list .my_sub_list li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 6px;
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--color-black);
+      text-align: justify;
+  }
+
+    .cop-list .my_sub_list li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      top: 9px;
+      background-color: var(--color-black);
+  }
+
 /* Mobile Responsive */
 
 @media (max-width: 768px) {
@@ -2063,7 +2096,7 @@
 }
 
 .alumni-main-section {
-    margin: 40px 0;
+    margin: 40px 0 0 0;
 }
 
 .alumni-main-section .alumni-image {
@@ -2260,7 +2293,7 @@ span.badge {
 
 /* Financials css start */
 
-.table-heading {
+/* .table-heading {
     text-align: center;
     color: #EC3536;
     font-size: 16px;
@@ -2269,7 +2302,7 @@ span.badge {
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 20px;
-}
+} */
 
 /* Section */
 .main-financials .neft-modern {
@@ -2295,13 +2328,12 @@ span.badge {
 
 .main-financials .neft-tag {
     display: inline-block;
-    background: #EC3536;
-    color: #fff;
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 13px;
-    letter-spacing: 1px;
-    margin-bottom: 10px;
+    font-size: 16px;
+    border-bottom: 1px solid #000;
+    padding: 0 0 5px 0;
+    border-radius: 0;
+    margin: 0 0 10px 0;
+    color: var(--color-black);
     font-family: 'Roboto-Medium';
 }
 
@@ -2311,9 +2343,10 @@ span.badge {
 }
 
 .main-financials .neft-title p {
-    color: #007382;
+    /* color: #007382; */
     max-width: 650px;
     margin: auto;
+    text-align: center;
 }
 
 /* Grid */
@@ -2326,19 +2359,17 @@ span.badge {
 /* Panels */
 .main-financials .neft-panel {
     background: #fff;
-    border-radius: 14px;
-    padding: 30px;
+    border-radius: 20px;
+    padding: 20px;
     position: relative;
-    border-top: 6px solid #EC3536;
+    /* border-top: 6px solid #EC3536; */
     /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.05); */
-    border-right: 1px solid #f4f4f4;
-    border-left: 1px solid #f4f4f4;
-    border-bottom: 1px solid #f4f4f4;
+    border: 1px solid #dedede;
 }
 
-.main-financials .neft-panel.accent {
+/* .main-financials .neft-panel.accent {
     border-top-color: #007382;
-}
+} */
 
 .main-financials .neft-panel h5 {
     font-weight: 700;
@@ -2361,9 +2392,13 @@ span.badge {
     font-family: 'Roboto-Regular';
 }
 
+.main-financials .neft-panel li:last-child {
+    border: 0;
+}
+
 .main-financials .neft-panel li span {
     font-weight: 600;
-    color: #007382;
+    /* color: #007382; */
 }
 
 /* Footer */
@@ -2400,9 +2435,8 @@ span.badge {
 }
 
 .main-financials .email-list a:hover {
-    background: #fff;
-    color: #007382;
-    transform: translateY(-2px);
+    background: var(--color-red);
+    color: var(--color-white);
 }
 
 .main-financials .hostel-details-section {
@@ -2515,7 +2549,7 @@ span.badge {
 /* row layout */
 .main-financials .hostel-row {
     display: flex;
-    gap: 25px;
+    gap: 10px;
     justify-content: space-between;
     align-items: stretch;
 }
@@ -2529,10 +2563,8 @@ span.badge {
     position: relative;
     transition: all 0.35s ease;
     /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.08); */
-    border-top: 4px solid #007382;
-    border-right: 1px solid #f4f4f4;
-    border-left: 1px solid #f4f4f4;
-    border-bottom: 1px solid #f4f4f4;
+    /* border-top: 4px solid #007382; */
+    border: 1px solid #dedede;
 }
 
 /* .main-financials .hostel-card:hover {
@@ -2547,15 +2579,14 @@ span.badge {
 }
 
 /* boys variation */
-.main-financials .hostel-card.boys {
+/* .main-financials .hostel-card.boys {
     border-top-color: #EC3536;
-}
+} */
 
 /* headings */
 .main-financials .hostel-card h3 {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 700;
-    color: #007382;
     margin-bottom: 8px;
 }
 
@@ -2568,9 +2599,8 @@ span.badge {
 }
 
 .main-financials .hostel-section .distance {
-    font-size: 13px;
-    line-height: 1.6;
-    color: #555;
+    font-size: 14px;
+    text-align: start;
 }
 
 /* badge */
@@ -2578,22 +2608,10 @@ span.badge {
     position: absolute;
     top: 18px;
     right: 18px;
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 11px;
-    font-weight: 700;
-    text-transform: lowercase;
-    color: #fff;
-}
-
-.main-financials .badge.girls {
-    background-color: #EC3536;
-    font-family: 'Roboto-Medium';
-}
-
-.main-financials .badge.boys {
-    background-color: #007382;
-    font-family: 'Roboto-Medium';
+    padding: 0 0 5px 0;
+    font-size: 12px;
+    border-bottom: 1px solid #000;
+    padding: 0 0 5px 0;
 }
 
 
@@ -2603,13 +2621,11 @@ span.badge {
     align-items: flex-start;
     gap: 18px;
     background: #ffffff;
-    border-left: 6px solid #EC3536;
+    /* border-left: 6px solid #EC3536; */
     padding: 22px 26px;
     border-radius: 12px;
     /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); */
-    border-top: 1px solid #dedede;
-    border-right: 1px solid #dedede;
-    border-bottom: 1px solid #dedede;
+    border: 1px solid #dedede;
     margin-top: 30px;
 }
 
@@ -2744,7 +2760,7 @@ span.badge {
 
 .cop-section {
     background: #FFF;
-    padding: 40px 0px;
+    padding: 20px 0px 0 0;
 }
 
 .cop-card {
@@ -2757,12 +2773,12 @@ span.badge {
     border: 1px solid #dedede;
 }
 
-.cop-title {
+/* .cop-title {
     color: #EC3536;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 10px;
-}
+} */
 
 .cop-subtitle {
     /* color: #007382; */
@@ -2779,7 +2795,7 @@ span.badge {
 
 .cop-list li {
     margin-bottom: 6px;
-    font-size: 14px;
+    /* font-size: 14px; */
     position: relative;
     padding-left: 20px;
 }
@@ -2795,11 +2811,11 @@ span.badge {
 
 
 .cop-highlight {
-    background: #007382;
+    background: var(--color-red);
     color: #FFF;
     padding: 15px;
     border-radius: 6px;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 .contact-numbers_listing {
@@ -3092,7 +3108,9 @@ span.badge {
     .research-main-sec .facilator-heading,
     .research-main-sec .proceedings h2,
     .main-sec-admission-process .process-step h3,
-    .red_sub_heading {
+    .red_sub_heading,
+    .cop-title,
+    .table-heading {
         font-size: 18px;
     }
 
@@ -3186,7 +3204,9 @@ span.badge {
     .research-main-sec .facilator-heading,
     .research-main-sec .proceedings h2,
     .main-sec-admission-process .process-step h3,
-    .red_sub_heading {
+    .red_sub_heading,
+    .cop-title,
+    .table-heading {
         font-size: 20px;
     }
 
@@ -3402,7 +3422,9 @@ span.badge {
     .research-main-sec .facilator-heading,
     .research-main-sec .proceedings h2,
     .main-sec-admission-process .process-step h3,
-    .red_sub_heading {
+    .red_sub_heading,
+    .cop-title,
+    .table-heading {
         font-size: 20px;
     }
 

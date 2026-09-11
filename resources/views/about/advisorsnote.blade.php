@@ -95,7 +95,7 @@
                                 a sound liberal arts education provides a much-needed cultural orientation to the world
                                 in which we live.
                             </p>
-                            <p>
+                            <p class="m-0">
                                 It equips students with ideas, analytical and communication skills, and global
                                 perspectives along with the ability to synthesize knowledge and make informed value
                                 judgments. Our distinctive 4-year honours programme will also help students learn the

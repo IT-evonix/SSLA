@@ -44,7 +44,7 @@
                             aria-labelledby="contact-tab-1" tabindex="0">
                             <div class="program_outcomes_mainbox">
                                 <div class="table-responsive">
-                                    <table class="table">
+                                    <table class="table mb-0">
                                         <thead>
                                             <tr>
                                                 <th width="10%">PO No.</th>

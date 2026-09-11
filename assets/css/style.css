@@ -2642,7 +2642,7 @@
   }
 
   .new__edication_section {
-      padding: 60px 0;
+      padding: 60px 0 0 0;
       position: relative;
 
       &>* {
@@ -6968,6 +6968,10 @@
 
 .faculty_mail:hover svg path {
     fill: var(--color-red);
+}
+
+.eligibility_cancel_listing_icon_box {
+    display: none;
 }
 
   /*============== Media quiry start   ================*/
