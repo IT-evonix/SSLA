@@ -87,7 +87,7 @@
                                     <!-- Header -->
                                     <div class="row mb-4">
                                         <div class="col-lg-12 text-center">
-                                            <h2 class="rc-title" data-aos="fade-up">Clubs</h2>
+                                            <h2 class="rc-title">Clubs</h2>
                                             <!-- <p class="rc-subtitle">
                                                 SSLA Research Cell, Symbiosis School for Liberal Arts
                                             </p> -->
@@ -125,11 +125,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the Art club</h2>
                                                                                 <div class="row">
                                                                                     <div class="col-md-6">
@@ -301,11 +301,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Comedy Club</h2>
                                                                                 <div class="row">
@@ -435,11 +435,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Dance Club</h2>
                                                                                 <div class="row">
@@ -475,7 +475,7 @@
                                                                                         </p>
                                                                                         <p>HEAD :
                                                                                             Mihika Bansal</p>
-                                                                                        <p>SECRETARY :
+                                                                                        <p class="mb-lg-0">SECRETARY :
                                                                                             Aakanshaa Baruah</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
@@ -591,11 +591,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Film club</h2>
                                                                                 <div class="row">
@@ -809,11 +809,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Poetry Club</h2>
                                                                                 <div class="row">
@@ -862,7 +862,7 @@
                                                                                         <p>SECRETARY : 
                                                                                             Angela Sabu</p>
                                                                                         <p>Faculty In-Charge</p>
-                                                                                        <p>Dr. Suchetana Banerjee</p>
+                                                                                        <p class="m-0">Dr. Suchetana Banerjee</p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -1074,11 +1074,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Karaoke Club</h2>
                                                                                 <div class="row">
@@ -1100,7 +1100,7 @@
                                                                                         <p>SECRETARY : 
                                                                                             Sanyukta Nair</p>
                                                                                         <p>Faculty In-Charge</p>
-                                                                                        <p>Hitashree Pulapaka</p>
+                                                                                        <p class="m-0">Hitashree Pulapaka</p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -1201,11 +1201,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Music Club</h2>
                                                                                 <div class="row">
@@ -1250,7 +1250,7 @@
 
                                                                                         <p>HEAD :
                                                                                             Darren D’souza</p>
-                                                                                        <p>SECRETARY : 
+                                                                                        <p class="mb-lg-0">SECRETARY : 
                                                                                             Eshwin Natrajan</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">
@@ -1378,11 +1378,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Photography Club</h2>
                                                                                 <div class="row">
@@ -1403,7 +1403,7 @@
                                                                                             photos.</p>
                                                                                         <p>HEAD :
                                                                                             Jai Bakshi</p>
-                                                                                        <p>SECRETARY : 
+                                                                                        <p class="m-0">SECRETARY : 
                                                                                             Aditi M</p>
                                                                                     </div>
                                                                                 </div>
@@ -1570,11 +1570,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Theatre Club</h2>
                                                                                 <div class="row">
@@ -1742,11 +1742,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Fitness and Nutrition Club</h2>
                                                                                 <div class="row">
@@ -1781,7 +1781,7 @@
 
                                                                                         <p>HEAD :
                                                                                             Hrishi Baney</p>
-                                                                                        <p>SECRETARY : 
+                                                                                        <p class="m-0">SECRETARY : 
                                                                                             Jui Patil</p>
                                                                                     </div>
                                                                                 </div>
@@ -1855,11 +1855,11 @@
                                                             <div class="accordion-body">
                                                                 <div class="read-more-wrapper">
                                                                     <div class="read-more-content">
-                                                                        <div class="card research-card">
+                                                                        <div class="card">
                                                                             <div class="header">
                                                                                 <span class="badge">Club</span>
                                                                             </div>
-                                                                            <div class="objective">
+                                                                            <div class="objective mb-0">
                                                                                 <h2>About the
                                                                                     Orator’s Club</h2>
                                                                                 <div class="row">

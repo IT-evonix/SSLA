@@ -738,8 +738,8 @@
                                     <!-- Content -->
                                     <div data-aos="fade-up">
                                         <div class="set-registration">
-                                            <h3 class="table-heading">
-                                                HOSTEL AND MESS FEES FOR FRESHERS: NEW VIMAN NAGAR CAMPUS – AY 2023–24
+                                            <h3 class="table-heading text-center">
+                                                Hostel and mess fees for freshers: new viman nagar campus – AY 2023–24
                                             </h3>
                                             <div class="table-responsive">
                                                 <table class="table table-bordered align-middle admission-table">
@@ -806,8 +806,8 @@
                                         <!-- Content -->
                                         <div data-aos="fade-up">
                                             <div class="set-registration">
-                                                <h3 class="table-heading">
-                                                    HOSTEL AND MESS FEES FOR FRESHERS: VIMAN NAGAR CAMPUS – AY 2023-24.
+                                                <h3 class="table-heading text-center">
+                                                    Hostel and mess fees for freshers: viman nagar campus – AY 2023-24
                                                 </h3>
                                                 <div class="table-responsive">
                                                     <table class="table table-bordered align-middle admission-table">
@@ -916,7 +916,12 @@
 
                                                     <!-- Bank Info -->
                                                     <div class="neft-panel">
-                                                        <h5>🏦 Bank Details</h5>
+                                                        <div class="internationalisation_thirdbox_headingbox">
+                                                            <div class="internationalisation_thirdbox_icon">
+                                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 469.333 469.333" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><circle r="234.6665" cx="234.6665" cy="234.6665" fill="#dffbff" shape="circle"></circle><g transform="matrix(0.4999999999999996,0,0,0.4999999999999996,117.33349524529257,117.33355140686041)"><path d="M234.646 63.979c-23.542 0-42.688 19.146-42.688 42.688s19.146 42.687 42.688 42.687 42.687-19.146 42.687-42.687-19.146-42.688-42.687-42.688m0 64.042c-11.771 0-21.354-9.583-21.354-21.354s9.583-21.354 21.354-21.354S256 94.896 256 106.667s-9.583 21.354-21.354 21.354" fill="#007382" opacity="1" data-original="#000000"></path><path d="M458.667 192c5.896 0 10.667-4.742 10.667-10.637v-42.662c0-3.76-1.979-7.249-5.219-9.166L255.458 5.621c-.094-.063-.188-.115-.281-.167-12.969-7.187-27.594-7.405-41.313.146L5.219 129.535A10.65 10.65 0 0 0 0 138.701v42.662C0 187.258 4.771 192 10.667 192h32v192.009C19.135 384.009 0 403.142 0 426.671v31.997a10.66 10.66 0 0 0 10.667 10.666h448a10.66 10.66 0 0 0 10.667-10.666v-31.997c0-23.529-19.135-42.662-42.667-42.662V192zM448 426.667V448H21.333v-21.333c0-11.76 9.573-21.333 21.333-21.333h384.001c11.76-.001 21.333 9.572 21.333 21.333M64 384V192h42.667v192zm64 0V192h64v192zm85.333 0V192H256v192zm64 0V192h64v192zm85.334 0V192h42.667v192zM21.333 170.667V144.74L224.448 24.073c6.646-3.656 13.708-3.646 20.271-.073L448 144.74v25.927z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                            </div>
+                                                            <div class="lab_membership_heading">Bank Details</div>
+                                                        </div>
                                                         <ul>
                                                             <li><span>Bank Name</span> Union Bank of India</li>
                                                             <li><span>Branch</span> Viman Nagar, Pune</li>
@@ -928,7 +933,12 @@
 
                                                     <!-- Account Info -->
                                                     <div class="neft-panel accent">
-                                                        <h5>💳 Account Information</h5>
+                                                        <div class="internationalisation_thirdbox_headingbox">
+                                                            <div class="internationalisation_thirdbox_icon">
+                                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 469.341 469.341" style="enable-background:new 0 0 512 512" xml:space="preserve"><circle r="234.6705" cx="234.6705" cy="234.6705" fill="#dffbff" shape="circle"></circle><g transform="matrix(0.5,0,0,0.5,117.33499526977538,117.33526706695554)"><path d="M448.004 236.639v-65.965c0-22.368-17.35-40.559-39.271-42.323l-61.26-107c-5.677-9.896-14.844-16.969-25.813-19.906-10.917-2.917-22.333-1.385-32.104 4.302L79.553 128.007H42.67c-23.531 0-42.667 19.135-42.667 42.667v256c0 23.531 19.135 42.667 42.667 42.667h362.667c23.531 0 42.667-19.135 42.667-42.667v-65.965c12.389-4.418 21.333-16.147 21.333-30.035v-64c0-13.888-8.944-25.617-21.333-30.035m-64.06-108.632h-92.971l69.729-40.596zm-33.841-59.109-101.529 59.109h-42.113l133.112-77.5zm-49.808-44.714c4.823-2.823 10.458-3.573 15.844-2.135 5.448 1.458 9.99 4.979 12.813 9.906l.022.039-164.91 96.013h-42.111zm126.375 402.49c0 11.76-9.573 21.333-21.333 21.333H42.67c-11.76 0-21.333-9.573-21.333-21.333v-256c0-11.76 9.573-21.333 21.333-21.333h362.667c11.76 0 21.333 9.573 21.333 21.333v64h-64c-35.292 0-64 28.708-64 64s28.708 64 64 64h64zm21.334-96c0 5.885-4.781 10.667-10.667 10.667H362.67c-23.531 0-42.667-19.135-42.667-42.667 0-23.531 19.135-42.667 42.667-42.667h74.667c5.885 0 10.667 4.781 10.667 10.667z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M362.67 277.341c-11.76 0-21.333 9.573-21.333 21.333s9.573 21.333 21.333 21.333 21.333-9.573 21.333-21.333c.001-11.76-9.572-21.333-21.333-21.333" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                            </div>
+                                                            <div class="lab_membership_heading">Account Information</div>
+                                                        </div>
                                                         <ul>
                                                             <li><span>Beneficiary Name</span> Symbiosis Society SLS
                                                                 New
@@ -942,7 +952,7 @@
 
                                                 <!-- Email Strip -->
                                                 <div class="neft-footer">
-                                                    <h6>📧 Send Transaction Details To</h6>
+                                                    <h6>Send Transaction Details To</h6>
                                                     <div class="email-list">
                                                         <a
                                                             href="mailto:samir.pawar@symbiosis.ac.in">samir.pawar@symbiosis.ac.in</a>
@@ -1044,8 +1054,8 @@
                                                 <h5>hostel allotment notice</h5>
                                                 <p>
                                                     Hostel allotment will be done only on submission of
-                                                    <strong>“Proof of Admission”</strong> i.e.
-                                                    <strong>College Fee Receipt</strong> by email at the above
+                                                    “Proof of Admission” i.e.
+                                                    College Fee Receipt by email at the above
                                                     mentioned email IDs.
                                                 </p>
                                             </div>

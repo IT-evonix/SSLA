@@ -512,7 +512,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-12 mb-4">
+                    <div class="col-lg-3 col-md-4 col-sm-12">
                         <div class="faculty_box_inner">
                             <div class="faculty_profile">
                                 <img src="{{ asset('assets/images/staff/Pranay-Kuruse-black.webp') }}" alt="Pranay P. Kuruse"
