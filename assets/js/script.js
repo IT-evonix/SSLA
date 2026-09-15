@@ -362,3 +362,99 @@ function setHeaderHeight() {
 window.addEventListener('load', setHeaderHeight);
 window.addEventListener('resize', setHeaderHeight);
 // header height calculation for mobile header responsive ends
+
+// Pop on clicking anchore tag code start
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    const modalElement = document.getElementById("externalLinkModal");
+    const proceedButton = document.getElementById("externalLinkProceed");
+    const message = document.getElementById("externalLinkMessage");
+
+    const externalModal = new bootstrap.Modal(modalElement);
+
+    let selectedUrl = "";
+    let selectedTarget = "";
+
+    // Detect clicks on all anchor tags
+    document.addEventListener("click", function (e) {
+
+        const link = e.target.closest("a");
+
+        if (!link) return;
+
+        // IMPORTANT:
+        // Don't intercept the "Know More" button
+        if (link.id === "externalLinkProceed") {
+            return;
+        }
+
+        const href = link.getAttribute("href");
+
+        if (!href) return;
+
+        const isMailLink = href.toLowerCase().startsWith("mailto:");
+        const isPhoneLink = href.toLowerCase().startsWith("tel:");
+        const isBlankLink = link.getAttribute("target") === "_blank";
+
+        // Show popup only for these links
+        if (isMailLink || isPhoneLink || isBlankLink) {
+
+            e.preventDefault();
+
+            selectedUrl = href;
+            selectedTarget = isBlankLink ? "_blank" : "_self";
+
+            // Popup message
+            if (isMailLink) {
+
+                message.textContent =
+                    "You are being redirected to your email application. Click know more to proceed.";
+
+            } else if (isPhoneLink) {
+
+                message.textContent =
+                    "You are being redirected to your phone application. Click know more to proceed.";
+
+            } else {
+
+                message.textContent =
+                    "You are being redirected to an external web page. Click know more to proceed.";
+            }
+
+            externalModal.show();
+        }
+    });
+
+
+    // Know More button
+    proceedButton.addEventListener("click", function (e) {
+
+        e.preventDefault();
+
+        const url = selectedUrl;
+        const target = selectedTarget;
+
+        // Close modal
+        externalModal.hide();
+
+        // Wait for modal to close, then perform original action
+        setTimeout(function () {
+
+            if (target === "_blank") {
+
+                window.open(url, "_blank", "noopener,noreferrer");
+
+            } else {
+
+                window.location.href = url;
+
+            }
+
+        }, 200);
+
+    });
+
+});
+
+// Pop on clicking anchore tag code ends

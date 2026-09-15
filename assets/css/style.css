@@ -388,7 +388,23 @@
       padding: 25px 15px 10px 15px;
   } */
 
-  .table>tbody {
+  /* .table>tbody {
+      background-color: #F0F9FA;
+  } */
+
+  .table>tbody>tr:nth-child(odd) {
+      background-color: var(--color-white);
+  }
+
+  .table>tbody>tr:nth-child(even) {
+      background-color: #F0F9FA;
+  }
+
+  .table>tbody>tr.row_group_white>* {
+      background-color: var(--color-white);
+  }
+
+  .table>tbody>tr.row_group_green>* {
       background-color: #F0F9FA;
   }
 
@@ -4235,17 +4251,17 @@
   }
 
   .new_slf_btns_listing:hover {
-    background-color: var(--color-red);
-    color: var(--color-white) !important;
-    border: 1px solid var(--color-red);
+      background-color: var(--color-red);
+      color: var(--color-white) !important;
+      border: 1px solid var(--color-red);
   }
 
   .new_slf_btns_listing svg path {
-    transition-duration: 0.2s;
+      transition-duration: 0.2s;
   }
 
   .new_slf_btns_listing:hover svg path {
-    fill: var(--color-white);
+      fill: var(--color-white);
   }
 
   .new_slf_btns {
@@ -4330,11 +4346,11 @@
       text-align: justify;
   }
 
-    .red_carpet_third_section {
-        margin: 60px 0 0 0;
-        padding: 60px 0;
-        background-color: #f5f5f5;
-    }
+  .red_carpet_third_section {
+      margin: 60px 0 0 0;
+      padding: 60px 0;
+      background-color: #f5f5f5;
+  }
 
   .red_carpet_slider_listing {
       display: grid;
@@ -5085,7 +5101,7 @@
       margin: 10px 0 0 0;
   }
 
-   .rap_admission_main .rap-note-list .my_sub_sub_list {
+  .rap_admission_main .rap-note-list .my_sub_sub_list {
       margin: 10px 0 0 0;
   }
 
@@ -6926,52 +6942,97 @@
   }
 
   .international_without_padding_box .new_internationall_email_mainbox {
-        display: grid;
-        grid-template-columns: 30px 1fr;
-        gap: 10px;
-        padding: 0;
-        border: 0;
-        border-radius: 0;
+      display: grid;
+      grid-template-columns: 30px 1fr;
+      gap: 10px;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+  }
+
+  .green_anchore_tag {
+      color: var(--color-green);
+      font-family: var(--font-medium);
+      transition: color 0.3s ease;
+  }
+
+  .green_anchore_tag:hover {
+      color: var(--color-red);
+  }
+
+  .webinar_btn {
+      padding: 5px 16px;
+      color: var(--color-green) !important;
+      border: 1px solid var(--color-green);
+      font-family: var(--font-medium);
+      font-size: 12px;
+      border-radius: 20px;
+      position: relative;
+      text-decoration: none !important;
+      transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .webinar_btn:hover {
+      background-color: var(--color-red);
+      color: var(--color-white) !important;
+      border: 1px solid var(--color-red);
+  }
+
+  .faculty_mail svg path {
+      transition-duration: 0.3s;
+  }
+
+  .faculty_mail:hover svg path {
+      fill: var(--color-red);
+  }
+
+  .eligibility_cancel_listing_icon_box {
+      display: none;
+  }
+
+  .table_small_heading {
+      display: block;
+      font-family: var(--font-regular);
+      font-size: 12px;
+  }
+
+  #externalLinkModal .modal-dialog {
+    max-width: 825px;
 }
 
-.green_anchore_tag {
-    color: var(--color-green);
-    font-family: var(--font-medium);
-    transition: color 0.3s ease;
+#externalLinkModal .modal-content {
+    border-radius: 0;
+    border: 1px solid #ccc;
 }
 
-.green_anchore_tag:hover {
-    color: var(--color-red);
+#externalLinkModal .modal-body {
+    padding: 32px 30px 10px;
 }
 
-.webinar_btn {
-    padding: 5px 16px;
-    color: var(--color-green) !important;
-    border: 1px solid var(--color-green);
-    font-family: var(--font-medium);
-    font-size: 12px;
-    border-radius: 20px;
-    position: relative;
-    text-decoration: none !important;
-    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+#externalLinkModal .modal-body p {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #222;
 }
 
-.webinar_btn:hover {
-    background-color: var(--color-red);
-    color: var(--color-white) !important;
-    border: 1px solid var(--color-red);
+#externalLinkModal .modal-footer {
+    border-top: 0;
+    padding: 15px 30px 28px;
+    display: flex;
+    justify-content: space-between;
 }
 
-.faculty_mail svg path {
-    transition-duration: 0.3s;
+#externalLinkModal .modal-footer .btn {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding: 0;
 }
 
-.faculty_mail:hover svg path {
-    fill: var(--color-red);
-}
-
-.eligibility_cancel_listing_icon_box {
-    display: none;
+#externalLinkModal .modal-footer .btn:hover {
+    color: #555;
 }
 
   /*============== Media quiry start   ================*/
