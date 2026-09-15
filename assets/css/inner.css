@@ -2313,11 +2313,11 @@ span.badge {
 
 /* Wrapper */
 .main-financials .neft-wrapper {
-    background: #fff;
-    border-radius: 16px;
-    padding: 40px;
+    /* background: #fff; */
+    /* border-radius: 16px; */
+    /* padding: 40px; */
     /* box-shadow: 0 6px 9px rgba(0, 0, 0, 0.08); */
-    border: 1px solid #dedede;
+    /* border: 1px solid #dedede; */
 }
 
 /* Title */
@@ -2404,17 +2404,17 @@ span.badge {
 /* Footer */
 .main-financials .neft-footer {
     margin-top: 40px;
-    background: #007382;
-    color: #fff;
-    padding: 25px;
-    border-radius: 14px;
+    background: #f9f9f9;
+    border: 1px solid #dedede;
+    padding: 20px;
+    border-radius: 20px;
     text-align: center;
 }
 
-.main-financials .neft-footer h6 {
+/* .main-financials .neft-footer h6 {
     font-weight: 700;
     margin-bottom: 15px;
-}
+} */
 
 .main-financials .email-list {
     display: flex;
@@ -2424,19 +2424,19 @@ span.badge {
 }
 
 .main-financials .email-list a {
-    color: #fff;
+    color: var(--color-green);
+    font-family: 'Roboto-Medium';
     text-decoration: none;
-    background: rgba(255, 255, 255, 0.15);
-    padding: 8px 14px;
-    border-radius: 20px;
-    font-size: 14px;
+    /* background: rgba(255, 255, 255, 0.15); */
+    /* padding: 8px 14px; */
+    /* border-radius: 20px; */
+    /* font-size: 14px; */
     transition: all 0.3s ease;
-    font-family: 'Roboto-Regular';
 }
 
 .main-financials .email-list a:hover {
-    background: var(--color-red);
-    color: var(--color-white);
+    /* background: var(--color-red); */
+    color: var(--color-red);
 }
 
 .main-financials .hostel-details-section {
@@ -2639,9 +2639,10 @@ span.badge {
 /* content */
 .main-financials .note-content h5 {
     margin: 0 0 6px 0;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
-    color: #007382;
+    /* color: #007382; */
+    color: var(--color-black);
     text-transform: lowercase;
 }
 
@@ -2692,7 +2693,8 @@ span.badge {
     margin: 0;
     font-size: 20px;
     font-weight: 700;
-    color: #007382;
+    /* color: #007382; */
+    color: var(--color-black);
     text-transform: lowercase;
 }
 

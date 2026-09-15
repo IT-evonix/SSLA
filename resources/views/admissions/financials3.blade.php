@@ -133,8 +133,15 @@
                                                     <table class="table table-bordered align-middle admission-table">
                                                         <thead>
                                                             <tr>
-                                                                <th>
+                                                                <th rowspan="2">
                                                                     Hostel and Mess Fees
+                                                                    <span class="table_small_heading">
+                                                                        (Subject to campus
+                                                                        change/allotment and accommodation type wise, e.g.
+                                                                        Single Sharing, Twin Sharing, Triple Sharing, Four
+                                                                        Sharing, Dormitory) (The fees indicated herein are
+                                                                        for Viman Nagar Campus Only)
+                                                                    </span>
                                                                 </th>
 
                                                                 <th colspan="3">
@@ -143,12 +150,7 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <th class="rounded-0">(Subject to campus
-                                                                    change/allotment and accommodation type wise, e.g.
-                                                                    Single Sharing, Twin Sharing, Triple Sharing, Four
-                                                                    Sharing, Dormitory) (The fees indicated herein are
-                                                                    for Viman Nagar Campus Only)</th>
-                                                                <th>Total Fees</th>
+                                                                <th class="rounded-0">Total Fees</th>
                                                                 <th>1st Installment</th>
                                                                 <th class="rounded-0">2nd Installment</th>
                                                             </tr>
@@ -237,8 +239,8 @@
                                                     (Annexure Il)
                                                 </p>
                                                 <p class="text-center mb-3">
-                                                    <strong>(a) Fees Payable by the students taking admission in NRI,
-                                                        PIO, OCI Category.</strong>
+                                                    <span class="table-heading text-center">(a) Fees Payable by the students taking admission in NRI,
+                                                        PIO, OCI Category.</span>
                                                 </p>
                                                 <div class="table-responsive mb-2">
                                                     <table class="table table-bordered align-middle admission-table">
@@ -356,8 +358,15 @@
                                                     <table class="table table-bordered align-middle admission-table">
                                                         <thead>
                                                             <tr>
-                                                                <th>
+                                                                <th rowspan="2">
                                                                     (a) Hostel and Mess Fees
+                                                                    <span class="table_small_heading">
+                                                                       (b) (Subject to campus change/allotment and
+                                                                        accommodation type wise, e.g. Single Sharing, Twin
+                                                                        Sharing, Triple Sharing, Four Sharing, Dormitory)
+                                                                        (The fees indicated herein are for Viman Nagar
+                                                                        Campus Only)
+                                                                    </span>
                                                                 </th>
 
                                                                 <th colspan="3">
@@ -367,14 +376,7 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <th class="rounded-0">
-                                                                    (b) (Subject to campus change/allotment and
-                                                                    accommodation type wise, e.g. Single Sharing, Twin
-                                                                    Sharing, Triple Sharing, Four Sharing, Dormitory)
-                                                                    (The fees indicated herein are for Viman Nagar
-                                                                    Campus Only)
-                                                                </th>
-                                                                <th>Total Fees</th>
+                                                                <th class="rounded-0">Total Fees</th>
                                                                 <th>1st Installment</th>
                                                                 <th class="rounded-0">2nd Installment</th>
                                                             </tr>
@@ -461,10 +463,10 @@
                                                     </table>
                                                 </div>
                                                 <p class="text-center mb-3">
-                                                    <strong>
+                                                    <span class="table-heading text-center">
                                                         (b) Fees Payable by the students taking admission in Foreign
                                                         National Category.
-                                                    </strong>
+                                                    </span>
                                                 </p>
                                                 <div class="table-responsive mb-2">
                                                     <table class="table table-bordered align-middle admission-table">
@@ -592,12 +594,14 @@
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
-                                                                    (b) Hostel and Mess Fees <br>
-                                                                    (b) (Subject to campus change/allotment and
-                                                                    accommodation type wise, e.g. Single Sharing, Twin
-                                                                    Sharing, Triple Sharing, Four Sharing, Dormitory)
-                                                                    (The fees indicated herein are for Viman Nagar
-                                                                    Campus Only)
+                                                                    (b) Hostel and Mess Fees
+                                                                    <span class="table_small_heading">
+                                                                        (b) (Subject to campus change/allotment and
+                                                                        accommodation type wise, e.g. Single Sharing, Twin
+                                                                        Sharing, Triple Sharing, Four Sharing, Dormitory)
+                                                                        (The fees indicated herein are for Viman Nagar
+                                                                        Campus Only)
+                                                                    </span>
                                                                 </th>
                                                                 <th colspan="3">
                                                                     Student taking Admission in Foreign National
@@ -755,7 +759,7 @@
                                                         </tr>
                                                     </thead>
                                                     <tbody>
-                                                        <tr>
+                                                        <tr class="row_group_white">
                                                             <td rowspan="2">1</td>
                                                             <td>
                                                                 <strong>Symbiosis Tulip Hostel (Girls)</strong><br>
@@ -767,19 +771,19 @@
                                                             <td>86,000</td>
                                                             <td><strong>2,44,000</strong></td>
                                                         </tr>
-                                                        <tr>
+                                                        <tr class="row_group_white">
                                                             <td>
                                                                 <strong>Symbiosis Tulip Hostel (Girls)</strong><br>
                                                                 (SVNC)<br>
                                                                 2 Sharing Regular Room<br>
-                                                                <span class="text-danger">(Very Limited Seats)</span>
+                                                                <span>(Very Limited Seats)</span>
                                                             </td>
                                                             <td>1,60,000</td>
                                                             <td>15,000</td>
                                                             <td>86,000</td>
                                                             <td><strong>2,61,000</strong></td>
                                                         </tr>
-                                                        <tr>
+                                                        <tr class="row_group_green">
                                                             <td>2</td>
                                                             <td>
                                                                 <strong>Symbiosis KOPOU Hostel (Boys)</strong><br>
@@ -849,7 +853,7 @@
                                                                     <strong>Symbiosis Daisy Hostel (Girls)</strong><br>
                                                                     (Mhada / Rohan Mithila)<br>
                                                                     3 Sharing Regular Room<br>
-                                                                    <span class="text-danger">(Only SID, SCMS, SCMC
+                                                                    <span>(Only SID, SCMS, SCMC
                                                                         Students)</span>
                                                                 </td>
                                                                 <td>1,23,000</td>
@@ -866,7 +870,7 @@
                                                                     <strong>Symbiosis Orchid Hostel (Girls)</strong><br>
                                                                     (Rohan Mithila)<br>
                                                                     2 Sharing Regular Room<br>
-                                                                    <span class="text-danger">(Only SID, SCMS, SCMC
+                                                                    <span>(Only SID, SCMS, SCMC
                                                                         Students)</span>
                                                                 </td>
                                                                 <td>1,60,000</td>
@@ -877,14 +881,14 @@
                                                             </tr>
 
                                                             <!-- Row 3b -->
-                                                            <tr>
+                                                            <tr class="row_group_white">
                                                                 <td>
                                                                     <strong>Symbiosis Orchid Hostel (Girls)</strong><br>
                                                                     (Rohan Mithila)<br>
                                                                     3 Sharing Regular Room<br>
-                                                                    <span class="text-danger">Very Limited
+                                                                    <span>Very Limited
                                                                         Seats</span><br>
-                                                                    <span class="text-danger">(Only SID, SCMS, SCMC
+                                                                    <span>(Only SID, SCMS, SCMC
                                                                         Students)</span>
                                                                 </td>
                                                                 <td>1,35,000</td>
@@ -952,7 +956,7 @@
 
                                                 <!-- Email Strip -->
                                                 <div class="neft-footer">
-                                                    <h6>Send Transaction Details To</h6>
+                                                    <div class="lab_membership_heading">Send Transaction Details To</div>
                                                     <div class="email-list">
                                                         <a
                                                             href="mailto:samir.pawar@symbiosis.ac.in">samir.pawar@symbiosis.ac.in</a>
@@ -968,7 +972,8 @@
                                     </div>
                                     <div class="mt-5">
 
-                                        <section class="hostel-section">
+                                        <!-- <section class="hostel-section"> -->
+                                        <section class="">
                                             <!-- Header -->
                                             <div class="row">
                                                 <div class="col-lg-12 text-center">
@@ -1027,9 +1032,9 @@
 
                                             </div>
                                             <div class="neft-footer">
-                                                <h6>The seats of the hostels are limited in number and are allotted on
+                                                <div class="lab_membership_heading">The seats of the hostels are limited in number and are allotted on
                                                     first cum first serve basis. All correspondence is by e-mail. The
-                                                    contact E- mail IDs are</h6>
+                                                    contact E- mail IDs are</div>
                                                 <div class="email-list">
                                                     <a
                                                         href="mailto:samir.pawar@symbiosis.ac.in">samir.pawar@symbiosis.ac.in</a>
