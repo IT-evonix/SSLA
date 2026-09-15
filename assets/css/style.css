@@ -3886,19 +3886,19 @@
 
   .life_after_ssla_imgbox {
       margin: 40px 0 0 0;
-      border-radius: 30px;
-      overflow: hidden;
-      box-shadow: 0px 10px 0px var(--color-red);
+      border-radius: 20px;
+      /* overflow: hidden; */
+      /* box-shadow: 0px 10px 0px var(--color-red); */
   }
 
   .life_after_ssla_imgbox img {
-      border-radius: 30px;
-      transition-duration: 0.7s;
+      border-radius: 20px;
+      /* transition-duration: 0.7s; */
   }
 
-  .life_after_ssla_imgbox:hover img {
+  /* .life_after_ssla_imgbox:hover img {
       transform: scale(1.03);
-  }
+  } */
 
   .life_after_ssla_contentbox p {
       text-align: justify;
@@ -3911,7 +3911,8 @@
 } */
 
   .life_after_zigzag_section {
-      padding: 80px 0;
+      padding: 60px 0;
+      margin: 60px 0 0 0;
       background-color: #F0F9FA;
   }
 
@@ -3921,7 +3922,7 @@
 
   .life_after_zigzag_listing:nth-child(2) .life_after_zigzag_content {
       margin: 0 -60px 20px 0px;
-      box-shadow: -6px 6px 0px var(--color-green);
+      /* box-shadow: -6px 6px 0px var(--color-green); */
       position: relative;
       z-index: 1;
   }
@@ -3933,28 +3934,29 @@
   }
 
   .life_after_zigzag_content {
-      padding: 25px;
+      padding: 20px;
       background-color: #ffffff;
       border-radius: 20px;
       margin: 0 0 20px -60px;
-      box-shadow: 6px 6px 0px var(--color-green);
+      /* box-shadow: 6px 6px 0px var(--color-green); */
       text-align: justify;
       position: relative;
       z-index: 1;
+      border: 1px solid #dedede;
   }
 
   .life_after_zigzag_img {
-      border-radius: 30px;
-      overflow: hidden;
+      /* border-radius: 30px; */
+      /* overflow: hidden; */
   }
 
-  .life_after_zigzag_img:hover img {
+  /* .life_after_zigzag_img:hover img {
       transform: scale(1.03);
-  }
+  } */
 
   .life_after_zigzag_img img {
-      border-radius: 30px;
-      transition-duration: 0.7s;
+      border-radius: 20px;
+      /* transition-duration: 0.7s; */
   }
 
   .life_after_zigzag_mainbox {
@@ -3992,8 +3994,9 @@
       /* color: #fff; */
       font-family: 'Roboto-Medium';
       text-align: justify;
-      box-shadow: 0px 2px 11px #ccc;
-      border-bottom: 4px solid var(--color-red);
+      /* box-shadow: 0px 2px 11px #ccc; */
+      /* border-bottom: 4px solid var(--color-red); */
+      border: 1px solid #dedede;
   }
 
   .life_after_testimonial_name {
@@ -6996,10 +6999,6 @@
       font-size: 12px;
   }
 
-  #externalLinkModal .modal-dialog {
-    max-width: 825px;
-}
-
 #externalLinkModal .modal-content {
     border-radius: 0;
     border: 1px solid #ccc;
@@ -7011,9 +7010,9 @@
 
 #externalLinkModal .modal-body p {
     margin: 0;
-    font-size: 20px;
-    line-height: 1.5;
-    color: #222;
+    /* font-size: 20px; */
+    /* line-height: 1.5; */
+    color: var(--color-black);
 }
 
 #externalLinkModal .modal-footer {
@@ -7024,15 +7023,14 @@
 }
 
 #externalLinkModal .modal-footer .btn {
-    font-size: 20px;
-    font-weight: 600;
-    color: #000;
+    color: var(--color-green);
     text-decoration: none;
     padding: 0;
+    font-family: 'Roboto-Medium';
 }
 
 #externalLinkModal .modal-footer .btn:hover {
-    color: #555;
+    color: var(--color-red);
 }
 
   /*============== Media quiry start   ================*/
