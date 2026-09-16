@@ -32,8 +32,6 @@ Route::get('/', function () {
 
 ///////// About Routes Start /////////
 
-
-
 Route::get('aboutus', function () {
     $data_arr = array();
     $data_arr['title'] = "About SSLA Pune | Liberal Arts and Science College India";

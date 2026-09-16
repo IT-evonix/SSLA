@@ -18,7 +18,7 @@
     <div class="container">
         <h1 class="inner__red_heading">Admission Webinar</h1>
         <div class="set-registration mb-4">
-            <div class="research_thrust_area_heading">Upcoming Webinars</div>
+            <div class="research_thrust_area_heading text-center">Upcoming Webinars</div>
             <div class="table-responsive">
                 <table class="table table-bordered align-middle admission-table">
                     <thead>
@@ -114,7 +114,7 @@
         </div>
 
         <div class="set-registration">
-            <div class="research_thrust_area_heading">Past Webinar Recordings</div>
+            <div class="research_thrust_area_heading text-center">Past Webinar Recordings</div>
             <div class="table-responsive">
                 <table class="table table-bordered align-middle admission-table mb-0">
                     <thead>

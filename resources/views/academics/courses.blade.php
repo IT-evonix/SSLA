@@ -760,7 +760,7 @@ body{
                                 </div>
                                 <div class="tab-pane fade" id="settings-tab-pane" role="tabpanel"
                                     aria-labelledby="settings-tab" tabindex="0">
-                                    <div class="our_courses_list_mainbox table__our_courses_list_mainbox">
+                                    <div class="our_courses_list_mainbox table__our_courses_list_mainbox m-0">
                                         <div class="table-responsive" style="min-width: 100%;">
                                             <table class="table">
                                                 <thead>
