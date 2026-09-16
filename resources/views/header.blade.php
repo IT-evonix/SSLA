@@ -87,7 +87,7 @@
                                                         <div class="mega_menu_heading">
                                                             <h4>About Us</h4>
                                                             <div class="mega_menu_listing_box">
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('aboutus') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/aboutus')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -124,7 +124,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('directorsnote') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/directorsnote')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -142,7 +142,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('advisorsnote') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/advisorsnote')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -263,7 +263,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div> -->
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('set-admission') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/set-admission')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -280,7 +280,7 @@
                                                                         <div class="mega_menu_name_box">Symbiosis Entrance Test (SET)</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('rap-admission') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/rap-admission')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -297,7 +297,7 @@
                                                                         <div class="mega_menu_name_box">Rolling Admission Process (RAP)</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('eligibility3') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/eligibility3')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -314,7 +314,7 @@
                                                                         <div class="mega_menu_name_box">Eligibility</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('international-student') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/international-student')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -332,7 +332,7 @@
                                                                             Students</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('financials3') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/financials3')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -349,7 +349,7 @@
                                                                         <div class="mega_menu_name_box">Financials</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('admissions-webinar') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/admissions-webinar')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -367,7 +367,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('education-loans3') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/education-loans3')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -384,7 +384,7 @@
                                                                         <div class="mega_menu_name_box">Education Loan</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('career-options3') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/career-options3')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -401,7 +401,7 @@
                                                                         <div class="mega_menu_name_box">Life After SSLA</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('deeksharambh-2025') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/deeksharambh-2025')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -452,7 +452,7 @@
                                                         <div class="mega_menu_heading">
                                                             <h4>Academics</h4>
                                                             <div class="mega_menu_listing_box">
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('programdetails') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/programdetails')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -489,7 +489,7 @@
                                                                             Attributes</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('programme-outcomes') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/programme-outcomes')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -561,7 +561,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div> -->
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('programme-structure') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/programme-structure')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -579,7 +579,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('courses') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/courses')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -596,7 +596,7 @@
                                                                         <div class="mega_menu_name_box">Courses</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('assessments-and-assignments') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/assessments-and-assignments')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -613,7 +613,7 @@
                                                                         <div class="mega_menu_name_box">Evaluations</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('credit-information') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/credit-information')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -631,7 +631,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('academic-bank-of-credits') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/academic-bank-of-credits')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -649,7 +649,7 @@
                                                                             Credits (ABC)</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('additional-requirement') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/additional-requirement')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -667,7 +667,7 @@
                                                                             Requirements</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('ssla-library') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/ssla-library')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -684,7 +684,7 @@
                                                                         <div class="mega_menu_name_box">SSLA Library</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('internationlisation') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/internationlisation')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -719,7 +719,7 @@
                                                                         <div class="mega_menu_name_box">SCIE</div>
                                                                     </a>
                                                                 </div> -->
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('academic-calender') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/academic-calender')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -787,7 +787,7 @@
                                                         <div class="mega_menu_heading">
                                                             <h4>Research</h4>
                                                             <div class="mega_menu_listing_box">
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('thinking-research-at-ssla') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/thinking-research-at-ssla')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -805,7 +805,7 @@
                                                                             SSLA </div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('confluence-journal-interdisciplinary-studies') ? 'sub_header_menu_active' : '' }}">
                                                                     <a
                                                                         href="{{url('/confluence-journal-interdisciplinary-studies')}}">
                                                                         <div class="mega_menu_icon_box">
@@ -824,7 +824,7 @@
                                                                             of Interdisciplinary Studies</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('research-colloquium') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/research-colloquium')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -841,7 +841,7 @@
                                                                         <div class="mega_menu_name_box">Research Colloquia and Workshops</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('student-research') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/student-research')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -892,7 +892,7 @@
                                                         <div class="mega_menu_heading">
                                                             <h4>Community</h4>
                                                             <div class="mega_menu_listing_box">
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('faculty') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/faculty')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -909,7 +909,7 @@
                                                                         <div class="mega_menu_name_box">Faculty</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('staff') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/staff')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -926,7 +926,7 @@
                                                                         <div class="mega_menu_name_box">Staff</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('student') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/student')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -943,7 +943,7 @@
                                                                         <div class="mega_menu_name_box">Student</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('alumni') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/alumni')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -1028,7 +1028,7 @@
                                                         <div class="mega_menu_heading">
                                                             <h4>Events</h4>
                                                             <div class="mega_menu_listing_box">
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('inter-collegiate-event') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/inter-collegiate-event')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -1045,7 +1045,7 @@
                                                                         <div class="mega_menu_name_box">ICE by SSLA</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('red-carpet') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/red-carpet')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -1062,7 +1062,7 @@
                                                                         <div class="mega_menu_name_box">Red Carpet</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('orientation-week') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/orientation-week')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -1150,7 +1150,7 @@
                                                                         </div>
                                                                     </a>
                                                                 </div> -->
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('symbiosis-literary-festival') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/symbiosis-literary-festival')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -1168,7 +1168,7 @@
                                                                             Festival</div>
                                                                     </a>
                                                                 </div>
-                                                                <div class="megamenu_listing">
+                                                                <div class="megamenu_listing {{ request()->is('events-archives') ? 'sub_header_menu_active' : '' }}">
                                                                     <a href="{{url('/events-archives')}}">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
@@ -1190,7 +1190,7 @@
                                                     </div>
                                                 </div>
                                             </li>
-                                            <li class="{{ request()->routeIs('contact-us') ? 'header_menu_active' : '' }}">
+                                            <li class="{{ request()->routeIs('contact-us') ? 'header_single_menu_active' : '' }}">
                                                 <a href="{{url('/contact-us')}}">Contact Us</a>
                                             </li>
                                         </ul>

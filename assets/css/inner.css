@@ -2820,12 +2820,12 @@ span.badge {
     margin-bottom: 20px;
 }
 
-.contact-numbers_listing {
+/* .contact-numbers_listing {
     display: grid;
     grid-template-columns: 20px 1fr;
     gap: 10px;
     align-items: center;
-}
+} */
 
 .contact-numbers_mainbox {
     display: flex;
