@@ -27,12 +27,28 @@
                 <div class="col-lg-12">
                     <div class="new__education_loan_mainbox">
                         <div class="new_education_loan_leftbox">
-                            <p>Please click on the logos for further details.</p>
+                            <p>Symbiosis International University has arrangements with several banks to help students and families finance their education. Click on any bank's logo below to view that bank's education loan details, including eligibility and how to apply.</p>
                             <div class="inner_logos_mainbox">
                                 <div class="inner_logos_listing">
                                     <img src="{{ asset('assets/images/admissions/EL-1.webp') }}"
                                         alt="Educational loans icon" class="img-fluid">
-                                    <div class="inner_logos_readmore">
+                                    <div class="my_btnbox">
+                                        <a href="{{ asset('assets/pdf/Education-Loan-BOI.pdf') }}" target="_blank">
+                                            <div class="my_btn_namebox">Read More</div>
+                                            <div class="my_btn_iconbox">
+                                                <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                                    <g
+                                                        transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                        <path fill="#007382" fill-rule="evenodd"
+                                                            d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                            clip-rule="evenodd" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- <div class="inner_logos_readmore">
                                         <a href="{{ asset('assets/pdf/Education-Loan-BOI.pdf') }}" target="_blank">
                                             <div class="inner_logos_readmore_name">Read More</div>
                                             <div class="inner_logos_readmore_icon">
@@ -48,12 +64,28 @@
                                                 </svg>
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="inner_logos_listing">
                                     <img src="{{ asset('assets/images/admissions/EL-2.webp') }}"
                                         alt="Educational loans icon" class="img-fluid">
-                                    <div class="inner_logos_readmore">
+                                    <div class="my_btnbox">
+                                        <a href="{{ asset('assets/pdf/Education-Loan-IDBI.pdf') }}" target="_blank">
+                                            <div class="my_btn_namebox">Read More</div>
+                                            <div class="my_btn_iconbox">
+                                                <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                                    <g
+                                                        transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                        <path fill="#007382" fill-rule="evenodd"
+                                                            d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                            clip-rule="evenodd" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- <div class="inner_logos_readmore">
                                         <a href="{{ asset('assets/pdf/Education-Loan-IDBI.pdf') }}" target="_blank">
                                             <div class="inner_logos_readmore_name">Read More</div>
                                             <div class="inner_logos_readmore_icon">
@@ -69,12 +101,28 @@
                                                 </svg>
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="inner_logos_listing">
                                     <img src="{{ asset('assets/images/admissions/EL-3.webp') }}"
                                         alt="Educational loans icon" class="img-fluid">
-                                    <div class="inner_logos_readmore">
+                                    <div class="my_btnbox">
+                                        <a href="#">
+                                            <div class="my_btn_namebox">Read More</div>
+                                            <div class="my_btn_iconbox">
+                                                <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                                    <g
+                                                        transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                        <path fill="#007382" fill-rule="evenodd"
+                                                            d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                            clip-rule="evenodd" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                    </div>    
+                                    <!-- <div class="inner_logos_readmore">
                                         <a href="#"
                                             target="_blank">
                                             <div class="inner_logos_readmore_name">Read More</div>
@@ -91,12 +139,28 @@
                                                 </svg>
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="inner_logos_listing">
                                     <img src="{{ asset('assets/images/admissions/EL-4.webp') }}"
                                         alt="Educational loans icon" class="img-fluid">
-                                    <div class="inner_logos_readmore">
+                                    <div class="my_btnbox">
+                                        <a href="#">
+                                            <div class="my_btn_namebox">Read More</div>
+                                            <div class="my_btn_iconbox">
+                                                <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
+                                                    <g
+                                                        transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.995321035385141,-6.004678726196296)">
+                                                        <path fill="#007382" fill-rule="evenodd"
+                                                            d="M4.47 18.47a.75.75 0 1 0 1.06 1.06L18.25 6.81V17a.75.75 0 0 0 1.5 0V4.25H7a.75.75 0 0 0 0 1.5h10.19z"
+                                                            clip-rule="evenodd" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                    </div>    
+                                    <!-- <div class="inner_logos_readmore">
                                         <a href="#" target="_blank">
                                             <div class="inner_logos_readmore_name">Read More</div>
                                             <div class="inner_logos_readmore_icon">
@@ -112,7 +176,7 @@
                                                 </svg>
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

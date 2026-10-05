@@ -35,7 +35,7 @@
                 <div class="col-lg-7 col-md-12 col-sm-12">
                     <div class="ms-lg-4">
                         <!-- <h2 class="director-title">Director’s Profile</h2> -->
-                        <h4 class="director-name">Dr. Shweta Sinha Deshpande</h4>
+                        <h2 class="director-name">Dr. Shweta Sinha Deshpande</h2>
 
                         <p class="director-text">
                             Dr. Shweta Sinha Deshpande has a Ph.D. in Archaeology and has contributed to
@@ -67,9 +67,9 @@
                     </p>
                     <!-- Interactive Accordion -->
                     <div class="director-desk">
-                        <button class="desk-toggle">
-                            <span>From the Director’s Desk</span>
-                        </button>
+                        <h2 class="director-name">
+                            From the Director’s Desk
+                        </h2>
 
                         <div class="director-text">
                             <p>The Twenty-first century is unprecedented and crucial for the globe and humanity. It is
