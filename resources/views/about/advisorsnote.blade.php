@@ -35,7 +35,7 @@
                 <div class="col-lg-7 col-md-12 col-sm-12">
                     <div class="ms-lg-5">
                         <!-- <h2 class="director-title">Advisor’s Profile</h2> -->
-                        <h4 class="director-name">Anita Patankar</h4>
+                        <h2 class="director-name">Anita Patankar</h2>
 
                         <p class="director-text">
                             With a PhD in Marketing, as well as an M. Com, M.S. (Psychotherapy and Counselling), and a
@@ -78,9 +78,9 @@
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <!-- Interactive Accordion -->
                     <div class="director-desk">
-                        <button class="desk-toggle">
-                            <span>From the Advisor’s Desk</span>
-                        </button>
+                        <h2 class="director-name">
+                            From the Advisor’s Desk
+                        </h2>
 
                         <div class="director-text">
                             <p>We live in a world that seems to be forever changing… a new world with dynamic challenges

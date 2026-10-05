@@ -250,7 +250,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-07.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-01.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -262,7 +262,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-07.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-01.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
@@ -275,7 +275,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-01.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-transdisciplinary.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -287,7 +287,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-01.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-transdisciplinary-white.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
@@ -325,7 +325,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-03.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-innovation.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -337,7 +337,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-03.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-innovation-white.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
@@ -350,7 +350,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-04.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-03.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -362,7 +362,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-04.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-03.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
@@ -375,7 +375,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-05.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-collaborative.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -387,7 +387,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-05.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-collaborative-white.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
@@ -426,7 +426,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-08.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-skills.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -439,7 +439,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-08.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-skills-white.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">
@@ -477,7 +477,7 @@
                                     <div class="why_choose_inner">
                                         <div class="why_choose_front">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-10.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-experiential.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_heading">
@@ -489,7 +489,7 @@
                                         </div>
                                         <div class="why_choose_back">
                                             <div class="why_choose_iconbox">
-                                                <img src="{{ asset('assets/images/home/why-choose-icon-white-10.svg') }}"
+                                                <img src="{{ asset('assets/images/home/why-choose-icon-experiential-white.svg') }}"
                                                     alt="Why choose icon" class="img-fluid">
                                             </div>
                                             <div class="why_choose_back_para">

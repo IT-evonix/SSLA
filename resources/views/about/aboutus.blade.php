@@ -31,7 +31,7 @@
                                 <div class="new_about_ssla_mainbox">
                                     <div class="about_ssla_mainbox" data-aos="fade-up">
                                         <div class="about_ssla_main_leftbox">
-                                            <div class="about_ssla_first_box">
+                                            <!-- <div class="about_ssla_first_box">
                                                 <div class="about_ssla_first_imgbox">
                                                     <img src="{{ asset('assets/images/about/viman-nagar-campus.webp') }}"
                                                         alt="Symbiosis Image" class="img-fluid">
@@ -49,7 +49,9 @@
                                                     <img src="{{ asset('assets/images/about/degree-image.webp') }}"
                                                         alt="" class="img-fluid">
                                                 </div>
-                                            </div>
+                                            </div> -->
+                                            <img src="{{ asset('assets/images/about/viman-nagar-campus.webp') }}"
+                                                        alt="Symbiosis Image" class="img-fluid">
                                         </div>
                                         <div class="about_ssla_main_rightbox">
                                             <div class="about_ssla_firstbox">
@@ -110,28 +112,28 @@
                             <div class="degree_offered_icon">
                                 <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.7000000000000005,0,0,0.7000000000000005,3.600000286102299,3.600387597084044)"><path d="M2.134 10.356c-.566-.313-.884-.861-.884-1.434 0-.574.318-1.122.884-1.434l8.314-4.595a3.28 3.28 0 0 1 3.104 0l8.314 4.595c.566.312.884.86.884 1.434 0 .573-.318 1.121-.884 1.434l-8.314 4.594a3.27 3.27 0 0 1-3.104 0zm.725-1.313 8.314 4.594a1.74 1.74 0 0 0 1.654 0l8.314-4.594c.055-.03.109-.066.109-.121 0-.056-.054-.091-.109-.122l-8.314-4.594a1.74 1.74 0 0 0-1.654 0L2.859 8.8c-.055.031-.109.066-.109.122s.054.091.109.121" fill="#007382" opacity="1" data-original="#000000"></path><path d="M18.25 11.25a.75.75 0 0 1 1.5 0v4.5A3.75 3.75 0 0 1 16 19.5H8a3.75 3.75 0 0 1-3.75-3.75v-4.5a.75.75 0 0 1 1.5 0v4.5A2.25 2.25 0 0 0 8 18h8a2.25 2.25 0 0 0 2.25-2.25z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M11.47 9.78a.749.749 0 1 1 1.06-1.06l3.5 3.5c.141.14.22.331.22.53v8a.75.75 0 0 1-1.5 0v-7.689z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
                             </div>
-                            <div class="degree_offered_heading">B.A. (Liberal Arts)</div>
+                            <h3 class="degree_offered_heading">B.A. (Liberal Arts)</h3>
                             <div class="degree_offered_subheading">Honours</div>
                         </div>
                         <div class="degree_offered_listing">
                             <div class="degree_offered_icon">
                                 <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.7000000000000005,0,0,0.7000000000000005,3.600000286102299,3.600387597084044)"><path d="M2.134 10.356c-.566-.313-.884-.861-.884-1.434 0-.574.318-1.122.884-1.434l8.314-4.595a3.28 3.28 0 0 1 3.104 0l8.314 4.595c.566.312.884.86.884 1.434 0 .573-.318 1.121-.884 1.434l-8.314 4.594a3.27 3.27 0 0 1-3.104 0zm.725-1.313 8.314 4.594a1.74 1.74 0 0 0 1.654 0l8.314-4.594c.055-.03.109-.066.109-.121 0-.056-.054-.091-.109-.122l-8.314-4.594a1.74 1.74 0 0 0-1.654 0L2.859 8.8c-.055.031-.109.066-.109.122s.054.091.109.121" fill="#007382" opacity="1" data-original="#000000"></path><path d="M18.25 11.25a.75.75 0 0 1 1.5 0v4.5A3.75 3.75 0 0 1 16 19.5H8a3.75 3.75 0 0 1-3.75-3.75v-4.5a.75.75 0 0 1 1.5 0v4.5A2.25 2.25 0 0 0 8 18h8a2.25 2.25 0 0 0 2.25-2.25z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M11.47 9.78a.749.749 0 1 1 1.06-1.06l3.5 3.5c.141.14.22.331.22.53v8a.75.75 0 0 1-1.5 0v-7.689z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
                             </div>
-                            <div class="degree_offered_heading">B.Sc. (Liberal Arts)</div>
+                            <h3 class="degree_offered_heading">B.Sc. (Liberal Arts)</h3>
                             <div class="degree_offered_subheading">Honours</div>
                         </div>
                         <div class="degree_offered_listing">
                             <div class="degree_offered_icon">
                                 <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.7000000000000005,0,0,0.7000000000000005,3.600000286102299,3.600387597084044)"><path d="M2.134 10.356c-.566-.313-.884-.861-.884-1.434 0-.574.318-1.122.884-1.434l8.314-4.595a3.28 3.28 0 0 1 3.104 0l8.314 4.595c.566.312.884.86.884 1.434 0 .573-.318 1.121-.884 1.434l-8.314 4.594a3.27 3.27 0 0 1-3.104 0zm.725-1.313 8.314 4.594a1.74 1.74 0 0 0 1.654 0l8.314-4.594c.055-.03.109-.066.109-.121 0-.056-.054-.091-.109-.122l-8.314-4.594a1.74 1.74 0 0 0-1.654 0L2.859 8.8c-.055.031-.109.066-.109.122s.054.091.109.121" fill="#007382" opacity="1" data-original="#000000"></path><path d="M18.25 11.25a.75.75 0 0 1 1.5 0v4.5A3.75 3.75 0 0 1 16 19.5H8a3.75 3.75 0 0 1-3.75-3.75v-4.5a.75.75 0 0 1 1.5 0v4.5A2.25 2.25 0 0 0 8 18h8a2.25 2.25 0 0 0 2.25-2.25z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M11.47 9.78a.749.749 0 1 1 1.06-1.06l3.5 3.5c.141.14.22.331.22.53v8a.75.75 0 0 1-1.5 0v-7.689z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
                             </div>
-                            <div class="degree_offered_heading">B.A (Liberal Arts)</div>
+                            <h3 class="degree_offered_heading">B.A (Liberal Arts)</h3>
                             <div class="degree_offered_subheading">Honours with Research</div>
                         </div>
                         <div class="degree_offered_listing">
                             <div class="degree_offered_icon">
                                 <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.7000000000000005,0,0,0.7000000000000005,3.600000286102299,3.600387597084044)"><path d="M2.134 10.356c-.566-.313-.884-.861-.884-1.434 0-.574.318-1.122.884-1.434l8.314-4.595a3.28 3.28 0 0 1 3.104 0l8.314 4.595c.566.312.884.86.884 1.434 0 .573-.318 1.121-.884 1.434l-8.314 4.594a3.27 3.27 0 0 1-3.104 0zm.725-1.313 8.314 4.594a1.74 1.74 0 0 0 1.654 0l8.314-4.594c.055-.03.109-.066.109-.121 0-.056-.054-.091-.109-.122l-8.314-4.594a1.74 1.74 0 0 0-1.654 0L2.859 8.8c-.055.031-.109.066-.109.122s.054.091.109.121" fill="#007382" opacity="1" data-original="#000000"></path><path d="M18.25 11.25a.75.75 0 0 1 1.5 0v4.5A3.75 3.75 0 0 1 16 19.5H8a3.75 3.75 0 0 1-3.75-3.75v-4.5a.75.75 0 0 1 1.5 0v4.5A2.25 2.25 0 0 0 8 18h8a2.25 2.25 0 0 0 2.25-2.25z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M11.47 9.78a.749.749 0 1 1 1.06-1.06l3.5 3.5c.141.14.22.331.22.53v8a.75.75 0 0 1-1.5 0v-7.689z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
                             </div>
-                            <div class="degree_offered_heading">B.Sc. (Liberal Arts)</div>
+                            <h3 class="degree_offered_heading">B.Sc. (Liberal Arts)</h3>
                             <div class="degree_offered_subheading">Honours with Research</div>
                         </div>
                     </div>

@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="inner__red_heading">INDUCTION AND ORIENTATION – DEEKSHARAMBH 2025</h1>
+                    <h1 class="inner__red_heading">Induction and Orientation–DEEKSHARAMBH 2025</h1>
                 </div>
             </div>
             <div class="row">

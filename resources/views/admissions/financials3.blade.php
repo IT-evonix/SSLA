@@ -984,7 +984,7 @@
                                             </div>
                                             <div class="hostel-row mt-4">
                                                 <div class="hostel-card">
-                                                    <span class="badge girls">girls</span>
+                                                    <span class="badge girls">Girls</span>
                                                     <h3>Daisy</h3>
                                                     <p class="sharing">3 x sharing</p>
                                                     <p class="distance">
@@ -994,7 +994,7 @@
                                                 </div>
 
                                                 <div class="hostel-card">
-                                                    <span class="badge girls">girls</span>
+                                                    <span class="badge girls">Girls</span>
                                                     <h3>Orchid</h3>
                                                     <p class="sharing">2 x sharing</p>
                                                     <p class="distance">
@@ -1003,7 +1003,7 @@
                                                 </div>
 
                                                 <div class="hostel-card">
-                                                    <span class="badge girls">girls</span>
+                                                    <span class="badge girls">Girls</span>
                                                     <h3>Daffodil</h3>
                                                     <p class="sharing">2 x sharing</p>
                                                     <p class="distance">
@@ -1012,7 +1012,7 @@
                                                 </div>
 
                                                 <div class="hostel-card">
-                                                    <span class="badge girls">girls</span>
+                                                    <span class="badge girls">Girls</span>
                                                     <h3>Tulip</h3>
                                                     <p class="sharing">3 x sharing</p>
                                                     <p class="distance">
@@ -1021,7 +1021,7 @@
                                                 </div>
 
                                                 <div class="hostel-card boys">
-                                                    <span class="badge boys">boys</span>
+                                                    <span class="badge boys">Boys</span>
                                                     <h3>Kopou</h3>
                                                     <p class="sharing">3 x sharing</p>
                                                     <p class="distance">

@@ -71,12 +71,21 @@
                                                         In the absence of Programme / Institution registration,
                                                         the SET registration will be INVALID.
                                                     </li>
-                                                    <li class="warning new_warning">
-                                                        Please note: No refund of the SET registration fee will be
+                                                </ul>
+                                                <div class="card mt-3">
+                                                    <div class="card-body">
+
+                                                        <h6 class="fw-bold mb-3">
+                                                            Note:
+                                                        </h6>
+
+                                                        <p>
+                                                        Please note No refund of the SET registration fee will be
                                                         provided
                                                         if the candidate misses the Programme / Institute registration.
-                                                    </li>
-                                                </ul>
+                                                        </p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
