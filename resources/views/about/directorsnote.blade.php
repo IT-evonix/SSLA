@@ -22,52 +22,10 @@
         <div class="container">
             <h1 class="inner__red_heading">Director's Note</h1>
             <div class="row  director-card" data-aos="fade-up">
-
-                <!-- Image Column -->
-                <div class="col-lg-5 col-md-12 col-sm-12 text-center">
-                    <div class="director-img-wrapper">
-                        <img src="{{ asset('/assets/images/about/Shweta-Sinha.webp') }}"
-                            alt="Dr. Shweta Sinha Deshpande" class="img-fluid director-img">
-                    </div>
-                </div>
-
-                <!-- Content Column -->
-                <div class="col-lg-7 col-md-12 col-sm-12">
-                    <div class="ms-lg-4">
-                        <!-- <h2 class="director-title">Director’s Profile</h2> -->
-                        <h2 class="director-name">Dr. Shweta Sinha Deshpande</h2>
-
-                        <p class="director-text">
-                            Dr. Shweta Sinha Deshpande has a Ph.D. in Archaeology and has contributed to
-                            archaeological and associated anthropological research through an interdisciplinary and
-                            multidisciplinary approach. She has been associated with Liberal Arts education for more
-                            than a decade and has an in-depth and a keen understanding of this model and the value
-                            addition this model offers to the world and India’s growing population dividend, the
-                            globalized industry and the service sector. Her current research focus is on Globalization
-                            and
-                            its influence on the socio-cultural space including religion, trends in migration, education
-                            and development.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                    <p class="director-text mt-4">
-                        The thrust of her research is on interactions between individuals and
-                        cultures, both modern and ancient. Her work has led her to conclude that the key to
-                        understanding current social issues is to recognize the often-unrealized cultural baggage
-                        that people carry.
-                    </p>
-
-                    <p class="director-text">
-                        She has authored many research articles and books and was the founding President of the
-                        India Big History Association and a founding Member of the Society for South Asia
-                        Archaeology (SOSAA). She currently serves on the Editorial Board of Migration Letters an
-                        international journal on migration and is a member of the Executive Committee of the Nehru
-                        Science Centre, Mumbai under the Ministry of Culture, Government of India.
-                    </p>
+                <div class="col-lg-12">
                     <!-- Interactive Accordion -->
                     <div class="director-desk">
-                        <h2 class="director-name">
+                        <h2 class="director-name mt-0 text-center">
                             From the Director’s Desk
                         </h2>
 
@@ -104,7 +62,7 @@
                                 communication and collaboration for problem solving at social, professional and personal
                                 levels.
                             </p>
-                            <p class="m-0">
+                            <p>
                                 SSLA’s four-year B.A/B.Sc. Liberal Arts Honours degree moves beyond the traditional
                                 degree
                                 to promote an inter-multi-and-trans-disciplinary holistic and well-rounded education. It
@@ -121,6 +79,50 @@
                             </p>
                         </div>
                     </div>
+                </div>
+
+                <!-- Image Column -->
+                <div class="col-lg-5 col-md-12 col-sm-12 text-center">
+                    <div class="director-img-wrapper">
+                        <img src="{{ asset('/assets/images/about/Shweta-Sinha.webp') }}"
+                            alt="Dr. Shweta Sinha Deshpande" class="img-fluid director-img">
+                    </div>
+                </div>
+
+                <!-- Content Column -->
+                <div class="col-lg-7 col-md-12 col-sm-12">
+                    <div class="ms-lg-4">
+                        <!-- <h2 class="director-title">Director’s Profile</h2> -->
+                        <h2 class="director-name">Dr. Shweta Sinha Deshpande</h2>
+
+                        <p class="director-text">
+                            Dr. Shweta Sinha Deshpande has a Ph.D. in Archaeology and has contributed to
+                            archaeological and associated anthropological research through an interdisciplinary and
+                            multidisciplinary approach. She has been associated with Liberal Arts education for more
+                            than a decade and has an in-depth and a keen understanding of this model and the value
+                            addition this model offers to the world and India’s growing population dividend, the
+                            globalized industry and the service sector. Her current research focus is on Globalization
+                            and
+                            its influence on the socio-cultural space including religion, trends in migration, education
+                            and development.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <p class="director-text mt-4">
+                        The thrust of her research is on interactions between individuals and
+                        cultures, both modern and ancient. Her work has led her to conclude that the key to
+                        understanding current social issues is to recognize the often-unrealized cultural baggage
+                        that people carry.
+                    </p>
+
+                    <p class="director-text m-0">
+                        She has authored many research articles and books and was the founding President of the
+                        India Big History Association and a founding Member of the Society for South Asia
+                        Archaeology (SOSAA). She currently serves on the Editorial Board of Migration Letters an
+                        international journal on migration and is a member of the Executive Committee of the Nehru
+                        Science Centre, Mumbai under the Ministry of Culture, Government of India.
+                    </p>
                 </div>
             </div>
         </div>
