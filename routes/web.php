@@ -1025,6 +1025,24 @@ Route::get('life-after-ssla', function () {
     return view('/footer/life-after-ssla', ['data_arr' => $data_arr]);
 });
 
+Route::get('privacy-policy', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Liberal Arts Colleges in India | Life After SSLA Pune";
+    $data_arr['keywords'] = "liberal arts colleges in india, BA Liberal Arts, BSc Liberal Arts and Sciences, liberal arts college";
+    $data_arr['description'] = "Life after SSLA Pune with BA Liberal Arts and BSc Liberal Arts and Sciences. Career options, higher studies and outcomes from a leading liberal arts college in India.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/privacy-policy";
+    return view('/footer/privacy-policy', ['data_arr' => $data_arr]);
+});
+
+Route::get('caution-notice', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Liberal Arts Colleges in India | Life After SSLA Pune";
+    $data_arr['keywords'] = "liberal arts colleges in india, BA Liberal Arts, BSc Liberal Arts and Sciences, liberal arts college";
+    $data_arr['description'] = "Life after SSLA Pune with BA Liberal Arts and BSc Liberal Arts and Sciences. Career options, higher studies and outcomes from a leading liberal arts college in India.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/caution-notice";
+    return view('/footer/caution-notice', ['data_arr' => $data_arr]);
+});
+
 ///////// Footer Routes Ends //////////
 
 

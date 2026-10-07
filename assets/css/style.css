@@ -1472,7 +1472,8 @@
       .footer_mainbox .footer_rightbox .footer_social_media_listing ul {
           display: flex;
           gap: 10px;
-          margin: 3.75rem 0 0 0;
+          /* margin: 3.75rem 0 0 0; */
+          margin: 1.875rem 0 0 0;
       }
 
       .footer_mainbox .footer_rightbox .footer_heading h5 {
@@ -7058,6 +7059,23 @@
     border-radius: 20px;
 }
 
+.privacy_policy_mainbox p {
+    text-align: justify;
+}
+
+.privacy_policy_listing_mainbox {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 30px 0 0 0;
+}
+
+.privacy_policy_sublisting_wraper {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {
@@ -8475,21 +8493,25 @@
 
       .heading h2 {
           &::before {
-              display: none;
+            width: 30px;
+            left: -25px;
           }
 
           &::after {
-              display: none;
+            width: 30px;
+            right: -25px;
           }
       }
 
       .heading h1 {
           &::before {
-              display: none;
+            width: 30px;
+            left: -25px;
           }
 
           &::after {
-              display: none;
+            width: 30px;
+            right: -25px;
           }
       }
 
