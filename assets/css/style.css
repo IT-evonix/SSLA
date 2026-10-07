@@ -1322,9 +1322,9 @@
       /* background-color: #F0F9FA; */
 
       .footer_contact_mainbox {
-          display: grid;
+          /* display: grid;
           grid-template-columns: 1.6fr 0.4fr;
-          gap: 20px;
+          gap: 20px; */
           padding: 1.563rem;
           background-color: #fff;
           border-radius: 80px;

@@ -22,7 +22,37 @@
         <div class="container">
             <h1 class="inner__red_heading">Advisor’s Note</h1>
             <div class="row  director-card" data-aos="fade-up">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <!-- Interactive Accordion -->
+                    <div class="director-desk">
+                        <h2 class="director-name mt-0 text-center">
+                            From the Advisor’s Desk
+                        </h2>
 
+                        <div class="director-text">
+                            <p>We live in a world that seems to be forever changing… a new world with dynamic challenges
+                                that requires young enthusiastic adults capable of playing positive and fruitful roles
+                                in organizations and communities. Symbiosis School for Liberal Arts (SSLA) strongly
+                                believes in the importance of a comprehensive education in preparation for career
+                                advancement and the exercise of leadership.</p>
+                            <p>
+                                We believe organizations and society have an urgent need for creative individuals who
+                                will readily learn on the job, after having been exposed to a broad and comprehensive
+                                education. Based on our experiences with liberal arts in the last 16 years, we know that
+                                a sound liberal arts education provides a much-needed cultural orientation to the world
+                                in which we live.
+                            </p>
+                            <p>
+                                It equips students with ideas, analytical and communication skills, and global
+                                perspectives along with the ability to synthesize knowledge and make informed value
+                                judgments. Our distinctive 4-year honours programme will also help students learn the
+                                importance of being personally and socially responsible, something so necessary to grow
+                                into leaders of substance, and be happy and successful in their future personal,
+                                community and professional lives.
+                            </p>
+                        </div>
+                    </div>
+                </div>
                 <!-- Image Column -->
                 <div class="col-lg-5 col-md-12 col-sm-12 text-center">
                     <div class="director-img-wrapper">
@@ -69,42 +99,11 @@
                         to offering support in the field of human and institutional development.
                     </p>
 
-                    <p class="director-text">
+                    <p class="director-text m-0">
                         She has authored numerous research publications, served as the founding President of the
                         India Big History Association, and is a founding member of the Society for South Asia
                         Archaeology (SOSAA).
                     </p>
-                </div>
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                    <!-- Interactive Accordion -->
-                    <div class="director-desk">
-                        <h2 class="director-name">
-                            From the Advisor’s Desk
-                        </h2>
-
-                        <div class="director-text">
-                            <p>We live in a world that seems to be forever changing… a new world with dynamic challenges
-                                that requires young enthusiastic adults capable of playing positive and fruitful roles
-                                in organizations and communities. Symbiosis School for Liberal Arts (SSLA) strongly
-                                believes in the importance of a comprehensive education in preparation for career
-                                advancement and the exercise of leadership.</p>
-                            <p>
-                                We believe organizations and society have an urgent need for creative individuals who
-                                will readily learn on the job, after having been exposed to a broad and comprehensive
-                                education. Based on our experiences with liberal arts in the last 16 years, we know that
-                                a sound liberal arts education provides a much-needed cultural orientation to the world
-                                in which we live.
-                            </p>
-                            <p class="m-0">
-                                It equips students with ideas, analytical and communication skills, and global
-                                perspectives along with the ability to synthesize knowledge and make informed value
-                                judgments. Our distinctive 4-year honours programme will also help students learn the
-                                importance of being personally and socially responsible, something so necessary to grow
-                                into leaders of substance, and be happy and successful in their future personal,
-                                community and professional lives.
-                            </p>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>

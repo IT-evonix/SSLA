@@ -2,19 +2,19 @@
 <section class="footer_contact_section">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-lg-9">
+            <div class="col-lg-6">
                 <div class="footer_contact_mainbox">
                     <div class="footer_contact_leftbox">
                         <div class="footer_contact_heading">
                             <h4>
-                                CONTACT HERE FOR <span>ADMISSIONS</span>
+                                FOR <span>ADMISSIONS</span>, CONTACT
                             </h4>
                         </div>
                         <div class="footer_contact_email">
                             <a href="mailto:admissions@ssla.edu.in">admissions@ssla.edu.in</a>
                         </div>
                     </div>
-                    <div class="footer_contact_rightbox">
+                    <!-- <div class="footer_contact_rightbox">
                         <div class="my_btnbox">
                             <a href="">
                                 <div class="my_btn_namebox">Click Here</div>
@@ -31,7 +31,7 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

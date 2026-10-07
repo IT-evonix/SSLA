@@ -258,12 +258,13 @@
                         <div class="inner_about_section_creative_mainbox">
                             <!-- <img src="{{ asset('assets/images/about/about-creative.webp') }}" alt="About courses" class="img-fluid"> -->
                             <div class="inner_about_section_creative_left">
-                                <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.6,0,0,0.6,4.799999999999997,4.6)"><path d="M21 19H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2M12 2a1 1 0 0 0-1 1v10.59l-3.29-3.3a1 1 0 0 0-1.42 1.42l5 5a1 1 0 0 0 1.42 0l5-5a1 1 0 0 0-1.42-1.42L13 13.59V3a1 1 0 0 0-1-1" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                <!-- <svg width="50" height="50" x="0" y="0" viewBox="0 0 24 24"><circle r="12" cx="12" cy="12" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.6,0,0,0.6,4.799999999999997,4.6)"><path d="M21 19H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2M12 2a1 1 0 0 0-1 1v10.59l-3.29-3.3a1 1 0 0 0-1.42 1.42l5 5a1 1 0 0 0 1.42 0l5-5a1 1 0 0 0-1.42-1.42L13 13.59V3a1 1 0 0 0-1-1" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg> -->
+                                <img src="{{ asset('assets/images/about/SSLA-Brochure.webp') }}" alt="SSLA-Brochure" class="img-fluid"> 
                             </div>
                             <div class="lab_membership_heading">You can download our e-bruchure here</div>
                             <div class="my_btnbox">
-                                <a href="{{ asset('assets/pdf/SSLA-E-Brochure.pdf') }}">
-                                    <div class="my_btn_namebox">E-Brochure</div>
+                                <a href="{{ asset('assets/pdf/SSLA-E-Brochure.pdf') }}" target="_blank">
+                                    <div class="my_btn_namebox">Download</div>
                                     <div class="my_btn_iconbox">
                                         <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
                                             <g
