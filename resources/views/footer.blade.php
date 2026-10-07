@@ -116,6 +116,8 @@
                                         <li><a href="">SSLA's Newsletter</a></li>
                                         <li><a href="">Infrastructure</a></li>
                                         <li><a href="">Blog</a></li>
+                                        <li><a href="{{url('/caution-notice')}}">Caution Notice</a></li>
+                                        <li><a href="{{url('/privacy-policy')}}">Privacy Policy</a></li>
                                     </ul>
                                 </div>
                                 <div class="footer_social_media_listing">
