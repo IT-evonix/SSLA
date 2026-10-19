@@ -679,7 +679,7 @@
                                 <hr>
                                 <div class="ssla_library_heading">E-Resources</div>
                                 <p><strong>Library Portal:</strong> <a href="https://elibrary.siu.edu.in/user/login"
-                                        target="_blank">https://elibrary.siu.edu.in/user/login</a></p>
+                                        target="_blank">elibrary.siu.edu.in/user/login</a></p>
                                 <p>
                                     Library members can get the access of all e-resources on library portal. To access
                                     these e-resources you should have the login credentials for it. Every year newly
@@ -847,7 +847,7 @@
                                     multiple sources.
                                 </p>
                                 <p>
-                                    <a href="https://ndl.iitkgp.ac.in/" target="_blank">https://ndl.iitkgp.ac.in/</a>
+                                    <a href="https://ndl.iitkgp.ac.in/" target="_blank">ndl.iitkgp.ac.in/</a>
                                 </p>
                                 <hr>
                                 <div class="ssla_library_heading">
@@ -862,7 +862,7 @@
                                     been able to join the mainstream of the knowledge economy.
                                 </p>
                                 <p>
-                                    <a href="https://swayam.gov.in/Home" target="_blank">https://swayam.gov.in/Home</a>
+                                    <a href="https://swayam.gov.in/Home" target="_blank">swayam.gov.in/Home</a>
                                 </p>
                                 <hr>
                                 <div class="ssla_library_heading">Shodhganga</div>
@@ -892,7 +892,7 @@
                                 </p>
                                 <p class="m-0">
                                     <a href="https://delnet.in/index.html"
-                                        target="_blank">https://delnet.in/index.html</a>
+                                        target="_blank">delnet.in/index.html</a>
                                 </p>
                             </div>
                         </div>
@@ -1352,7 +1352,7 @@
                     <div class="lab_services_mainbox">
                         <div class="lab_services_leftbox">
                             <div class="lab_membership_heading">E-Resources</div>
-                            <p><strong>Library Portal:</strong> <a href="https://elibrary.siu.edu.in/user/login" target="_blank">https://elibrary.siu.edu.in/user/login</a></p>
+                            <p><strong>Library Portal:</strong> <a class="text_anchore_tag" href="https://elibrary.siu.edu.in/user/login" target="_blank">www.elibrary.siu.edu.in/user/login</a></p>
                             <p>
                                 Library members can get the access of all e-resources on library portal. To access these e-resources you should have the login credentials for it. Every year newly admitted student’s registration is done according to their course duration by the librarian.
                             </p>
@@ -1409,7 +1409,7 @@
                                 <div class="lab_important_link_icon">
                                     <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
                                 </div>
-                                <div class="lab_important_link_name">https://ndl.iitkgp.ac.in/</div>
+                                <div class="lab_important_link_name">www.ndl.iitkgp.ac.in/</div>
                                 <div class="lab_important_link_arrow">
                                     <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
                                 </div>
@@ -1431,7 +1431,7 @@
                                 <div class="lab_important_link_icon">
                                     <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
                                 </div>
-                                <div class="lab_important_link_name">https://swayam.gov.in/Home</div>
+                                <div class="lab_important_link_name">www.swayam.gov.in/Home</div>
                                 <div class="lab_important_link_arrow">
                                     <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
                                 </div>
@@ -1455,7 +1455,7 @@
                                 <div class="lab_important_link_icon">
                                     <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
                                 </div>
-                                <div class="lab_important_link_name">https://shodhganga.inflibnet.ac.in/</div>
+                                <div class="lab_important_link_name">www.shodhganga.inflibnet.ac.in/</div>
                                 <div class="lab_important_link_arrow">
                                     <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
                                 </div>
@@ -1479,7 +1479,7 @@
                                 <div class="lab_important_link_icon">
                                     <img src="{{ asset('assets/images/research/collection-icon-07.svg') }}" alt="" class="img-fluid">
                                 </div>
-                                <div class="lab_important_link_name">https://delnet.in/index.html</div>
+                                <div class="lab_important_link_name">www.delnet.in/index.html</div>
                                 <div class="lab_important_link_arrow">
                                     <svg width="16" height="16" x="0" y="0" viewBox="0 0 24 24"><g><g data-name="19"><path d="M12 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29A1 1 0 0 1 12.7 5.3l6 6a1 1 0 0 1 0 1.41l-6 6a1 1 0 0 1-.7.29" fill="#007382" opacity="1" data-original="#000000"></path><path d="M6 19a1 1 0 0 1-.71-1.71l5.3-5.29-5.3-5.29a1 1 0 0 1 1.42-1.42l6 6a1 1 0 0 1 0 1.41l-6 6A1 1 0 0 1 6 19" fill="#007382" opacity="1" data-original="#000000"></path></g></g></svg>
                                 </div>

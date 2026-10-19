@@ -518,7 +518,7 @@
                             <div class="internationalisation_sixth_content">
                                 <div class="lab_membership_heading">SSLA International Cell including Mobility and Collaborations aspects</div>
                                 <p class="m-0">
-                                    <a href="mailto:international@ssla.edu.in">international@ssla.edu.in</a> and in person by prior appointment within designated office hours
+                                    <a class="text_anchore_tag" href="mailto:international@ssla.edu.in">international@ssla.edu.in</a> and in person by prior appointment within designated office hours
                                 </p>
                             </div>
                         </div>
@@ -539,7 +539,7 @@
                             <div class="internationalisation_sixth_content">
                                 <div class="lab_membership_heading">SSLA International Cell Faculty Mentor</div>
                                 <p class="m-0">
-                                    <a href="mailto:vasudev.menon@ssla.edu">vasudev.menon@ssla.edu</a> and in person by prior appointment within designated office hours
+                                    <a class="text_anchore_tag" href="mailto:vasudev.menon@ssla.edu">vasudev.menon@ssla.edu</a> and in person by prior appointment within designated office hours
                                 </p>
                             </div>
                         </div>
@@ -560,7 +560,7 @@
                             <div class="internationalisation_sixth_content">
                                 <div class="lab_membership_heading">SSLA International Cell Administrative support</div>
                                 <p class="m-0">
-                                    <a href="mailto:sharmishtha.kasmalkar@ssla.edu.in">sharmishtha.kasmalkar@ssla.edu.in</a> & <a href="mailto:nikhil.ranpise@ssla.edu.in">nikhil.ranpise@ssla.edu.in</a> and in person by prior appointment within designated office hours
+                                    <a class="text_anchore_tag" href="mailto:sharmishtha.kasmalkar@ssla.edu.in">sharmishtha.kasmalkar@ssla.edu.in</a> & <a href="mailto:nikhil.ranpise@ssla.edu.in">nikhil.ranpise@ssla.edu.in</a> and in person by prior appointment within designated office hours
                                 </p>
                             </div>
                         </div>
@@ -581,7 +581,7 @@
                             <div class="internationalisation_sixth_content">
                                 <div class="lab_membership_heading">Symbiosis Centre for International Education (Semester Exchange/Summer/Winter Schools/Semester Abroad only)</div>
                                 <p class="m-0">
-                                    <a href="mailto:manasi@scie.ac.in">manasi@scie.ac.in</a>
+                                    <a class="text_anchore_tag" href="mailto:manasi@scie.ac.in">manasi@scie.ac.in</a>
                                 </p>
                             </div>
                         </div>
@@ -602,7 +602,7 @@
                             <div class="internationalisation_sixth_content">
                                 <div class="lab_membership_heading">Symbiosis Centre for International Education (Teaching and Research Collaboration only)</div>
                                 <p class="m-0">
-                                    <a href="mailto:anupama@scie.ac.in">anupama@scie.ac.in</a>
+                                    <a class="text_anchore_tag" href="mailto:anupama@scie.ac.in">anupama@scie.ac.in</a>
                                 </p>
                             </div>
                         </div>

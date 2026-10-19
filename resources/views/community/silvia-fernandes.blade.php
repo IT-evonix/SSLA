@@ -210,7 +210,7 @@
                                 Pandemic. In: Patki, S.M., Abhyankar, S.C. (eds) Organizational Citizenship Behaviour
                                 (OCB) in India. Springer, Singapore.
                                 <a href="https://doi.org/10.1007/978-981-99-9688-9_2" target="_blank"
-                                    class="text-danger">https://doi.org/10.1007/978-981-99-9688-9_2</a>
+                                    class="text_anchore_tag">www.doi.org/10.1007/978-981-99-9688-9_2</a>
                             </li>
                             <li>
                                 Fernandes, S. (2023). Screen Time Addiction: An Overview. In: Gupta, S. (ed) Handbook of

@@ -130,19 +130,62 @@
                                         <!-- <div class="eligibility_orbox">
                                             OR
                                         </div> -->
-                                        
+
                                     </div>
                                 </div>
                                 <div class="eligibility_reservation_mainbox">
                                     <h2 class="inner__subheading">Reservation</h2>
-                                    <div class="custom_listing">
-                                        <ul>
-                                            <li>As per SIU Norms: please check: <a
-                                                    href="https://www.siu.edu.in/" traget="_blank">www.siu.edu.in</a>
-                                            </li>
-                                        </ul>
+                                    <p>
+                                        As per SIU Norms please check <a class="text_anchore_tag"
+                                            href="https://www.siu.edu.in/" target="_blank">www.siu.edu.in</a>
+                                    </p>
+                                    <div class="reservation_tables_wrapper">
+
+                                        <!-- Within the sanctioned intake -->
+                                        <div class="reservation_table_box">
+                                            <table class="table reservation_table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Within the sanctioned intake</th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td colspan="2">Scheduled Castes 15%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">Scheduled Tribes 7.5%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">Differently abled 3%</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                        <!-- Over and above the sanctioned intake -->
+                                        <div class="reservation_table_box">
+                                            <table class="table reservation_table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Over and above the sanctioned intake</th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td colspan="2">Kashmiri Migrants 2 Seats</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">International Students 15%</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
                                     </div>
-                                    <div class="table-responsive mt-4">
+                                    <!-- <div class="table-responsive mt-4">
                                         <table class="table">
                                             <thead>
                                                 <tr>
@@ -165,26 +208,47 @@
                                                 </tr>
                                             </tbody>
                                         </table>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="eligibility_admission_cancel_mainbox">
-                                    <h2 class="inner__subheading">Admissions Will Be Cancelled In Case of</h2>
+                                    <h2 class="inner__subheading">Admissions will be cancelled in case of</h2>
                                     <div class="eligibility_cancel_listing_mainbox">
                                         <div class="eligibility_cancel_listing_box">
                                             <div class="eligibility_cancel_listing_icon_box">
-                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48"><g><path d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6" fill="#ec3536" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48">
+                                                    <g>
+                                                        <path
+                                                            d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6"
+                                                            fill="#ec3536" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <p>Non submission of the required documents on time</p>
                                         </div>
                                         <div class="eligibility_cancel_listing_box">
                                             <div class="eligibility_cancel_listing_icon_box">
-                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48"><g><path d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6" fill="#ec3536" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48">
+                                                    <g>
+                                                        <path
+                                                            d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6"
+                                                            fill="#ec3536" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <p>Submission of fake or incorrect or incomplete documents</p>
                                         </div>
                                         <div class="eligibility_cancel_listing_box">
                                             <div class="eligibility_cancel_listing_icon_box">
-                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48"><g><path d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6" fill="#ec3536" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48">
+                                                    <g>
+                                                        <path
+                                                            d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6"
+                                                            fill="#ec3536" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <p>Admission gained through unfair and objectionable practices
                                                 detected at
@@ -192,7 +256,14 @@
                                         </div>
                                         <div class="eligibility_cancel_listing_box">
                                             <div class="eligibility_cancel_listing_icon_box">
-                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48"><g><path d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6" fill="#ec3536" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 48 48">
+                                                    <g>
+                                                        <path
+                                                            d="M24 .5C11 .5.5 11 .5 24S11 47.5 24 47.5 47.5 37 47.5 24 37 .5 24 .5m0 3.9c4.7 0 9 1.7 12.4 4.4L8.8 36.4C6.1 33 4.4 28.7 4.4 24 4.4 13.2 13.2 4.4 24 4.4m0 39.2c-4.7 0-9-1.7-12.4-4.4l27.6-27.6C42 15 43.6 19.3 43.6 24c0 10.8-8.8 19.6-19.6 19.6"
+                                                            fill="#ec3536" opacity="1" data-original="#000000" class="">
+                                                        </path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <p>Failing to fulfill required eligibility criteria of the
                                                 program</p>

@@ -690,7 +690,7 @@
     border-radius: 50%;
     position: relative;
     left: calc(18px - 6.5px);
-    margin-top: 6px;
+    /* margin-top: 6px; */
     flex-shrink: 0;
 }
 
@@ -699,6 +699,7 @@
     display: flex;
     gap: 25px;
     margin-bottom: 10px;
+    align-items: center;
 }
 
 .rap_admission_main .rap-content {
@@ -723,6 +724,7 @@
     font-weight: 600;
     padding: 0;
     box-shadow: none;
+    line-height: normal;
 }
 
 .rap_admission_main .rap-acc-btn::after {
@@ -2815,10 +2817,11 @@ span.badge {
 
 
 .cop-highlight {
-    background: var(--color-red);
-    color: #FFF;
+    background: #fff;
+    color: #000;
     padding: 15px;
     border-radius: 6px;
+    border: 1px solid #dedede;
     margin-bottom: 20px;
 }
 

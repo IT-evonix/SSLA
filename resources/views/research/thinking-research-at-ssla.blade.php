@@ -181,7 +181,7 @@
                                                 The main aim of the project is to facilitate both the citizen and city
                                                 administrator a broad understanding of climate adaptation. For more
                                                 details please visit the website: <a href="https://niua.in/iscfp/"
-                                                    target="_blank">https://niua.in/iscfp/</a>. Dr. Ghosh’s third
+                                                    target="_blank">www.niua.in/iscfp/</a>. Dr. Ghosh’s third
                                                 project was Delhi’s rising extreme heat, how it is linked to increasing,
                                                 often unrecognised, deaths, especially among vulnerable groups like the
                                                 elderly and outdoor workers, demanding urgent policy action and heatwave
@@ -538,7 +538,7 @@
                                                                                     adaptation. For more details please
                                                                                     visit the website: <a
                                                                                         href="https://niua.in/iscfp/"
-                                                                                        target="_blank">https://niua.in/iscfp/</a>.
+                                                                                        target="_blank">www.niua.in/iscfp/</a>.
                                                                                     Dr. Ghosh’s third project was
                                                                                     Delhi’s rising extreme heat, how it
                                                                                     is linked to increasing, often
@@ -2154,7 +2154,7 @@
                                         The main aim of the project is to facilitate both the citizen and city
                                         administrator a broad understanding of climate adaptation. For more
                                         details please visit the website: <a href="https://niua.in/iscfp/"
-                                            target="_blank">https://niua.in/iscfp/</a>. Dr. Ghosh’s third
+                                            target="_blank">www.niua.in/iscfp/</a>. Dr. Ghosh’s third
                                         project was Delhi’s rising extreme heat, how it is linked to increasing,
                                         often unrecognised, deaths, especially among vulnerable groups like the
                                         elderly and outdoor workers, demanding urgent policy action and heatwave

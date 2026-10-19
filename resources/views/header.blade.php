@@ -381,7 +381,7 @@
                                                                                 </g>
                                                                             </svg>
                                                                         </div>
-                                                                        <div class="mega_menu_name_box">Education Loan</div>
+                                                                        <div class="mega_menu_name_box">Education Loans</div>
                                                                     </a>
                                                                 </div>
                                                                 <div class="megamenu_listing {{ request()->is('career-options3') ? 'sub_header_menu_active' : '' }}">
@@ -1285,14 +1285,14 @@
         outline: none;
     }
     .search-close-btn:hover {
-        color: #de1d20;
+        color: #EC3536;
         transform: scale(1.1);
     }
     .search-input-wrapper {
         position: relative;
         display: flex;
         align-items: center;
-        border-bottom: 2px solid #e9e5ff;
+        border-bottom: 2px solid #dedede;
         padding-bottom: 12px;
         margin-bottom: 20px;
     }
@@ -1335,7 +1335,7 @@
         display: flex;
         align-items: center;
         padding: 12px 16px;
-        border-radius: 10px;
+        border-radius: 40px;
         color: #333 !important;
         text-decoration: none !important;
         transition: background-color 0.2s, transform 0.15s;
@@ -1345,13 +1345,13 @@
     }
     .suggestion-item:hover, .suggestion-item.active {
         background-color: #f7f9fa;
-        transform: translateX(4px);
-        color: #de1d20 !important;
+        /* transform: translateX(4px); */
+        color: #EC3536 !important;
         border-color: #f0f0f0;
     }
     .suggestion-item-icon {
         margin-right: 12px;
-        color: #de1d20;
+        color: #EC3536;
         display: flex;
         align-items: center;
     }
@@ -1380,7 +1380,7 @@
         font-size: 15px;
     }
     .no-results strong {
-        color: #de1d20;
+        color: #EC3536;
     }
 
     /* Mobile overrides to display search icon beautifully next to hamburger menu */
@@ -1525,9 +1525,11 @@ document.addEventListener('DOMContentLoaded', function() {
             suggestionItem.className = 'suggestion-item';
             suggestionItem.innerHTML = `
                 <div class="suggestion-item-icon">
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M9 18l6-6-6-6"></path>
-                    </svg>
+                <svg width="14" height="14" x="0" y="0" viewBox="0 0 24 24">
+                    <g transform="matrix(1.500000000000001,0,0,1.500000000000001,-5.999943256378181,-6.00239682197572)">
+                        <path fill="#EC3536" fill-rule="evenodd" d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z" clip-rule="evenodd" opacity="1" data-original="#000000"></path>
+                    </g>
+                </svg>
                 </div>
                 <div class="suggestion-item-title">${item.title}</div>
                 <div class="suggestion-item-category">${item.category}</div>

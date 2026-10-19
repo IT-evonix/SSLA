@@ -296,9 +296,9 @@
                             <ul>
                                 <li><b>Bajaj, K. (2021, January 8).</b>
                                     <span class="new_green_strong">
-                                        10 promising authors to look out for in 2021 & beyond. Feminism in India. <a
+                                        10 promising authors to look out for in 2021 & beyond. Feminism in India. <a class="text_anchore_tag"
                                             href="https://feminisminindia.com/2021/01/08/women-authors-to-read/"
-                                            target="_blank">https://feminisminindia.com/2021/01/08/women-authors-to-read/</a>
+                                            target="_blank">www.feminisminindia.com/2021/01/08/women-authors-to-read/</a>
                                     </span>
                                 </li>
                                 <li><b>Khosla, A. (2021).</b>
@@ -310,16 +310,16 @@
                                 <li><b>Mathur, A. (2021).</b>
                                     <span class="new_green_strong">
                                         Politics of identity formation: Impact of Jean Paul Sartre’s criticism of
-                                        Négritude philosophy. Iowa Journal of Cultural Studies, 21, 63–82. <a
+                                        Négritude philosophy. Iowa Journal of Cultural Studies, 21, 63–82. <a class="text_anchore_tag"
                                             href="https://doi.org/10.17077/2168-569X.1571"
-                                            target="_blank">https://doi.org/10.17077/2168-569X.1571</a>
+                                            target="_blank">www.doi.org/10.17077/2168-569X.1571</a>
                                     </span>
                                 </li>
                                 <li><b>Panicker, L. P. (2021, October 17).</b>
                                     <span class="new_green_strong">
-                                        Russia’s energy strategy and gas disputes. E- International Relations. <a
+                                        Russia’s energy strategy and gas disputes. E- International Relations. <a class="text_anchore_tag"
                                             href="https://www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/"
-                                            target="_blank">https://www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/</a>
+                                            target="_blank">www.e-ir.info/2021/10/17/russias-energy-strategy-and-gas-disputes/</a>
                                     </span>
                                 </li>
                                 <li><b>Mor, M. (in press).</b>
@@ -331,17 +331,17 @@
                                 <li><b>Bajaj, K. (2020, October 20).</b>
                                     <span class="new_green_strong">
                                         How the gendering of toys hamper skill development in children. Feminism in
-                                        India. <a
+                                        India. <a class="text_anchore_tag"
                                             href="https://feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/"
-                                            target="_blank">https://feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/</a>
+                                            target="_blank">www.feminisminindia.com/2020/10/20/how-the-gendering-of-toys-hamper-skill-development-in-children/</a>
                                     </span>
                                 </li>
                                 <li><b>Bajaj, K. (2020, December 25).</b>
                                     <span class="new_green_strong">
                                         Ismat Chughtai’s feminine perspective that subverted patriarchal literature &
-                                        activism. Feminism in India. <a
+                                        activism. Feminism in India. <a class="text_anchore_tag"
                                             href="https://feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/"
-                                            target="_blank">https://feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/</a>
+                                            target="_blank">www.feminisminindia.com/2020/12/25/ismat-chughtai-feminine-perspective-patriarchal-literature-activism/</a>
                                     </span>
                                 </li>
                                 <li><b>Gandhi, A. (2020).</b>
@@ -367,9 +367,9 @@
                                 <li><b>Sudan, M. (2019, April).</b>
                                     <span class="new_green_strong">
                                         Starting early: Analysing the impact of literacy rates on financial literacy
-                                        rates in India. International Journal of Financial Management, 9(2). <a
+                                        rates in India. International Journal of Financial Management, 9(2). <a class="text_anchore_tag"
                                             href="https://ssrn.com/abstract=3438588"
-                                            target="_blank">https://ssrn.com/abstract=3438588</a>
+                                            target="_blank">www.ssrn.com/abstract=3438588</a>
                                     </span>
                                 </li>
                             </ul>

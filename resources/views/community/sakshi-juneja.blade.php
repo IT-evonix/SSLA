@@ -128,7 +128,7 @@
                             <h4 class="section-title">Publications</h4>
                         </div>
                         <ul>
-                          <li>Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., & Shaikh, N. (2025). Artificial Intelligence in Education: A Comprehensive Examination of Integration, Impact, and Future Implications. In A. Mirzazadeh, Z. Molamohamadi, E. Babaee Tirkolaee, G.-W. Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering (pp. 182–198). Springer Nature Switzerland.<a href=" https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11" target="_blank" class="text-danger"> https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11</a></li>
+                          <li>Kasat, K., Sinha, U., Juneja, S., Ghatge, A., Thorat, N., & Shaikh, N. (2025). Artificial Intelligence in Education: A Comprehensive Examination of Integration, Impact, and Future Implications. In A. Mirzazadeh, Z. Molamohamadi, E. Babaee Tirkolaee, G.-W. Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering (pp. 182–198). Springer Nature Switzerland.<a href=" https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11" target="_blank" class="text_anchore_tag"> www.link.springer.com/chapter/10.1007/978-3-031-81458-7_11</a></li>
                         </ul>
                     </div>
                 </div>

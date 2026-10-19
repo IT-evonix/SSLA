@@ -180,38 +180,38 @@
                                 D in Indian Populations: Understanding the Interplay of Skin Pigmentation, Sun Exposure,
                                 and Genetic Variants. American Journal of Human Biology, 38(3), e70228. <a
                                     href="https://doi.org/10.1002/ajhb.70228" target="_blank"
-                                    class="text-danger">https://doi.org/10.1002/ajhb.70228</a></li>
+                                    class="text_anchore_tag">www.doi.org/10.1002/ajhb.70228</a></li>
                             <li>Mendes, M., Jonnalagadda, M., Ozarkar, S., Torres, F. C. L., Pua, V. B., Kendall, C.,
                                 Tarazona-Santos, E., & Parra, E. J. (2022). Identifying signatures of natural selection
                                 in Indian populations. PLOS ONE, 17(8), e0271767. <a
                                     href="https://doi.org/10.1371/journal.pone.0271767" target="_blank"
-                                    class="text-danger">https://doi.org/10.1371/journal.pone.0271767</a></li>
+                                    class="text_anchore_tag">www.doi.org/10.1371/journal.pone.0271767</a></li>
                             <li>Jonnalagadda, M., Bharti, N., Kasibhatla, S. M., Wagh, M. A., Joshi, R., Ozarkar, S., &
                                 Ashma, R. (2022). MC1R diversity and its role in skin pigmentation variation in West
                                 Maharashtra, India. American Journal of Human Biology, 34(7), e23734. <a
                                     href="https://doi.org/10.1002/ajhb.23734" target="_blank"
-                                    class="text-danger">https://doi.org/10.1002/ajhb.23734</a></li>
+                                    class="text_anchore_tag">www.doi.org/10.1002/ajhb.23734</a></li>
                             <li>Debortoli, G., Abbatangelo, C., Ceballos, F., Fortes-Lima, C., Norton, H. L., Ozarkar,
                                 S., Parra, E. J., & Jonnalagadda, M. (2020). Novel insights on demographic history of
                                 tribal and caste groups from West Maharashtra (India) using genome-wide data. Scientific
                                 Reports, 10(1), Article 1. <a href="https://doi.org/10.1038/s41598-020-66953-3"
-                                    target="_blank" class="text-danger">https://doi.org/10.1038/s41598-020-66953-3</a>
+                                    target="_blank" class="text_anchore_tag">www.doi.org/10.1038/s41598-020-66953-3</a>
                             </li>
                             <li>Jonnalagadda, M., Faizan, M. A., Ozarkar, S., Ashma, R., Kulkarni, S., Norton, H. L., &
                                 Parra, E. (2019). A Genome-Wide Association Study of Skin and Iris Pigmentation among
                                 Individuals of South Asian Ancestry. Genome Biology and Evolution, 11(4), 1066–1076. <a
                                     href="https://doi.org/10.1093/gbe/evz057" target="_blank"
-                                    class="text-danger">https://doi.org/10.1093/gbe/evz057</a></li>
+                                    class="text_anchore_tag">www.doi.org/10.1093/gbe/evz057</a></li>
                             <li>Jonnalagadda, M., Norton, H., Ozarkar, S., Kulkarni, S., & Ashma, R. (2016). Association
                                 of genetic variants with skin pigmentation phenotype among populations of west
                                 Maharashtra, India. American Journal of Human Biology, 28(5), 610–618. <a
                                     href="https://doi.org/10.1002/ajhb.22836" target="_blank"
-                                    class="text-danger">https://doi.org/10.1002/ajhb.22836</a></li>
+                                    class="text_anchore_tag">www.doi.org/10.1002/ajhb.22836</a></li>
                             <li>Jonnalagadda, M., Ozarkar, S., Ashma, R., & Kulkarni, S. (2016). Skin pigmentation
                                 variation among populations of West Maharashtra, India. American Journal of Human
                                 Biology: The Official Journal of the Human Biology Council, 28(1), 36–43. <a
                                     href="https://doi.org/10.1002/ajhb.22738" target="_blank"
-                                    class="text-danger">https://doi.org/10.1002/ajhb.22738</a></li>
+                                    class="text_anchore_tag">www.doi.org/10.1002/ajhb.22738</a></li>
 
 
 

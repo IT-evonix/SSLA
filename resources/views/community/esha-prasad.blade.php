@@ -188,34 +188,34 @@
                                 Chalcolithic pattern of settlement along the Khetri belt, Rajasthan, India.
                                 L'Anthropologie, Volume 129, Issue 4.
                                 <a href="https://doi.org/10.1016/j.anthro.2025.103405" target="_blank"
-                                    rel="noopener noreferrer" class="text-danger">https://doi.org/10.1016/j.anthro.2025.103405</a>
+                                    rel="noopener noreferrer" class="text_anchore_tag">www.doi.org/10.1016/j.anthro.2025.103405</a>
                             </li>
                             <li>Shirvalkar Prabodh, Esha Prasad and Y.S. Rawat 2025. Caravanserai, a lesser-known aspect
                                 of Harappan trade mechanism: A case study of Kotada Bhadli, Kachchh, Gujarat, India.
                                 L'Anthropologie, Volume 129, Issue 4.
                                 <a href="https://doi.org/10.1016/j.anthro.2025.103409" target="_blank"
-                                    rel="noopener noreferrer" class="text-danger">https://doi.org/10.1016/j.anthro.2025.103409 </a>
+                                    rel="noopener noreferrer" class="text_anchore_tag">www.doi.org/10.1016/j.anthro.2025.103409 </a>
                             </li>
                             <li>
                                 Prasad Esha and Shweta Sinha Deshpande 2024. Relooking at the Archaeology of Neem ka
                                 Thana Tehsil, Rajasthan, India, Archaeological Research in Asia, volume 39.
                                 <a href="https://doi.org/10.1016/j.ara.2024.100538" target="_blank"
-                                    rel="noopener noreferrer" class="text-danger">https://doi.org/10.1016/j.ara.2024.100538</a>
+                                    rel="noopener noreferrer" class="text_anchore_tag">www.doi.org/10.1016/j.ara.2024.100538</a>
                             </li>
 
                             <li>
                                 Deshpande, Shweta, and Prasad, Esha. “A Reappraisal of the Chalcolithic of Central and
                                 Deccan India.” In Oxford Research Encyclopedia of Anthropology. Oxford University Press,
                                 2018—. Article published October 18, 2023. doi:
-                                <a href="https://doi.org/10.1093/acrefore/9780190854584.013.567" target="_blank" class="text-danger">
-                                    https://doi.org/10.1093/acrefore/9780190854584.013.567
+                                <a href="https://doi.org/10.1093/acrefore/9780190854584.013.567" target="_blank" class="text_anchore_tag">
+                                    www.doi.org/10.1093/acrefore/9780190854584.013.567
                                 </a>
                             </li>
 
                             <li>
                                 Prasad Esha and R N Singh 2021. The Chronology of the Ganeshwar Jodhpura Culture: A
                                 Reassessment Based on Graffiti and Cross-Cultural Comparisons, Ancient Asia, 12, 10. <a
-                                    href="http://doi.org/10.5334/aa.238" class="text-danger">http://doi.org/10.5334/aa.238 </a>
+                                    href="http://doi.org/10.5334/aa.238" class="text_anchore_tag">www.doi.org/10.5334/aa.238 </a>
                             </li>
                         </ol>
                     </div>

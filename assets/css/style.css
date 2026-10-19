@@ -144,7 +144,7 @@
       font-family: 'Roboto-Medium';
   }
 
-  .header_single_menu_active a{
+  .header_single_menu_active a {
       text-decoration: underline;
       font-family: 'Roboto-Medium';
   }
@@ -753,9 +753,9 @@
 
       .why_choose_back .why_choose_iconbox {
           background-color: #fa4748;
-          margin: -33px auto 0 auto;
-          width: 40px;
-          height: 40px;
+          margin: -28px auto 0 auto;
+          width: 60px;
+          height: 60px;
       }
 
       .why_choose_back .why_choose_iconbox img {
@@ -1124,7 +1124,7 @@
           z-index: 5;
           transform: scale(1.3);
           /* box-shadow: 0px 0px 12px #ccc; */
-          border-radius: 10px;
+          border-radius: 11px;
           border: 1px solid var(--color-green);
       }
 
@@ -2781,7 +2781,7 @@
       }
 
       .eligibility_cancel_listing_box:not(:last-child) {
-          border-right: 2px solid #E9E5FF;
+          border-right: 2px solid #dedede;
       }
 
       .eligibility_cancel_listing_box p {
@@ -6912,7 +6912,7 @@
       margin: 0 0 10px 0;
   }
 
-  .internationalisation_sixth_listing a {
+  /* .internationalisation_sixth_listing a {
       color: var(--color-black);
       font-weight: 600;
       transition: color 0.3s ease;
@@ -6920,7 +6920,7 @@
 
   .internationalisation_sixth_listing a:hover {
       color: var(--color-red);
-  }
+  } */
 
   .internationalisation_fifth_section .ssla_present_listing {
       border: 0;
@@ -7015,66 +7015,115 @@
       font-weight: 100;
   }
 
-#externalLinkModal .modal-content {
-    border-radius: 0;
-    border: 1px solid #ccc;
+  #externalLinkModal .modal-content {
+      border-radius: 0;
+      border: 1px solid #ccc;
+  }
+
+  #externalLinkModal .modal-body {
+      padding: 32px 30px 10px;
+  }
+
+  #externalLinkModal .modal-body p {
+      margin: 0;
+      /* font-size: 20px; */
+      /* line-height: 1.5; */
+      color: var(--color-black);
+  }
+
+  #externalLinkModal .modal-footer {
+      border-top: 0;
+      padding: 15px 30px 28px;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  #externalLinkModal .modal-footer .btn {
+      color: var(--color-green);
+      text-decoration: none;
+      padding: 0;
+      font-family: 'Roboto-Medium';
+  }
+
+  #externalLinkModal .modal-footer .btn:hover {
+      color: var(--color-red);
+  }
+
+  .sub_header_menu_active a {
+      background-color: #E35357;
+      /* text-decoration: underline; */
+      /* font-family: 'Roboto-Medium'; */
+  }
+
+  .about_ssla_main_leftbox img {
+      border-radius: 20px;
+  }
+
+  .privacy_policy_mainbox p {
+      text-align: justify;
+  }
+
+  .privacy_policy_listing_mainbox {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      margin: 30px 0 0 0;
+  }
+
+  .privacy_policy_sublisting_wraper {
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+  }
+
+  .text_anchore_tag {
+      font-family: 'Roboto-Medium' !important;
+      color: var(--color-green) !important;
+      transition: color 0.3s linear !important;
+      text-decoration: none !important;
+  }
+
+  .text_anchore_tag:hover {
+      color: var(--color-red) !important;
+  }
+
+  .why_choose_iconbox img {
+      width: 30px;
+      height: 30px;
+  }
+
+  .blog_right_second_imgbox .home_blog {
+    width: 100%;
+    height: 100%;
+  }
+
+    .blog_right_second_imgbox .home_blog .owl-stage-outer {
+    width: 100%;
+    height: 100%;
+  }
+
+    .blog_right_second_imgbox .home_blog .owl-stage-outer .owl-stage {
+    width: 100%;
+    height: 100%;
+  }
+
+  .blog_right_second_imgbox .home_blog .owl-stage-outer .owl-stage .owl-item{
+    width: 100%;
+    height: 100%;
+  }
+
+  .blog_right_second_imgbox .home_blog .owl-stage-outer .owl-stage .owl-item .item{
+    width: 100%;
+    height: 100%;
+  }
+
+  .reservation_tables_wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 50px;
+    align-items: start;
 }
 
-#externalLinkModal .modal-body {
-    padding: 32px 30px 10px;
-}
-
-#externalLinkModal .modal-body p {
-    margin: 0;
-    /* font-size: 20px; */
-    /* line-height: 1.5; */
-    color: var(--color-black);
-}
-
-#externalLinkModal .modal-footer {
-    border-top: 0;
-    padding: 15px 30px 28px;
-    display: flex;
-    justify-content: space-between;
-}
-
-#externalLinkModal .modal-footer .btn {
-    color: var(--color-green);
-    text-decoration: none;
-    padding: 0;
-    font-family: 'Roboto-Medium';
-}
-
-#externalLinkModal .modal-footer .btn:hover {
-    color: var(--color-red);
-}
-
-.sub_header_menu_active a {
-    background-color: #E35357;
-    /* text-decoration: underline; */
-    /* font-family: 'Roboto-Medium'; */
-}
-
-.about_ssla_main_leftbox img {
-    border-radius: 20px;
-}
-
-.privacy_policy_mainbox p {
-    text-align: justify;
-}
-
-.privacy_policy_listing_mainbox {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    margin: 30px 0 0 0;
-}
-
-.privacy_policy_sublisting_wraper {
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-}
 
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
@@ -7192,9 +7241,14 @@
           }
 
           .why_choose_iconbox img {
-              width: 30px;
-              height: 30px;
+              width: 25px;
+              height: 25px;
               object-fit: contain;
+          }
+
+          .why_choose_back .why_choose_iconbox img {
+              width: 25px;
+              height: 25px;
           }
       }
 
@@ -7374,6 +7428,19 @@
       .lab_collection_listing_name {
           margin: 8px 0 0 0;
           font-size: 12px;
+      }
+
+      .why_choose_inner {
+          .why_choose_back_para {
+              margin: 10px 0 0 0;
+          }
+      }
+
+      .why_choose_inner {
+          .why_choose_back .why_choose_iconbox {
+              width: 50px;
+              height: 50px;
+          }
       }
   }
 
@@ -8437,6 +8504,11 @@
       .lab_services_rightbox .custom_listing ul {
           column-count: 1;
       }
+
+      .reservation_tables_wrapper {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
   }
 
   @media (max-width: 575.98px) {
@@ -8493,25 +8565,25 @@
 
       .heading h2 {
           &::before {
-            width: 30px;
-            left: -25px;
+              width: 30px;
+              left: -25px;
           }
 
           &::after {
-            width: 30px;
-            right: -25px;
+              width: 30px;
+              right: -25px;
           }
       }
 
       .heading h1 {
           &::before {
-            width: 30px;
-            left: -25px;
+              width: 30px;
+              left: -25px;
           }
 
           &::after {
-            width: 30px;
-            right: -25px;
+              width: 30px;
+              right: -25px;
           }
       }
 
@@ -9149,7 +9221,7 @@
       }
 
       .search-input-wrapper {
-          border-bottom: 1px solid #e9e5ff !important;
+          border-bottom: 1px solid #dedede !important;
           margin-top: 10px !important;
       }
 

@@ -25,9 +25,9 @@
                 <div class="col-lg-12">
                     <!-- Interactive Accordion -->
                     <div class="director-desk">
-                        <h2 class="director-name mt-0 text-center">
+                        <!-- <h2 class="director-name mt-0 text-center">
                             From the Director’s Desk
-                        </h2>
+                        </h2> -->
 
                         <div class="director-text">
                             <p>The Twenty-first century is unprecedented and crucial for the globe and humanity. It is

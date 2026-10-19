@@ -132,7 +132,7 @@
                         <ol class="ps-3">
                           <li><strong>Journal Article</strong><br>Modi, K. (2022) What Can a Caged Bird Sing? A Case for a Place-based Component of Curriculum. Language and Language Teaching: A Peer-reviewed Journal, 11(2), 37-44.</li>
 
-<li><strong>Popular Article</strong><br>Modi, K. (2021, April 17). Cast Away: A Case For Place-based Education in the Andaman and Nicobar Islands. Retrieved from The Bastion: <a href="https://thebastion.co.in/politics-and/cast-away-a-case-for-place-based-education-in-the-andaman-and-nicobar-islands/" class="text-danger">https://thebastion.co.in/politics-and/cast-away-a-case-for-place-based-education-in-the-andaman-and-nicobar-islands/</a></li>
+<li><strong>Popular Article</strong><br>Modi, K. (2021, April 17). Cast Away: A Case For Place-based Education in the Andaman and Nicobar Islands. Retrieved from The Bastion: <a href="https://thebastion.co.in/politics-and/cast-away-a-case-for-place-based-education-in-the-andaman-and-nicobar-islands/" class="text_anchore_tag">www.thebastion.co.in/politics-and/cast-away-a-case-for-place-based-education-in-the-andaman-and-nicobar-islands/</a></li>
 
 <li><strong>Student Book Chapter</strong><br>Modi, K. (2020) Reproducing Silences: Using “purity” of language to maim the disenfranchised. In O. Prakash, & R. Kumar (Eds.), Apprenticeship in Language Studies (pp. 148-159). Guwahati: Eastern Book House.</li>
 
