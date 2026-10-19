@@ -1830,7 +1830,7 @@
                                                                                         for Action and Reconducted
                                                                                         medical camps in Bopkhel on 11th
                                                                                         of September and at the
-                                                                                        Symbiosis Vimannagar New Campus
+                                                                                        Symbiosis Viman Nagar New Campus
                                                                                         (SVNC) on 16th September ‘2019.
                                                                                         At the camps, blood tests and
                                                                                         cervical cancer screenings were

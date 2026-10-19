@@ -69,7 +69,7 @@
                                             </div>
                                             <div class="new_student_councile_mailbox_right">
                                                 <div class="new_student_councile_mailbox_right_head">Students may reach out to the council via the group email</div>
-                                                <a href="mailto:studentcouncil@ssla.edu.in" class="new_student_councile_mailbox_right_mail">studentcouncil@ssla.edu.in</a>
+                                                <a href="mailto:studentcouncil@ssla.edu.in" class="text_anchore_tag">studentcouncil@ssla.edu.in</a>
                                             </div>
                                         </div>
                                         <div class="new_student_council_img_box">
@@ -330,9 +330,9 @@
                                                                                             some good material, and
                                                                                             leave feeling happier and
                                                                                             comically satisfied</p>
-                                                                                        <p><strong>HEAD :</strong>
+                                                                                        <p>HEAD :
                                                                                             Kavisha Suna</p>
-                                                                                        <p><strong>SECRETARY : </strong>
+                                                                                        <p>SECRETARY :
                                                                                             Sakshi Rawat</p>
                                                                                     </div>
                                                                                     <div class="col-md-6">

@@ -199,8 +199,8 @@
                                 Nag, & D. Tuteja (Eds.), Trade, Investment and Economic Growth: Issues for India and
                                 Emerging Economies (pp. 109–119). Springer.
                                 <a href="https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7" target="_blank"
-                                    class="text-danger">
-                                    https://link.springer.com/chapter/10.1007/978-981-33-6973-3_7
+                                    class="text_anchore_tag">
+                                    www.link.springer.com/chapter/10.1007/978-981-33-6973-3_7
                                 </a>
                             </li>
 
@@ -212,8 +212,8 @@
                                 Weber, & J. Leung (Eds), Optimization and Data Science in Industrial Engineering (pp.
                                 182–198). Springer Nature Switzerland.
                                 <a href="https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11" target="_blank"
-                                    class="text-danger">
-                                    https://link.springer.com/chapter/10.1007/978-3-031-81458-7_11
+                                    class="text_anchore_tag">
+                                    www.link.springer.com/chapter/10.1007/978-3-031-81458-7_11
                                 </a>
                             </li>
                         </ol>

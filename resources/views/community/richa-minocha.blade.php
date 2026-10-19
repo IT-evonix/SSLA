@@ -194,10 +194,10 @@
                             <hr>
                             <p class="mb-2"><strong>Research Papers in Journals</strong></p>
                             <li>
-                                Minocha, Richa, Aishi Mitra, and Neha Dadke. (2023) Social Singularities in Cosmic Environments: Engendering Big History. Journal of Big History, VI (2):  1–10.DOI | <a href="https://doi.org/10.22339/jbh.v6i2.6201https://jbh.journals.villanova.edu/index.php/JBH/article/view/2902/2733" target="_blank">https://doi.org/10.22339/jbh.v6i2.6201https://jbh.journals.villanova.edu/index.php/JBH/article/view/2902/2733</a>.
+                                Minocha, Richa, Aishi Mitra, and Neha Dadke. (2023) Social Singularities in Cosmic Environments: Engendering Big History. Journal of Big History, VI (2):  1–10.DOI | <a class="text_anchore_tag" href="https://doi.org/10.22339/jbh.v6i2.6201" target="_blank">www.doi.org/10.22339/jbh.v6i2.6201</a> and <a class="text_anchore_tag" href="https://jbh.journals.villanova.edu/index.php/JBH/article/view/2902/2733" target="_blank" rel="noopener noreferrer">www.jbh.journals.villanova.edu/index.php/JBH/article/view/2902/2733</a> .
                             </li>
                             <li>
-                                Minocha, Richa (2020). India’s Unabated Urbanization. Toward Freedom, A Progressive Perspective on World Events since 1952, Vermont, United States of America, July 31st. <a href="https://towardfreedom.org/story/indias-unabated-urbanization/" target="_blank">https://towardfreedom.org/story/indias-unabated-urbanization/</a>
+                                Minocha, Richa (2020). India’s Unabated Urbanization. Toward Freedom, A Progressive Perspective on World Events since 1952, Vermont, United States of America, July 31st. <a class="text_anchore_tag" href="https://towardfreedom.org/story/indias-unabated-urbanization/" target="_blank">www.towardfreedom.org/story/indias-unabated-urbanization/</a>
                             </li>
                             <li>
                                 Minocha, Richa (2015). Gender, Environment and Social Transformation: A Case of  Selected Villages in Himachal Pradesh. Indian Journal of Gender Studies, 22(3) 335–357, CWDS, New Delhi: Sage Publications. DOI: 10.1177/0971521515594274.  

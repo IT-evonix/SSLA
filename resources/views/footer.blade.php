@@ -246,7 +246,7 @@
                 <a href="#"
                    id="externalLinkProceed"
                    class="btn btn-link">
-                    Know More
+                    Continue
                 </a>
             </div>
 

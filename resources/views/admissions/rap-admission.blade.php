@@ -146,21 +146,24 @@
                                                                                             plans, while demonstrating
                                                                                             how they intend to
                                                                                             contribute meaningfully to
-                                                                                            SSLA.</li>
-                                                                                    </ul>
-                                                                                </li>
-                                                                                <li>
-                                                                                    Please ensure that the SOP adheres
-                                                                                    to the following guidelines:
-                                                                                    <ul class="my_sub_sub_list">
-                                                                                        <li>It must be written in Times
-                                                                                            New Roman, font size 12.
+                                                                                            SSLA.
+                                                                                            <ul>
+                                                                                                <li>
+                                                                                                    Please ensure that the SOP adheres
+                                                                                                to the following guidelines:
+                                                                                                <ul class="my_sub_sub_list">
+                                                                                                    <li>It must be written in Times
+                                                                                                        New Roman, font size 12.
+                                                                                                    </li>
+                                                                                                    <li>The total word count should
+                                                                                                        not exceed 500 words.</li>
+                                                                                                    <li>The candidate’s name must be
+                                                                                                        clearly mentioned at the top
+                                                                                                        of the document.</li>
+                                                                                                </ul>
+                                                                                                </li>
+                                                                                            </ul>
                                                                                         </li>
-                                                                                        <li>The total word count should
-                                                                                            not exceed 500 words.</li>
-                                                                                        <li>The candidate’s name must be
-                                                                                            clearly mentioned at the top
-                                                                                            of the document.</li>
                                                                                     </ul>
                                                                                 </li>
                                                                             </ul>
@@ -253,7 +256,7 @@
                                                                 <div class="">
                                                                     <div class="table-responsive">
                                                                         <table
-                                                                            class="table table-bordered align-middle admission-table">
+                                                                            class="table">
                                                                             <thead>
                                                                                 <tr>
                                                                                     <th>Components</th>

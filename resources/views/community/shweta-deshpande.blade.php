@@ -248,8 +248,8 @@
                                 2025 An Accidental Deity: A New Religious Icon for the Modern Age in Social Evolution &
                                 History, Volume 24, NUMBER 1 / MARCH 2025. (with Atiya Fatima and Afshan Majid)
                                 DOI:
-                                <a href="https://doi.org/10.30884/seh/2025.01.00" target="_blank" class="text-danger">
-                                    https://doi.org/10.30884/seh/2025.01.00
+                                <a href="https://doi.org/10.30884/seh/2025.01.00" target="_blank" class="text_anchore_tag">
+                                    www.doi.org/10.30884/seh/2025.01.00
                                 </a>
                             </li>
 
@@ -257,11 +257,11 @@
                                 2025 An Exploratory Study on Bonding and Bridging Social Capital Among the Non-Displaced
                                 Kashmiri Pandits in Kashmir, India. Journal of Population and Social Studies [JPSS], 33,
                                 596–610. (with Avinash Kaul). DOI: <a href="http://dx.doi.org/10.25133/JPSSv332025.032" target="_blank"
-                                    class="text-danger"> 10.25133/JPSSv332025.032
+                                    class="text_anchore_tag"> 10.25133/JPSSv332025.032
                                 </a><br>
                                 <a href="https://so03.tci-thaijo.org/index.php/jpss/article/view/277074" target="_blank"
-                                    class="text-danger">
-                                    (https://so03.tci-thaijo.org/index.php/jpss/article/view/277074)
+                                    class="text_anchore_tag">
+                                    (www.so03.tci-thaijo.org/index.php/jpss/article/view/277074)
                                 </a>
                             </li>
 
@@ -270,12 +270,12 @@
                                 Archaeological Research in Asia. Volume 39, September 2024, 100538, ISSN 2352-2267.
                                 (with Dr. Esha Prasad).
                                
-                                <a href="https://doi.org/10.1016/j.ara.2024.100538" target="_blank" class="text-danger">
-                                    https://doi.org/10.1016/j.ara.2024.100538
+                                <a href="https://doi.org/10.1016/j.ara.2024.100538" target="_blank" class="text_anchore_tag">
+                                    www.doi.org/10.1016/j.ara.2024.100538
                                 </a>
                                 <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352226724000394klo"
-                                    target="_blank" class="text-danger">
-                                    (https://www.sciencedirect.com/science/article/pii/S2352226724000394)
+                                    target="_blank" class="text_anchore_tag">
+                                    (www.sciencedirect.com/science/article/pii/S2352226724000394)
                                 </a>
                             </li>
 
@@ -283,8 +283,8 @@
                                 2024 Curriculum and Community with Research, Action, and Service (CCBALwRAS), a
                                 Pedagogical Shift for Social Change submitted to Higher Education for the Future (with
                                 Dr. Sulakshana Sen, Ms. Gayatri Mendanha and others).
-                                <a href="https://doi.org/10.1177/23476311231210636" target="_blank" class="text-danger">
-                                    https://doi.org/10.1177/23476311231210636
+                                <a href="https://doi.org/10.1177/23476311231210636" target="_blank" class="text_anchore_tag">
+                                    www.doi.org/10.1177/23476311231210636
                                 </a>
                             </li>
 
@@ -293,8 +293,8 @@
                                 Encyclopedia of Anthropology (with Dr. Esha Prasad).
                                 doi:
                                 <a href="https://doi.org/10.1093/acrefore/9780190854584.013.567.7" target="_blank"
-                                    class="text-danger">
-                                    https://doi.org/10.1093/acrefore/9780190854584.013.567.7
+                                    class="text_anchore_tag">
+                                    www.doi.org/10.1093/acrefore/9780190854584.013.567.7
                                 </a>
                             </li>
 

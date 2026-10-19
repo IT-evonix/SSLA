@@ -17,6 +17,7 @@
 <main class="staff_main research-main-sec">
     <!-- Inner section start -->
     <section class="inner_section main-financials new-main-financials">
+        <h1 class="inner__red_heading">Financial</h1>
         <div class="container">
             <div class="inner_tab_mainbox">
                 <div class="inner_tab_box">
@@ -65,7 +66,7 @@
                                         <div class="col-lg-12">
                                             <div class="new_academic_fee_tab_content_box">
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th>Program Fees for Bachelor of Arts (Liberal Arts)
@@ -88,7 +89,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -117,9 +118,9 @@
                                                                 <td>-</td>
                                                             </tr>
                                                             <tr>
-                                                                <td>Installments</td>
-                                                                <td>₹ 2,75,000</td>
-                                                                <td>₹ 2,55,000</td>
+                                                                <td><strong>Installments</strong></td>
+                                                                <td><strong>₹ 2,75,000</strong></td>
+                                                                <td><strong>₹ 2,55,000</strong></td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Last date of payment</td>
@@ -130,7 +131,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -243,7 +244,7 @@
                                                         PIO, OCI Category.</span>
                                                 </p>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -297,7 +298,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -339,10 +340,10 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <td>Installments</td>
-                                                                <td>$1,365</td>
-                                                                <td>$4,520</td>
-                                                                <td>$4,515</td>
+                                                                <td><strong>Installments</strong></td>
+                                                                <td><strong>$1,365</strong></td>
+                                                                <td><strong>$4,520</strong></td>
+                                                                <td><strong>$4,515</strong></td>
                                                             </tr>
 
                                                             <tr>
@@ -355,7 +356,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -469,7 +470,7 @@
                                                     </span>
                                                 </p>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -532,7 +533,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="table-responsive mb-2">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -574,10 +575,10 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <td>Installments</td>
-                                                                <td>$1,365</td>
-                                                                <td>$240</td>
-                                                                <td>$245</td>
+                                                                <td><strong>Installments</strong></td>
+                                                                <td><strong>$1,365</strong></td>
+                                                                <td><strong>$240</strong></td>
+                                                                <td><strong>$245</strong></td>
                                                             </tr>
 
                                                             <tr>
@@ -590,7 +591,7 @@
                                                     </table>
                                                 </div>
                                                 <div class="table-responsive">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
@@ -734,7 +735,7 @@
                                     <!-- Header -->
                                     <div class="row">
                                         <div class="col-lg-12 text-center">
-                                            <h2 class="inner__subheading" data-aos="fade-up">Symbiosis Vimannagar New &
+                                            <h2 class="inner__subheading" data-aos="fade-up">Symbiosis Viman Nagar New &
                                                 Ishanya
                                                 Campus</h2>
                                         </div>
@@ -746,7 +747,7 @@
                                                 Hostel and mess fees for freshers: new viman nagar campus – AY 2023–24
                                             </h3>
                                             <div class="table-responsive">
-                                                <table class="table table-bordered align-middle admission-table">
+                                                <table class="table">
                                                     <thead>
                                                         <tr>
                                                             <th>Sr. No.</th>
@@ -804,7 +805,7 @@
                                         <!-- Header -->
                                         <div class="row mt-5">
                                             <div class="col-lg-12 text-center">
-                                                <h2 class="rc-title" data-aos="fade-up">Symbiosis Vimannagar Campus</h2>
+                                                <h2 class="rc-title" data-aos="fade-up">Symbiosis Viman Nagar Campus</h2>
                                             </div>
                                         </div>
                                         <!-- Content -->
@@ -814,7 +815,7 @@
                                                     Hostel and mess fees for freshers: viman nagar campus – AY 2023-24
                                                 </h3>
                                                 <div class="table-responsive">
-                                                    <table class="table table-bordered align-middle admission-table">
+                                                    <table class="table">
                                                         <thead>
                                                             <tr>
                                                                 <th>Sr. No.</th>
@@ -977,7 +978,7 @@
                                             <!-- Header -->
                                             <div class="row">
                                                 <div class="col-lg-12 text-center">
-                                                    <h2 class="rc-title" data-aos="fade-up">Hostel details vimannagar
+                                                    <h2 class="rc-title" data-aos="fade-up">Hostel details Viman Nagar
                                                         campus
                                                     </h2>
                                                 </div>
@@ -1016,7 +1017,7 @@
                                                     <h3>Tulip</h3>
                                                     <p class="sharing">3 x sharing</p>
                                                     <p class="distance">
-                                                        new vimannagar campus
+                                                        new viman nagar campus
                                                     </p>
                                                 </div>
 

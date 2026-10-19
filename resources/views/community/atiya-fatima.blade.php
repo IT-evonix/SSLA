@@ -169,7 +169,7 @@
                         <ol class="ps-3">
                             <li>Chetan S.V. & Fathima A. (2015). Effectiveness of Using Games in Classsrooms. In Kulkarni D. S.,Kulkarni N.A. & Jugale YV (Eds.), Enhancing Quality Education and Environment Consciousness Through IQAC in Colleges. Proceedings of NAAC Sponsored Two Day Seminar. (pp. 64-67). Hatkanangale, Kolhapur: Sant Dyaneshwar Shikshan Sanstha and Nirmiti Sanwad Pro.Pvt.Ltd. [ISBN: 978-93-82028-82-6]</li>
                             <li>Chetan S.V. & Fathima, A. (2015). The Use of F-Word among High School Students. The International Journal of Indian Psychology,2,4,131-139. [ISSN:2348-5396(e)]</li>
-                            <li>Shweta Sinha Deshpande, Atiya Fathima, Afshan Majid, Barry Rodrigue, 2025 An Accidental Deity: A New Religious Icon for the Modern Age in Social Evolution & History, Volume 24, NUMBER 1 / MARCH 2025.  DOI:<a href=" https://doi.org/10.30884/seh/2025.01.00"> https://doi.org/10.30884/seh/2025.01.00</a></li>                       
+                            <li>Shweta Sinha Deshpande, Atiya Fathima, Afshan Majid, Barry Rodrigue, 2025 An Accidental Deity: A New Religious Icon for the Modern Age in Social Evolution & History, Volume 24, NUMBER 1 / MARCH 2025.  DOI:<a href=" https://doi.org/10.30884/seh/2025.01.00" class="text_anchore_tag"> www.doi.org/10.30884/seh/2025.01.00</a></li>                       
                         </ol>
                     </div>
                 </div>

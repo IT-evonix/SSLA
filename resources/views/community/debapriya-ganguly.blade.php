@@ -182,33 +182,33 @@
                         <ol class="ps-3">
                             <li>[Co-Authored with Vishal Chaudhari] “Vulnerabilities of Private Healthcare Workers
                                 during COVID19 Pandemic” in South Asia Research (2026), Volume 45, No. 3. <a
-                                    href="https://doi/10.1177/02627280261415967" class="text-danger"
-                                    target="_blank">https://doi/10.1177/02627280261415967</a>. </li>
+                                    href="https://doi/10.1177/02627280261415967" class="text_anchore_tag"
+                                    target="_blank">www.doi/10.1177/02627280261415967</a>. </li>
                             <li>[Co-Authored with Aaron Reudenbach] “Spa Tourism and Urban Transformation: The
                                 (re)imagination of Montecatini” in Urbanities (2025), Volume 15, Issue No.2. </li>
                             <li>The right to sustainable urban life? Contextualising the Chipko March in Pune. (2025).
                                 Urban Now, International Journal of Urban and Regional Research.<a
                                     href="https://www.ijurr.org/the-urban-now/the-right-to-sustainable-urban-life-contextualizing-the-chipko-march-in-pune/"
-                                    class="text-danger"
-                                    target="_blank">https://www.ijurr.org/the-urban-now/the-right-to-sustainable-urban-life-contextualizing-the-chipko-march-in-pune/</a>.
+                                    class="text_anchore_tag"
+                                    target="_blank">www.ijurr.org/the-urban-now/the-right-to-sustainable-urban-life-contextualizing-the-chipko-march-in-pune/</a>.
                             </li>
                             <li>Internet Activism and the Populist Agenda, in Joseph Chacko Chennattuserry, Madhumati
                                 Deshpande, Paul Hong (ed.) Encyclopaedia of New Populism and Responses in the 21st
                                 Century, Springer (Singapore), 2024. <a
-                                    href="https://doi.org/10.1007/978-981-16-9859-0_424-1" class="text-danger"
-                                    target="_blank">https://doi.org/10.1007/978-981-16-9859-0_424-1</a>.</li>
+                                    href="https://doi.org/10.1007/978-981-16-9859-0_424-1" class="text_anchore_tag"
+                                    target="_blank">www.doi.org/10.1007/978-981-16-9859-0_424-1</a>.</li>
                             <li>‘Death’ of a Teacher?: Pandemic, Pedagogy and Virtual Classrooms in Globalisation,
                                 Societies and Education (2023), Volume 23, Issue 5. <a
-                                    href="https://doi.org/10.1080/14767724.2023.2249432" class="text-danger"
-                                    target="_blank">https://doi.org/10.1080/14767724.2023.2249432</a>. </li>
+                                    href="https://doi.org/10.1080/14767724.2023.2249432" class="text_anchore_tag"
+                                    target="_blank">www.doi.org/10.1080/14767724.2023.2249432</a>. </li>
                             <li>[Co-Authored with Rakesh M Krishnan] Class, Consumption and Culture: High Streets and
                                 the Neoliberal Imagination of the Indian Cities, Sadan Jha and Gauri Bharat (eds.).
                                 Social Life of Streets in India, Bloomsbury, 2023.</li>
                             <li>State, Governance and Urban Poor: Insights from Visakhapatnam City, in Jenia Mukherjee
                                 (ed.) Sustainable Urbanisation in India: Challenges and Opportunities, Springer
                                 (Singapore), 2018. <a href="https://link.springer.com/book/10.1007/978-981-10-4932-3"
-                                    class="text-danger"
-                                    target="_blank">https://link.springer.com/book/10.1007/978-981-10-4932-3</a>. </li>
+                                    class="text_anchore_tag"
+                                    target="_blank">www.link.springer.com/book/10.1007/978-981-10-4932-3</a>. </li>
                             <li>“Free Nagas” and the Indian State: Negotiations between a 'Nation' and a 'Region'" in
                                 Man and Society: A Journal of North-East Studies (2017), Volume XIV. [An ICSSR-NERC
                                 journal].</li>

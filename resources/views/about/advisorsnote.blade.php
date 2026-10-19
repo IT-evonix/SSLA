@@ -25,9 +25,9 @@
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <!-- Interactive Accordion -->
                     <div class="director-desk">
-                        <h2 class="director-name mt-0 text-center">
+                        <!-- <h2 class="director-name mt-0 text-center">
                             From the Advisor’s Desk
-                        </h2>
+                        </h2> -->
 
                         <div class="director-text">
                             <p>We live in a world that seems to be forever changing… a new world with dynamic challenges

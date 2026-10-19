@@ -70,10 +70,11 @@
                                 Process for International Students
                             </div>
                             <p class="text_justify">
-                                International admissions to Symbiosis International (Deemed University) are centrally managed through the Symbiosis Centre for International Education (SCIE).
+                                International admissions to Symbiosis International (Deemed University) are centrally managed through the Symbiosis Centre for International Education (SCIE). A detailed step-by-step application procedure is available on
+                        <a class="text_anchore_tag" href="https://www.scie.ac.in" target="_blank">www.scie.ac.in</a>.
                             </p>
-                            <div class="new_badge">
-                                20% Intake Reserved for International Applicants
+                            <div class="">
+                                <strong>20% Intake Reserved for International Applicants</strong>
                             </div>
                         </div>
                     </div>
@@ -114,20 +115,19 @@
                             A student is eligible to apply as a Non-Resident Indian (NRI) if he/she has appeared for
                             either 10th or 10+2 (equivalent to the Indian <strong>10th or 12th</strong> ) examination
                             outside India. It is mandatory for one of the two qualifying examinations to be given
-                            outside India. Please refer www.scie.ac.in for more details.
+                            outside India. Please refer <a class="text_anchore_tag" href="https://www.scie.ac.in" target="_blank">www.scie.ac.in</a> for more details.
                         </p>
                     </div>
                 </div>
 
-                <div class="info-box action-box international_without_padding_box">
+                <!-- <div class="info-box action-box international_without_padding_box"> -->
+                <div class="">
                     <p>
-                        A detailed step-by-step application procedure is available on
-                        <a href="https://www.scie.ac.in" target="_blank"><strong>https://www.scie.ac.in</strong></a>.
                         Candidates can apply online using SCIE’s user-friendly application portal.
                     </p>
                     <div class="new_internationall_email_mainbox">
                         <div class="new_internationall_email_mainbox_icon">
-                            <svg width="30" height="30" x="0" y="0" viewBox="0 0 512 512">
+                            <svg width="50" height="50" x="0" y="0" viewBox="0 0 512 512">
                                 <circle r="256" cx="256" cy="256" fill="#007382" shape="circle"
                                     transform="matrix(0.8,0,0,0.8,51.19999999999999,51.19999999999999)">
                                 </circle>
