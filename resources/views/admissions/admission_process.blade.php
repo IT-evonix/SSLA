@@ -25,18 +25,16 @@
             <div class="rap_admission_mainbox">
                 <div class="rc-overview mb-5">
                     <div class="set-container">
-                        <div class="info-box">
-                            <p>
-                                The SSLA UG Admissions follow two entry pathways - the Symbiosis Entrance Test (SET) and the Non-SET Rolling Admissions Process (RAP). Candidates have the choice to opt for either of the above processes to seek admission to SSLA.
-                            </p>
-                            <ul class="rap-note-list">
-                                <li>Both the processes follow independent timelines.</li>
-                                <li>Seats for each of the processes are earmarked separately and evenly divided.</li>
-                                <li>RAP will commence in September and close in December.</li>
-                                <li>SET will commence in December and close in April.</li>
-                                <li>The eligibility criteria mentioned is applicable to both SET and RAP.</li>
-                            </ul>
-                        </div>
+                        <p>
+                            The SSLA UG Admissions follow two entry pathways - the Symbiosis Entrance Test (SET) and the Non-SET Rolling Admissions Process (RAP). Candidates have the choice to opt for either of the above processes to seek admission to SSLA.
+                        </p>
+                        <ul class="rap-note-list">
+                            <li>Both the processes follow independent timelines.</li>
+                            <li>Seats for each of the processes are earmarked separately and evenly divided.</li>
+                            <li>RAP will commence in September and close in December.</li>
+                            <li>SET will commence in December and close in April.</li>
+                            <li>The eligibility criteria mentioned is applicable to both SET and RAP.</li>
+                        </ul>
                     </div>
                 </div>
                 <div class="rap-admission-section">
@@ -108,7 +106,8 @@
                                             <div class="">
                                                 <p>SET 2026 will be conducted on two different dates. Please note these
                                                     dates carefully:</p>
-                                                <div class="table-responsive">
+                                                <p>Date of SET 2026 and Time : May 02, 2026 (Saturday) and May 10, 2026 (Sunday) - 09.00 am – 10.00 am</p>
+                                                <!-- <div class="table-responsive">
                                                     <table class="table">
                                                         <thead>
                                                             <tr>
@@ -126,7 +125,7 @@
                                                             </tr>
                                                         </tbody>
                                                     </table>
-                                                </div>
+                                                </div> -->
                                                 <div class="card">
                                                     <div class="card-body">
                                                         <h6 class="fw-bold mb-3">Important Note</h6>

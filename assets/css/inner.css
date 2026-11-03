@@ -165,7 +165,7 @@
 .faculty_details_section ol li, .faculty_details_section ul li {
     margin-bottom: 8px;
     font-size: 15px;
-    list-style-type: disclosure-closed;
+    list-style-type: disc;
     text-align: justify;
 }
 
@@ -208,6 +208,11 @@
     margin-bottom: 10px;
 }
 
+
+.section-card li::marker {
+    font-size: 24px;
+    color: var(--color-red);
+}
 
 /* Faculty page css start */
 /* ===== Faculty Card ===== */
@@ -775,7 +780,7 @@
 
 .rap_admission_main .rap-note-list li {
     position: relative;
-    padding-left: 30px;
+    padding-left: 22px;
     margin-bottom: 18px;
     font-size: 16px;
     line-height: 1.5;
@@ -801,13 +806,24 @@
     color: var(--color-red);
 }
 
-.rap_admission_main .rap-note-list li::before {
+/* .rap_admission_main .rap-note-list li::before {
     content: "➤";
     position: absolute;
     left: 0;
     top: 2px;
     color: #EC3536;
     font-size: 16px;
+} */
+
+.rap_admission_main .rap-note-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: #EC3536;
 }
 
 .rap_admission_main .rap-terms-section {
@@ -1230,7 +1246,8 @@
     /* font-family: Montserrat-Bold; */
     font-family: 'Roboto-Regular';
     font-size: 15px;
-    color: #EC3536;
+    /* color: #EC3536; */
+    color: #6a6a6a;
     text-align: center;
 }
 
@@ -2803,16 +2820,24 @@ span.badge {
     margin-bottom: 6px;
     /* font-size: 14px; */
     position: relative;
-    padding-left: 20px;
+    padding-left: 22px;
 }
 
 .cop-list li::before {
-    content: "➤";
+    /* content: "➤";
     position: absolute;
     left: 0;
-    color: #EC3536;
+    color: #EC3536; */
     /* arrow color */
-    font-size: 14px;
+    /* font-size: 14px; */
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: var(--color-red);
 }
 
 

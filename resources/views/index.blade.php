@@ -74,7 +74,7 @@
         <div class="red_box red_box2">
             <div class="red_box_inner">
                 <div class="red_img">
-                    <img src="{{ asset('assets/images/home/community_icon.png') }}" style="max-width: 70px;"
+                    <img src="{{ asset('assets/images/home/community_icon.svg') }}" style="max-width: 70px;"
                         alt="Scrolling Image" class="scroll-image" />
                 </div>
                 <div class="red_rightbox">
@@ -112,7 +112,7 @@
         <div class="red_box red_box3">
             <div class="red_box_inner">
                 <div class="red_img" style="width: 20%;">
-                    <img src="{{ asset('assets/images/home/academic_icon.png') }}" style="max-width: 70px;"
+                    <img src="{{ asset('assets/images/home/academic_icon.svg') }}" style="max-width: 70px;"
                         alt="Scrolling Image" class="scroll-image" />
                 </div>
                 <div class="red_rightbox" style="width: 75%;">

@@ -72,8 +72,8 @@
                                             <td>24</td>
                                         </tr>
                                         <tr>
-                                            <td>Total Credits over 8 semesters</td>
-                                            <td>176</td>
+                                            <td><strong>Total Credits over 8 semesters</strong></td>
+                                            <td><strong>176</strong></td>
                                         </tr>
                                     </tbody>
                                 </table>
