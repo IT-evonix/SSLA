@@ -62,13 +62,13 @@
                                                     <li>
                                                         Applicants must have passed a total of seven subjects, which
                                                         must include:
-                                                        <span class="new__sub_point_margin">
-                                                            - Five subjects at Ordinary Level (O Level) with grades A,
-                                                            B, or C, including English, and <br>
-                                                            - Two subjects at Advanced Level (A Level) <br>
+                                                        <ul class="my_sub_list">
+                                                            <li>Five subjects at Ordinary Level (O Level) with grades A,
+                                                            B, or C, including English, and</li>
+                                                            <li>Two subjects at Advanced Level (A Level)
                                                             <i>(Alternatively, four O Level subjects and three A Level
-                                                                subjects may be accepted, subject to equivalence).</i>
-                                                        </span>
+                                                                subjects may be accepted, subject to equivalence).</i></li>
+                                                        </ul>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -90,10 +90,10 @@
                                                     </li>
                                                     <li>
                                                         Successful completion of six subjects, including:
-                                                        <span class="new__sub_point_margin">
-                                                            - Three subjects at Higher Level (HL) <br>
-                                                            - Three subjects at Standard Level (SL)
-                                                        </span>
+                                                        <ul class="my_sub_list">
+                                                            <li>Three subjects at Higher Level (HL)</li>
+                                                            <li>Three subjects at Standard Level (SL)</li>
+                                                        </ul>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -107,18 +107,18 @@
                                                     </li>
                                                     <li>
                                                         Successful completion of six subjects, including:
-                                                        <span class="new__sub_point_margin">
-                                                            - Three subjects at Higher Level (HL) <br>
-                                                            - Three subjects at Standard Level (SL)
-                                                        </span>
+                                                        <ul class="my_sub_list">
+                                                            <li>Three subjects at Higher Level (HL)</li>
+                                                            <li>Three subjects at Standard Level (SL)</li>
+                                                        </ul>
                                                     </li>
                                                     <li>
                                                         Mandatory completion of the core components:
-                                                        <span class="new__sub_point_margin">
-                                                            - Extended Essay (EE) <br>
-                                                            - Creativity, Activity, Service (CAS) <br>
-                                                            - Theory of Knowledge (TOK)
-                                                        </span>
+                                                        <ul class="my_sub_list">
+                                                            <li>Extended Essay (EE)</li>
+                                                            <li>Creativity, Activity, Service (CAS)</li>
+                                                            <li>Theory of Knowledge (TOK)</li>
+                                                        </ul>
                                                     </li>
                                                     <li>
                                                         Applicants must submit their IB Diploma and official transcript
@@ -146,8 +146,7 @@
                                             <table class="table reservation_table">
                                                 <thead>
                                                     <tr>
-                                                        <th>Within the sanctioned intake</th>
-                                                        <th></th>
+                                                        <th colspan="2">Within the sanctioned intake</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -169,8 +168,7 @@
                                             <table class="table reservation_table">
                                                 <thead>
                                                     <tr>
-                                                        <th>Over and above the sanctioned intake</th>
-                                                        <th></th>
+                                                        <th colspan="2">Over and above the sanctioned intake</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>

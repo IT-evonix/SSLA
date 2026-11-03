@@ -231,34 +231,34 @@ $('.cijid_gallery').owlCarousel({
 //   }
 // });
 
-const header = document.getElementById('myHeader');
+// const header = document.getElementById('myHeader');
 
-setHeaderHeight();
+// setHeaderHeight();
 
-window.addEventListener('scroll', function () {
+// window.addEventListener('scroll', function () {
 
-    if (window.innerWidth > 991.98) {
+//     if (window.innerWidth > 991.98) {
 
-        if (window.scrollY > 0) {
-            header.classList.add('sticky');
-        } else {
-            header.classList.remove('sticky');
-        }
+//         if (window.scrollY > 0) {
+//             header.classList.add('sticky');
+//         } else {
+//             header.classList.remove('sticky');
+//         }
 
-    } else {
-        header.classList.remove('sticky');
-    }
-});
+//     } else {
+//         header.classList.remove('sticky');
+//     }
+// });
 
-window.addEventListener('resize', function () {
+// window.addEventListener('resize', function () {
 
-    if (window.innerWidth > 991.98) {
-        setHeaderHeight();
-    } else {
-        headerWrapper.style.height = '';
-        header.classList.remove('sticky');
-    }
-});
+//     if (window.innerWidth > 991.98) {
+//         setHeaderHeight();
+//     } else {
+//         headerWrapper.style.height = '';
+//         header.classList.remove('sticky');
+//     }
+// });
 
 // Sticky header ends
 
@@ -409,17 +409,17 @@ document.addEventListener("DOMContentLoaded", function () {
             if (isMailLink) {
 
                 message.textContent =
-                    "You are being redirected to your email application. Click know more to proceed.";
+                    "You are being redirected to your email application. Click continue to proceed.";
 
             } else if (isPhoneLink) {
 
                 message.textContent =
-                    "You are being redirected to your phone application. Click know more to proceed.";
+                    "You are being redirected to your phone application. Click continue to proceed.";
 
             } else {
 
                 message.textContent =
-                    "You are being redirected to an external web page. Click know more to proceed.";
+                    "You are being redirected to an external web page. Click continue to proceed.";
             }
 
             externalModal.show();

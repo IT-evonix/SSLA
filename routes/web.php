@@ -1045,4 +1045,13 @@ Route::get('caution-notice', function () {
 
 ///////// Footer Routes Ends //////////
 
+Route::get('heading', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Liberal Arts Colleges in India | Life After SSLA Pune";
+    $data_arr['keywords'] = "liberal arts colleges in india, BA Liberal Arts, BSc Liberal Arts and Sciences, liberal arts college";
+    $data_arr['description'] = "Life after SSLA Pune with BA Liberal Arts and BSc Liberal Arts and Sciences. Career options, higher studies and outcomes from a leading liberal arts college in India.";
+    $data_arr['canonical'] = "https://www.ssla.edu.in/caution-notice";
+    return view('/footer/heading', ['data_arr' => $data_arr]);
+});
+
 

@@ -32,7 +32,7 @@
                                 <div class="rap_admission_mainbox">
                                     <div class="rc-overview mb-5">
                                         <div class="set-container">
-                                            <div class="info-box">
+                                            <div class="">
                                                 <p>
                                                     The SSLA UG Admissions follow two entry pathways - the
                                                     Symbiosis Entrance Test (SET) and the
