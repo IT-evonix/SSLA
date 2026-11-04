@@ -20,7 +20,8 @@
         <div class="container" data-aos="fade-up">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="inner__red_heading">Assessments and Assignments</h1>
+                    <!-- <h1 class="inner__red_heading">Assessments and Assignments</h1> -->
+                    <h1 class="inner__red_heading">Evaluations</h1>
                 </div>
             </div>
             <div class="row justify-content-center">

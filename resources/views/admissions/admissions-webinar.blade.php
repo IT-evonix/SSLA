@@ -17,6 +17,10 @@
 <section class="main-sec-admission-process">
     <div class="container">
         <h1 class="inner__red_heading">Admission Webinar</h1>
+        <p>If you are curious about life at SSLA and what a Liberal Arts education has to offer, join our interactive
+            webinars to learn more about our programmes, admissions process, student experiences, and academic community
+            straight from our faculty and students. Sign up for an upcoming session to interact with our Director and
+            faculty, or explore recordings of past webinars to discover what makes the SSLA experience unique.</p>
         <div class="set-registration mb-4">
             <div class="research_thrust_area_heading text-center">Upcoming Webinars</div>
             <div class="table-responsive">
@@ -136,7 +140,7 @@
                             </svg>
                         </div>
                         <div class="academic_bank_of_credit_namebox">
-                            Liberal Arts @SSLA
+                            Liberal Arts @SSLA - 8th Mar, 2025
                         </div>
                     </div>
                 </a>
@@ -160,7 +164,7 @@
                             </svg>
                         </div>
                         <div class="academic_bank_of_credit_namebox">
-                            Q & A Session - SSLA Programme
+                            Q & A Session - SSLA Programme - 27th Mar, 2025
                         </div>
                     </div>
                 </a>
@@ -184,7 +188,7 @@
                             </svg>
                         </div>
                         <div class="academic_bank_of_credit_namebox">
-                            Student Life at SSLA
+                            Student Life at SSLA - 6th Oct, 2024
                         </div>
                     </div>
                 </a>
@@ -208,7 +212,7 @@
                             </svg>
                         </div>
                         <div class="academic_bank_of_credit_namebox">
-                            Conversation with SSLA Faculty
+                            Conversation with SSLA Faculty - 5th Apr, 2025
                         </div>
                     </div>
                 </a>
@@ -232,7 +236,7 @@
                             </svg>
                         </div>
                         <div class="academic_bank_of_credit_namebox">
-                            In Conversation with the SSLA Director and Faculty
+                            In Conversation with the SSLA Director and Faculty - 16th Apr, 2025
                         </div>
                     </div>
                 </a>

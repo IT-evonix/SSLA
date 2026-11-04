@@ -7302,6 +7302,26 @@
       line-height: normal;
   }
 
+  .pull_quote_box {
+    padding: 40px;
+    display: grid;
+    grid-template-columns: 3px 1fr;
+    gap: 30px;
+}
+
+.pull_quote_box p {
+    color: #1E4E8C;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Roboto-Bold';
+}
+
+.pull_quote_line {
+    width: 3px;
+    height: 100%;
+    background-color: var(--color-green);
+}
+
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
       .header_banner_section {

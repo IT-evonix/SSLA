@@ -30,7 +30,8 @@
                         </h2> -->
 
                         <div class="director-text">
-                            <p>The Twenty-first century is unprecedented and crucial for the globe and humanity. It is
+                            <p class="m-0">
+                                The Twenty-first century is unprecedented and crucial for the globe and humanity. It is
                                 the
                                 fastest-changing that history has ever seen and offers innumerable opportunities like
                                 never
@@ -38,9 +39,13 @@
                                 also
                                 vulnerable to the challenges and threats of the social, political, and physical
                                 environment
-                                leading to an ‘existential risk’. This dynamic world needs educated citizens equipped
-                                with
-                                skillsets to drive into uncharted territories and help shape our future</p>
+                                leading to an ‘existential risk’.</p>
+                            <div class="pull_quote_box">
+                                <div class="pull_quote_line"></div>
+                                <p class="m-0">
+                                    This dynamic world needs educated citizens equipped with skillsets to drive into uncharted territories and help shape our future
+                                </p>
+                            </div>    
                             <p>
                                 The world we engage with every day is not compartmentalised. It flows from one to the
                                 other. Culture, media, and education influence and shape the worldviews and lenses with
