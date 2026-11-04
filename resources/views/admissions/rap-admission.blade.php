@@ -35,7 +35,7 @@
                                             <div class="">
                                                 <p>
                                                     The SSLA UG Admissions follow two entry pathways - the
-                                                    Symbiosis Entrance Test (SET) and the
+                                                    <a href="{{url('/set-admission')}}" class="text_anchore_tag">Symbiosis Entrance Test (SET)</a> and the
                                                     Non-SET Rolling Admissions Process (RAP).
                                                     Candidates have the choice to opt for either of the above
                                                     processes to seek admission to SSLA.
@@ -46,7 +46,7 @@
                                                         evenly divided.</li>
                                                     <li>RAP will commence in September and close in December.</li>
                                                     <li>SET will commence in December and close in April.</li>
-                                                    <li>The eligibility criteria mentioned is applicable to both SET
+                                                    <li>The <a class="text_anchore_tag" href="{{url('/eligibility3')}}">eligibility criteria</a> mentioned is applicable to both SET
                                                         and RAP.</li>
                                                 </ul>
                                             </div>
@@ -146,10 +146,7 @@
                                                                                             plans, while demonstrating
                                                                                             how they intend to
                                                                                             contribute meaningfully to
-                                                                                            SSLA.
-                                                                                            <ul>
-                                                                                                <li>
-                                                                                                    Please ensure that the SOP adheres
+                                                                                            SSLA. Please ensure that the SOP adheres
                                                                                                 to the following guidelines:
                                                                                                 <ul class="my_sub_sub_list">
                                                                                                     <li>It must be written in Times
@@ -161,8 +158,6 @@
                                                                                                         clearly mentioned at the top
                                                                                                         of the document.</li>
                                                                                                 </ul>
-                                                                                                </li>
-                                                                                            </ul>
                                                                                         </li>
                                                                                     </ul>
                                                                                 </li>

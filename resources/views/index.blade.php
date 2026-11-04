@@ -528,7 +528,7 @@
                             </div>
                             <div class="our_courses_rightbox">
                                 <div class="heading">
-                                    <h2>Explore Our <span>Courses</span></h2>
+                                    <h2>Explore Our <span>Program</span></h2>
                                 </div>
                                 <div class="new_home_our_couese_para_box">
                                     <p><strong>
@@ -536,8 +536,8 @@
                                     </strong></p>
                                 </div>
                                 <div class="my_btnbox">
-                                    <a href="{{url('/courses')}}">
-                                        <div class="my_btn_namebox">Explore Courses</div>
+                                    <a href="{{url('/programdetails')}}">
+                                        <div class="my_btn_namebox">Explore Program</div>
                                         <div class="my_btn_iconbox">
                                             <svg width="15" height="15" x="0" y="0" viewBox="0 0 24 24">
                                                 <g

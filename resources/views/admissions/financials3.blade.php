@@ -17,7 +17,7 @@
 <main class="staff_main research-main-sec">
     <!-- Inner section start -->
     <section class="inner_section main-financials new-main-financials">
-        <h1 class="inner__red_heading">Financial</h1>
+        <h1 class="inner__red_heading">Financials</h1>
         <div class="container">
             <div class="inner_tab_mainbox">
                 <div class="inner_tab_box">
@@ -58,7 +58,7 @@
                                                 The fees mentioned here are only for the First Year of the programme.
                                                 Please note that Academic Fees can be increased up to 10% over the
                                                 duration of the entire programme. Government taxes (if any) would be
-                                                additional as and when applicable.
+                                                additional as and when applicable. Hostel fees can be increased up to 15% each year and Mess Fees can be increased up to 10% each year. Government taxes would be additional as and when applicable. 50% Concession will be given only to the Foreign National students on Administrative Fees
                                             </p>
                                         </div>
                                     </div>

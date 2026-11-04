@@ -26,14 +26,14 @@
                 <div class="rc-overview mb-5">
                     <div class="set-container">
                         <p>
-                            The SSLA UG Admissions follow two entry pathways - the Symbiosis Entrance Test (SET) and the Non-SET Rolling Admissions Process (RAP). Candidates have the choice to opt for either of the above processes to seek admission to SSLA.
+                            The SSLA UG Admissions follow two entry pathways - the Symbiosis Entrance Test (SET) and the Non-SET <a class="text_anchore_tag" href="{{url('/rap-admission')}}">Rolling Admissions Process (RAP)</a>. Candidates have the choice to opt for either of the above processes to seek admission to SSLA.
                         </p>
                         <ul class="rap-note-list">
                             <li>Both the processes follow independent timelines.</li>
                             <li>Seats for each of the processes are earmarked separately and evenly divided.</li>
                             <li>RAP will commence in September and close in December.</li>
                             <li>SET will commence in December and close in April.</li>
-                            <li>The eligibility criteria mentioned is applicable to both SET and RAP.</li>
+                            <li>The <a class="text_anchore_tag" href="{{url('/eligibility3')}}">eligibility criteria</a> mentioned is applicable to both SET and RAP.</li>
                         </ul>
                     </div>
                 </div>
@@ -654,27 +654,20 @@
                                                                 <td>Classes Begin</td>
                                                                 <td>Monday - 20th July 2026</td>
                                                             </tr>
-                                                            <tr>
-                                                                <td colspan="2">Please note SIU reserves the right
-                                                                    to change
-                                                                    these dates in view of any unavoidable
-                                                                    circumstances.</td>
-                                                            </tr>
-                                                            <tr colspan="2">
-                                                                <td colspan="2">** Programme Commencement with
-                                                                    compulsory
-                                                                    attendance through the week of Induction &
-                                                                    Orientation.</td>
-                                                            </tr>
-
 
                                                         </tbody>
                                                     </table>
                                                 </div>
+                                                <p>
+                                                    ** Programme Commencement with compulsory attendance through the week of Induction & Orientation.
+                                                </p>
                                                 <div class="card">
                                                     <div class="card-body">
                                                         <h6 class="fw-bold mb-3">Important Note</h6>
                                                             <ul class="rap-note-list">
+                                                                <li>
+                                                                    SIU reserves the right to change these dates in view of any unavoidable circumstances.
+                                                                </li>
                                                                 <li>Please note that SET 2026 will be
                                                                     conducted in Computer Based Test (CBT)
                                                                     mode.</li>

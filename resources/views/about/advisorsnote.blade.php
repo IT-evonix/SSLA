@@ -30,11 +30,16 @@
                         </h2> -->
 
                         <div class="director-text">
-                            <p>We live in a world that seems to be forever changing… a new world with dynamic challenges
+                            <p class="m-0">We live in a world that seems to be forever changing… a new world with dynamic challenges
                                 that requires young enthusiastic adults capable of playing positive and fruitful roles
-                                in organizations and communities. Symbiosis School for Liberal Arts (SSLA) strongly
-                                believes in the importance of a comprehensive education in preparation for career
-                                advancement and the exercise of leadership.</p>
+                                in organizations and communities.</p>
+
+                                <div class="pull_quote_box">
+                                    <div class="pull_quote_line"></div>
+                                    <p class="m-0">
+                                        Symbiosis School for Liberal Arts (SSLA) strongly believes in the importance of a comprehensive education in preparation for career advancement and the exercise of leadership.
+                                    </p>
+                                </div>  
                             <p>
                                 We believe organizations and society have an urgent need for creative individuals who
                                 will readily learn on the job, after having been exposed to a broad and comprehensive
