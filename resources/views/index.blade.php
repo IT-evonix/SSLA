@@ -518,12 +518,12 @@
                         <div class="our_courses_mainbox">
                             <div class="our_courses_leftbox">
                                 <div class="our_courses_imgbox">
-                                    <!-- <img src="{{ asset('/assets/images/home/new-gif-home.gif') }}" alt="Curve image"
-                                        class="img-fluid boy_imgbox"> -->
-                                    <video autoplay muted loop playsinline class="img-fluid boy_imgbox">
+                                    <img src="{{ asset('/assets/images/home/home-program.webp') }}" alt="Program image"
+                                        class="img-fluid boy_imgbox">
+                                    <!-- <video autoplay muted loop playsinline class="img-fluid boy_imgbox">
                                         <source src="{{ asset('/assets/images/home/new-gif-home.webm') }}"
                                             type="video/webm">
-                                    </video>
+                                    </video> -->
                                 </div>
                             </div>
                             <div class="our_courses_rightbox">
