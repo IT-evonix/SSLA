@@ -58,7 +58,11 @@
                                                 The fees mentioned here are only for the First Year of the programme.
                                                 Please note that Academic Fees can be increased up to 10% over the
                                                 duration of the entire programme. Government taxes (if any) would be
-                                                additional as and when applicable. Hostel fees can be increased up to 15% each year and Mess Fees can be increased up to 10% each year. Government taxes would be additional as and when applicable. 50% Concession will be given only to the Foreign National students on Administrative Fees
+                                                additional as and when applicable. Hostel fees can be increased up to
+                                                15% each year and Mess Fees can be increased up to 10% each year.
+                                                Government taxes would be additional as and when applicable. 50%
+                                                Concession will be given only to the Foreign National students on
+                                                Administrative Fees
                                             </p>
                                         </div>
                                     </div>
@@ -126,9 +130,202 @@
                                                                 <td>
                                                                     <div class="last_date_iconbox">
                                                                         <div class="last_date_icon">
-                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" x="0" y="0" viewBox="0 0 682.667 682.667" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><path d="M0 512h512V0H0Z" fill="#000000" opacity="1" data-original="#000000"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 682.667)"><path d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(497 402)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(96 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(256 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(416 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(467 40)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path></g></g></svg>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                version="1.1"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                width="16" height="16" x="0" y="0"
+                                                                                viewBox="0 0 682.667 682.667"
+                                                                                style="enable-background:new 0 0 512 512"
+                                                                                xml:space="preserve">
+                                                                                <g>
+                                                                                    <defs>
+                                                                                        <clipPath id="a"
+                                                                                            clipPathUnits="userSpaceOnUse">
+                                                                                            <path d="M0 512h512V0H0Z"
+                                                                                                fill="#000000"
+                                                                                                opacity="1"
+                                                                                                data-original="#000000">
+                                                                                            </path>
+                                                                                        </clipPath>
+                                                                                    </defs>
+                                                                                    <g clip-path="url(#a)"
+                                                                                        transform="matrix(1.33333 0 0 -1.33333 0 682.667)">
+                                                                                        <path
+                                                                                            d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(497 402)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(96 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(256 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(416 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path
+                                                                                            d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(467 40)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
                                                                         </div>
-                                                                        <div class="last_date_text">Last date of payment</div>
+                                                                        <div class="last_date_text">Last date of payment
+                                                                        </div>
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of Admission</td>
@@ -145,9 +342,12 @@
                                                                     Hostel and Mess Fees
                                                                     <span class="table_small_heading">
                                                                         (Subject to campus
-                                                                        change/allotment and accommodation type wise, e.g.
-                                                                        Single Sharing, Twin Sharing, Triple Sharing, Four
-                                                                        Sharing, Dormitory) (The fees indicated herein are
+                                                                        change/allotment and accommodation type wise,
+                                                                        e.g.
+                                                                        Single Sharing, Twin Sharing, Triple Sharing,
+                                                                        Four
+                                                                        Sharing, Dormitory) (The fees indicated herein
+                                                                        are
                                                                         for Viman Nagar Campus Only)
                                                                     </span>
                                                                 </th>
@@ -238,9 +438,202 @@
                                                                 <td>
                                                                     <div class="last_date_iconbox">
                                                                         <div class="last_date_icon">
-                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" x="0" y="0" viewBox="0 0 682.667 682.667" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><path d="M0 512h512V0H0Z" fill="#000000" opacity="1" data-original="#000000"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 682.667)"><path d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(497 402)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(96 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(256 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(416 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(467 40)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path></g></g></svg>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                version="1.1"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                width="16" height="16" x="0" y="0"
+                                                                                viewBox="0 0 682.667 682.667"
+                                                                                style="enable-background:new 0 0 512 512"
+                                                                                xml:space="preserve">
+                                                                                <g>
+                                                                                    <defs>
+                                                                                        <clipPath id="a"
+                                                                                            clipPathUnits="userSpaceOnUse">
+                                                                                            <path d="M0 512h512V0H0Z"
+                                                                                                fill="#000000"
+                                                                                                opacity="1"
+                                                                                                data-original="#000000">
+                                                                                            </path>
+                                                                                        </clipPath>
+                                                                                    </defs>
+                                                                                    <g clip-path="url(#a)"
+                                                                                        transform="matrix(1.33333 0 0 -1.33333 0 682.667)">
+                                                                                        <path
+                                                                                            d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(497 402)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(96 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(256 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(416 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path
+                                                                                            d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(467 40)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
                                                                         </div>
-                                                                        <div class="last_date_text">Last date of payment</div>
+                                                                        <div class="last_date_text">Last date of payment
+                                                                        </div>
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of Admission</td>
@@ -254,7 +647,8 @@
                                                     (Annexure Il)
                                                 </p> -->
                                                 <p class="text-center mb-3">
-                                                    <span class="table-heading text-center">(a) Fees Payable by the students taking admission in NRI,
+                                                    <span class="table-heading text-center">(a) Fees Payable by the
+                                                        students taking admission in NRI,
                                                         PIO, OCI Category.</span>
                                                 </p>
                                                 <div class="table-responsive mb-2">
@@ -305,7 +699,8 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <td><strong>Total Fees to be paid (D) = (A+B+C)</strong></td>
+                                                                <td><strong>Total Fees to be paid (D) = (A+B+C)</strong>
+                                                                </td>
                                                                 <td><strong>$10,400</strong></td>
                                                             </tr>
                                                         </tbody>
@@ -364,9 +759,202 @@
                                                                 <td>
                                                                     <div class="last_date_iconbox">
                                                                         <div class="last_date_icon">
-                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" x="0" y="0" viewBox="0 0 682.667 682.667" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><path d="M0 512h512V0H0Z" fill="#000000" opacity="1" data-original="#000000"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 682.667)"><path d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(497 402)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(96 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(256 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(416 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(467 40)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path></g></g></svg>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                version="1.1"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                width="16" height="16" x="0" y="0"
+                                                                                viewBox="0 0 682.667 682.667"
+                                                                                style="enable-background:new 0 0 512 512"
+                                                                                xml:space="preserve">
+                                                                                <g>
+                                                                                    <defs>
+                                                                                        <clipPath id="a"
+                                                                                            clipPathUnits="userSpaceOnUse">
+                                                                                            <path d="M0 512h512V0H0Z"
+                                                                                                fill="#000000"
+                                                                                                opacity="1"
+                                                                                                data-original="#000000">
+                                                                                            </path>
+                                                                                        </clipPath>
+                                                                                    </defs>
+                                                                                    <g clip-path="url(#a)"
+                                                                                        transform="matrix(1.33333 0 0 -1.33333 0 682.667)">
+                                                                                        <path
+                                                                                            d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(497 402)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(96 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(256 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(416 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path
+                                                                                            d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(467 40)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
                                                                         </div>
-                                                                        <div class="last_date_text">Last date of payment</div>
+                                                                        <div class="last_date_text">Last date of payment
+                                                                        </div>
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of acceptance of ‘Offer Letter’</td>
@@ -383,9 +971,11 @@
                                                                 <th rowspan="2">
                                                                     (a) Hostel and Mess Fees
                                                                     <span class="table_small_heading">
-                                                                       (b) (Subject to campus change/allotment and
-                                                                        accommodation type wise, e.g. Single Sharing, Twin
-                                                                        Sharing, Triple Sharing, Four Sharing, Dormitory)
+                                                                        (b) (Subject to campus change/allotment and
+                                                                        accommodation type wise, e.g. Single Sharing,
+                                                                        Twin
+                                                                        Sharing, Triple Sharing, Four Sharing,
+                                                                        Dormitory)
                                                                         (The fees indicated herein are for Viman Nagar
                                                                         Campus Only)
                                                                     </span>
@@ -479,9 +1069,202 @@
                                                                 <td>
                                                                     <div class="last_date_iconbox">
                                                                         <div class="last_date_icon">
-                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" x="0" y="0" viewBox="0 0 682.667 682.667" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><path d="M0 512h512V0H0Z" fill="#000000" opacity="1" data-original="#000000"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 682.667)"><path d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(497 402)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(96 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(256 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(416 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(467 40)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path></g></g></svg>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                version="1.1"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                width="16" height="16" x="0" y="0"
+                                                                                viewBox="0 0 682.667 682.667"
+                                                                                style="enable-background:new 0 0 512 512"
+                                                                                xml:space="preserve">
+                                                                                <g>
+                                                                                    <defs>
+                                                                                        <clipPath id="a"
+                                                                                            clipPathUnits="userSpaceOnUse">
+                                                                                            <path d="M0 512h512V0H0Z"
+                                                                                                fill="#000000"
+                                                                                                opacity="1"
+                                                                                                data-original="#000000">
+                                                                                            </path>
+                                                                                        </clipPath>
+                                                                                    </defs>
+                                                                                    <g clip-path="url(#a)"
+                                                                                        transform="matrix(1.33333 0 0 -1.33333 0 682.667)">
+                                                                                        <path
+                                                                                            d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(497 402)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(96 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(256 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(416 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path
+                                                                                            d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(467 40)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
                                                                         </div>
-                                                                        <div class="last_date_text">Last date of payment</div>
+                                                                        <div class="last_date_text">Last date of payment
+                                                                        </div>
                                                                     </div>
                                                                 </td>
                                                                 <td></td>
@@ -554,7 +1337,8 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <td><strong>Total Fees to be paid (D)= (A+B+C)</strong></td>
+                                                                <td><strong>Total Fees to be paid (D)= (A+B+C)</strong>
+                                                                </td>
                                                                 <td><strong>$1,850</strong></td>
                                                             </tr>
                                                         </tbody>
@@ -613,9 +1397,202 @@
                                                                 <td>
                                                                     <div class="last_date_iconbox">
                                                                         <div class="last_date_icon">
-                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" x="0" y="0" viewBox="0 0 682.667 682.667" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><path d="M0 512h512V0H0Z" fill="#000000" opacity="1" data-original="#000000"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 682.667)"><path d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(497 402)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(96 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(256 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(416 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(467 40)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path></g></g></svg>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                version="1.1"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                width="16" height="16" x="0" y="0"
+                                                                                viewBox="0 0 682.667 682.667"
+                                                                                style="enable-background:new 0 0 512 512"
+                                                                                xml:space="preserve">
+                                                                                <g>
+                                                                                    <defs>
+                                                                                        <clipPath id="a"
+                                                                                            clipPathUnits="userSpaceOnUse">
+                                                                                            <path d="M0 512h512V0H0Z"
+                                                                                                fill="#000000"
+                                                                                                opacity="1"
+                                                                                                data-original="#000000">
+                                                                                            </path>
+                                                                                        </clipPath>
+                                                                                    </defs>
+                                                                                    <g clip-path="url(#a)"
+                                                                                        transform="matrix(1.33333 0 0 -1.33333 0 682.667)">
+                                                                                        <path
+                                                                                            d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(497 402)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(96 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(256 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(416 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path
+                                                                                            d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(467 40)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
                                                                         </div>
-                                                                        <div class="last_date_text">Last date of payment</div>
+                                                                        <div class="last_date_text">Last date of payment
+                                                                        </div>
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of acceptance of ‘Offer Letter’</td>
@@ -633,8 +1610,10 @@
                                                                     (b) Hostel and Mess Fees
                                                                     <span class="table_small_heading">
                                                                         (b) (Subject to campus change/allotment and
-                                                                        accommodation type wise, e.g. Single Sharing, Twin
-                                                                        Sharing, Triple Sharing, Four Sharing, Dormitory)
+                                                                        accommodation type wise, e.g. Single Sharing,
+                                                                        Twin
+                                                                        Sharing, Triple Sharing, Four Sharing,
+                                                                        Dormitory)
                                                                         (The fees indicated herein are for Viman Nagar
                                                                         Campus Only)
                                                                     </span>
@@ -726,9 +1705,202 @@
                                                                 <td colspan="2">
                                                                     <div class="last_date_iconbox">
                                                                         <div class="last_date_icon">
-                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" x="0" y="0" viewBox="0 0 682.667 682.667" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><path d="M0 512h512V0H0Z" fill="#000000" opacity="1" data-original="#000000"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 682.667)"><path d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(497 402)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(96 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(256 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0v80" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(416 392)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(112 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(240 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 248)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 184)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h32" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(368 120)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path><path d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0" style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="translate(467 40)" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1" data-original="#000000"></path></g></g></svg>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                version="1.1"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                width="16" height="16" x="0" y="0"
+                                                                                viewBox="0 0 682.667 682.667"
+                                                                                style="enable-background:new 0 0 512 512"
+                                                                                xml:space="preserve">
+                                                                                <g>
+                                                                                    <defs>
+                                                                                        <clipPath id="a"
+                                                                                            clipPathUnits="userSpaceOnUse">
+                                                                                            <path d="M0 512h512V0H0Z"
+                                                                                                fill="#000000"
+                                                                                                opacity="1"
+                                                                                                data-original="#000000">
+                                                                                            </path>
+                                                                                        </clipPath>
+                                                                                    </defs>
+                                                                                    <g clip-path="url(#a)"
+                                                                                        transform="matrix(1.33333 0 0 -1.33333 0 682.667)">
+                                                                                        <path
+                                                                                            d="M0 0v-74h-482V0c0 16.57 13.43 30 30 30h422C-13.43 30 0 16.57 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(497 402)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(96 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(256 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0v80"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(416 392)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(112 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(240 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 248)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 184)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path d="M0 0h32"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(368 120)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                        <path
+                                                                                            d="M0 0h-422c-16.568 0-30 13.432-30 30v332c0 16.568 13.432 30 30 30H0c16.568 0 30-13.432 30-30V30C30 13.432 16.568 0 0 0"
+                                                                                            style="stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                                                                                            transform="translate(467 40)"
+                                                                                            fill="none" stroke="#000000"
+                                                                                            stroke-width="30"
+                                                                                            stroke-linecap="round"
+                                                                                            stroke-linejoin="round"
+                                                                                            stroke-miterlimit="10"
+                                                                                            stroke-dasharray="none"
+                                                                                            stroke-opacity="1"
+                                                                                            data-original="#000000">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
                                                                         </div>
-                                                                        <div class="last_date_text">Last date of payment</div>
+                                                                        <div class="last_date_text">Last date of payment
+                                                                        </div>
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of Reporting to SCIE</td>
@@ -847,7 +2019,8 @@
                                         <!-- Header -->
                                         <div class="row mt-5">
                                             <div class="col-lg-12 text-center">
-                                                <h2 class="rc-title" data-aos="fade-up">Symbiosis Viman Nagar Campus</h2>
+                                                <h2 class="rc-title" data-aos="fade-up">Symbiosis Viman Nagar Campus
+                                                </h2>
                                             </div>
                                         </div>
                                         <!-- Content -->
@@ -965,7 +2138,24 @@
                                                     <div class="neft-panel">
                                                         <div class="internationalisation_thirdbox_headingbox">
                                                             <div class="internationalisation_thirdbox_icon">
-                                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 469.333 469.333" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><circle r="234.6665" cx="234.6665" cy="234.6665" fill="#dffbff" shape="circle"></circle><g transform="matrix(0.4999999999999996,0,0,0.4999999999999996,117.33349524529257,117.33355140686041)"><path d="M234.646 63.979c-23.542 0-42.688 19.146-42.688 42.688s19.146 42.687 42.688 42.687 42.687-19.146 42.687-42.687-19.146-42.688-42.687-42.688m0 64.042c-11.771 0-21.354-9.583-21.354-21.354s9.583-21.354 21.354-21.354S256 94.896 256 106.667s-9.583 21.354-21.354 21.354" fill="#007382" opacity="1" data-original="#000000"></path><path d="M458.667 192c5.896 0 10.667-4.742 10.667-10.637v-42.662c0-3.76-1.979-7.249-5.219-9.166L255.458 5.621c-.094-.063-.188-.115-.281-.167-12.969-7.187-27.594-7.405-41.313.146L5.219 129.535A10.65 10.65 0 0 0 0 138.701v42.662C0 187.258 4.771 192 10.667 192h32v192.009C19.135 384.009 0 403.142 0 426.671v31.997a10.66 10.66 0 0 0 10.667 10.666h448a10.66 10.66 0 0 0 10.667-10.666v-31.997c0-23.529-19.135-42.662-42.667-42.662V192zM448 426.667V448H21.333v-21.333c0-11.76 9.573-21.333 21.333-21.333h384.001c11.76-.001 21.333 9.572 21.333 21.333M64 384V192h42.667v192zm64 0V192h64v192zm85.333 0V192H256v192zm64 0V192h64v192zm85.334 0V192h42.667v192zM21.333 170.667V144.74L224.448 24.073c6.646-3.656 13.708-3.646 20.271-.073L448 144.74v25.927z" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                                <svg width="40" height="40" x="0" y="0"
+                                                                    viewBox="0 0 469.333 469.333"
+                                                                    style="enable-background:new 0 0 512 512"
+                                                                    xml:space="preserve" class="">
+                                                                    <circle r="234.6665" cx="234.6665" cy="234.6665"
+                                                                        fill="#dffbff" shape="circle"></circle>
+                                                                    <g
+                                                                        transform="matrix(0.4999999999999996,0,0,0.4999999999999996,117.33349524529257,117.33355140686041)">
+                                                                        <path
+                                                                            d="M234.646 63.979c-23.542 0-42.688 19.146-42.688 42.688s19.146 42.687 42.688 42.687 42.687-19.146 42.687-42.687-19.146-42.688-42.687-42.688m0 64.042c-11.771 0-21.354-9.583-21.354-21.354s9.583-21.354 21.354-21.354S256 94.896 256 106.667s-9.583 21.354-21.354 21.354"
+                                                                            fill="#007382" opacity="1"
+                                                                            data-original="#000000"></path>
+                                                                        <path
+                                                                            d="M458.667 192c5.896 0 10.667-4.742 10.667-10.637v-42.662c0-3.76-1.979-7.249-5.219-9.166L255.458 5.621c-.094-.063-.188-.115-.281-.167-12.969-7.187-27.594-7.405-41.313.146L5.219 129.535A10.65 10.65 0 0 0 0 138.701v42.662C0 187.258 4.771 192 10.667 192h32v192.009C19.135 384.009 0 403.142 0 426.671v31.997a10.66 10.66 0 0 0 10.667 10.666h448a10.66 10.66 0 0 0 10.667-10.666v-31.997c0-23.529-19.135-42.662-42.667-42.662V192zM448 426.667V448H21.333v-21.333c0-11.76 9.573-21.333 21.333-21.333h384.001c11.76-.001 21.333 9.572 21.333 21.333M64 384V192h42.667v192zm64 0V192h64v192zm85.333 0V192H256v192zm64 0V192h64v192zm85.334 0V192h42.667v192zM21.333 170.667V144.74L224.448 24.073c6.646-3.656 13.708-3.646 20.271-.073L448 144.74v25.927z"
+                                                                            fill="#007382" opacity="1"
+                                                                            data-original="#000000"></path>
+                                                                    </g>
+                                                                </svg>
                                                             </div>
                                                             <div class="lab_membership_heading">Bank Details</div>
                                                         </div>
@@ -982,9 +2172,27 @@
                                                     <div class="neft-panel accent">
                                                         <div class="internationalisation_thirdbox_headingbox">
                                                             <div class="internationalisation_thirdbox_icon">
-                                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 469.341 469.341" style="enable-background:new 0 0 512 512" xml:space="preserve"><circle r="234.6705" cx="234.6705" cy="234.6705" fill="#dffbff" shape="circle"></circle><g transform="matrix(0.5,0,0,0.5,117.33499526977538,117.33526706695554)"><path d="M448.004 236.639v-65.965c0-22.368-17.35-40.559-39.271-42.323l-61.26-107c-5.677-9.896-14.844-16.969-25.813-19.906-10.917-2.917-22.333-1.385-32.104 4.302L79.553 128.007H42.67c-23.531 0-42.667 19.135-42.667 42.667v256c0 23.531 19.135 42.667 42.667 42.667h362.667c23.531 0 42.667-19.135 42.667-42.667v-65.965c12.389-4.418 21.333-16.147 21.333-30.035v-64c0-13.888-8.944-25.617-21.333-30.035m-64.06-108.632h-92.971l69.729-40.596zm-33.841-59.109-101.529 59.109h-42.113l133.112-77.5zm-49.808-44.714c4.823-2.823 10.458-3.573 15.844-2.135 5.448 1.458 9.99 4.979 12.813 9.906l.022.039-164.91 96.013h-42.111zm126.375 402.49c0 11.76-9.573 21.333-21.333 21.333H42.67c-11.76 0-21.333-9.573-21.333-21.333v-256c0-11.76 9.573-21.333 21.333-21.333h362.667c11.76 0 21.333 9.573 21.333 21.333v64h-64c-35.292 0-64 28.708-64 64s28.708 64 64 64h64zm21.334-96c0 5.885-4.781 10.667-10.667 10.667H362.67c-23.531 0-42.667-19.135-42.667-42.667 0-23.531 19.135-42.667 42.667-42.667h74.667c5.885 0 10.667 4.781 10.667 10.667z" fill="#007382" opacity="1" data-original="#000000"></path><path d="M362.67 277.341c-11.76 0-21.333 9.573-21.333 21.333s9.573 21.333 21.333 21.333 21.333-9.573 21.333-21.333c.001-11.76-9.572-21.333-21.333-21.333" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                                <svg width="40" height="40" x="0" y="0"
+                                                                    viewBox="0 0 469.341 469.341"
+                                                                    style="enable-background:new 0 0 512 512"
+                                                                    xml:space="preserve">
+                                                                    <circle r="234.6705" cx="234.6705" cy="234.6705"
+                                                                        fill="#dffbff" shape="circle"></circle>
+                                                                    <g
+                                                                        transform="matrix(0.5,0,0,0.5,117.33499526977538,117.33526706695554)">
+                                                                        <path
+                                                                            d="M448.004 236.639v-65.965c0-22.368-17.35-40.559-39.271-42.323l-61.26-107c-5.677-9.896-14.844-16.969-25.813-19.906-10.917-2.917-22.333-1.385-32.104 4.302L79.553 128.007H42.67c-23.531 0-42.667 19.135-42.667 42.667v256c0 23.531 19.135 42.667 42.667 42.667h362.667c23.531 0 42.667-19.135 42.667-42.667v-65.965c12.389-4.418 21.333-16.147 21.333-30.035v-64c0-13.888-8.944-25.617-21.333-30.035m-64.06-108.632h-92.971l69.729-40.596zm-33.841-59.109-101.529 59.109h-42.113l133.112-77.5zm-49.808-44.714c4.823-2.823 10.458-3.573 15.844-2.135 5.448 1.458 9.99 4.979 12.813 9.906l.022.039-164.91 96.013h-42.111zm126.375 402.49c0 11.76-9.573 21.333-21.333 21.333H42.67c-11.76 0-21.333-9.573-21.333-21.333v-256c0-11.76 9.573-21.333 21.333-21.333h362.667c11.76 0 21.333 9.573 21.333 21.333v64h-64c-35.292 0-64 28.708-64 64s28.708 64 64 64h64zm21.334-96c0 5.885-4.781 10.667-10.667 10.667H362.67c-23.531 0-42.667-19.135-42.667-42.667 0-23.531 19.135-42.667 42.667-42.667h74.667c5.885 0 10.667 4.781 10.667 10.667z"
+                                                                            fill="#007382" opacity="1"
+                                                                            data-original="#000000"></path>
+                                                                        <path
+                                                                            d="M362.67 277.341c-11.76 0-21.333 9.573-21.333 21.333s9.573 21.333 21.333 21.333 21.333-9.573 21.333-21.333c.001-11.76-9.572-21.333-21.333-21.333"
+                                                                            fill="#007382" opacity="1"
+                                                                            data-original="#000000"></path>
+                                                                    </g>
+                                                                </svg>
                                                             </div>
-                                                            <div class="lab_membership_heading">Account Information</div>
+                                                            <div class="lab_membership_heading">Account Information
+                                                            </div>
                                                         </div>
                                                         <ul>
                                                             <li><span>Beneficiary Name</span> Symbiosis Society SLS
@@ -999,7 +2207,8 @@
 
                                                 <!-- Email Strip -->
                                                 <div class="neft-footer">
-                                                    <div class="lab_membership_heading">Send Transaction Details To</div>
+                                                    <div class="lab_membership_heading">Send Transaction Details To
+                                                    </div>
                                                     <div class="email-list">
                                                         <a
                                                             href="mailto:samir.pawar@symbiosis.ac.in">samir.pawar@symbiosis.ac.in</a>
@@ -1075,7 +2284,8 @@
 
                                             </div>
                                             <div class="neft-footer">
-                                                <div class="lab_membership_heading">The seats of the hostels are limited in number and are allotted on
+                                                <div class="lab_membership_heading">The seats of the hostels are limited
+                                                    in number and are allotted on
                                                     first cum first serve basis. All correspondence is by e-mail. The
                                                     contact E- mail IDs are</div>
                                                 <div class="email-list">
@@ -1096,7 +2306,17 @@
                                         </section>
                                         <div class="hostel-note">
                                             <div class="note-icon">
-                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 32 32"><circle r="16" cx="16" cy="16" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.5999999999999999,0,0,0.5999999999999999,6.400000000000002,6.400000381469729)"><path d="M16 30a2.1 2.1 0 0 1-1-.27l-4-2.31-3 1.73a2 2 0 0 1-2 0 2 2 0 0 1-1-1.7V5a3 3 0 0 1 3-3h16a3 3 0 0 1 3 3v22.45a2 2 0 0 1-1 1.7 2 2 0 0 1-2 0l-3-1.73-4 2.31a2.1 2.1 0 0 1-1 .27m-5-4.58a2.1 2.1 0 0 1 1 .27L16 28l4-2.31a2 2 0 0 1 2 0l3 1.73V5a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v22.45l3-1.76a2.1 2.1 0 0 1 1-.27M9 9a1 1 0 0 1 1-1h12a1 1 0 0 1 0 2H10a1 1 0 0 1-1-1m13 3H10a1 1 0 0 0 0 2h12a1 1 0 0 0 0-2m-6 4h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2" data-name="Layer 2" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                                <svg width="40" height="40" x="0" y="0" viewBox="0 0 32 32">
+                                                    <circle r="16" cx="16" cy="16" fill="#daf2f4" shape="circle">
+                                                    </circle>
+                                                    <g
+                                                        transform="matrix(0.5999999999999999,0,0,0.5999999999999999,6.400000000000002,6.400000381469729)">
+                                                        <path
+                                                            d="M16 30a2.1 2.1 0 0 1-1-.27l-4-2.31-3 1.73a2 2 0 0 1-2 0 2 2 0 0 1-1-1.7V5a3 3 0 0 1 3-3h16a3 3 0 0 1 3 3v22.45a2 2 0 0 1-1 1.7 2 2 0 0 1-2 0l-3-1.73-4 2.31a2.1 2.1 0 0 1-1 .27m-5-4.58a2.1 2.1 0 0 1 1 .27L16 28l4-2.31a2 2 0 0 1 2 0l3 1.73V5a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v22.45l3-1.76a2.1 2.1 0 0 1 1-.27M9 9a1 1 0 0 1 1-1h12a1 1 0 0 1 0 2H10a1 1 0 0 1-1-1m13 3H10a1 1 0 0 0 0 2h12a1 1 0 0 0 0-2m-6 4h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2"
+                                                            data-name="Layer 2" fill="#007382" opacity="1"
+                                                            data-original="#000000" class=""></path>
+                                                    </g>
+                                                </svg>
                                             </div>
                                             <div class="note-content">
                                                 <h5>hostel allotment notice</h5>
@@ -1111,7 +2331,17 @@
                                         <div class="hostel-contact">
                                             <div class="contact-header">
                                                 <span class="contact-icon">
-                                                    <svg width="40" height="40" x="0" y="0" viewBox="0 0 90 90"><circle r="45" cx="45" cy="45" fill="#daf2f4" shape="circle"></circle><g transform="matrix(0.6500000000000001,0,0,0.6500000000000001,16.14829549789429,15.744490528106692)"><path d="M33.756 12.44c.119-.067.088-.109.506.088.418.198 1.082.713 1.734 1.419 1.301 1.424 2.607 3.581 3.287 5.005q.033.069.072.129c1.918 3.306 2.744 5.831 2.77 7.421.027 1.586-.396 2.271-1.744 3.045l-3.486 2.006c-2.268 1.305-3.338 3.644-3.604 5.826-.268 2.183.131 4.304 1.102 5.981l8.59 14.806c.977 1.673 2.627 3.077 4.66 3.939s4.604 1.107 6.871-.197l3.49-1.996c1.348-.774 2.152-.796 3.521.02 1.373.816 3.154 2.786 5.072 6.09.027.048.053.089.084.136.898 1.294 2.121 3.498 2.711 5.333.293.914.408 1.74.371 2.203-.041.458-.051.406-.172.478l-2.645 1.518c-6.65 2.89-12.742 2.24-18.191-.592-5.465-2.833-10.215-7.963-13.521-13.98-.012-.011-.016-.027-.027-.036l-7.24-12.483c-.006-.016-.016-.026-.021-.043-3.584-5.856-5.684-12.514-5.424-18.635.262-6.112 2.754-11.688 8.6-15.976zm2.121-3.32c-1.145-.535-2.723-.692-4.014.052l-2.799 1.611q-.094.054-.178.109c-6.74 4.932-9.844 11.797-10.146 18.875-.305 7.074 2.059 14.375 5.961 20.757l7.205 12.41c.004 0 .01 0 .01.005l.01.032C35.531 69.504 40.699 75.172 47 78.446c6.311 3.275 13.83 4.034 21.494.692q.101-.04.193-.089l2.801-1.61c1.291-.744 1.943-2.172 2.049-3.425.109-1.258-.146-2.468-.533-3.67-.758-2.375-2.07-4.67-3.162-6.257-2.068-3.544-4.053-6.012-6.357-7.384a7.26 7.26 0 0 0-7.377-.057l-3.49 2.001c-1.029.592-2.227.529-3.486-.005-1.264-.536-2.428-1.611-2.867-2.36l-8.59-14.806c-.434-.748-.783-2.292-.621-3.643.166-1.357.709-2.416 1.738-3.009l3.48-2.001c2.273-1.304 3.689-3.689 3.646-6.382-.047-2.675-1.201-5.633-3.266-9.199-.836-1.724-2.172-4-3.85-5.83-.851-.932-1.781-1.757-2.925-2.292" fill="#007382" opacity="1" data-original="#000000"></path></g></svg>
+                                                    <svg width="40" height="40" x="0" y="0" viewBox="0 0 90 90">
+                                                        <circle r="45" cx="45" cy="45" fill="#daf2f4" shape="circle">
+                                                        </circle>
+                                                        <g
+                                                            transform="matrix(0.6500000000000001,0,0,0.6500000000000001,16.14829549789429,15.744490528106692)">
+                                                            <path
+                                                                d="M33.756 12.44c.119-.067.088-.109.506.088.418.198 1.082.713 1.734 1.419 1.301 1.424 2.607 3.581 3.287 5.005q.033.069.072.129c1.918 3.306 2.744 5.831 2.77 7.421.027 1.586-.396 2.271-1.744 3.045l-3.486 2.006c-2.268 1.305-3.338 3.644-3.604 5.826-.268 2.183.131 4.304 1.102 5.981l8.59 14.806c.977 1.673 2.627 3.077 4.66 3.939s4.604 1.107 6.871-.197l3.49-1.996c1.348-.774 2.152-.796 3.521.02 1.373.816 3.154 2.786 5.072 6.09.027.048.053.089.084.136.898 1.294 2.121 3.498 2.711 5.333.293.914.408 1.74.371 2.203-.041.458-.051.406-.172.478l-2.645 1.518c-6.65 2.89-12.742 2.24-18.191-.592-5.465-2.833-10.215-7.963-13.521-13.98-.012-.011-.016-.027-.027-.036l-7.24-12.483c-.006-.016-.016-.026-.021-.043-3.584-5.856-5.684-12.514-5.424-18.635.262-6.112 2.754-11.688 8.6-15.976zm2.121-3.32c-1.145-.535-2.723-.692-4.014.052l-2.799 1.611q-.094.054-.178.109c-6.74 4.932-9.844 11.797-10.146 18.875-.305 7.074 2.059 14.375 5.961 20.757l7.205 12.41c.004 0 .01 0 .01.005l.01.032C35.531 69.504 40.699 75.172 47 78.446c6.311 3.275 13.83 4.034 21.494.692q.101-.04.193-.089l2.801-1.61c1.291-.744 1.943-2.172 2.049-3.425.109-1.258-.146-2.468-.533-3.67-.758-2.375-2.07-4.67-3.162-6.257-2.068-3.544-4.053-6.012-6.357-7.384a7.26 7.26 0 0 0-7.377-.057l-3.49 2.001c-1.029.592-2.227.529-3.486-.005-1.264-.536-2.428-1.611-2.867-2.36l-8.59-14.806c-.434-.748-.783-2.292-.621-3.643.166-1.357.709-2.416 1.738-3.009l3.48-2.001c2.273-1.304 3.689-3.689 3.646-6.382-.047-2.675-1.201-5.633-3.266-9.199-.836-1.724-2.172-4-3.85-5.83-.851-.932-1.781-1.757-2.925-2.292"
+                                                                fill="#007382" opacity="1" data-original="#000000">
+                                                            </path>
+                                                        </g>
+                                                    </svg>
                                                 </span>
                                                 <h5>hostel contact details</h5>
                                             </div>
@@ -1128,7 +2358,9 @@
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 32 32"><g transform="matrix(0.9000000000000007,0,0,0.9000000000000007,1.599999999999989,1.599999999999989)"><g data-name="Layer 3"><path d="M30.035 22.594c-.053-.044-6.049-4.316-7.668-4.049-.781.138-1.227.671-2.122 1.737a31 31 0 0 1-.759.876 12.5 12.5 0 0 1-1.651-.672 13.7 13.7 0 0 1-6.321-6.321 12.5 12.5 0 0 1-.672-1.651c.294-.269.706-.616.882-.764 1.061-.89 1.593-1.337 1.731-2.119.283-1.619-4.005-7.613-4.049-7.667A2.29 2.29 0 0 0 7.7 1C5.962 1 1 7.436 1 8.521c0 .063.091 6.467 7.988 14.5C17.012 30.909 23.416 31 23.479 31 24.563 31 31 26.038 31 24.3a2.3 2.3 0 0 0-.965-1.706m-6.667 6.4c-.868-.074-6.248-.783-12.968-7.384C3.767 14.857 3.076 9.468 3.007 8.633a27 27 0 0 1 4.706-5.561q.06.06.161.178a35.4 35.4 0 0 1 3.574 6.063 12 12 0 0 1-1.016.911 10 10 0 0 0-1.512 1.422 1 1 0 0 0-.171.751 11.4 11.4 0 0 0 .965 2.641 15.7 15.7 0 0 0 7.248 7.247 11.4 11.4 0 0 0 2.641.966 1 1 0 0 0 .751-.171 10 10 0 0 0 1.427-1.518c.314-.374.733-.873.892-1.014a35 35 0 0 1 6.076 3.578q.123.106.181.159a27 27 0 0 1-5.562 4.707Z" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="M17 9a6.006 6.006 0 0 1 6 6 1 1 0 0 0 2 0 8.01 8.01 0 0 0-8-8 1 1 0 0 0 0 2" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="M17 4a11.013 11.013 0 0 1 11 11 1 1 0 0 0 2 0A13.015 13.015 0 0 0 17 2a1 1 0 0 0 0 2" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></g></svg>
                                                     </div> -->
                                                     <div class="contact-numbers_listing_text">
-                                                        <a class="custom_anchore" href="tel:02026557161">020 – 26557161</a> / <a class="custom_anchore" href="tel:02026557163">26557163</a>
+                                                        <a class="custom_anchore" href="tel:02026557161">020 –
+                                                            26557161</a> / <a class="custom_anchore"
+                                                            href="tel:02026557163">26557163</a>
                                                     </div>
                                                 </div>
                                                 <div class="contact-numbers_listing">
@@ -1136,7 +2368,8 @@
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 32 32"><g transform="matrix(0.9000000000000007,0,0,0.9000000000000007,1.599999999999989,1.599999999999989)"><g data-name="Layer 3"><path d="M30.035 22.594c-.053-.044-6.049-4.316-7.668-4.049-.781.138-1.227.671-2.122 1.737a31 31 0 0 1-.759.876 12.5 12.5 0 0 1-1.651-.672 13.7 13.7 0 0 1-6.321-6.321 12.5 12.5 0 0 1-.672-1.651c.294-.269.706-.616.882-.764 1.061-.89 1.593-1.337 1.731-2.119.283-1.619-4.005-7.613-4.049-7.667A2.29 2.29 0 0 0 7.7 1C5.962 1 1 7.436 1 8.521c0 .063.091 6.467 7.988 14.5C17.012 30.909 23.416 31 23.479 31 24.563 31 31 26.038 31 24.3a2.3 2.3 0 0 0-.965-1.706m-6.667 6.4c-.868-.074-6.248-.783-12.968-7.384C3.767 14.857 3.076 9.468 3.007 8.633a27 27 0 0 1 4.706-5.561q.06.06.161.178a35.4 35.4 0 0 1 3.574 6.063 12 12 0 0 1-1.016.911 10 10 0 0 0-1.512 1.422 1 1 0 0 0-.171.751 11.4 11.4 0 0 0 .965 2.641 15.7 15.7 0 0 0 7.248 7.247 11.4 11.4 0 0 0 2.641.966 1 1 0 0 0 .751-.171 10 10 0 0 0 1.427-1.518c.314-.374.733-.873.892-1.014a35 35 0 0 1 6.076 3.578q.123.106.181.159a27 27 0 0 1-5.562 4.707Z" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="M17 9a6.006 6.006 0 0 1 6 6 1 1 0 0 0 2 0 8.01 8.01 0 0 0-8-8 1 1 0 0 0 0 2" fill="#007382" opacity="1" data-original="#000000" class=""></path><path d="M17 4a11.013 11.013 0 0 1 11 11 1 1 0 0 0 2 0A13.015 13.015 0 0 0 17 2a1 1 0 0 0 0 2" fill="#007382" opacity="1" data-original="#000000" class=""></path></g></g></svg>
                                                     </div> -->
                                                     <div class="contact-numbers_listing_text">
-                                                        <a class="custom_anchore" href="tel:02026557162">020 – 26557162</a>
+                                                        <a class="custom_anchore" href="tel:02026557162">020 –
+                                                            26557162</a>
                                                     </div>
                                                 </div>
                                             </div>

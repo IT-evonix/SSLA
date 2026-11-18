@@ -1583,7 +1583,7 @@
           display: flex;
           margin: 0 0 0 40px;
           position: relative;
-           padding: 1.25rem 0;
+          padding: 1.25rem 0;
       }
 
       /* .header_mainbox .header_logobox a::after {
@@ -1651,7 +1651,8 @@
           height: 16px;
           width: 2px;
           /* background-color: var(--color-white); */
-          background-color: var(--color-black);
+          /* background-color: var(--color-black); */
+          background-color: #de1d20;
           top: 50%;
           right: 0;
           transform: translateY(-50%) skew(-12deg, 0deg);
@@ -3561,9 +3562,9 @@
 
   /*========================================== COMMUNITY TAB START ==========================================*/
 
-  .deeksha_content_mainbox {
+  /* .deeksha_content_mainbox {
       padding: 0 60px;
-  }
+  } */
 
   .deeksha_img_mainbox {
       display: grid;
@@ -7105,6 +7106,7 @@
       /* font-size: 20px; */
       /* line-height: 1.5; */
       color: var(--color-black);
+      text-align: center;
   }
 
   #externalLinkModal .modal-footer {
@@ -7303,24 +7305,49 @@
   }
 
   .pull_quote_box {
-    padding: 40px;
-    display: grid;
-    grid-template-columns: 3px 1fr;
-    gap: 30px;
-}
+      padding: 40px;
+      display: grid;
+      grid-template-columns: 3px 1fr;
+      gap: 30px;
+  }
 
-.pull_quote_box p {
-    color: #1E4E8C;
-    font-size: 25px;
-    font-style: italic;
-    font-family: 'Roboto-Bold';
-}
+  .pull_quote_box p {
+      color: #1E4E8C;
+      font-size: 25px;
+      font-style: italic;
+      font-family: 'Roboto-Bold';
+  }
 
-.pull_quote_line {
-    width: 3px;
-    height: 100%;
-    background-color: var(--color-green);
-}
+  .pull_quote_line {
+      width: 3px;
+      height: 100%;
+      background-color: var(--color-green);
+  }
+
+  .new_deeksha_content_mainbox {
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+      padding: 60px 0 0 0;
+  }
+
+  .h3_inner_heading {
+      font-size: 24px;
+      color: var(--color-black);
+      margin-bottom: 20px;
+      text-align: center;
+      font-family: 'Roboto-Bold';
+      text-align: center;
+  }
+
+  .suggestion-item-path {
+      display: none !important;
+  }
+
+  .upper_white_menu {
+      color: #de1d20 !important;
+      text-transform: uppercase;
+  }
 
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
@@ -7871,6 +7898,12 @@
       .lab_membership_left_listing_name {
           font-size: 16px;
       }
+
+      .header_banner_section {
+          .header_mainbox .header_menubox {
+              gap: 20px;
+          }
+      }
   }
 
   @media (max-width: 991.98px) {
@@ -8008,6 +8041,7 @@
               background-color: transparent;
               border-radius: 0;
               filter: unset;
+              margin: 0;
           }
 
           .header_mainbox .header_menubox nav ul {
@@ -8015,7 +8049,7 @@
 
               li a {
                   padding: 8px 0;
-                  border-bottom: 1px dashed var(--color-white);
+                  /* border-bottom: 1px dashed var(--color-white); */
               }
           }
 
@@ -8092,7 +8126,8 @@
           }
 
           .header_mainbox .header_menubox {
-              padding: 0 20px 0 0;
+              /* padding: 0 20px 0 0; */
+              padding: 0 0 0 0;
               flex-direction: row-reverse;
           }
       }
@@ -8454,15 +8489,42 @@
           display: flex;
           justify-content: center;
           align-items: center;
-          background-color: #ff5c5e;
-          border-radius: 3px;
+          /* background-color: #ff5c5e; */
+          /* border-radius: 3px; */
           position: relative;
           z-index: 10;
+      }
+
+      .mobile_down_arrow svg {
+          width: 30px;
+          height: 30px;
       }
 
       .menu_scroll_area {
           overflow-y: scroll;
           max-height: 90vh;
+          /* scrollbar-width: thin;
+          scrollbar-color: #dedede #ccc; */
+      }
+
+      .menu_scroll_area::-webkit-scrollbar {
+          width: 8px;
+          height: 8px;
+      }
+
+      .menu_scroll_area::-webkit-scrollbar-track {
+          background: #f1f1f1;
+           border-radius: 20px;
+      }
+
+      .menu_scroll_area::-webkit-scrollbar-thumb {
+          background: #ccc;
+          border-radius: 20px;
+      }
+
+      /* Scrollbar corner */
+      .menu_scroll_area::-webkit-scrollbar-corner {
+          background: #f1f1f1;
       }
 
       .new_tab_courses_listing_mainbox {
@@ -8565,6 +8627,11 @@
           padding: 20px;
       }
 
+      .upper_white_menu {
+          color: var(--color-white) !important;
+          text-transform: uppercase;
+      }
+
   }
 
   @media (max-width: 767.98px) {
@@ -8618,9 +8685,9 @@
           padding: 40px 0;
       }
 
-      .deeksha_content_mainbox {
+      /* .deeksha_content_mainbox {
           padding: 0 40px;
-      }
+      } */
 
       .deeksha_img_mainbox {
           grid-template-columns: 1fr;
@@ -8643,9 +8710,9 @@
           bottom: -50px;
       }
 
-      main {
+      /* main {
           padding-top: var(--header-height);
-      }
+      } */
 
       .research-main-sec.thinking_research_main {
           padding-top: var(--header-height);
@@ -8706,6 +8773,7 @@
           grid-template-columns: 1fr;
           gap: 20px;
       }
+
   }
 
   @media (max-width: 575.98px) {
@@ -8789,7 +8857,8 @@
       }
 
       .why_choose_card {
-          width: 100%;
+          /* width: 100%; */
+          width: 94%;
       }
 
       .why_choose_second_imgbox,
@@ -9319,9 +9388,9 @@
           padding: 20px 0;
       }
 
-      .deeksha_content_mainbox {
+      /* .deeksha_content_mainbox {
           padding: 0 10px;
-      }
+      } */
 
       .deeksha_img_secondbox_second {
           grid-template-columns: 1fr;
@@ -9437,10 +9506,6 @@
           font-size: 12px !important;
       }
 
-      .suggestion-item-path {
-          display: none !important;
-      }
-
       .suggestion-item {
           padding: 5px 0px !important;
       }
@@ -9532,6 +9597,32 @@
               display: none;
           }
       }
+
+      #externalLinkMessage br {
+          display: none;
+      }
+
+      #externalLinkModal .modal-body {
+          padding: 20px 15px 10px;
+      }
+
+      #externalLinkModal .modal-footer {
+          padding: 10px 15px 20px;
+      }
+
+      .dropdown_menu {
+          & .megamenu_listing a:hover {
+              background-color: unset;
+          }
+      }
+
+      .red_box:hover {
+        background-color: #cd2122;
+    }
+
+    .red_box.red_box2:hover {
+        background-color: #ec3536;
+    }
 
 
   }
