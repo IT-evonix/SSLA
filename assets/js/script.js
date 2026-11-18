@@ -408,18 +408,18 @@ document.addEventListener("DOMContentLoaded", function () {
             // Popup message
             if (isMailLink) {
 
-                message.textContent =
-                    "You are being redirected to your email application. Click continue to proceed.";
+                message.innerHTML =
+                    "You are being redirected to your email application.<br> Click Continue to proceed.";
 
             } else if (isPhoneLink) {
 
-                message.textContent =
-                    "You are being redirected to your phone application. Click continue to proceed.";
+                message.innerHTML =
+                    "You are being redirected to your phone application.<br> Click Continue to proceed.";
 
             } else {
 
-                message.textContent =
-                    "You are being redirected to an external web page. Click continue to proceed.";
+                message.innerHTML =
+                    "You are being redirected to an external web page.<br> Click Continue to proceed.";
             }
 
             externalModal.show();

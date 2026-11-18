@@ -31,7 +31,7 @@
         <header id="myHeader">
             <div class="container-fluid" style="max-width:100%">
                 <div class="row">
-                    <div class="col-lg-12 p-0">
+                    <div class="col-lg-12 p-0 px-3 px-lg-0">
                         <div class="header_mainbox">
                             <div class="header_logobox">
                                 <a href="/">
@@ -60,7 +60,7 @@
                                     <div class="menu_scroll_area" id="menu_scroll_area">
                                         <ul>
                                             <li class="dropdown_menu {{ request()->routeIs('about.*') ? 'header_menu_active' : '' }}">
-                                                <a class="mobile_down_anchore" href="{{url('/aboutus')}}">About Us
+                                                <a class="mobile_down_anchore upper_white_menu" href="{{url('/aboutus')}}">About Us
                                                     <span class="mobile_down_arrow" onclick="sub_menu(event)">
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 128 128">
                                                             <g>
@@ -218,7 +218,7 @@
                                                 </div>
                                             </li>
                                             <li class="dropdown_menu {{ request()->routeIs('admissions.*') ? 'header_menu_active' : '' }}">
-                                                <a class="mobile_down_anchore" href="">Admissions
+                                                <a class="mobile_down_anchore upper_white_menu" href="">Admissions
                                                     <span class="mobile_down_arrow" onclick="sub_menu(event)">
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 128 128">
                                                             <g>
@@ -425,7 +425,7 @@
                                                 </div>
                                             </li>
                                             <li class="dropdown_menu {{ request()->routeIs('academics.*') ? 'header_menu_active' : '' }}">
-                                                <a class="mobile_down_anchore" href="{{url('/programdetails')}}">Academics
+                                                <a class="mobile_down_anchore upper_white_menu" href="{{url('/programdetails')}}">Academics
                                                     <span class="mobile_down_arrow" onclick="sub_menu(event)">
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 128 128">
                                                             <g>
@@ -760,7 +760,7 @@
                                                 </div>
                                             </li>
                                             <li class="dropdown_menu {{ request()->routeIs('research.*') ? 'header_menu_active' : '' }}">
-                                                <a class="mobile_down_anchore" href="{{url('/thinking-research-at-ssla')}}">Research
+                                                <a class="mobile_down_anchore upper_white_menu" href="{{url('/thinking-research-at-ssla')}}">Research
                                                     <span class="mobile_down_arrow" onclick="sub_menu(event)">
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 128 128">
                                                             <g>
@@ -865,7 +865,7 @@
                                                 </div>
                                             </li>
                                             <li class="dropdown_menu {{ request()->routeIs('community.*') ? 'header_menu_active' : '' }}">
-                                                <a class="mobile_down_anchore" href="{{url('/faculty')}}">Community
+                                                <a class="mobile_down_anchore upper_white_menu" href="{{url('/faculty')}}">Community
                                                     <span class="mobile_down_arrow" onclick="sub_menu(event)">
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 128 128">
                                                             <g>
@@ -1001,7 +1001,7 @@
                                                 </div>
                                             </li>
                                             <li class="dropdown_menu {{ request()->routeIs('events.*') ? 'header_menu_active' : '' }}">
-                                                <a class="mobile_down_anchore" href="#">Events
+                                                <a class="mobile_down_anchore upper_white_menu" href="#">Events
                                                     <span class="mobile_down_arrow" onclick="sub_menu(event)">
                                                         <svg width="20" height="20" x="0" y="0" viewBox="0 0 128 128">
                                                             <g>
@@ -1191,7 +1191,7 @@
                                                 </div>
                                             </li>
                                             <li class="{{ request()->routeIs('contact-us') ? 'header_single_menu_active' : '' }}">
-                                                <a href="{{url('/contact-us')}}">Contact Us</a>
+                                                <a class="upper_white_menu" href="{{url('/contact-us')}}">Contact Us</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -1202,7 +1202,7 @@
                                             transform="matrix(6.123233995736766e-17,-1,1,6.123233995736766e-17,0.000560760498046875,512.000560760498)">
                                             <path
                                                 d="M495.629 127.177A208.288 208.288 0 0 0 476.427 91.8c-7.446-11.022-15.998-21.387-25.416-30.806s-19.783-17.97-30.805-25.418a208.307 208.307 0 0 0-35.378-19.204C359.144 5.509 331.871 0 303.766 0c-28.104 0-55.377 5.509-81.061 16.373a208.307 208.307 0 0 0-35.378 19.204c-11.022 7.447-21.387 15.999-30.805 25.418s-17.97 19.783-25.416 30.806a208.358 208.358 0 0 0-19.202 35.377c-10.863 25.682-16.371 52.952-16.371 81.052 0 28.101 5.508 55.372 16.371 81.054a208.297 208.297 0 0 0 19.202 35.378 209.698 209.698 0 0 0 25.416 30.806 209.693 209.693 0 0 0 30.805 25.418 208.307 208.307 0 0 0 35.378 19.204c25.684 10.864 52.957 16.373 81.061 16.373s55.377-5.509 81.061-16.373a208.307 208.307 0 0 0 35.378-19.204c11.022-7.447 21.387-15.999 30.805-25.418s17.97-19.784 25.416-30.806a208.367 208.367 0 0 0 19.202-35.378C506.492 263.6 512 236.33 512 208.229c0-28.1-5.508-55.37-16.371-81.052zM303.767 381.378c-95.475 0-173.149-77.674-173.149-173.149 0-95.472 77.674-173.145 173.149-173.145s173.149 77.672 173.149 173.145c0 95.474-77.675 173.149-173.149 173.149zM103.629 383.563l-98.49 98.491c-6.851 6.851-6.85 17.958 0 24.808C8.564 510.287 13.053 512 17.542 512s8.979-1.713 12.404-5.138l98.49-98.491c6.851-6.851 6.851-17.958 0-24.808-6.85-6.851-17.957-6.851-24.807 0z"
-                                                fill="#000000" opacity="1" data-original="#000000"></path>
+                                                fill="#de1d20" opacity="1" data-original="#000000"></path>
                                         </g>
                                     </svg>
                                 </div>

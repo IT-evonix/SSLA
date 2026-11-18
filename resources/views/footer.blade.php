@@ -232,7 +232,7 @@
             <div class="modal-body">
                 <p id="externalLinkMessage">
                     You are being redirected to an external web page.
-                    Click continue to proceed.
+                    Click Continue to proceed.
                 </p>
             </div>
 

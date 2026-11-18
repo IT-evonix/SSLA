@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="inner__red_heading">Induction and Orientation–DEEKSHARAMBH 2025</h1>
+                    <h1 class="inner__red_heading">DEEKSHARAMBH – Induction and Orientation at SSLA</h1>
                 </div>
             </div>
             <div class="row">
@@ -36,17 +36,70 @@
                                                 <div class="col-lg-12">
                                                     <div class="deeksha_content_mainbox">
                                                         <p>
-                                                            The <span class="deeksha_content_heighlight">15th</span> induction and orientation at Symbiosis School for Liberal Arts (SSLA) was conducted as Deeksharambh 2025, on July 13, 2025. The week-long orientation that followed till July 19, 2025 was curated to offer the incoming Batch of 2025-2029 glimpses of life at SSLA.
+                                                            Deeksharambh is SSLA's induction and orientation programme for incoming students. It marks the beginning of their journey into liberal arts education and introduces them to the academic environment, campus facilities, faculty, support systems and student community at SSLA.
                                                         </p>
-                                                        <p>
-                                                            The incoming batch and their parents were welcomed by Dr. Shweta Sinha Deshpande, Director, SSLA to the SSLA community. The introduction of the faculty and staff by the Director was followed by an overview of the Liberal Arts programme at SSLA and the edge it offers. Dr. Afshan Majid, Deputy Director, SSLA, detailed the academic roadmap over the next four years, while Col. G. S. Radkar (Retd), Senior Campus Administrator at the Symbiosis Viman Nagar Campus, provided an overview of campus life, including hostel accommodation and support systems. Once the students broke off for ice-breaking activities, Dr. Deshpande led an exclusive "Parenting Young Adults" session for the parents.
+                                                        <p class="m-0">
+                                                            Through a series of interactive sessions, discussions, activities and campus experiences, students gain an understanding of what to expect from their undergraduate years. The programme also provides parents with an opportunity to understand the institution and the support available to their children as they transition into university life.
                                                         </p>
-                                                        <p>
-                                                            The week-long orientation extensively covered key academic tools, including a comprehensive library briefing on physical and virtual collections, software (KOHA), and digital databases. Dr. Richa Minocha led a vital Gender Sensitisation session, discussing equality, equity, and institutional gender policies. Dr. Manjari Jonnalagadda introduced key Academic, Disciplinary, and Anti-Harassment Committees, emphasizing on the code of conduct, and internet etiquette. Further sessions included briefings on internship requirements by Prof. Anurupa Ghatge, the Community Outreach Programme led by Prof. Gayatri Mendanha and Ananya Dutta, and international opportunities by Dr. Vasudev Menon. Mr. Uday Sinha introduced "Research at SSLA", outlining the research methodology courses and project opportunities, while Dr. Kishori Kasat guided students through the learning management system – Moodle. The Exam department also clarified the examination processes.
-                                                        </p>
-                                                        <p>
-                                                            Beyond academic insights, students enjoyed a virtual tour of Viman Nagar, sessions by the Symbiosis Centre for Entrepreneurship and Innovation, Symbiosis Centre for Emotional Wellbeing, Symbiosis Centre of Health Care, and an outbound campus tour. The students of the incoming batch were also introduced to SSLA alumni and encouraged to join the various Cells, Clubs, Councils, and Societies at SSLA.
-                                                        </p>
+                                                    </div>
+                                                    <div class="new_deeksha_content_mainbox">
+                                                        <div class="new_deeksha_content_mainbox_listing">
+                                                            <h2 class="inner__subheading">Deeksharambh 2025: Welcoming the Incoming Batch</h2>
+                                                            <p><strong>Celebrating 15 years of welcoming new students into the SSLA community.</strong></p>
+                                                            <p class="m-0">The 15th edition of Deeksharambh commenced on 13 July 2025, welcoming the incoming Batch of 2025–2029 and their parents. The week-long programme, held until 19 July 2025, introduced students to the academic, social and experiential aspects of life at SSLA.</p>
+                                                        </div>
+                                                        <div class="new_deeksha_content_mainbox_listing">
+                                                            <h3 class="h3_inner_heading">Welcoming the SSLA Community</h3>
+                                                            <p>
+                                                                Dr. Shweta Sinha Deshpande, Director, SSLA, welcomed the incoming students and their parents. Students were introduced to the faculty and staff, the Liberal Arts programme and the opportunities it offers.
+                                                            </p>
+                                                            <p>
+                                                                Dr. Afshan Majid, Deputy Director, SSLA, presented the academic roadmap for the next four years. Col. G. S. Radkar (Retd.), Senior Campus Administrator at the Symbiosis Viman Nagar Campus, introduced students to campus life, including hostel accommodation and student support systems.
+                                                            </p>
+                                                            <p class="m-0">
+                                                                While students participated in ice-breaking activities, parents attended an exclusive session titled "Parenting Young Adults", conducted by Dr. Deshpande.
+                                                            </p>
+                                                        </div>
+                                                        <div class="new_deeksha_content_mainbox_listing">
+                                                            <h3 class="h3_inner_heading">Academic Orientation Sessions</h3>
+                                                            <p>
+                                                                Students participated in sessions designed to familiarise them with the academic resources, requirements, opportunities and institutional policies at SSLA.
+                                                            </p>
+                                                            <p>
+                                                                The sessions included:
+                                                            </p>
+                                                            <div class="custom_listing">
+                                                                <ul>
+                                                                    <li><strong>Library Orientation:</strong> Introduction to physical and virtual library collections, KOHA software and digital databases.</li>
+                                                                    <li><strong>Gender Sensitisation:</strong> Dr. Richa Minocha introduced concepts of equality and equity, along with institutional gender policies.</li>
+                                                                    <li><strong>Academic, Disciplinary and Anti-Harassment Committees:</strong> Dr. Manjari Jonnalagadda explained the committees, institutional code of conduct and internet etiquette.</li>
+                                                                    <li><strong>Internship Requirements:</strong> Prof. Anurupa Ghatge introduced students to the internship requirements of the programme.</li>
+                                                                    <li><strong>Community Outreach Programme (COP):</strong> Prof. Gayatri Mendanha and Ananya Dutta introduced the Community Outreach Programme.</li>
+                                                                    <li><strong>International Opportunities:</strong> Dr. Vasudev Menon presented opportunities for international exposure.</li>
+                                                                    <li><strong>Research at SSLA:</strong> Mr. Uday Sinha introduced research methodology courses and student research project opportunities.</li>
+                                                                    <li><strong>Learning Management System (Moodle):</strong> Dr. Kishori Kasat familiarised students with the university's learning management system.</li>
+                                                                    <li><strong>Examination Processes:</strong> The Examination Department provided an overview of examination procedures and requirements.</li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <div class="new_deeksha_content_mainbox_listing">
+                                                            <h3 class="h3_inner_heading">Exploring Campus and Student Life</h3>
+                                                            <p>Deeksharambh also introduced students to the resources, experiences and opportunities available beyond the classroom.</p>
+                                                            <p>The programme included:</p>
+                                                            <div class="custom_listing">
+                                                                <ul>
+                                                                    <li>A virtual tour of the Viman Nagar campus.</li>
+                                                                    <li>Sessions by the Symbiosis Centre for Entrepreneurship and Innovation.</li>
+                                                                    <li>An introduction to the Symbiosis Centre for Emotional Wellbeing.</li>
+                                                                    <li>An introduction to the Symbiosis Centre of Health Care.</li>
+                                                                    <li>An outbound campus tour.</li>
+                                                                    <li>An introduction to SSLA alumni and opportunities to participate in student-led Cells, Clubs, Councils and Societies.</li>
+                                                                </ul>
+                                                            </div>
+                                                            <p class="m-0">
+                                                                These experiences helped students begin building connections with their peers and the wider SSLA community as they embarked on their undergraduate journey.
+                                                            </p>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
