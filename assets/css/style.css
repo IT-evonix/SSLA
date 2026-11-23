@@ -383,7 +383,14 @@
       /* color: #707070; */
       background-color: var(--color-green);
       color: var(--color-white);
+      font-family: var(--font-bold);
   }
+  
+  .table>tbody {
+    font-size: 14px;
+    font-family: var(--font-regular);
+    color: var(--color-black);
+}
 
   .table thead tr th:first-child {
       border-radius: 12px 0 0 0;
@@ -7305,17 +7312,20 @@
   }
 
   .pull_quote_box {
-      padding: 40px;
+      padding: 40px 200px;
       display: grid;
       grid-template-columns: 3px 1fr;
       gap: 30px;
   }
 
   .pull_quote_box p {
-      color: #1E4E8C;
+      color: var(--color-green);
       font-size: 25px;
       font-style: italic;
-      font-family: 'Roboto-Bold';
+  }
+
+  .pull_quote_box p span {
+    font-family: 'Roboto-Bold';
   }
 
   .pull_quote_line {
@@ -7335,9 +7345,7 @@
       font-size: 24px;
       color: var(--color-black);
       margin-bottom: 20px;
-      text-align: center;
       font-family: 'Roboto-Bold';
-      text-align: center;
   }
 
   .suggestion-item-path {
@@ -7348,6 +7356,22 @@
       color: #de1d20 !important;
       text-transform: uppercase;
   }
+
+  .new_academic_calender_table .table>tbody>tr:nth-child(even) {
+    background-color: unset;
+}
+
+.new_academic_calender_table .academic_event_color {
+    background-color: #fbf2d0 !important;
+    color: #735c00;
+}
+
+.new_academic_calender_table .national_holiday_color {
+    background-color: #f7d4de !important;
+    color: #a43757;
+}
+
+
 
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
@@ -7975,7 +7999,7 @@
           position: fixed;
           top: 0;
           right: 0;
-          background: #de1d20;
+          background: #CB2E33;
           max-width: 100%;
           width: 350px;
           height: 100%;
@@ -8448,8 +8472,10 @@
           }
 
           .mega_menu_list_box {
-              padding: 10px;
-              background-color: #ef3d40;
+              /* padding: 10px;
+              background-color: #ef3d40; */
+              padding: 0 0 0 10px;
+              background-color: #CB2E33;
               display: none;
           }
 
@@ -8514,7 +8540,7 @@
 
       .menu_scroll_area::-webkit-scrollbar-track {
           background: #f1f1f1;
-           border-radius: 20px;
+          border-radius: 20px;
       }
 
       .menu_scroll_area::-webkit-scrollbar-thumb {
@@ -8632,6 +8658,11 @@
           text-transform: uppercase;
       }
 
+          .dropdown_menu {
+            .megamenu_listing.sub_header_menu_active a {
+                padding: 10px !important;
+            }
+        }
   }
 
   @media (max-width: 767.98px) {
@@ -9617,12 +9648,12 @@
       }
 
       .red_box:hover {
-        background-color: #cd2122;
-    }
+          background-color: #cd2122;
+      }
 
-    .red_box.red_box2:hover {
-        background-color: #ec3536;
-    }
+      .red_box.red_box2:hover {
+          background-color: #ec3536;
+      }
 
 
   }
