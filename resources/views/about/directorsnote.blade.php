@@ -43,7 +43,7 @@
                             <div class="pull_quote_box">
                                 <div class="pull_quote_line"></div>
                                 <p class="m-0">
-                                    This dynamic world needs educated citizens equipped with skillsets to drive into uncharted territories and help shape our future
+                                    This dynamic world needs <span>educated citizens equipped with skillsets to drive into uncharted territories and help shape our future</span>
                                 </p>
                             </div>    
                             <p>

@@ -37,7 +37,7 @@
                                 <div class="pull_quote_box">
                                     <div class="pull_quote_line"></div>
                                     <p class="m-0">
-                                        Symbiosis School for Liberal Arts (SSLA) strongly believes in the importance of a comprehensive education in preparation for career advancement and the exercise of leadership.
+                                        Symbiosis School for Liberal Arts (SSLA) strongly <span>believes in the importance of a comprehensive education in preparation for career advancement and the exercise of leadership</span>.
                                     </p>
                                 </div>  
                             <p>

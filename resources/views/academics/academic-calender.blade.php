@@ -156,7 +156,7 @@
                     <div class="page-header">
                         <div>
                             <h1 class="inner__red_heading">
-                                Academic Calendar July-Dec 2026 
+                                Academic Calendar July-Dec 2026
                             </h1>
                             <p class="m-0">
                                 All holidays are tentative and subject to change as per the SIU Calendar.
@@ -169,52 +169,222 @@
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-lg-12">
-                            <div class="calendar_card_mainbox">
-                                <div class="calendar-card">
-                                    <header class="calendar-card-header">
-                                        <div class="title-row">
-                                            <!-- <h2 id="cal1-title">August 2024</h2> -->
-                                             <div class="cal_title_with_icon">
-                                                <div class="cal_title_icon">
-                                                    <svg width="25" height="25" x="0" y="0" viewBox="0 0 48 48"><g transform="matrix(0.7499999999999998,0,0,0.7499999999999998,6.0000000000000036,6.0000000000000036)"><rect width="4" height="6" x="11" y="3" rx="2" fill="#ffffff" opacity="1" data-original="#000000" class=""></rect><rect width="4" height="6" x="33" y="3" rx="2" fill="#ffffff" opacity="1" data-original="#000000" class=""></rect><path d="M4 18v23a4 4 0 0 0 4 4h32a4 4 0 0 0 4-4V18zm12 20a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm0-11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm11 11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm0-11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm11 11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm0-11a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zM44 16v-6a4 4 0 0 0-4-4h-1v1c0 2.206-1.794 4-4 4s-4-1.794-4-4V6H17v1c0 2.206-1.794 4-4 4S9 9.206 9 7V6H8a4 4 0 0 0-4 4v6z" fill="#ffffff" opacity="1" data-original="#000000" class=""></path></g></svg>
-                                                </div>
-                                                <h2 id="cal1-title">August 2024</h2>
-                                            </div>
-                                            <div class="nav-buttons">
-                                                <button class="nav-btn" onclick="changeMonth(-1)">
-                                                    <svg height="16" viewBox="0 0 24 24" width="16">
-                                                        <g id="_17" data-name="17">
-                                                            <path
-                                                                d="m15 19a1 1 0 0 1 -.71-.29l-6-6a1 1 0 0 1 0-1.41l6-6a1 1 0 0 1 1.41 1.41l-5.29 5.29 5.29 5.29a1 1 0 0 1 -.7 1.71z">
-                                                            </path>
-                                                        </g>
-                                                    </svg>
-                                                </button>
-                                                <button class="nav-btn" onclick="changeMonth(1)">
-                                                    <svg id="fi_2989988" height="16" viewBox="0 0 6.3499999 6.3500002" width="16">
-                                                        <g id="layer1" transform="translate(0 -290.65)">
-                                                            <path id="path9429"
-                                                                d="m2.2580394 291.96502a.26460982.26460982 0 0 0 -.1741496.46871l1.6190225 1.38699-1.6190225 1.38648a.26460982.26460982 0 1 0 .3436483.40049l1.8536335-1.58595a.26460982.26460982 0 0 0 0-.40256l-1.8536335-1.5875a.26460982.26460982 0 0 0 -.1694987-.0667z">
-                                                            </path>
-                                                        </g>
-                                                    </svg>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </header>
-                                    <div class="weekday-row">
-                                        <div>SUN</div>
-                                        <div>MON</div>
-                                        <div>TUE</div>
-                                        <div>WED</div>
-                                        <div>THU</div>
-                                        <div>FRI</div>
-                                        <div>SAT</div>
-                                    </div>
-                                    <div class="calendar-grid" id="cal1-grid"></div>
-                                </div>
-                                <div class="calendar_card_imagebox">
-                                    <img src="{{ asset('assets/images/academics/symbiosis-calendar.webp') }}" alt="SSLA Calendar" class="img-fluid">
+                            <div class="new_academic_calender_table">
+                                <div class="table-responsive mb-2">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th>Day</th>
+                                                <th>Date</th>
+                                                <th>Event</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr class="academic_event_color">
+                                                <td>Sunday</td>
+                                                <td>12 Jul 2026</td>
+                                                <td rowspan="2">Orientation for Batch 2026-2030</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Saturday</td>
+                                                <td>18 Jul 2026</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Wednesday</td>
+                                                <td>15 Jul 2026</td>
+                                                <td>18th PRC</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Monday</td>
+                                                <td>20 Jul 2026</td>
+                                                <td>Classes begin</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Thursday</td>
+                                                <td>6 Aug 2026</td>
+                                                <td>Staff meeting</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Thursday</td>
+                                                <td>13 Aug 2026</td>
+                                                <td>1st QIC meeting</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Saturday</td>
+                                                <td>15 Aug 2026</td>
+                                                <td>Holiday (Independence Day)</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Thursday</td>
+                                                <td>20 Aug 2026</td>
+                                                <td>COP Reports due for Batch 2024-28</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Wednesday</td>
+                                                <td>26 Aug 2026</td>
+                                                <td>Holiday (Eid-e-Milad)</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Friday</td>
+                                                <td>28 Aug 2026</td>
+                                                <td>Holiday (Raksha Bandhan)</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Tuesday</td>
+                                                <td>1 Sep 2026</td>
+                                                <td>Internship Reports due for Batch 2023-27</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Monday</td>
+                                                <td>14 Sep 2026</td>
+                                                <td>Holiday (Ganesh Chaturthi)</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Friday</td>
+                                                <td>25 Sep 2026</td>
+                                                <td>Holiday (Anant Chaturdashi)</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Wednesday</td>
+                                                <td>1 Oct 2025</td>
+                                                <td>
+                                                    Deadline to share marks for assignments worth at least
+                                                    35 marks (out of a total of 75 marks CA) with students
+                                                    and Academics Department
+                                                </td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Friday</td>
+                                                <td>2 Oct 2026</td>
+                                                <td>Holiday (Gandhi Jayanti)</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Tuesday</td>
+                                                <td>20 Oct 2026</td>
+                                                <td>Holiday (Dussehra)</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Saturday,<br>Sunday</td>
+                                                <td>24-25 Oct 2026</td>
+                                                <td>Symbiosis Literature Festival (tentative)</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Friday</td>
+                                                <td>23 Oct 2026</td>
+                                                <td>
+                                                    Deadline to share marks for assignments worth at least
+                                                    50 marks (out of a total of 75 marks CA) with students
+                                                    and Academics Department
+                                                </td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Friday</td>
+                                                <td>30th Oct 2026</td>
+                                                <td>Traditional day (tentative)</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Friday</td>
+                                                <td>6 Nov 2026</td>
+                                                <td rowspan="2">Holidays (Diwali)</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Wednesday</td>
+                                                <td>11 Nov 2026</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Friday</td>
+                                                <td>13 Nov 2026</td>
+                                                <td>QIC Meeting</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Monday</td>
+                                                <td>16 Nov 2026</td>
+                                                <td>
+                                                    Attendance freezes (at 11.45 am) &amp;<br>
+                                                    Last date to apply for condonation (12 noon)
+                                                </td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Monday</td>
+                                                <td>16 Nov 2026</td>
+                                                <td>
+                                                    Deadline to share all CA marks with students
+                                                    and Academics Department
+                                                </td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Tuesday</td>
+                                                <td>17 Nov 2026</td>
+                                                <td>Last date for students to request a correction in CA marks</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Wednesday</td>
+                                                <td>18 Nov 2026</td>
+                                                <td>
+                                                    CNG list declared (Calculated as on 17th Nov);<br>
+                                                    TNG list will be declared after finalizing CNG list<br>
+                                                    CA marks freeze
+                                                </td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Thursday</td>
+                                                <td>19 Nov 2026</td>
+                                                <td>Staff meeting</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Friday</td>
+                                                <td>20 Nov 2026</td>
+                                                <td>Last date for faculty members to make any correction in CA marks
+                                                </td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Saturday</td>
+                                                <td>21 Nov 2026</td>
+                                                <td>Last day of classes</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Sunday</td>
+                                                <td>22 Nov 2026</td>
+                                                <td rowspan="2">Study Break</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Monday</td>
+                                                <td>23 Nov 2026</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Monday</td>
+                                                <td>23 Nov 2026</td>
+                                                <td>2nd QIC meeting</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Tuesday</td>
+                                                <td>24 Nov 2026</td>
+                                                <td rowspan="2">Semester End Evaluations - SEE</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Wednesday</td>
+                                                <td>9 Dec 2026</td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Thursday</td>
+                                                <td>10 Dec 2026</td>
+                                                <td rowspan="2">
+                                                    Backlog examinations (including Research Project
+                                                    (dissertation), Internship and COP – exact dates
+                                                    to be declared 2 months in advance)
+                                                </td>
+                                            </tr>
+                                            <tr class="academic_event_color">
+                                                <td>Wednesday</td>
+                                                <td>23 Dec 2026</td>
+                                            </tr>
+                                            <tr class="national_holiday_color">
+                                                <td>Friday</td>
+                                                <td>25 Dec 2026</td>
+                                                <td>Christmas</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -224,331 +394,5 @@
         </div>
     </section>
 </main>
-
-<div class="holiday-panel" id="holiday-panel">
-    <div class="panel-content" id="panel-content">
-        <div class="panel-body">
-            <div class="panel-top-row">
-                <div class="badge-type" id="holiday-badge">Type</div>
-                <button class="panel-close" onclick="closePanel()">
-                    <svg fill="none" height="20" viewBox="0 0 24 24" width="20">
-                        <path clip-rule="evenodd"
-                            d="m5.00073 17.5864c-.3905.3906-.39044 1.0237.00012 1.4142s1.02372.3905 1.41421-.0001l5.58524-5.5862 5.5857 5.5857c.3905.3905 1.0237.3905 1.4142 0s.3905-1.0237 0-1.4142l-5.5858-5.5858 5.5854-5.58638c.3904-.39056.3904-1.02372-.0002-1.41421-.3905-.3905-1.0237-.39044-1.4142.00012l-5.5853 5.58627-5.58572-5.58579c-.39052-.39052-1.02369-.39052-1.41421 0-.39053.39053-.39053 1.02369 0 1.41422l5.58593 5.58587z"
-                            fill="rgb(0,0,0)" fill-rule="evenodd"></path>
-                    </svg>
-                </button>
-            </div>
-            <h3 id="holiday-name">Holiday Name</h3>
-            <p class="panel-date" id="holiday-date">Date String</p>
-            <div class="panel-divider"></div>
-            <p class="panel-desc" id="holiday-desc">Detailed description of the institutional or national holiday.</p>
-        </div>
-        <div class="panel-footer d-none">
-            <button class="btn-primary" onclick="closePanel()">Acknowledge</button>
-        </div>
-    </div>
-</div>
-
-<script>
-const holidays = {
-    "2026-07-12": {
-        name: "Orientation for Batch 2026-30",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Orientation for Batch 2026-30"
-    },
-    "2026-07-18": {
-        name: "Orientation for Batch 2026-30",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Orientation for Batch 2026-30"
-    },
-    "2026-07-20": {
-        name: "Classes begin",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Classes begin"
-    },
-    "2026-08-15": {
-        name: "Independence Day",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Independence Day"
-    },
-    "2026-08-20": {
-        name: "COP Reports due for Batch 2024-28",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "COP Reports due for Batch 2024-28"
-    },
-    "2026-08-26": {
-        name: "Eid-e-Milad",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Eid-e-Milad"
-    },
-    "2026-08-28": {
-        name: "Raksha Bandhan",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Raksha Bandhan"
-    },
-    "2026-09-20": {
-        name: "Internship Reports",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Internship Reports due for Batch 2023-27"
-    },
-    "2026-09-14": {
-        name: "Ganesh Chaturthi",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Ganesh Chaturthi"
-    },
-    "2026-09-25": {
-        name: "Anant Chaturdashi",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Anant Chaturdashi"
-    },
-    "2026-10-01": {
-        name: "Deadline",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Deadline to share marks for assignments worth at least 35 marks (out of a total of 75 marks CA) with students and Academics Department"
-    },
-    "2026-10-02": {
-        name: "Gandhi Jayanti",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Gandhi Jayanti"
-    },
-    "2026-10-20": {
-        name: "Dussehra",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Dussehra"
-    },
-    "2026-10-23": {
-        name: "Deadline",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Deadline to share marks for assignments worth at least 50 marks (out of a total of 75 marks CA) with students and Academics Department"
-    },
-    "2026-10-24": {
-        name: "Symbiosis Literature Festival",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Symbiosis Literature Festival (Tentative)"
-    },
-    "2026-10-25": {
-        name: "Symbiosis Literature Festival",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Symbiosis Literature Festival (Tentative)"
-    },
-    "2026-10-30": {
-        name: "Traditional day",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Traditional day (Tentative)"
-    },
-    "2026-11-06": {
-        name: "Diwali",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Diwali"
-    },
-    "2026-11-11": {
-        name: "Diwali",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Diwali"
-    },
-    "2026-11-16": {
-        name: "Academic",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "1- Attendance freezes (at 11.45 am) and Last date to apply for condonation (12 noon) <br><br> 2- Deadline to share all CA marks with students and Academics Department"
-    },
-    "2026-11-17": {
-        name: "Last date",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Last date for students to request a correction in CA marks"
-    },
-    "2026-11-18": {
-        name: "Academic",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "1- CNG list declared (Calculated as on 17th Nov) <br> 2- TNG list will be declared after finalizing CNG list <br> 3- CA marks freeze"
-    },
-    "2026-11-20": {
-        name: "Last date",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Last date for faculty members to make any correction in CA marks"
-    },
-    "2026-11-20": {
-        name: "Last day of classes",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Last day of classes"
-    },
-    "2026-11-22": {
-        name: "Study Break",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Study Break"
-    },
-    "2026-11-23": {
-        name: "Study Break",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Study Break"
-    },
-    "2026-11-24": {
-        name: "Semester End Evaluations - TE",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Semester End Evaluations - TE"
-    },
-    "2026-12-10": {
-        name: "Backlog examinations",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Backlog examinations (including Research Project (dissertation), Internship and COP – exact dates to be declared 2 months in advance)"
-    },
-    "2026-12-23": {
-        name: "Backlog examinations",
-        type: "Academic Event",
-        colorClass: "holiday-academic",
-        desc: "Backlog examinations (including Research Project (dissertation), Internship and COP – exact dates to be declared 2 months in advance)"
-    },
-    "2026-12-25": {
-        name: "Christmas",
-        type: "National Holiday",
-        colorClass: "holiday-national",
-        desc: "Christmas"
-    },
-};
-
-const today = new Date();
-const state = {
-    year: today.getFullYear(),
-    month: today.getMonth()
-};
-
-const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September",
-    "October", "November", "December"
-];
-
-function renderCalendar() {
-    const grid = document.getElementById('cal1-grid');
-    const title = document.getElementById('cal1-title');
-
-    grid.innerHTML = '';
-    title.innerText = `${monthNames[state.month]} ${state.year}`;
-
-    const firstDay = new Date(state.year, state.month, 1).getDay();
-    const daysInMonth = new Date(state.year, state.month + 1, 0).getDate();
-
-    for (let i = 0; i < firstDay; i++) {
-        const emptyCell = document.createElement('div');
-        emptyCell.className = 'day-cell empty';
-        grid.appendChild(emptyCell);
-    }
-
-    for (let day = 1; day <= daysInMonth; day++) {
-        const dateKey =
-            `${state.year}-${String(state.month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-        const isHoliday = holidays[dateKey];
-
-        const cell = document.createElement('div');
-        cell.className = `day-cell${isHoliday ? ` holiday ${isHoliday.colorClass}` : ''}`;
-        cell.innerText = day;
-
-        if (isHoliday) {
-            cell.onclick = () => showHoliday(dateKey);
-        } else {
-            cell.onclick = () => showEmptyDay(day, state.month + 1, state.year);
-        }
-
-        grid.appendChild(cell);
-    }
-
-    // Pad trailing cells so every month always renders exactly 6 rows (42 cells)
-    const totalCells = firstDay + daysInMonth;
-    const trailingEmpty = 42 - totalCells;
-    for (let i = 0; i < trailingEmpty; i++) {
-        const emptyCell = document.createElement('div');
-        emptyCell.className = 'day-cell empty';
-        grid.appendChild(emptyCell);
-    }
-}
-
-function changeMonth(delta) {
-    let newMonth = state.month + delta;
-    let newYear = state.year;
-
-    if (newMonth < 0) {
-        newMonth = 11;
-        newYear--;
-    } else if (newMonth > 11) {
-        newMonth = 0;
-        newYear++;
-    }
-
-    state.month = newMonth;
-    state.year = newYear;
-    renderCalendar();
-}
-
-function showHoliday(key) {
-    const data = holidays[key];
-    const date = new Date(key + 'T00:00:00');
-    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-
-    document.getElementById('holiday-name').innerText = data.name;
-    document.getElementById('holiday-badge').innerText = data.type;
-    document.getElementById('holiday-date').innerText = date.toLocaleDateString('en-US', options);
-    // document.getElementById('holiday-desc').innerText = data.desc;
-    document.getElementById('holiday-desc').innerHTML = data.desc;
-
-    openPanel();
-}
-
-function showEmptyDay(day, month, year) {
-    const date = new Date(year, month - 1, day);
-    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-
-    document.getElementById('holiday-name').innerText = "Academic Workday";
-    document.getElementById('holiday-badge').innerText = "Standard";
-    document.getElementById('holiday-date').innerText = date.toLocaleDateString('en-US', options);
-    document.getElementById('holiday-desc').innerText =
-        "Regular academic operations are in effect. No institutional holidays or special events scheduled for this date.";
-
-    openPanel();
-}
-
-function openPanel() {
-    const panel = document.getElementById('holiday-panel');
-    panel.classList.add('show');
-    setTimeout(() => {
-        document.getElementById('panel-content').classList.add('modal-enter-active');
-    }, 10);
-}
-
-function closePanel() {
-    document.getElementById('holiday-panel').classList.remove('show');
-    document.getElementById('panel-content').classList.remove('modal-enter-active');
-}
-
-renderCalendar();
-
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closePanel();
-});
-</script>
 
 @include('footer')
