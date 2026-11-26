@@ -3,7 +3,7 @@ $('.home_banner').owlCarousel({
   loop: true,
   dots: true,
   nav: false,
-  autoplay: true,
+  autoplay: false,
   autoplayTimeout: 4000,
   slideTransition: 'ease',
   autoplaySpeed: 3000,

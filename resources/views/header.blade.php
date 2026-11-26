@@ -75,7 +75,7 @@
                                                 <div class="mega_menu_mainbox">
                                                     <div class="mega_menu_imgbox">
                                                         <div class="mega_menu_img_first">
-                                                            <img src="{{ asset('assets/images/home/collage-image-menu.webp') }}"
+                                                            <img src="{{ asset('assets/images/home/menu-image.webp') }}"
                                                                 alt="SSLA Collage image" class="img-fluid">
                                                         </div>
                                                         <div class="mega_menu_img_second">
@@ -233,7 +233,7 @@
                                                 <div class="mega_menu_mainbox">
                                                     <div class="mega_menu_imgbox">
                                                         <div class="mega_menu_img_first">
-                                                            <img src="{{ asset('assets/images/home/collage-image-menu.webp') }}"
+                                                            <img src="{{ asset('assets/images/home/menu-image.webp') }}"
                                                                 alt="SSLA Collage image" class="img-fluid">
                                                         </div>
                                                         <div class="mega_menu_img_second">
@@ -440,7 +440,7 @@
                                                 <div class="mega_menu_mainbox">
                                                     <div class="mega_menu_imgbox">
                                                         <div class="mega_menu_img_first">
-                                                            <img src="{{ asset('assets/images/home/collage-image-menu.webp') }}"
+                                                            <img src="{{ asset('assets/images/home/menu-image.webp') }}"
                                                                 alt="SSLA Collage image" class="img-fluid">
                                                         </div>
                                                         <div class="mega_menu_img_second">
@@ -775,7 +775,7 @@
                                                 <div class="mega_menu_mainbox">
                                                     <div class="mega_menu_imgbox">
                                                         <div class="mega_menu_img_first">
-                                                            <img src="{{ asset('assets/images/home/collage-image-menu.webp') }}"
+                                                            <img src="{{ asset('assets/images/home/menu-image.webp') }}"
                                                                 alt="SSLA Collage image" class="img-fluid">
                                                         </div>
                                                         <div class="mega_menu_img_second">
@@ -880,7 +880,7 @@
                                                 <div class="mega_menu_mainbox">
                                                     <div class="mega_menu_imgbox">
                                                         <div class="mega_menu_img_first">
-                                                            <img src="{{ asset('assets/images/home/collage-image-menu.webp') }}"
+                                                            <img src="{{ asset('assets/images/home/menu-image.webp') }}"
                                                                 alt="SSLA Collage image" class="img-fluid">
                                                         </div>
                                                         <div class="mega_menu_img_second">
@@ -1016,7 +1016,7 @@
                                                 <div class="mega_menu_mainbox">
                                                     <div class="mega_menu_imgbox">
                                                         <div class="mega_menu_img_first">
-                                                            <img src="{{ asset('assets/images/home/collage-image-menu.webp') }}"
+                                                            <img src="{{ asset('assets/images/home/menu-image.webp') }}"
                                                                 alt="SSLA Collage image" class="img-fluid">
                                                         </div>
                                                         <div class="mega_menu_img_second">
