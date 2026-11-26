@@ -12,16 +12,25 @@
             <div class="col-lg-12 p-0">
                 <div class="home_banner owl-carousel">
                     <div class="item">
-                        <img src="{{ asset('assets/images/home/ssla-banner-1.webp') }}" alt="Banner image"
+                        <img src="{{ asset('assets/images/home/hero-first-banner.webp') }}" alt="Banner image"
                             class="img-fluid">
+                        <div class="banner_caption_box">
+                            SYMBIOSIS SCHOOL FOR LIBERAL ARTS
+                        </div>                            
                     </div>
                     <div class="item">
-                        <img src="{{ asset('assets/images/home/ssla-banner-2.webp') }}" alt="Banner image"
+                        <img src="{{ asset('assets/images/home/hero-second-banner.webp') }}" alt="Banner image"
                             class="img-fluid">
+                        <div class="banner_caption_box">
+                            SYMBIOSIS SCHOOL FOR LIBERAL ARTS
+                        </div>       
                     </div>
                     <div class="item">
-                        <img src="{{ asset('assets/images/home/ssla-banner-3.webp') }}" alt="Banner image"
+                        <img src="{{ asset('assets/images/home/hero-third-banner.webp') }}" alt="Banner image"
                             class="img-fluid">
+                        <div class="banner_caption_box">
+                            SYMBIOSIS SCHOOL FOR LIBERAL ARTS
+                        </div>       
                     </div>
                 </div>
             </div>
