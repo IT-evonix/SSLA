@@ -28,6 +28,11 @@
                                 aria-controls="contact-fist-tab" aria-selected="true">Academic Fees</a>
                         </li>
                         <li class="nav-item" role="presentation">
+                            <a class="nav-link" id="contact-tab-3" data-bs-toggle="pill"
+                                data-bs-target="#contact-fourth-tab" type="button" role="tab"
+                                aria-controls="contact-fourth-tab" aria-selected="false">Scholarships</a>
+                        </li>
+                        <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab-2" data-bs-toggle="pill"
                                 data-bs-target="#contact-second-tab" type="button" role="tab"
                                 aria-controls="contact-second-tab" aria-selected="false">Refund Policy</a>
@@ -50,19 +55,10 @@
                                         <div class="col-lg-12 text-center new_academic_fee_tab_content_content">
                                             <h2 class="inner__subheading">Academic Fees</h2>
                                             <p>
-                                                Approved Fee Structure for Batch 2026-2030 in the Academic Year
-                                                2026-2027- INDIAN STUDENTS
-                                                (Annexure I)
+                                                Approved Fee Structure for Batch 2027-2031 in the Academic Year 2027-2028 - INDIAN STUDENTS
                                             </p>
                                             <p>
-                                                The fees mentioned here are only for the First Year of the programme.
-                                                Please note that Academic Fees can be increased up to 10% over the
-                                                duration of the entire programme. Government taxes (if any) would be
-                                                additional as and when applicable. Hostel fees can be increased up to
-                                                15% each year and Mess Fees can be increased up to 10% each year.
-                                                Government taxes would be additional as and when applicable. 50%
-                                                Concession will be given only to the Foreign National students on
-                                                Administrative Fees
+                                                The fees mentioned here are only for the First Year of the programme. Please note that Academic Fees can be increased up to 10% over the duration of the entire programme. Government taxes (if any) would be additional as and when applicable.
                                             </p>
                                         </div>
                                     </div>
@@ -73,16 +69,14 @@
                                                     <table class="table">
                                                         <thead>
                                                             <tr>
-                                                                <th>Program Fees for Bachelor of Arts (Liberal Arts)
-                                                                    Honours with Research / Bachelor of Science (Liberal
-                                                                    Arts) Honours with Research</th>
-                                                                <th>1st Year Academic Year 2026-27 (Amount in ₹)</th>
+                                                                <th>Program Fees for Bachelor of Arts (Liberal Arts) Honours with Research / Bachelor of Science (Liberal Arts) Honours with Research</th>
+                                                                <th>1st Year Academic Year 2027-28 (Amount in ₹)</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
                                                                 <td>Academic Fees (Per Annum)</td>
-                                                                <td>₹ 5,10,000</td>
+                                                                <td>₹ 5,25,000</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Institute Deposit (Refundable)</td>
@@ -97,12 +91,10 @@
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
-                                                                    Installments for Bachelor of Arts (Liberal Arts)
-                                                                    Honours with Research / Bachelor of Science (Liberal
-                                                                    Arts) Honours with Research
+                                                                    Installments for Bachelor of Arts (Liberal Arts) Honours with Research / Bachelor of Science (Liberal Arts) Honours with Research
                                                                 </th>
                                                                 <th colspan="2">
-                                                                    1st Year 2026-27 (Amount in ₹)
+                                                                    1st Year 2027-28 (Amount in ₹)
                                                                 </th>
                                                             </tr>
                                                             <tr>
@@ -113,8 +105,8 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>Academic Fees (Per Annum)</td>
-                                                                <td>₹ 2,55,000</td>
-                                                                <td>₹ 2,55,000</td>
+                                                                <td>₹ 2,62,500</td>
+                                                                <td>₹ 2,62,500</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>Institute Deposit (Refundable)</td>
@@ -123,8 +115,8 @@
                                                             </tr>
                                                             <tr>
                                                                 <td><strong>Installments</strong></td>
-                                                                <td><strong>₹ 2,75,000</strong></td>
-                                                                <td><strong>₹ 2,55,000</strong></td>
+                                                                <td><strong>₹ 2,82,500</strong></td>
+                                                                <td><strong>₹ 2,62,500</strong></td>
                                                             </tr>
                                                             <tr>
                                                                 <td>
@@ -329,7 +321,7 @@
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of Admission</td>
-                                                                <td>25-Nov-26</td>
+                                                                <td>25-Nov-27</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -353,7 +345,7 @@
                                                                 </th>
 
                                                                 <th colspan="3">
-                                                                    Amount in ₹ for 1st Year 2026-27
+                                                                    Amount in ₹ for 1st Year 2027-28
                                                                 </th>
                                                             </tr>
 
@@ -366,9 +358,9 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>Mess Fees (Per Annum)</td>
-                                                                <td><strong>₹ 1,19,600</strong></td>
-                                                                <td>₹ 59,800</td>
-                                                                <td>₹ 59,800</td>
+                                                                <td><strong>₹ 1,31,600</strong></td>
+                                                                <td>₹ 1,31,600</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
@@ -379,58 +371,85 @@
                                                             </tr>
 
                                                             <tr>
-                                                                <td>Hostel Fees (Different, Subject to Sharing, Per
-                                                                    Annum)</td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>Hostel Fees (Different, Subject to Sharing, Per Annum)</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
-
+                                                            <tr>
+                                                                <td>Single Living - Daffodil hostel (Subject to availability)</td>
+                                                                <td><strong>₹ 3,24,500</strong></td>
+                                                                <td>₹ 3,24,500</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Twin Sharing - Daffodil hostel</td>
-                                                                <td><strong>₹ 1,93,100</strong></td>
-                                                                <td>₹ 1,93,100</td>
+                                                                <td><strong>₹ 2,16,300</strong></td>
+                                                                <td>₹ 2,16,300</td>
                                                                 <td>-</td>
                                                             </tr>
+                                                            <tr>
+                                                                <td>Single Living- Daisy hostel (Subject to availability)</td>
+                                                                <td><strong>₹ 3,16,700</strong></td>
+                                                                <td>₹ 3,16,700</td>
+                                                                <td>-</td>
+                                                            </tr>
+
                                                             <tr>
                                                                 <td>Three Sharing - Daisy hostel</td>
-                                                                <td><strong>₹ 1,61,600</strong></td>
-                                                                <td>₹ 1,61,600</td>
+                                                                <td><strong>₹ 1,81,000</strong></td>
+                                                                <td>₹ 1,81,000</td>
                                                                 <td>-</td>
                                                             </tr>
 
+                                                            <tr>
+                                                                <td>Single Living- Orchid hostel (Subject to availability)</td>
+                                                                <td><strong>₹ 3,57,800</strong></td>
+                                                                <td>₹ 3,57,800</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Twin Sharing - Orchid hostel</td>
-                                                                <td><strong>₹ 2,13,000</strong></td>
-                                                                <td>₹ 2,13,000</td>
+                                                                <td><strong>₹ 2,38,600</strong></td>
+                                                                <td>₹ 2,38,600</td>
                                                                 <td>-</td>
                                                             </tr>
-
                                                             <tr>
                                                                 <td>Three Sharing - Orchid hostel</td>
-                                                                <td><strong>₹ 1,79,700</strong></td>
-                                                                <td>₹ 1,79,700</td>
+                                                                <td><strong>₹ 2,01,300</strong></td>
+                                                                <td>₹ 2,01,300</td>
                                                                 <td>-</td>
                                                             </tr>
-
+                                                            <tr>
+                                                                <td>Single Living- Tulip hostel (Subject to availability)</td>
+                                                                <td><strong>₹ 3,57,800</strong></td>
+                                                                <td>₹ 3,57,800</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Twin Sharing - Tulip hostel</td>
-                                                                <td><strong>₹ 2,13,000</strong></td>
-                                                                <td>₹ 2,13,000</td>
+                                                                <td><strong>₹ 2,38,600</strong></td>
+                                                                <td>₹ 2,38,600</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Tulip hostel</td>
-                                                                <td><strong>₹ 1,90,600</strong></td>
-                                                                <td>₹ 1,90,600</td>
+                                                                <td><strong>₹ 2,13,500</strong></td>
+                                                                <td>₹ 2,13,500</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Single Living - Kopou hostel (Subject to availability)</td>
+                                                                <td><strong>₹ 3,73,600</strong></td>
+                                                                <td>₹ 3,73,600</td>
                                                                 <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Kopou hostel</td>
-                                                                <td><strong>₹ 1,90,600</strong></td>
-                                                                <td>₹ 1,90,600</td>
+                                                                <td><strong>₹ 2,13,500</strong></td>
+                                                                <td>₹ 2,13,500</td>
                                                                 <td>-</td>
                                                             </tr>
 
@@ -637,12 +656,27 @@
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of Admission</td>
-                                                                <td>25-Nov-26</td>
+                                                                <td>25-Nov-27</td>
                                                                 <td></td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
                                                 </div>
+                                                <p>
+                                                    @Hostel fees and Mess fees can be increased up to 15% each year. Government taxes would be additional as and when applicable.
+                                                </p>
+                                                <p>
+                                                    Academic, Hostel and Mess Fees for the Subsequent year would be communicated before commencement of the next academic year.
+                                                </p>
+                                                <p>
+                                                    Few seats are reserved as Discretionary Quota Seats. Only students with goad academic record and with goad entrance test scares are considered far Discretionary Quota Seats. The fees far Discretionary Quota seats will be double the academic fees of open category as approved by the Fee Structure Committee, ta be paid ta the institute by way of 0nline transfer/demand draft. Once admission is taken in Discretionary Quota, the fees applicable to Discretionary Quota will have to be paid by the student for the entire duration of the programme. No donation or capitation fee is charged for admission to any program at any institute of SIU.
+                                                </p>
+                                                <p>
+                                                    Approved Fee Structure for Batch 2027-2031 in the Academic Year 2027-2028 - INTERNATIONAL STUDENTS Note: International students are admitted from two categories and the fees for each are as given below –
+                                                </p>
+                                                <p>(a) NRI, PIO, OCI Category</p>
+                                                <p>(b) Foreign National Category</p>
+                                                <p>The fees mentioned here are only for the First Year of the programme. Please note that Academic Fees can be increased up to 10% over the duration of the entire programme. Government taxes (if any) would be additional as and when applicable.</p>
                                                 <!-- <p class="text-center">
                                                     (Annexure Il)
                                                 </p> -->
@@ -666,20 +700,19 @@
                                                             </tr>
                                                             <tr>
                                                                 <th class="rounded-0">
-                                                                    (a) NRI, PIO, OCI Category <br>
-                                                                    1st Year 2026-27 (Amount in US$)
+                                                                    (b) Foreign National Category <br> 1st Year 2027-28 (Amount in US$)
                                                                 </th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
                                                                 <td>Academic Fees (Per Annum)</td>
-                                                                <td>$9,575</td>
+                                                                <td>$8,400</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Academic Fees (per Annum) to be paid (A)</td>
-                                                                <td>$9,575</td>
+                                                                <td>$8,400</td>
                                                             </tr>
 
                                                             <tr>
@@ -701,7 +734,7 @@
                                                             <tr>
                                                                 <td><strong>Total Fees to be paid (D) = (A+B+C)</strong>
                                                                 </td>
-                                                                <td><strong>$10,400</strong></td>
+                                                                <td><strong>$9,225</strong></td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -711,13 +744,10 @@
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
-                                                                    (a) Installments for Bachelor of Arts (Liberal Arts)
-                                                                    Honours with Research / Bachelor of Science (Liberal
-                                                                    Arts) Honours with Research students taking
-                                                                    Admission in NRI, PIO, OCI Category
+                                                                    (b) Installments for Bachelor of Arts (Liberal Arts) Honours with Research / Bachelor of Science (Liberal Arts) Honours with Research students taking Admission in Foreign National Category
                                                                 </th>
                                                                 <th colspan="3">
-                                                                    1st Year 2026-27 (Amount in US$)
+                                                                    1st Year 2027-28  (Amount in US$)
                                                                 </th>
                                                             </tr>
                                                             <tr>
@@ -730,29 +760,29 @@
                                                             <tr>
                                                                 <td>Administrative Fees (Non-Refundable)</td>
                                                                 <td>$550</td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Academic Fees (Per Annum)</td>
                                                                 <td>$540</td>
-                                                                <td>$4,520</td>
-                                                                <td>$4,515</td>
+                                                                <td>$3,930</td>
+                                                                <td>$3,930</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Institute Deposit (Refundable)</td>
                                                                 <td>$275</td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td><strong>Installments</strong></td>
                                                                 <td><strong>$1,365</strong></td>
-                                                                <td><strong>$4,520</strong></td>
-                                                                <td><strong>$4,515</strong></td>
+                                                                <td><strong>$3,930</strong></td>
+                                                                <td><strong>$3,930</strong></td>
                                                             </tr>
 
                                                             <tr>
@@ -959,7 +989,7 @@
                                                                 </td>
                                                                 <td>At the time of acceptance of ‘Offer Letter’</td>
                                                                 <td>At the time of Reporting to SCIE</td>
-                                                                <td>25-Nov-26</td>
+                                                                <td>25-Nov-27</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -969,21 +999,15 @@
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
-                                                                    (a) Hostel and Mess Fees
+                                                                    (b) Hostel and Mess Fees
                                                                     <span class="table_small_heading">
-                                                                        (b) (Subject to campus change/allotment and
-                                                                        accommodation type wise, e.g. Single Sharing,
-                                                                        Twin
-                                                                        Sharing, Triple Sharing, Four Sharing,
-                                                                        Dormitory)
-                                                                        (The fees indicated herein are for Viman Nagar
-                                                                        Campus Only)
+                                                                        (b) (Subject to campus change/allotment and accommodation type wise, e.g. Single Sharing, Twin Sharing, Triple Sharing, Four Sharing, Dormitory) (The fees indicated herein are for Viman Nagar Campus Only)
                                                                     </span>
                                                                 </th>
 
                                                                 <th colspan="3">
-                                                                    Student taking Admission in NRI, PIO, OCI Category
-                                                                    1st Year 2026-27 (Amount in US$)
+                                                                    Student taking Admission in Foreign National
+                                                                    Category 1st Year 2027-28  (Amount in US$)
                                                                 </th>
                                                             </tr>
 
@@ -997,74 +1021,99 @@
                                                             <tr>
                                                                 <td>Mess Fees {Per Annum}</td>
                                                                 <td><strong>$1,400</strong></td>
-                                                                <td>$700</td>
-                                                                <td>$700</td>
+                                                                <td>$1,400</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Hostel Deposit (Refundable)</td>
                                                                 <td><strong>$250</strong></td>
                                                                 <td>$250</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
-                                                                <td>Hostel Fees (Different, Subject to Sharing, Per
-                                                                    Annum)</td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>Hostel Fees (Different, Subject to Sharing, Per Annum)</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
 
+                                                            <tr>
+                                                                <td>Single Living - Daffodil hostel (Subject to availability)</td>
+                                                                <td><strong>$3,400</strong></td>
+                                                                <td>$3,400</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Twin Sharing - Daffodil hostel</td>
-                                                                <td><strong>$2,240</strong></td>
-                                                                <td>$2,240</td>
-                                                                <td></td>
+                                                                <td><strong>$2,300</strong></td>
+                                                                <td>$2,300</td>
+                                                                <td>-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Single Living - Daisy hostel (Subject to availability)</td>
+                                                                <td><strong>$3,400</strong></td>
+                                                                <td>$3,400</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Daisy hostel</td>
-                                                                <td><strong>$1,870</strong></td>
-                                                                <td>$1,870</td>
-                                                                <td></td>
+                                                                <td><strong>$1,900</strong></td>
+                                                                <td>$1,900</td>
+                                                                <td>-</td>
                                                             </tr>
-
+                                                            <tr>
+                                                                <td>Single Living - Orchid hostel (Subject to availability)</td>
+                                                                <td><strong>$3,800</strong></td>
+                                                                <td>$3,800</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Twin Sharing - Orchid hostel</td>
-                                                                <td><strong>$2,470</strong></td>
-                                                                <td>$2,470</td>
-                                                                <td></td>
+                                                                <td><strong>$2,500</strong></td>
+                                                                <td>$2,500</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Orchid hostel</td>
-                                                                <td><strong>$2,080</strong></td>
-                                                                <td>$2,080</td>
-                                                                <td></td>
+                                                                <td><strong>$2,100</strong></td>
+                                                                <td>$2,100</td>
+                                                                <td>-</td>
                                                             </tr>
-
+                                                            <tr>
+                                                                <td>Single Living – Tulip hostel (Subject to availability)</td>
+                                                                <td><strong>$3,800</strong></td>
+                                                                <td>$3,800</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Twin Sharing - Tulip hostel</td>
-                                                                <td><strong>$2,470</strong></td>
-                                                                <td>$2,470</td>
-                                                                <td></td>
+                                                                <td><strong>$2,500</strong></td>
+                                                                <td>$2,500</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Tulip hostel</td>
-                                                                <td><strong>$2,210</strong></td>
-                                                                <td>$2,210</td>
-                                                                <td></td>
+                                                                <td><strong>$2,300</strong></td>
+                                                                <td>$2,300</td>
+                                                                <td>-</td>
                                                             </tr>
-
+                                                            <tr>
+                                                                <td>Single Living – Kopou hostel (Subject to availability)</td>
+                                                                <td><strong>$4,000</strong></td>
+                                                                <td>$4,000</td>
+                                                                <td>-</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>Three Sharing - Kopou hostel</td>
-                                                                <td><strong>$2,210</strong></td>
-                                                                <td>$2,210</td>
-                                                                <td></td>
+                                                                <td><strong>$2,300</strong></td>
+                                                                <td>$2,300</td>
+                                                                <td>-</td>
                                                             </tr>
-
                                                             <tr>
                                                                 <td>
                                                                     <div class="last_date_iconbox">
@@ -1268,8 +1317,8 @@
                                                                     </div>
                                                                 </td>
                                                                 <td></td>
-                                                                <td>At the time of</td>
-                                                                <td>25-Nov-26</td>
+                                                                <td>At the time of Reporting to SCIE</td>
+                                                                <td>25-Nov-27</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -1295,19 +1344,19 @@
                                                             </tr>
                                                             <tr>
                                                                 <th class="rounded-0">(b) Foreign National Category 1st
-                                                                    Year 2026-27 (Amount in US$)</th>
+                                                                    Year 2027-28 (Amount in US$)</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
                                                                 <td>Academic Fees (Per Annum)</td>
-                                                                <td>$9,575</td>
+                                                                <td>$8,400</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Less: Symbiosis Golden Jubilee Scholarship to
                                                                     Foreign National Students</td>
-                                                                <td>$8,275</td>
+                                                                <td>$7,100</td>
                                                             </tr>
 
                                                             <tr>
@@ -1333,7 +1382,7 @@
                                                             <tr>
                                                                 <td>Administrative Fees (Non-Refundable) to be paid (C)
                                                                 </td>
-                                                                <td>$275</td>
+                                                                <td>$550</td>
                                                             </tr>
 
                                                             <tr>
@@ -1349,13 +1398,10 @@
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
-                                                                    (b) Installments for Bachelor of Arts (Liberal Arts)
-                                                                    Honours with Research / Bachelor of Science (Liberal
-                                                                    Arts) Honours with Research students taking
-                                                                    Admission in Foreign National Category
+                                                                    b) Installments for Bachelor of Arts (Liberal Arts) Honours with Research / Bachelor of Science (Liberal Arts) Honours with Research students taking Admission in Foreign National Category
                                                                 </th>
                                                                 <th colspan="3">
-                                                                    1st Year 2026-27 (Amount in $)
+                                                                    1st Year 2027-28 (Amount in $)
                                                                 </th>
                                                             </tr>
                                                             <tr>
@@ -1368,8 +1414,8 @@
                                                             <tr>
                                                                 <td>Administrative Fees (Non-Refundable)</td>
                                                                 <td>$275</td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
@@ -1382,8 +1428,8 @@
                                                             <tr>
                                                                 <td>Institute Deposit (Refundable)</td>
                                                                 <td>$275</td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
@@ -1597,7 +1643,7 @@
                                                                 </td>
                                                                 <td>At the time of acceptance of ‘Offer Letter’</td>
                                                                 <td>At the time of Reporting to SCIE</td>
-                                                                <td>25-Nov-26</td>
+                                                                <td>25-Nov-27</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -1607,20 +1653,14 @@
                                                         <thead>
                                                             <tr>
                                                                 <th rowspan="2">
-                                                                    (b) Hostel and Mess Fees
+                                                                    (a) Hostel and Mess Fees
                                                                     <span class="table_small_heading">
-                                                                        (b) (Subject to campus change/allotment and
-                                                                        accommodation type wise, e.g. Single Sharing,
-                                                                        Twin
-                                                                        Sharing, Triple Sharing, Four Sharing,
-                                                                        Dormitory)
-                                                                        (The fees indicated herein are for Viman Nagar
-                                                                        Campus Only)
+                                                                        (b) (Subject to campus change/allotment and accommodation type wise, e.g. Single Sharing, Twin Sharing, Triple Sharing, Four Sharing, Dormitory) (The fees indicated herein are for Viman Nagar Campus Only)
                                                                     </span>
                                                                 </th>
                                                                 <th colspan="3">
                                                                     Student taking Admission in Foreign National
-                                                                    Category 1st Year 2026-27 (Amount in US$)
+                                                                    Category 1st Year 2027-28 (Amount in US$)
                                                                 </th>
                                                             </tr>
                                                             <tr>
@@ -1633,72 +1673,68 @@
                                                             <tr>
                                                                 <td>Mess Fees {Per Annum}</td>
                                                                 <td><strong>$560</strong></td>
-                                                                <td>$280</td>
-                                                                <td>$280</td>
+                                                                <td>$560</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Hostel Deposit (Refundable)</td>
                                                                 <td><strong>$250</strong></td>
                                                                 <td>$250</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
-                                                                <td>Hostel Fees (Different, Subject to Sharing, Per
-                                                                    Annum)</td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>Hostel Fees (Different, Subject to Sharing, Per Annum)</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Twin Sharing - Daffodil hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
-
                                                             <tr>
                                                                 <td>Three Sharing - Daisy hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
-
                                                             <tr>
                                                                 <td>Twin Sharing - Orchid hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Orchid hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
-
                                                             <tr>
                                                                 <td>Twin Sharing - Tulip hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
                                                                 <td>Three Sharing - Tulip hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
-
+                                                        
                                                             <tr>
                                                                 <td>Three Sharing - Kopou hostel</td>
                                                                 <td><strong>$650</strong></td>
                                                                 <td>$650</td>
-                                                                <td></td>
+                                                                <td>-</td>
                                                             </tr>
 
                                                             <tr>
@@ -1904,15 +1940,90 @@
                                                                     </div>
                                                                 </td>
                                                                 <td>At the time of Reporting to SCIE</td>
-                                                                <td>25-Nov-26</td>
+                                                                <td>25-Nov-27</td>
 
                                                             </tr>
                                                         </tbody>
                                                     </table>
                                                 </div>
+                                                <p class="">
+                                                    # ONLY Foreign National Students taking Admission in the year 2027 for the Batch 2027-2031, will beeligible for the Symbiosis GoldenJubilee Scholarships. Designed to celebrate 50 glorious years of Symbiosis being established to offer quality education to foreign national students, these include:
+                                                </p>
+                                                <div class="custom_listing">
+                                                    <ul>
+                                                        <li>100 Symbiosis Golden Jubilee Full Academic Scholarships with need-based reduced hostel fees for foreign national students from developing African- Asian countries.</li>
+                                                        <li>100 Golden Jubilee Free-ships for academically and financially deserving foreign national students from conflict ridden/war affected regions by giving them an opportunity to study at SIU by covering not only the cost of all academic fees but also the hostel and mess/food fees (lodging and boarding).</li>
+                                                        <li>Concessional Hostel fees are applicable to Foreign National students@ 650$ per annum.</li>
+                                                        <li>Concessional Mess fees are applicable to Foreign National students @560$ mentioned above.</li>
+                                                    </ul>
+                                                </div>
+                                                <p class="mt-3">
+                                                    Academic, Hostel and Mess Fees for the Subsequent year would be communicated before commencement of the next academic year.
+                                                </p>
+                                                <p class="m-0">
+                                                    @Hostel fees can be increased up to 15% each year and Mess Fees can be increased up to 10% each year. Government taxes would be additional as and when applicable. # # 50% Concession will begiven only to the Foreign National students on Administrative Fees.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact-fourth-tab" role="tabpanel"
+                            aria-labelledby="contact-tab-3" tabindex="0">
+                            <div class="rw-academic-modern">
+                                <div class="container">
+                                    <!-- Header -->
+                                    <div class="row">
+                                        <div class="col-lg-12 text-center">
+                                            <h2 class="inner__subheading" data-aos="fade-up">Scholarships
+                                            </h2>
+                                        </div>
+                                    </div>
+                                    <!-- Content -->
+                                     <p>Symbiosis International (Deemed University) has various scholarship schemes to reward meritorious students.</p>
+                                    <h3 class="table-heading">Scholarship Policy</h3>
+                                    <p>
+                                        With the objective of encouraging meritorious students and academic excellence, Scholarships/ Awards are offered to deserving students of the University by the Symbiosis Society Foundation.
+                                    </p>
+                                    <h3 class="table-heading">SSLA</h3>
+                                    <p>
+                                        SSLA awards merit scholarship under SIU policy for all our undergraduate programmes. The following are the details of the Scholarship for Academic Excellence at SSLA.
+                                    </p>
+                                    <h3 class="table-heading">The Scheme</h3>
+                                    <p>
+                                        Merit Scholarship for Semester / Annual Toppers - (Post Graduate & Undergraduate programmes)
+                                    </p>
+                                    <h3 class="table-heading">Applicability and Commencement: This scholarship is applicable to:</h3>
+                                    <div class="custom_listing">
+                                        <ul>
+                                            <li>All UG / PG degree programmes which follow semester pattern.</li>
+                                            <li>UG / PG degree programmes which follow annual pattern (except SMCW).</li>
+                                            <li>A student can avail only one SIU scholarship per semester.</li>
+                                        </ul>
+                                    </div>
+                                    <h3 class="table-heading mt-3">Awarded to:</h3>
+                                    <div class="custom_listing">
+                                        <ul>
+                                            <li>Four semester toppers in the order of merit of every batch of every degree programme (UG and PG) under SIU.</li>
+                                            <li>Four toppers which follow annual pattern.</li>
+                                        </ul>
+                                    </div>
+                                    <h3 class="table-heading mt-3">Nature of the scholarship:</h3>
+                                    <p>First four toppers in the order of merit of every batch of every programme in every semester/ annually will be awarded the Merit Scholarship.</p>
+                                    <p>The Scholarship recipients are granted concession in Academic Fees of the semester, applicable to all full time Post Graduate and Undergraduate degree programmes of all the Constituents of SIU, as below:</p>
+                                    <div class="custom_listing">
+                                        <ul>
+                                            <li>1st topper gets 20%</li>
+                                            <li>2nd topper gets 15%</li>
+                                            <li>3rd topper gets 10%</li>
+                                            <li>4th topper gets 5%</li>
+                                        </ul>
+                                    </div>
+                                    <p class="mt-3">The scholarship amount will not be paid directly to the students. It will be transferred by the University directly to the Constituent, for the adjustment in academic fee of the following semester.</p>
+                                    <p>In case the student is a topper in the last semester of the programme, the scholarship amount will be transferred to the student’s bank account as per available records.</p>
+                                    <p class="mb-1">SIU Scholarships details and other scholarships offered by SIU can be seen at -</p>
+                                    <a class="text_anchore_tag" href="https://www.siu.edu.in/admissions/scholarship" target="_blank">www.siu.edu.in/admissions/scholarship</a>
                                 </div>
                             </div>
                         </div>

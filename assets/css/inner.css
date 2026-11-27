@@ -2934,6 +2934,10 @@ span.badge {
     .main-sec-admission-process .set-registration {
         padding: 0px 0 50px 0;
     }
+
+    .main-sec-admission-process .card-grid {
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    }
 }
 
 
@@ -3507,6 +3511,8 @@ span.badge {
     .director-profile-section .director-text {
         font-size: 15px;
     }
+
+    
 }
 
 /* Media Query End */
