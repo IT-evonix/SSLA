@@ -653,7 +653,128 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="literary_festival_card_mainbox">
+                    <div class="literary_youtub_card_mainbox">
+                        <div class="literary_youtub_card_listing">
+                            <a href="https://www.youtube.com/watch?v=u4bCeOiX_Eg&list=PLxxKMckAf1QbwwxDi9rrRC3rFfijIDMgv&index=15" target="_blank">
+                                <div class="literary_youtub_card_list">
+                                    <div class="academic_bank_of_credit_img">
+                                        <img src="{{ asset('assets/images/events/slf-thumbnail-01.webp') }}"
+                                            alt="Academic Bank of Credits" class="img-fluid">
+                                    </div>
+                                    <div class="academic_bank_of_credit_grdientbox"></div>
+                                    <div class="academic_bank_of_credit_icon">
+                                        <svg width="60" height="60" x="0" y="0" viewBox="0 0 512 512">
+                                            <g>
+                                                <path d="M187.368 146.928V355.8l195.624-104.432z" style="" fill="#ffffff"
+                                                    data-original="#ffffff"></path>
+                                                <path
+                                                    d="M256 .376C114.616.376 0 114.824 0 256s114.616 255.624 256 255.624S512 397.176 512 256 397.384.376 256 .376zm-71.504 146.552 195.624 104.44L184.496 355.8V146.928z"
+                                                    style="" fill="#ec3536" data-original="#db2b42" class="" opacity="1">
+                                                </path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="literary_youtub_card_content">
+                                <div class="literary_youtub_card_heading">SLF – 2025</div>
+                                <p>The SLF-2025 sixth edition is themed “Ink, Ideas, and Inspiration”, inviting audiences to explore how stories take shape, travel, and transform society at a time when new technologies are reshaping authorship, authenticity, and creativity. SLF 2025 features an impressive line-up including Dr. Shashi Tharoor as Chief Guest at the inaugural, along with cultural icons and celebrated voices such as Javed Akhtar, Pavan K. Varma, and Sushama Deshpande, among many others, who together reflect the festival’s bridge between literature, cinema, art, and public life.</p>
+                                <a href="" class="new_slf_btns_listing">
+                                    <div>
+                                        <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                            <g>
+                                                <path
+                                                    d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                    fill="#007382" opacity="1" data-original="#000000"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div>Download Brochure</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="literary_youtub_card_listing">
+                            <a href="#" target="_blank">
+                                <div class="literary_youtub_card_list">
+                                    <div class="academic_bank_of_credit_img">
+                                        <img src="{{ asset('assets/images/events/slf-thumbnail-01.webp') }}"
+                                            alt="Academic Bank of Credits" class="img-fluid">
+                                    </div>
+                                    <div class="academic_bank_of_credit_grdientbox"></div>
+                                    <div class="academic_bank_of_credit_icon">
+                                        <svg width="60" height="60" x="0" y="0" viewBox="0 0 512 512">
+                                            <g>
+                                                <path d="M187.368 146.928V355.8l195.624-104.432z" style="" fill="#ffffff"
+                                                    data-original="#ffffff"></path>
+                                                <path
+                                                    d="M256 .376C114.616.376 0 114.824 0 256s114.616 255.624 256 255.624S512 397.176 512 256 397.384.376 256 .376zm-71.504 146.552 195.624 104.44L184.496 355.8V146.928z"
+                                                    style="" fill="#ec3536" data-original="#db2b42" class="" opacity="1">
+                                                </path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="literary_youtub_card_content">
+                                <div class="literary_youtub_card_heading">SLF – 2024</div>
+                                <p>The SLF-2024 fifth edition has carried the tagline “Conversations that Matter”, foregrounding SLF’s commitment to literature as a space for critical thought and public dialogue on issues such as democracy, identity, gender, mental health, sustainability, and the environment.</p>
+                                <a href="" class="new_slf_btns_listing">
+                                    <div>
+                                        <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                            <g>
+                                                <path
+                                                    d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                    fill="#007382" opacity="1" data-original="#000000"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div>Download Brochure</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="literary_youtub_card_listing">
+                            <a href="#" target="_blank">
+                                <div class="literary_youtub_card_list">
+                                    <div class="academic_bank_of_credit_img">
+                                        <img src="{{ asset('assets/images/events/slf-thumbnail-01.webp') }}"
+                                            alt="Academic Bank of Credits" class="img-fluid">
+                                    </div>
+                                    <div class="academic_bank_of_credit_grdientbox"></div>
+                                    <div class="academic_bank_of_credit_icon">
+                                        <svg width="60" height="60" x="0" y="0" viewBox="0 0 512 512">
+                                            <g>
+                                                <path d="M187.368 146.928V355.8l195.624-104.432z" style="" fill="#ffffff"
+                                                    data-original="#ffffff"></path>
+                                                <path
+                                                    d="M256 .376C114.616.376 0 114.824 0 256s114.616 255.624 256 255.624S512 397.176 512 256 397.384.376 256 .376zm-71.504 146.552 195.624 104.44L184.496 355.8V146.928z"
+                                                    style="" fill="#ec3536" data-original="#db2b42" class="" opacity="1">
+                                                </path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="literary_youtub_card_content">
+                                <div class="literary_youtub_card_heading">SLF – 2023</div>
+                                <p>The SLF-2023 fourth edition spans two days of keynotes, panels, and book discussions featuring leading scholars, writers, journalists, and cultural figures. Sessions address traditional knowledge and heritage diplomacy, AI and the future of language, culinary tourism, watchdog journalism, and regional media’s role in shaping public opinion with Usha Uthup, Saumya Roy, Javed Akhtar, Girish Kuber, Prof. R. A. Mashelkar and prominent media professionals. – We can provide the direct YouTube link to watch.</p>
+                                <a href="" class="new_slf_btns_listing">
+                                    <div>
+                                        <svg width="16" height="16" x="0" y="0" viewBox="0 0 612 612">
+                                            <g>
+                                                <path
+                                                    d="m403.939 295.749-78.814 78.833V172.125c0-10.557-8.568-19.125-19.125-19.125s-19.125 8.568-19.125 19.125v202.457l-78.814-78.814c-7.478-7.478-19.584-7.478-27.043 0-7.478 7.478-7.478 19.584 0 27.042L289.208 431c4.59 4.59 10.863 6.005 16.812 4.953 5.929 1.052 12.221-.382 16.811-4.953l108.19-108.19c7.478-7.478 7.478-19.583 0-27.042-7.498-7.478-19.604-7.478-27.082-.019zM306 0C137.012 0 0 136.992 0 306s137.012 306 306 306 306-137.012 306-306S475.008 0 306 0zm0 573.75C158.125 573.75 38.25 453.875 38.25 306S158.125 38.25 306 38.25 573.75 158.125 573.75 306 453.875 573.75 306 573.75z"
+                                                    fill="#007382" opacity="1" data-original="#000000"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div>Download Brochure</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- <div class="literary_festival_card_mainbox">
                         <div class="literary_festival_card_listing">
                             <div class="literary_festival_card_image">
                                 <div class="literary_festival_card_img">
@@ -789,7 +910,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

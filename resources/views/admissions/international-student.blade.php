@@ -39,10 +39,9 @@
                                         <path
                                             d="M256 488.288c-49.344 0-88-66.768-88-152s38.656-152 88-152 88 66.768 88 152-38.656 152-88 152m0-288c-39.024 0-72 62.28-72 136s32.976 136 72 136c39.032 0 72-62.28 72-136s-32.968-136-72-136"
                                             style="" fill="#007382" data-original="#43d3e8" opacity="1"></path>
-                                        <path d="M112 328.288h88v16h-88zM312 328.288h88v16h-88z" style=""
-                                            fill="#007382" data-original="#43d3e8" opacity="1"></path>
-                                        <path
-                                            d="M216 328.288h16v16h-16zM248 328.288h16v16h-16zM280 328.288h16v16h-16z"
+                                        <path d="M112 328.288h88v16h-88zM312 328.288h88v16h-88z" style="" fill="#007382"
+                                            data-original="#43d3e8" opacity="1"></path>
+                                        <path d="M216 328.288h16v16h-16zM248 328.288h16v16h-16zM280 328.288h16v16h-16z"
                                             style="" fill="#007382" data-original="#403e3e" class="" opacity="1">
                                         </path>
                                         <path d="M248 192.288h16v120h-16zM248 360.288h16v120h-16z" style=""
@@ -55,8 +54,8 @@
                                             d="m402.872 191.76-5.744-14.944L496 138.792v-5.024L256 40.864 16 133.768v5.024l98.872 38.024-5.744 14.944L0 149.784v-26.976l256-99.096 256 99.096v26.976z"
                                             style="" fill="#007382" data-original="#403e3e" class="" opacity="1">
                                         </path>
-                                        <path d="M56 136.288h16v144H56z" style="" fill="#007382"
-                                            data-original="#f96232" class="" opacity="1"></path>
+                                        <path d="M56 136.288h16v144H56z" style="" fill="#007382" data-original="#f96232"
+                                            class="" opacity="1"></path>
                                         <path
                                             d="M88 344.288H40v-48c0-13.232 10.768-24 24-24s24 10.768 24 24zm-32-16h16v-32c0-4.416-3.592-8-8-8s-8 3.584-8 8z"
                                             style="" fill="#007382" data-original="#f96232" class="" opacity="1">
@@ -70,8 +69,11 @@
                                 Process for International Students
                             </div>
                             <p class="text_justify">
-                                International admissions to Symbiosis International (Deemed University) are centrally managed through the Symbiosis Centre for International Education (SCIE). A detailed step-by-step application procedure is available on
-                        <a class="text_anchore_tag" href="https://www.scie.ac.in" target="_blank">www.scie.ac.in</a>.
+                                International admissions to Symbiosis International (Deemed University) are centrally
+                                managed through the Symbiosis Centre for International Education (SCIE). A detailed
+                                step-by-step application procedure is available on
+                                <a class="text_anchore_tag" href="https://www.scie.ac.in"
+                                    target="_blank">www.scie.ac.in</a>.
                             </p>
                             <div class="">
                                 <strong>20% Intake Reserved for International Applicants</strong>
@@ -115,17 +117,19 @@
                             A student is eligible to apply as a Non-Resident Indian (NRI) if he/she has appeared for
                             either 10th or 10+2 (equivalent to the Indian <strong>10th or 12th</strong> ) examination
                             outside India. It is mandatory for one of the two qualifying examinations to be given
-                            outside India. Please refer <a class="text_anchore_tag" href="https://www.scie.ac.in" target="_blank">www.scie.ac.in</a> for more details.
+                            outside India. Please refer <a class="text_anchore_tag" href="https://www.scie.ac.in"
+                                target="_blank">www.scie.ac.in</a> for more details.
                         </p>
                     </div>
                 </div>
 
                 <!-- <div class="info-box action-box international_without_padding_box"> -->
+                
                 <div class="">
                     <p>
                         Candidates can apply online using SCIE’s user-friendly application portal.
                     </p>
-                    <div class="new_internationall_email_mainbox">
+                    <!-- <div class="new_internationall_email_mainbox">
                         <div class="new_internationall_email_mainbox_icon">
                             <svg width="50" height="50" x="0" y="0" viewBox="0 0 512 512">
                                 <circle r="256" cx="256" cy="256" fill="#007382" shape="circle"
@@ -134,8 +138,8 @@
                                 <g transform="matrix(1,0,0,1,0,0)">
                                     <path fill-rule="evenodd"
                                         d="M256 512C114.841 512 0 397.159 0 256S114.841 0 256 0s256 114.841 256 256-114.841 256-256 256m132.758-166.069a5.73 5.73 0 0 0 5.725-5.725V179.489l-130.25 103.432c-2.41 1.915-5.323 2.872-8.234 2.872s-5.823-.958-8.234-2.872L117.516 179.489v160.717a5.73 5.73 0 0 0 5.725 5.725zm-19.96-179.862L256 255.644l-112.799-89.575zm52.168 5.725v168.414c0 17.759-14.449 32.208-32.208 32.208H123.241c-17.76 0-32.207-14.449-32.207-32.208V171.794c0-17.759 14.448-32.207 32.207-32.207h265.517c17.759-.001 32.208 14.448 32.208 32.207"
-                                        clip-rule="evenodd" fill="#dffbff" opacity="1"
-                                        data-original="#000000" class=""></path>
+                                        clip-rule="evenodd" fill="#dffbff" opacity="1" data-original="#000000" class="">
+                                    </path>
                                 </g>
                             </svg>
                         </div>
@@ -144,12 +148,28 @@
                                 intadmissions@symbiosis.ac.in
                             </a>
                         </div>
-                    </div>
+                    </div> -->
 
-                    
+
                 </div>
             </div>
         </section>
+    </div>
+</section>
+<section class="new_inter_stud_full_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="cjids_knownmore_content">
+                    International students seeking admission-related information <br> can contact us at the email address below.
+                </div>
+                <div class="cjids_knownmore_content_btn text-center">
+                    <a href="mailto:intadmissions@symbiosis.ac.in" class="green_anchore_tag">
+                        intadmissions@symbiosis.ac.in
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
