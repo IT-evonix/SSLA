@@ -526,7 +526,7 @@
                                                                     </a>
                                                                 </div> -->
                                                                 <div class="megamenu_listing">
-                                                                    <a href="{{ asset('assets/pdf/SSLA-Student-Handbook-2025-26.pdf') }}" target="_blank">
+                                                                    <a href="{{ asset('assets/pdf/SSLA-Student-Handbook-2026-27.pdf') }}" target="_blank">
                                                                         <div class="mega_menu_icon_box">
                                                                             <svg width="14" height="14" x="0" y="0"
                                                                                 viewBox="0 0 24 24">

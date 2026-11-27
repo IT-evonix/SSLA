@@ -3766,9 +3766,9 @@
   }
 
   .new_inter_stud_full_section {
-    background-color: #FBEAEA;
-    padding: 40px 0;
-    margin: 40px 0 0 0;
+      background-color: #FBEAEA;
+      padding: 40px 0;
+      margin: 40px 0 0 0;
   }
 
   .cjids_knownmore_imgbox {
@@ -7395,56 +7395,56 @@
       font-family: 'Roboto-Black';
       font-size: 40px;
       color: var(--color-red);
-      background: linear-gradient(180deg,rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 1) 100%);
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 1) 100%);
   }
 
   .new_three_column_list ul {
-    column-count: 3;
-    column-gap: 30px;
-}
+      column-count: 3;
+      column-gap: 30px;
+  }
 
-.new_three_column_list ul li {
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-}
+  .new_three_column_list ul li {
+      break-inside: avoid;
+      -webkit-column-break-inside: avoid;
+  }
 
-.literary_youtub_card_mainbox {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 30px;
-}
+  .literary_youtub_card_mainbox {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 30px;
+  }
 
-.literary_youtub_card_list {
-    display: grid;
-    border-radius: 16px 16px 0 0;
-    overflow: hidden;
-}
+  .literary_youtub_card_list {
+      display: grid;
+      border-radius: 16px 16px 0 0;
+      overflow: hidden;
+  }
 
-.literary_youtub_card_list {
-    &>* {
-        grid-area: 1 / 1;
-    }
-}
+  .literary_youtub_card_list {
+      &>* {
+          grid-area: 1 / 1;
+      }
+  }
 
-.literary_youtub_card_listing {
-    border-radius: 16px;
-    border: 1px solid #dedede;
-}
+  .literary_youtub_card_listing {
+      border-radius: 16px;
+      border: 1px solid #dedede;
+  }
 
-.literary_youtub_card_content {
-    padding: 16px 20px 20px 20px;
-}
+  .literary_youtub_card_content {
+      padding: 16px 20px 20px 20px;
+  }
 
-.literary_youtub_card_heading {
-    color: var(--color-green);
-    font-family: Roboto-Bold;
-    text-transform: uppercase;
-    margin: 0 0 8px 0;
-}
+  .literary_youtub_card_heading {
+      color: var(--color-green);
+      font-family: Roboto-Bold;
+      text-transform: uppercase;
+      margin: 0 0 8px 0;
+  }
 
-.literary_youtub_card_content p {
-    text-align: justify;
-}
+  .literary_youtub_card_content p {
+      text-align: justify;
+  }
 
   /*============== Media quiry start   ================*/
   @media (min-width: 1400px) and (max-width: 1440px) {
@@ -8889,22 +8889,26 @@
       }
 
       .new_inter_stud_full_section .cjids_knownmore_content br {
-            display: none;
+          display: none;
       }
 
       .new_three_column_list ul {
-        column-count: 1;
-        column-gap: 0px;
-    }
+          column-count: 1;
+          column-gap: 0px;
+      }
 
-    .literary_youtub_card_mainbox {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
+      .literary_youtub_card_mainbox {
+          grid-template-columns: 1fr;
+          gap: 20px;
+      }
 
-    .new_slf_btns_listing {
-        width: fit-content;
-    }
+      .new_slf_btns_listing {
+          width: fit-content;
+      }
+
+      .program_structure_main .student_research_databox_heading {
+          font-size: 18px;
+      }
 
   }
 
@@ -9757,9 +9761,9 @@
       }
 
       .banner_caption_box {
-        padding: 8px 0;
-        font-size: 18px;
-    }
+          padding: 8px 0;
+          font-size: 18px;
+      }
 
 
   }

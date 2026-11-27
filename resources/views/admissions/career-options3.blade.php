@@ -115,7 +115,7 @@
                             <p class="m-0">Life after SSLA is marked by flexibility and lifelong learning. Graduates may explore multiple roles over time, combining professional work with creative pursuits, entrepreneurship or civic engagement. A liberal arts education does not prepare students for just one career; it equips them with the knowledge, skills and adaptability to shape their own paths.</p>
                         </div>
                     </div>
-                    <div class="new_slf_img_mainbox">
+                    <!-- <div class="new_slf_img_mainbox">
                         <div class="new_slf_img_leftbox">
                             <div class="new_slf_img_listing">
                                 <img src="{{ asset('assets/images/admissions/career-option-1.webp') }}" alt="SLF images" class="img-fluid">
@@ -141,7 +141,7 @@
                                 <img src="{{ asset('assets/images/admissions/career-option-7.webp') }}" alt="SLF images" class="img-fluid">
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
